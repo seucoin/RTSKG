@@ -1,0 +1,267 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="https://w3id.org/rtskg#"
+     xml:base="https://w3id.org/rtskg"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:rtskg="https://w3id.org/rtskg#">
+    <owl:Ontology rdf:about="https://w3id.org/rtskg">
+        <owl:versionIRI rdf:resource="https://w3id.org/rtskg/1.0"/>
+    </owl:Ontology>
+
+    <!-- ////////////////////////////////////////////////////////////////
+         //
+         // Object Properties
+         //
+         //////////////////////////////////////////////////////////////// -->
+
+    <!-- https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_station_area -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_station_area">
+        <rdfs:domain rdf:resource="https://w3id.org/rtskg/ontology/class/poi"/>
+        <rdfs:range rdf:resource="https://w3id.org/rtskg/ontology/class/station_area"/>
+        <rdfs:label>poi_locates_at_station_area</rdfs:label>
+    </owl:ObjectProperty>
+
+    <!-- https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_block -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_block">
+        <rdfs:domain rdf:resource="https://w3id.org/rtskg/ontology/class/poi"/>
+        <rdfs:range rdf:resource="https://w3id.org/rtskg/ontology/class/block"/>
+        <rdfs:label>poi_locates_at_block</rdfs:label>
+    </owl:ObjectProperty>
+
+    <!-- https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_borough -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_borough">
+        <rdfs:domain rdf:resource="https://w3id.org/rtskg/ontology/class/station_area"/>
+        <rdfs:range rdf:resource="https://w3id.org/rtskg/ontology/class/borough"/>
+        <rdfs:label>station_area_locates_at_borough</rdfs:label>
+    </owl:ObjectProperty>
+
+    <!-- https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_functional_area -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_functional_area">
+        <rdfs:domain rdf:resource="https://w3id.org/rtskg/ontology/class/station_area"/>
+        <rdfs:range rdf:resource="https://w3id.org/rtskg/ontology/class/functional_area"/>
+        <rdfs:label>station_area_locates_at_functional_area</rdfs:label>
+    </owl:ObjectProperty>
+
+    <!-- https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_borough -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_borough">
+        <rdfs:domain rdf:resource="https://w3id.org/rtskg/ontology/class/block"/>
+        <rdfs:range rdf:resource="https://w3id.org/rtskg/ontology/class/borough"/>
+        <rdfs:label>block_locates_at_borough</rdfs:label>
+    </owl:ObjectProperty>
+
+    <!-- https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_functional_area -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_functional_area">
+        <rdfs:domain rdf:resource="https://w3id.org/rtskg/ontology/class/block"/>
+        <rdfs:range rdf:resource="https://w3id.org/rtskg/ontology/class/functional_area"/>
+        <rdfs:label>block_locates_at_functional_area</rdfs:label>
+    </owl:ObjectProperty>
+
+    <!-- https://w3id.org/rtskg/ontology/objectproperty/functional_area_locates_at_borough -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/rtskg/ontology/objectproperty/functional_area_locates_at_borough">
+        <rdfs:domain rdf:resource="https://w3id.org/rtskg/ontology/class/functional_area"/>
+        <rdfs:range rdf:resource="https://w3id.org/rtskg/ontology/class/borough"/>
+        <rdfs:label>functional_area_locates_at_borough</rdfs:label>
+    </owl:ObjectProperty>
+
+    <!-- https://w3id.org/rtskg/ontology/objectproperty/borough_is_adjacent_to_borough -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/rtskg/ontology/objectproperty/borough_is_adjacent_to_borough">
+        <rdfs:domain rdf:resource="https://w3id.org/rtskg/ontology/class/borough"/>
+        <rdfs:range rdf:resource="https://w3id.org/rtskg/ontology/class/borough"/>
+        <rdfs:label>borough_is_adjacent_to_borough</rdfs:label>
+    </owl:ObjectProperty>
+
+    <!-- https://w3id.org/rtskg/ontology/objectproperty/functional_area_is_adjacent_to_functional_area -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/rtskg/ontology/objectproperty/functional_area_is_adjacent_to_functional_area">
+        <rdfs:domain rdf:resource="https://w3id.org/rtskg/ontology/class/functional_area"/>
+        <rdfs:range rdf:resource="https://w3id.org/rtskg/ontology/class/functional_area"/>
+        <rdfs:label>functional_area_is_adjacent_to_functional_area</rdfs:label>
+    </owl:ObjectProperty>
+
+    <!-- https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough">
+        <rdfs:domain rdf:resource="https://w3id.org/rtskg/ontology/class/road"/>
+        <rdfs:range rdf:resource="https://w3id.org/rtskg/ontology/class/borough"/>
+        <rdfs:label>road_intersects_borough</rdfs:label>
+    </owl:ObjectProperty>
+
+    <!-- https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area">
+        <rdfs:domain rdf:resource="https://w3id.org/rtskg/ontology/class/road"/>
+        <rdfs:range rdf:resource="https://w3id.org/rtskg/ontology/class/functional_area"/>
+        <rdfs:label>road_intersects_functional_area</rdfs:label>
+    </owl:ObjectProperty>
+
+    <!-- https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area">
+        <rdfs:domain rdf:resource="https://w3id.org/rtskg/ontology/class/road"/>
+        <rdfs:range rdf:resource="https://w3id.org/rtskg/ontology/class/station_area"/>
+        <rdfs:label>road_intersects_station_area</rdfs:label>
+    </owl:ObjectProperty>
+
+    <!-- https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block">
+        <rdfs:domain rdf:resource="https://w3id.org/rtskg/ontology/class/station_area"/>
+        <rdfs:range rdf:resource="https://w3id.org/rtskg/ontology/class/block"/>
+        <rdfs:label>station_area_intersects_block</rdfs:label>
+    </owl:ObjectProperty>
+
+    <!-- https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_station_area -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_station_area">
+        <rdfs:domain rdf:resource="https://w3id.org/rtskg/ontology/class/station_area"/>
+        <rdfs:range rdf:resource="https://w3id.org/rtskg/ontology/class/station_area"/>
+        <rdfs:label>station_area_intersects_station_area</rdfs:label>
+    </owl:ObjectProperty>
+
+    <!-- https://w3id.org/rtskg/ontology/objectproperty/block_intersects_station_area -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/rtskg/ontology/objectproperty/block_intersects_station_area">
+        <rdfs:domain rdf:resource="https://w3id.org/rtskg/ontology/class/block"/>
+        <rdfs:range rdf:resource="https://w3id.org/rtskg/ontology/class/station_area"/>
+        <rdfs:label>block_intersects_station_area</rdfs:label>
+    </owl:ObjectProperty>
+
+    <!-- https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station">
+        <rdfs:domain rdf:resource="https://w3id.org/rtskg/ontology/class/station_area"/>
+        <rdfs:range rdf:resource="https://w3id.org/rtskg/ontology/class/station"/>
+        <rdfs:label>station_area_belongs_to_station</rdfs:label>
+    </owl:ObjectProperty>
+
+    <!-- https://w3id.org/rtskg/ontology/objectproperty/station_belongs_to_line -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/rtskg/ontology/objectproperty/station_belongs_to_line">
+        <rdfs:domain rdf:resource="https://w3id.org/rtskg/ontology/class/station"/>
+        <rdfs:range rdf:resource="https://w3id.org/rtskg/ontology/class/line"/>
+        <rdfs:label>station_belongs_to_line</rdfs:label>
+    </owl:ObjectProperty>
+
+    <!-- https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category">
+        <rdfs:domain rdf:resource="https://w3id.org/rtskg/ontology/class/poi"/>
+        <rdfs:range rdf:resource="https://w3id.org/rtskg/ontology/class/poi_category"/>
+        <rdfs:label>poi_has_poi_category</rdfs:label>
+    </owl:ObjectProperty>
+
+    <!-- https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category">
+        <rdfs:domain rdf:resource="https://w3id.org/rtskg/ontology/class/road"/>
+        <rdfs:range rdf:resource="https://w3id.org/rtskg/ontology/class/road_category"/>
+        <rdfs:label>road_has_road_category</rdfs:label>
+    </owl:ObjectProperty>
+
+    <!-- ////////////////////////////////////////////////////////////////
+         //
+         // Data Properties
+         //
+         //////////////////////////////////////////////////////////////// -->
+
+    <!-- https://w3id.org/rtskg/ontology/dataproperty/longitude -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/rtskg/ontology/dataproperty/longitude">
+        <rdfs:domain rdf:resource="https://w3id.org/rtskg/ontology/class/poi"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#double"/>
+        <rdfs:label>longitude</rdfs:label>
+    </owl:DatatypeProperty>
+
+    <!-- https://w3id.org/rtskg/ontology/dataproperty/latitude -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/rtskg/ontology/dataproperty/latitude">
+        <rdfs:domain rdf:resource="https://w3id.org/rtskg/ontology/class/poi"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#double"/>
+        <rdfs:label>latitude</rdfs:label>
+    </owl:DatatypeProperty>
+
+    <!-- https://w3id.org/rtskg/ontology/dataproperty/walking_time_minutes -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/rtskg/ontology/dataproperty/walking_time_minutes">
+        <rdfs:domain rdf:resource="https://w3id.org/rtskg/ontology/class/station_area"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+        <rdfs:label>walking time in minutes</rdfs:label>
+    </owl:DatatypeProperty>
+
+    <!-- ////////////////////////////////////////////////////////////////
+         //
+         // Classes
+         //
+         //////////////////////////////////////////////////////////////// -->
+
+    <!-- https://w3id.org/rtskg/ontology/class/borough -->
+
+    <owl:Class rdf:about="https://w3id.org/rtskg/ontology/class/borough">
+        <rdfs:label>Borough</rdfs:label>
+    </owl:Class>
+
+    <!-- https://w3id.org/rtskg/ontology/class/functional_area -->
+
+    <owl:Class rdf:about="https://w3id.org/rtskg/ontology/class/functional_area">
+        <rdfs:label>Functional Area</rdfs:label>
+    </owl:Class>
+
+    <!-- https://w3id.org/rtskg/ontology/class/station -->
+
+    <owl:Class rdf:about="https://w3id.org/rtskg/ontology/class/station">
+        <rdfs:label>Station</rdfs:label>
+    </owl:Class>
+
+    <!-- https://w3id.org/rtskg/ontology/class/station_area -->
+
+    <owl:Class rdf:about="https://w3id.org/rtskg/ontology/class/station_area">
+        <rdfs:label>Station Area</rdfs:label>
+    </owl:Class>
+
+    <!-- https://w3id.org/rtskg/ontology/class/line -->
+
+    <owl:Class rdf:about="https://w3id.org/rtskg/ontology/class/line">
+        <rdfs:label>Line</rdfs:label>
+    </owl:Class>
+
+    <!-- https://w3id.org/rtskg/ontology/class/road -->
+
+    <owl:Class rdf:about="https://w3id.org/rtskg/ontology/class/road">
+        <rdfs:label>Road</rdfs:label>
+    </owl:Class>
+
+    <!-- https://w3id.org/rtskg/ontology/class/block -->
+
+    <owl:Class rdf:about="https://w3id.org/rtskg/ontology/class/block">
+        <rdfs:label>Block</rdfs:label>
+    </owl:Class>
+
+    <!-- https://w3id.org/rtskg/ontology/class/poi -->
+
+    <owl:Class rdf:about="https://w3id.org/rtskg/ontology/class/poi">
+        <rdfs:label>POI</rdfs:label>
+    </owl:Class>
+
+    <!-- https://w3id.org/rtskg/ontology/class/poi_category -->
+
+    <owl:Class rdf:about="https://w3id.org/rtskg/ontology/class/poi_category">
+        <rdfs:label>POI Category</rdfs:label>
+    </owl:Class>
+
+    <!-- https://w3id.org/rtskg/ontology/class/road_category -->
+
+    <owl:Class rdf:about="https://w3id.org/rtskg/ontology/class/road_category">
+        <rdfs:label>Road Category</rdfs:label>
+    </owl:Class>
+</rdf:RDF>
