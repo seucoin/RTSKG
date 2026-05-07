@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_68977> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68977> <http://www.w3.org/2000/01/rdf-schema#label> "GERRY ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_68977> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.950138 40.699924, -73.950098 40.6999, -73.95005 40.699885, -73.949999 40.699879, -73.949949 40.699883, -73.949667 40.700061)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68977> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68977> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68977> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_17> .

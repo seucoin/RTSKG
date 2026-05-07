@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_89270> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89270> <http://www.w3.org/2000/01/rdf-schema#label> "BASSETT AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_89270> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.842307 40.852659, -73.841594 40.853701, -73.840725 40.854548)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89270> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89270> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89270> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_185> .

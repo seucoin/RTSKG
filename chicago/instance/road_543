@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_543> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_543> <http://www.w3.org/2000/01/rdf-schema#label> "ST LAWRENCE" .
+<https://w3id.org/rtskg/chicago/instance/road_543> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.610884 41.783969, -87.610882 41.783783, -87.610876 41.783603, -87.61087 41.783371, -87.610867 41.783238, -87.610861 41.783011, -87.610857 41.782837, -87.61085 41.782558, -87.610846 41.782372, -87.610843 41.782146)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_543> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_543> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_5> .
 <https://w3id.org/rtskg/chicago/instance/road_543> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_42> .

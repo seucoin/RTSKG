@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_133132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133132> <http://www.w3.org/2000/01/rdf-schema#label> "WADSWORTH TER" .
+<https://w3id.org/rtskg/new_york_city/instance/road_133132> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.930203 40.857177, -73.930172 40.857183, -73.930141 40.857191, -73.930111 40.857201, -73.930082 40.857214, -73.930055 40.857228, -73.93003 40.857244), (-73.93003 40.857244, -73.930007 40.857261, -73.929986 40.85728, -73.929967 40.8573, -73.92995 40.857322, -73.929937 40.857345, -73.929926 40.857368))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133132> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ter> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133132> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133132> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_243> .

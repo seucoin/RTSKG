@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_71740> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_71740> <http://www.w3.org/2000/01/rdf-schema#label> "JFK EXPWY NB ET NASSAU EXPWY EB" .
+<https://w3id.org/rtskg/new_york_city/instance/road_71740> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.789666 40.662716, -73.789869 40.662655, -73.790067 40.662581, -73.790256 40.662493, -73.790435 40.662393, -73.790602 40.662281, -73.790754 40.66216, -73.79089 40.66203, -73.791252 40.661602)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_71740> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_71740> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_132> .

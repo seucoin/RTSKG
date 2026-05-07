@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_109837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109837> <http://www.w3.org/2000/01/rdf-schema#label> "INSTITUTE FOR BASIC RESEARCH DRWY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_109837> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.141143 40.598061, -74.141025 40.598045, -74.140907 40.598034, -74.140788 40.598027), (-74.140788 40.598027, -74.140668 40.598026, -74.140549 40.598029, -74.14043 40.598037))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109837> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_drwy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109837> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109837> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_23> .

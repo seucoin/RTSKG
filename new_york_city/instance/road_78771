@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_78771> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78771> <http://www.w3.org/2000/01/rdf-schema#label> "DR MLK EP NB EN MORNINGSTAR RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_78771> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.146354 40.631795, -74.146275 40.631768, -74.146201 40.631731, -74.146137 40.631685, -74.146085 40.631632, -74.146032 40.631563, -74.145994 40.631477, -74.145931 40.631245, -74.145873 40.631131)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78771> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78771> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78771> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_187> .

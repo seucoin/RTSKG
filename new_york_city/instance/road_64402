@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_64402> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64402> <http://www.w3.org/2000/01/rdf-schema#label> "FITCHETT ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_64402> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.865467 40.721872, -73.865315 40.72163, -73.865142 40.721395, -73.864947 40.72117, -73.864733 40.720955, -73.8645 40.720752, -73.86425 40.720562)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64402> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64402> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64402> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_196> .

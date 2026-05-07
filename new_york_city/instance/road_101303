@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_101303> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101303> <http://www.w3.org/2000/01/rdf-schema#label> "MOSHOLU PARKWAY GREENWAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_101303> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.881138 40.872666, -73.88093 40.872155), (-73.88093 40.872155, -73.880855 40.871943, -73.880789 40.871729, -73.880734 40.871514), (-73.880734 40.871514, -73.880714 40.871385, -73.8807 40.871256, -73.880692 40.871127), (-73.880692 40.871127, -73.880691 40.871065))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101303> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101303> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_174> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101303> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_295> .

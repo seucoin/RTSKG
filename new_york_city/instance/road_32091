@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_32091> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_32091> <http://www.w3.org/2000/01/rdf-schema#label> "CLAREMONT PKWY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_32091> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.901176 40.838206, -73.900748 40.838013, -73.900633 40.837962, -73.90055 40.837925, -73.900441 40.837876, -73.900353 40.837836, -73.900192 40.837763, -73.899969 40.837663)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_32091> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pkwy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_32091> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_32091> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_47> .

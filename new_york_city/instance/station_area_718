@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/station_area_718> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/station_area> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_718> <http://www.w3.org/2000/01/rdf-schema#label> "Wakefield-241 St_5" .
+<https://w3id.org/rtskg/new_york_city/instance/station_area_718> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POLYGON ((-73.854827 40.90355, -73.854484 40.904455, -73.854912 40.905704, -73.854184 40.906207, -73.852415 40.906661, -73.848383 40.907096, -73.845433 40.904279, -73.84508 40.903359, -73.8467 40.900853, -73.850897 40.900033, -73.853 40.89999, -73.854827 40.90355))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_718> <https://w3id.org/rtskg/ontology/dataproperty/walking_time_minutes> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_718> <https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station> <https://w3id.org/rtskg/new_york_city/instance/station_360> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_718> <https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block> <https://w3id.org/rtskg/new_york_city/instance/block_37683> .

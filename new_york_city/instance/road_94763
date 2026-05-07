@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_94763> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94763> <http://www.w3.org/2000/01/rdf-schema#label> "TIMBER RIDGE DR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_94763> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.142723 40.555348, -74.142787 40.555338, -74.142849 40.555324, -74.14291 40.555306, -74.142968 40.555284, -74.143023 40.555258), (-74.143023 40.555258, -74.143075 40.555228, -74.143123 40.555194, -74.143167 40.555158, -74.143206 40.555118, -74.14324 40.555076))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94763> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94763> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94763> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_109> .

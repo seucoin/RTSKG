@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_74949> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_74949> <http://www.w3.org/2000/01/rdf-schema#label> "SHORE RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_74949> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.753706 40.774539, -73.753631 40.774422, -73.753537 40.774312, -73.753427 40.774208, -73.753303 40.774115, -73.753167 40.774034, -73.753022 40.773965, -73.753022 40.773965)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_74949> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_74949> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_74949> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_64> .

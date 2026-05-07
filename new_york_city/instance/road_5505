@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_5505> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_5505> <http://www.w3.org/2000/01/rdf-schema#label> "JAMAICA AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_5505> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.769464 40.712019, -73.769307 40.712158, -73.769137 40.712288, -73.768954 40.712407, -73.768761 40.712516)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_5505> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_5505> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_5505> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_122> .

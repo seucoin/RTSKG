@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_116585> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116585> <http://www.w3.org/2000/01/rdf-schema#label> "HYLAN BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_116585> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.076199 40.605435, -74.076306 40.605219, -74.076328 40.605169, -74.076336 40.605115, -74.076329 40.60506, -74.076308 40.605009, -74.076274 40.604963, -74.075747 40.604259)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116585> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116585> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116585> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_6> .

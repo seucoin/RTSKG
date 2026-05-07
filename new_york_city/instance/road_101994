@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_101994> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101994> <http://www.w3.org/2000/01/rdf-schema#label> "RESERVOIR OVAL E" .
+<https://w3id.org/rtskg/new_york_city/instance/road_101994> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.879415 40.876899, -73.879357 40.87678, -73.879279 40.876665, -73.879182 40.876555, -73.879066 40.876455, -73.878935 40.876365, -73.87879 40.876289, -73.878637 40.876227, -73.878477 40.876181, -73.878316 40.87615)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101994> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_oval> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101994> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101994> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_174> .

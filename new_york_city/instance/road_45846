@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_45846> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45846> <http://www.w3.org/2000/01/rdf-schema#label> "RHINELANDER AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_45846> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.849677 40.85385, -73.849363 40.854051, -73.849286 40.854101, -73.84829 40.854739)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45846> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45846> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45846> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_185> .

@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_115244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115244> <http://www.w3.org/2000/01/rdf-schema#label> "GRAND CENTRAL PARKWAY ET 6 EB" .
+<https://w3id.org/rtskg/new_york_city/instance/road_115244> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.88349 40.768115, -73.881707 40.768824, -73.879913 40.769694), (-73.879913 40.769694, -73.879737 40.769785, -73.879551 40.769863, -73.879357 40.769929, -73.879157 40.769981, -73.878951 40.770021, -73.878741 40.770046, -73.878529 40.770057))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115244> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115244> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_129> .

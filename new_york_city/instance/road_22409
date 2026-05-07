@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_22409> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_22409> <http://www.w3.org/2000/01/rdf-schema#label> "COLUMBUS CIR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_22409> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.981459 40.768212, -73.981446 40.76818, -73.981437 40.768148, -73.981432 40.768115, -73.98143 40.768081, -73.981431 40.768048), (-73.981431 40.768048, -73.981437 40.768015, -73.981446 40.767982, -73.981458 40.767951, -73.981474 40.767919, -73.981493 40.767889))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_22409> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_cir> .
 <https://w3id.org/rtskg/new_york_city/instance/road_22409> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_22409> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_142> .

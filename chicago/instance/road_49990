@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_49990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_49990> <http://www.w3.org/2000/01/rdf-schema#label> "BROADWAY" .
+<https://w3id.org/rtskg/chicago/instance/road_49990> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.657474 41.9654, -87.657617 41.965621, -87.657913 41.966088, -87.658143 41.966449, -87.65824 41.966603, -87.658322 41.966733, -87.658425 41.966892, -87.658443 41.966919, -87.658448 41.966926)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_49990> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_2> .
 <https://w3id.org/rtskg/chicago/instance/road_49990> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_3> .
 <https://w3id.org/rtskg/chicago/instance/road_49990> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/chicago/instance/station_area_187> .

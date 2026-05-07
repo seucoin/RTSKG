@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_85300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85300> <http://www.w3.org/2000/01/rdf-schema#label> "VAIL AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_85300> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.206805 40.517236, -74.206802 40.517297, -74.20681 40.517358, -74.206829 40.517417, -74.206839 40.517471, -74.206828 40.517529, -74.206795 40.517583, -74.206743 40.517626, -74.206681 40.517654, -74.205841 40.517915)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85300> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85300> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85300> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_84> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_128255> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_128255> <http://www.w3.org/2000/01/rdf-schema#label> "NASSAU EXPY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_128255> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.778704 40.661489, -73.777356 40.660861, -73.777102 40.660759, -73.776906 40.66068, -73.776862 40.660668, -73.776469 40.660555, -73.77554 40.660287)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_128255> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_expy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_128255> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_128255> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_132> .

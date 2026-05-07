@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_90050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_90050> <http://www.w3.org/2000/01/rdf-schema#label> "JFK EXPRESSWAY NB EN S CARGO RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_90050> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.791376 40.656151, -73.792112 40.656563, -73.792395 40.656887, -73.792633 40.657237, -73.792754 40.657569, -73.792843 40.658085)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_90050> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_90050> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_132> .

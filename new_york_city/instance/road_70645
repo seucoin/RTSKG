@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_70645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70645> <http://www.w3.org/2000/01/rdf-schema#label> "MANDANICI RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_70645> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.875628 40.792245, -73.875496 40.792081, -73.875449 40.791976, -73.875416 40.791829, -73.875303 40.791322)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70645> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70645> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70645> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_199> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_53829> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53829> <http://www.w3.org/2000/01/rdf-schema#label> "MAINE AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_53829> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.12649 40.620583, -74.126695 40.620661, -74.126776 40.620701, -74.126868 40.62073, -74.126966 40.620746, -74.127066 40.620748, -74.127162 40.620736)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53829> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53829> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53829> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_251> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_61395> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61395> <http://www.w3.org/2000/01/rdf-schema#label> "ADAMS ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_61395> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.988756 40.703183, -73.988658 40.703014, -73.988595 40.702919, -73.98855 40.702817, -73.988525 40.70271, -73.988521 40.702602, -73.988537 40.702497)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61395> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61395> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61395> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_66> .

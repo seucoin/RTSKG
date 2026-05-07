@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_99065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99065> <http://www.w3.org/2000/01/rdf-schema#label> "GRAND CENTRAL PKWY EXIT 9 EB" .
+<https://w3id.org/rtskg/new_york_city/instance/road_99065> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.8482 40.758771, -73.847927 40.75886, -73.847662 40.758963, -73.847404 40.759081, -73.847158 40.759212, -73.846923 40.759355, -73.846702 40.759509, -73.846497 40.759674, -73.846307 40.759847)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99065> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99065> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_93> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99065> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_557> .

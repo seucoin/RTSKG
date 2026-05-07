@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_62881> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62881> <http://www.w3.org/2000/01/rdf-schema#label> "BALSAM PL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_62881> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.21329 40.548102, -74.21337 40.54808, -74.213452 40.548064, -74.213535 40.548053), (-74.213535 40.548053, -74.21362 40.548046, -74.213704 40.548045, -74.213789 40.548049))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62881> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62881> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62881> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_204> .

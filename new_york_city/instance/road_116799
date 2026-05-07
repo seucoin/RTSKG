@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_116799> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116799> <http://www.w3.org/2000/01/rdf-schema#label> "CENTER DR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_116799> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.825392 40.790685, -73.825608 40.7907, -73.825825 40.790704, -73.826042 40.790697), (-73.826042 40.790697, -73.826258 40.79068, -73.826472 40.790651, -73.826683 40.790613))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116799> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116799> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116799> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_252> .

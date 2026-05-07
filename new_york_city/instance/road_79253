@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_79253> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79253> <http://www.w3.org/2000/01/rdf-schema#label> "OXFORD AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_79253> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.908546 40.887058, -73.908788 40.88781, -73.90889 40.887864, -73.909005 40.887905, -73.909128 40.887932, -73.909255 40.887943, -73.909379 40.887938)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79253> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79253> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79253> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_220> .

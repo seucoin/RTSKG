@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_58691> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_58691> <http://www.w3.org/2000/01/rdf-schema#label> "E KINGSBRIDGE RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_58691> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.894205 40.866017, -73.894046 40.865936, -73.893936 40.86587, -73.893829 40.865776, -73.893751 40.865619, -73.893694 40.8655, -73.893625 40.865335)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_58691> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_58691> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_58691> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_18> .

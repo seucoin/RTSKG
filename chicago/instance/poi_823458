@@ -1,4 +1,3 @@
 <https://w3id.org/rtskg/chicago/instance/poi_823458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/poi> .
-<https://w3id.org/rtskg/chicago/instance/poi_823458> <https://w3id.org/rtskg/ontology/dataproperty/latitude> "41.6448071"^^<http://www.w3.org/2001/XMLSchema#double> .
-<https://w3id.org/rtskg/chicago/instance/poi_823458> <https://w3id.org/rtskg/ontology/dataproperty/longitude> "-87.8113125"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://w3id.org/rtskg/chicago/instance/poi_823458> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POINT(-87.811312 41.644807)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/poi_823458> <https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category> <https://w3id.org/rtskg/chicago/instance/poi_category_residential_area> .

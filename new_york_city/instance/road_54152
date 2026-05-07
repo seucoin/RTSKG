@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_54152> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54152> <http://www.w3.org/2000/01/rdf-schema#label> "W TREMONT AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_54152> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.917993 40.852881, -73.918005 40.852949, -73.918013 40.853017, -73.918016 40.853085), (-73.918016 40.853085, -73.918015 40.853154, -73.918009 40.853222, -73.918 40.85329))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54152> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54152> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54152> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_235> .

@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_91254> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91254> <http://www.w3.org/2000/01/rdf-schema#label> "BQE WB ENTRANCE 30 AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_91254> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.902 40.759594, -73.901895 40.759403, -73.901782 40.759214, -73.901662 40.759028), (-73.901662 40.759028, -73.901529 40.758801, -73.901407 40.758571, -73.901298 40.758337), (-73.901298 40.758337, -73.901112 40.75795, -73.901051 40.757863))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91254> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91254> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_260> .

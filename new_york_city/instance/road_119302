@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_119302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119302> <http://www.w3.org/2000/01/rdf-schema#label> "ALDRICH ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_119302> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.832374 40.870058, -73.832324 40.870077, -73.832273 40.870094, -73.832221 40.870109), (-73.832221 40.870109, -73.832168 40.870122, -73.832114 40.870132, -73.83206 40.870141), (-73.83206 40.870141, -73.830956 40.870278))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119302> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119302> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119302> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_51> .

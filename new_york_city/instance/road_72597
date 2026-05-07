@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_72597> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_72597> <http://www.w3.org/2000/01/rdf-schema#label> "BARRINGTON ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_72597> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.77804 40.718764, -73.77809 40.71862, -73.778122 40.718471, -73.778137 40.718321, -73.778134 40.718171, -73.778114 40.718023)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_72597> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_72597> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_72597> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_131> .

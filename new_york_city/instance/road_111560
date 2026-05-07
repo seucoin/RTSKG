@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_111560> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111560> <http://www.w3.org/2000/01/rdf-schema#label> "BUCKINGHAM RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_111560> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.964832 40.648359, -73.964851 40.648285, -73.96483 40.648085, -73.964787 40.647814, -73.964729 40.647545, -73.964683 40.647375, -73.964626 40.647272)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111560> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111560> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111560> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_89> .

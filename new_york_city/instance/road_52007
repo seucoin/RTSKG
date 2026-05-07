@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_52007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52007> <http://www.w3.org/2000/01/rdf-schema#label> "MAJOR AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_52007> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.062541 40.601142, -74.062667 40.601103, -74.0628 40.601076, -74.062939 40.601064, -74.063078 40.601066, -74.063215 40.601082, -74.063345 40.601112)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52007> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52007> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52007> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_6> .

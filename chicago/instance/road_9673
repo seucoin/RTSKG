@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_9673> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_9673> <http://www.w3.org/2000/01/rdf-schema#label> "CANFIELD" .
+<https://w3id.org/rtskg/chicago/instance/road_9673> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.823152 41.985796, -87.823143 41.985859, -87.823127 41.985991, -87.823108 41.986141, -87.823097 41.986224, -87.823093 41.986252, -87.823076 41.986376, -87.823055 41.986522, -87.823036 41.986667)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_9673> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_9673> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_3> .
 <https://w3id.org/rtskg/chicago/instance/road_9673> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_10> .

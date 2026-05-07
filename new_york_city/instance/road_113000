@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_113000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113000> <http://www.w3.org/2000/01/rdf-schema#label> "SCOTT AVE FOOTBRIDGE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_113000> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.923398 40.711152, -73.923398 40.711152, -73.923382 40.711116, -73.923277 40.711138, -73.9232 40.711152, -73.923168 40.711078)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113000> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113000> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_80> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113000> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_515> .

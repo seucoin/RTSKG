@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_20153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_20153> <http://www.w3.org/2000/01/rdf-schema#label> "STEVENSON 25TH ST" .
+<https://w3id.org/rtskg/chicago/instance/road_20153> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.618527 41.84754, -87.618381 41.847593, -87.618319 41.847618, -87.61828 41.847639, -87.618148 41.847723, -87.618104 41.847769, -87.618069 41.847808, -87.618047 41.847854, -87.618038 41.847882, -87.618027 41.847918, -87.618021 41.847964)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_20153> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_er> .
 <https://w3id.org/rtskg/chicago/instance/road_20153> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_5> .
 <https://w3id.org/rtskg/chicago/instance/road_20153> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_33> .

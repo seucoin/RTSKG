@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_6786> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_6786> <http://www.w3.org/2000/01/rdf-schema#label> "CRAFT AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_6786> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.7303 40.650991, -73.729901 40.651148, -73.729496 40.651295, -73.729085 40.651432), (-73.729085 40.651432, -73.728668 40.651559, -73.728247 40.651676, -73.72782 40.651782))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_6786> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_6786> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_6786> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_203> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_110005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110005> <http://www.w3.org/2000/01/rdf-schema#label> "XAVIER WAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_110005> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.880956 40.861006, -73.880996 40.861023, -73.881038 40.861038, -73.88108 40.86105, -73.881124 40.86106, -73.881169 40.861066), (-73.881169 40.861066, -73.881215 40.86107, -73.88126 40.861071, -73.881306 40.86107, -73.881351 40.861065, -73.881396 40.861058))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110005> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_way> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110005> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110005> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_20> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_52403> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_52403> <http://www.w3.org/2000/01/rdf-schema#label> "HUMBOLDT" .
+<https://w3id.org/rtskg/chicago/instance/road_52403> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.702292 41.901062, -87.70228 41.901163, -87.702264 41.901526, -87.702281 41.901814, -87.702292 41.901971, -87.702304 41.902144, -87.702314 41.902412, -87.702295 41.902704, -87.702271 41.902877)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_52403> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_dr> .
 <https://w3id.org/rtskg/chicago/instance/road_52403> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_6> .
 <https://w3id.org/rtskg/chicago/instance/road_52403> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_24> .

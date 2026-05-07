@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_95086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_95086> <http://www.w3.org/2000/01/rdf-schema#label> "ALEX CIR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_95086> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.065021 40.592629, -74.065169 40.592989)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_95086> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_cir> .
 <https://w3id.org/rtskg/new_york_city/instance/road_95086> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_95086> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_6> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_10508> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_10508> <http://www.w3.org/2000/01/rdf-schema#label> "BELMONT" .
+<https://w3id.org/rtskg/chicago/instance/road_10508> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.6444 41.940045, -87.64468 41.940039, -87.645018 41.940031, -87.64547 41.940021, -87.646226 41.940022, -87.646836 41.940015)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_10508> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_10508> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_6> .
 <https://w3id.org/rtskg/chicago/instance/road_10508> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_6> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_50196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50196> <http://www.w3.org/2000/01/rdf-schema#label> "BALTIC ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_50196> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.989558 40.683964, -73.989401 40.683903, -73.989353 40.683884, -73.989054 40.683768, -73.988975 40.683737, -73.988818 40.683675, -73.988744 40.683647, -73.988665 40.683616, -73.988584 40.683585, -73.98851 40.683555, -73.988424 40.683522, -73.987431 40.683135)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50196> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50196> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50196> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_25> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_25724> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_25724> <http://www.w3.org/2000/01/rdf-schema#label> "WINCHESTER BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_25724> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.733412 40.742181, -73.73335 40.742025, -73.733313 40.741884, -73.733285 40.741758, -73.733275 40.741638, -73.733275 40.741472, -73.733328 40.741226, -73.733284 40.741161)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_25724> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_25724> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_25724> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_19> .

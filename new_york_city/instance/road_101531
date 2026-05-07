@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_101531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101531> <http://www.w3.org/2000/01/rdf-schema#label> "CITY ISLAND ROAD GREENWAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_101531> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.801543 40.861011, -73.801746 40.861279), (-73.801746 40.861279, -73.801818 40.861369, -73.801878 40.861464, -73.801927 40.861562, -73.801964 40.861663, -73.80199 40.861766, -73.802003 40.861871), (-73.802003 40.861871, -73.80199 40.862376))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101531> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101531> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_184> .

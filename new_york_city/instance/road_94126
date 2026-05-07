@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_94126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94126> <http://www.w3.org/2000/01/rdf-schema#label> "LOOP RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_94126> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.15316 40.598716, -74.153013 40.598583, -74.152879 40.598442, -74.15276 40.598292, -74.152657 40.598137, -74.15257 40.597976)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94126> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94126> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94126> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_23> .

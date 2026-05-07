@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_65073> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_65073> <http://www.w3.org/2000/01/rdf-schema#label> "ORLOFF AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_65073> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.89313 40.883688, -73.893047 40.883686, -73.892963 40.883696, -73.892883 40.883718, -73.892809 40.883751, -73.892747 40.883792, -73.892174 40.88454)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_65073> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_65073> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_65073> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_241> .

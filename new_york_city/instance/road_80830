@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_80830> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_80830> <http://www.w3.org/2000/01/rdf-schema#label> "54 AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_80830> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.910153 40.729908, -73.909874 40.729934, -73.909592 40.729946, -73.909309 40.729942, -73.909026 40.729922, -73.908748 40.729886, -73.908475 40.729836, -73.907773 40.729527, -73.907081 40.729206, -73.906398 40.728873, -73.905726 40.728528)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_80830> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_80830> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_80830> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_260> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_94615> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94615> <http://www.w3.org/2000/01/rdf-schema#label> "HOWARD CIR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_94615> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.087551 40.625873, -74.087315 40.625818, -74.087099 40.625874, -74.086891 40.625946, -74.086692 40.626032, -74.086506 40.626132)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94615> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_cir> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94615> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94615> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_115> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_105713> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105713> <http://www.w3.org/2000/01/rdf-schema#label> "MOORE HOUSES PEDESTRIAN PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_105713> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.910111 40.812836, -73.910035 40.812804, -73.909877 40.812793, -73.90966 40.81286, -73.90953 40.812848, -73.90933 40.812796, -73.909261 40.812723)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105713> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105713> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105713> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_168> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_106663> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106663> <http://www.w3.org/2000/01/rdf-schema#label> "BOARDWALK W" .
+<https://w3id.org/rtskg/new_york_city/instance/road_106663> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.969129 40.574539, -73.969831 40.574398, -73.970536 40.574267, -73.971245 40.574148), (-73.971245 40.574148, -73.971956 40.57404, -73.972671 40.573943, -73.973388 40.573857), (-73.973388 40.573857, -73.976729 40.573506))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106663> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106663> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_55> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106663> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_313> .

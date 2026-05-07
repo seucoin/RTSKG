@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_93603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93603> <http://www.w3.org/2000/01/rdf-schema#label> "WYTHE PL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_93603> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.964904 40.70477, -73.96459 40.704487, -73.964542 40.704444, -73.964502 40.704408, -73.964323 40.704247, -73.964281 40.704209)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93603> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93603> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93603> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_217> .

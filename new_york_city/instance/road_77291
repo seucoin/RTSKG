@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_77291> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_77291> <http://www.w3.org/2000/01/rdf-schema#label> "SCHOLES ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_77291> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.946756 40.708474, -73.946475 40.708502, -73.946022 40.708546, -73.94572 40.708575, -73.945397 40.708607, -73.945126 40.708633)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_77291> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_77291> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_77291> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_80> .

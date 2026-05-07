@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_50737> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50737> <http://www.w3.org/2000/01/rdf-schema#label> "NARROWS RD S" .
+<https://w3id.org/rtskg/new_york_city/instance/road_50737> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.077475 40.605566, -74.077536 40.605599, -74.077593 40.605635, -74.077645 40.605674, -74.077694 40.605717), (-74.077694 40.605717, -74.077737 40.605763, -74.077775 40.605811, -74.077808 40.605862, -74.077836 40.605914))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50737> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50737> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50737> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_6> .

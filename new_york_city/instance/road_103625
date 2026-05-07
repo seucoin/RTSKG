@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_103625> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103625> <http://www.w3.org/2000/01/rdf-schema#label> "BRUCKNER EP WB EN SHERIDAN BL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_103625> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.888179 40.821748, -73.888073 40.821818, -73.887969 40.82189, -73.887867 40.821963), (-73.887867 40.821963, -73.887858 40.82197, -73.887848 40.821978, -73.887838 40.821985), (-73.887838 40.821985, -73.88773 40.822069, -73.887624 40.822154, -73.887522 40.822242))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103625> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103625> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_126> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103625> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_495> .

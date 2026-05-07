@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_71150> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_71150> <http://www.w3.org/2000/01/rdf-schema#label> "CONNECTOR ROAD TO BRUCKNER EXPWY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_71150> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.84942 40.82741, -73.847133 40.827866), (-73.847133 40.827866, -73.846949 40.827906, -73.846768 40.827951, -73.846589 40.828003), (-73.846589 40.828003, -73.846414 40.828061, -73.846242 40.828126, -73.846075 40.828196))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_71150> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_71150> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_250> .
 <https://w3id.org/rtskg/new_york_city/instance/road_71150> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_345> .

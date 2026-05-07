@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_103549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103549> <http://www.w3.org/2000/01/rdf-schema#label> "DOYERS ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_103549> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.997574 40.714086, -73.997615 40.714101, -73.997697 40.714143, -73.99777 40.714193, -73.997834 40.714251, -73.997886 40.714313, -73.998123 40.714432, -73.998119 40.71459, -73.998037 40.714833)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103549> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103549> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103549> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_45> .

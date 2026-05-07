@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_63500> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_63500> <http://www.w3.org/2000/01/rdf-schema#label> "PALADINO AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_63500> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.931604 40.800557, -73.931585 40.800548, -73.931538 40.800527, -73.931248 40.800399, -73.931168 40.800363, -73.930898 40.800243, -73.930825 40.800211, -73.930518 40.800075, -73.930424 40.800015, -73.930342 40.799943, -73.930276 40.799863, -73.930228 40.799777)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_63500> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_63500> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_63500> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_74> .

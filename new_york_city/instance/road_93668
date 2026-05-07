@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_93668> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93668> <http://www.w3.org/2000/01/rdf-schema#label> "NASSAU EXPWY ET LEFFERTS BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_93668> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.82939 40.664373, -73.829102 40.664259, -73.827899 40.663915, -73.827134 40.663764, -73.826875 40.663712, -73.826296 40.663647, -73.825714 40.663601, -73.825036 40.663588, -73.824862 40.663585, -73.824271 40.663585)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93668> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93668> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_216> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93668> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_231> .

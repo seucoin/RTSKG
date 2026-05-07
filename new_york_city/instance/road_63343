@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_63343> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_63343> <http://www.w3.org/2000/01/rdf-schema#label> "MALCOLM X BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_63343> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.928576 40.680506, -73.928558 40.68038, -73.928552 40.680254, -73.928559 40.680128), (-73.928559 40.680128, -73.928578 40.680003, -73.928609 40.679879, -73.928652 40.679757))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_63343> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_63343> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_63343> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_61> .

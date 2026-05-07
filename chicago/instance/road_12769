@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_12769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_12769> <http://www.w3.org/2000/01/rdf-schema#label> "DAN RYAN 71ST ST" .
+<https://w3id.org/rtskg/chicago/instance/road_12769> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.62652 41.764596, -87.626415 41.764316, -87.626354 41.764132, -87.626316 41.763997, -87.626295 41.763928, -87.626253 41.763787, -87.626221 41.763675)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_12769> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_er> .
 <https://w3id.org/rtskg/chicago/instance/road_12769> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_4> .
 <https://w3id.org/rtskg/chicago/instance/road_12769> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_69> .

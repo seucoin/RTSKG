@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_16643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_16643> <http://www.w3.org/2000/01/rdf-schema#label> "DICKENS" .
+<https://w3id.org/rtskg/chicago/instance/road_16643> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.786503 41.918214, -87.786687 41.918212, -87.78681 41.918211, -87.786934 41.918209, -87.787115 41.918208, -87.787119 41.918207, -87.787235 41.918206, -87.787335 41.918205, -87.787451 41.918204, -87.787726 41.918201)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_16643> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_16643> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_3> .
 <https://w3id.org/rtskg/chicago/instance/road_16643> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_19> .

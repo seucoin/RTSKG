@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_108108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108108> <http://www.w3.org/2000/01/rdf-schema#label> "MITSUBISHI WILD WETLAND TRL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_108108> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.878428 40.862556, -73.878426 40.862446, -73.878437 40.862337, -73.878462 40.862229), (-73.878462 40.862229, -73.8785 40.862124, -73.878552 40.862022, -73.878617 40.861924))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108108> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_trl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108108> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108108> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_31> .

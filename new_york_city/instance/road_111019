@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_111019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111019> <http://www.w3.org/2000/01/rdf-schema#label> "VAN SINDEREN AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_111019> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.89837 40.655871, -73.898071 40.654705, -73.897964 40.654269), (-73.897964 40.654269, -73.897908 40.654058, -73.897855 40.653846, -73.897805 40.653633))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111019> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111019> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111019> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_76> .

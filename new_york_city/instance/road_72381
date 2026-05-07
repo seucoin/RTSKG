@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_72381> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_72381> <http://www.w3.org/2000/01/rdf-schema#label> "CENTRAL PARK EXIT 7 AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_72381> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.979078 40.766884, -73.978755 40.767299, -73.978697 40.76737, -73.978655 40.76745, -73.97863 40.767534, -73.978624 40.76762, -73.978636 40.767703)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_72381> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_72381> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_43> .
 <https://w3id.org/rtskg/new_york_city/instance/road_72381> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_147> .

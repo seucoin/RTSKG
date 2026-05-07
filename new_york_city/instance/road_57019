@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_57019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_57019> <http://www.w3.org/2000/01/rdf-schema#label> "METROPOLITAN OVAL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_57019> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.859111 40.838178, -73.859103 40.83811, -73.859112 40.838039, -73.859141 40.837969, -73.859188 40.837904, -73.859252 40.837848, -73.859326 40.837804, -73.859428 40.83776)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_57019> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_oval> .
 <https://w3id.org/rtskg/new_york_city/instance/road_57019> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_57019> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_182> .

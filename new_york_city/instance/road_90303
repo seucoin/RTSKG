@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_90303> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_90303> <http://www.w3.org/2000/01/rdf-schema#label> "TERRACE VIEW AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_90303> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.909986 40.877836, -73.910145 40.877882, -73.910312 40.877916, -73.910485 40.877934, -73.91066 40.877938, -73.910834 40.877927, -73.911004 40.877901, -73.911166 40.877862, -73.911507 40.877654, -73.911813 40.877448, -73.911835 40.877433, -73.912146 40.877197, -73.91244 40.876951, -73.912718 40.876694)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_90303> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_90303> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_90303> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_153> .

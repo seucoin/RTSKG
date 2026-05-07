@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_42596> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_42596> <http://www.w3.org/2000/01/rdf-schema#label> "QUINCY ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_42596> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.93325 40.688969, -73.932936 40.689005, -73.932712 40.689031, -73.932617 40.689042, -73.932399 40.689067, -73.932294 40.689079, -73.932159 40.689095, -73.932057 40.689106, -73.930326 40.689306)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_42596> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_42596> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_42596> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_225> .

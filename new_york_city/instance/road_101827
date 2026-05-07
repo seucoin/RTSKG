@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_101827> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101827> <http://www.w3.org/2000/01/rdf-schema#label> "HUDSON RIVER GREENWAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_101827> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.952938 40.827333, -73.952941 40.827351, -73.952945 40.827368, -73.952952 40.827385, -73.952961 40.827402, -73.952971 40.827418, -73.952984 40.827433, -73.952998 40.827447, -73.953013 40.827461), (-73.953013 40.827461, -73.953188 40.827573, -73.953244 40.827596))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101827> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101827> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_116> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101827> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_23> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_62666> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62666> <http://www.w3.org/2000/01/rdf-schema#label> "GATES AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_62666> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.919461 40.692158, -73.919293 40.692329, -73.919245 40.692377, -73.918982 40.692645, -73.918928 40.6927, -73.918673 40.692959, -73.918627 40.693006, -73.918393 40.693244, -73.918341 40.693296, -73.918067 40.693576, -73.91803 40.693613, -73.917762 40.693886)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62666> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62666> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62666> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_37> .

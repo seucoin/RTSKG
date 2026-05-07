@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_31800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_31800> <http://www.w3.org/2000/01/rdf-schema#label> "SPRINGFIELD" .
+<https://w3id.org/rtskg/chicago/instance/road_31800> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.719185 41.740388, -87.719178 41.740179, -87.71917 41.739975, -87.719169 41.73993, -87.719165 41.739813, -87.71916 41.73966, -87.719154 41.739471)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_31800> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_31800> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_4> .
 <https://w3id.org/rtskg/chicago/instance/road_31800> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_70> .

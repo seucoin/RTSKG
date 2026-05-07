@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_121638> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121638> <http://www.w3.org/2000/01/rdf-schema#label> "CUNNINGHAM PARK SR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_121638> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.769977 40.729802, -73.769639 40.729861, -73.769549 40.729971, -73.769455 40.730042, -73.769364 40.730079, -73.769271 40.730095, -73.769188 40.730088, -73.769114 40.73007, -73.768912 40.729964)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121638> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_park> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121638> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121638> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_98> .

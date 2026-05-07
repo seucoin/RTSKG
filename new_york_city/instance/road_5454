@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_5454> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_5454> <http://www.w3.org/2000/01/rdf-schema#label> "HOVENDEN RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_5454> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.780548 40.719255, -73.780234 40.719328, -73.779924 40.719417, -73.779621 40.719522, -73.779328 40.719643, -73.779046 40.719779, -73.778778 40.719929, -73.778524 40.720091, -73.778287 40.720264)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_5454> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_5454> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_5454> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_131> .

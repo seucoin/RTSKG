@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_84998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_84998> <http://www.w3.org/2000/01/rdf-schema#label> "HIGHVIEW AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_84998> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.089508 40.643578, -74.089141 40.64276), (-74.089141 40.64276, -74.08905 40.642711, -74.088966 40.642657, -74.088889 40.642596, -74.088819 40.642531, -74.088757 40.642461), (-74.088757 40.642461, -74.088704 40.642387, -74.088659 40.642309, -74.088624 40.642229, -74.088599 40.642147, -74.088584 40.642064))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_84998> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_84998> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_84998> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_206> .

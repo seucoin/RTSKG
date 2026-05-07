@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_59533> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_59533> <http://www.w3.org/2000/01/rdf-schema#label> "FORT HAMILTON PARKWAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_59533> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.019388 40.6229, -74.019433 40.622836, -74.019485 40.622774, -74.019543 40.622716, -74.019606 40.622661, -74.019676 40.622611), (-74.019676 40.622611, -74.01975 40.622565, -74.019829 40.622523, -74.019912 40.622487, -74.019998 40.622455, -74.020088 40.622429))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_59533> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pkwy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_59533> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_59533> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_14> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_109691> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109691> <http://www.w3.org/2000/01/rdf-schema#label> "SANCHEZ DR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_109691> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.101534 40.571135, -74.101488 40.571202, -74.10145 40.571272, -74.101421 40.571344), (-74.101421 40.571344, -74.101413 40.571364, -74.101402 40.571383, -74.10139 40.571402, -74.101375 40.571419, -74.101359 40.571435, -74.10134 40.571451, -74.10132 40.571465))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109691> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109691> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109691> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_172> .

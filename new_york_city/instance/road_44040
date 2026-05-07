@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_44040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_44040> <http://www.w3.org/2000/01/rdf-schema#label> "LEWIS AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_44040> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.937343 40.694493, -73.937299 40.694271, -73.937281 40.694184, -73.937196 40.69376)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_44040> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_44040> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_44040> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_225> .

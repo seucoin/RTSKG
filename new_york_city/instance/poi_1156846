@@ -1,5 +1,4 @@
 <https://w3id.org/rtskg/new_york_city/instance/poi_1156846> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/poi> .
-<https://w3id.org/rtskg/new_york_city/instance/poi_1156846> <https://w3id.org/rtskg/ontology/dataproperty/latitude> "40.5276496"^^<http://www.w3.org/2001/XMLSchema#double> .
-<https://w3id.org/rtskg/new_york_city/instance/poi_1156846> <https://w3id.org/rtskg/ontology/dataproperty/longitude> "-74.2327546"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://w3id.org/rtskg/new_york_city/instance/poi_1156846> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POINT(-74.232755 40.52765)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/poi_1156846> <https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category> <https://w3id.org/rtskg/new_york_city/instance/poi_category_parking_area> .
 <https://w3id.org/rtskg/new_york_city/instance/poi_1156846> <https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_block> <https://w3id.org/rtskg/new_york_city/instance/block_1781> .

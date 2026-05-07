@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_86588> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86588> <http://www.w3.org/2000/01/rdf-schema#label> "DAFFODIL CT" .
+<https://w3id.org/rtskg/new_york_city/instance/road_86588> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.198298 40.552093, -74.198179 40.552124, -74.198063 40.552162, -74.197952 40.552207, -74.197845 40.552259), (-74.197845 40.552259, -74.197744 40.552316, -74.197649 40.55238, -74.197561 40.552448, -74.19748 40.552522))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86588> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ct> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86588> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86588> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_5> .

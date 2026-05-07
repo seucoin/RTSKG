@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_112748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112748> <http://www.w3.org/2000/01/rdf-schema#label> "COLUMBIA STREET ESPL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_112748> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.011612 40.665166, -74.011606 40.665173, -74.0116 40.66518, -74.011594 40.665188), (-74.011594 40.665188, -74.011202 40.666049, -74.011058 40.666226, -74.010126 40.66816, -74.010059 40.668375, -74.010037 40.66841, -74.010097 40.668448))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112748> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_espl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112748> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112748> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_195> .

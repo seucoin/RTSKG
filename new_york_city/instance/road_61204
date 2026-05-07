@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_61204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61204> <http://www.w3.org/2000/01/rdf-schema#label> "PATH BUS TRML ENTRANCE W 40 ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_61204> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.996293 40.757855, -73.996261 40.757902, -73.996235 40.757951, -73.996215 40.758001, -73.996201 40.758052), (-73.996201 40.758052, -73.996193 40.758104, -73.996191 40.758157, -73.996195 40.758209, -73.996206 40.758261))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61204> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61204> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_48> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61204> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_123> .

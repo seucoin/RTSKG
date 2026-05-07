@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_68885> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68885> <http://www.w3.org/2000/01/rdf-schema#label> "UNDERHILL AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_68885> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.856786 40.806986, -73.856831 40.807309), (-73.856831 40.807309, -73.856847 40.807378, -73.856855 40.807447, -73.856855 40.807516, -73.856847 40.807586), (-73.856847 40.807586, -73.85683 40.807654, -73.856806 40.807721, -73.856774 40.807786, -73.856735 40.807849))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68885> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68885> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68885> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_213> .

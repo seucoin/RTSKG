@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_68574> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68574> <http://www.w3.org/2000/01/rdf-schema#label> "NERO AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_68574> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.773099 40.721412, -73.7728 40.72156, -73.77249 40.721696, -73.772169 40.721817, -73.77184 40.721925, -73.771504 40.722017)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68574> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68574> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68574> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_131> .

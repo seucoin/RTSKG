@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_26665> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_26665> <http://www.w3.org/2000/01/rdf-schema#label> "CONNECTOR RD TO VWE UNDERPASS" .
+<https://w3id.org/rtskg/new_york_city/instance/road_26665> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.835539 40.745552, -73.835624 40.745549, -73.835735 40.745538, -73.835837 40.745511, -73.835913 40.745482, -73.83597 40.745441, -73.836059 40.745353)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_26665> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_26665> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_93> .

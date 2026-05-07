@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_127070> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127070> <http://www.w3.org/2000/01/rdf-schema#label> "BRUCKNER EXPY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_127070> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.891843 40.81864, -73.891498 40.818971, -73.891496 40.818974, -73.890882 40.819562, -73.890642 40.819798)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127070> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_expy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127070> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127070> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_126> .

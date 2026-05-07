@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_62546> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62546> <http://www.w3.org/2000/01/rdf-schema#label> "RALPH AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_62546> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.922428 40.681219, -73.922403 40.681098, -73.922384 40.681002, -73.922371 40.680938, -73.922356 40.680864, -73.92234 40.680784, -73.922314 40.680657, -73.922279 40.680485)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62546> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62546> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62546> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_225> .

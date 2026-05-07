@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_93734> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93734> <http://www.w3.org/2000/01/rdf-schema#label> "DUANE RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_93734> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.780439 40.791176, -73.780328 40.791175, -73.780216 40.791185, -73.780106 40.791207, -73.780001 40.79124, -73.779905 40.791282)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93734> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93734> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93734> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_15> .

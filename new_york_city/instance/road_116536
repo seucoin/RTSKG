@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_116536> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116536> <http://www.w3.org/2000/01/rdf-schema#label> "GRESHAM RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_116536> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.023544 40.686016, -74.023582 40.686063, -74.023626 40.686108, -74.023674 40.68615, -74.023727 40.686188, -74.023783 40.686224), (-74.023783 40.686224, -74.023843 40.686255, -74.023907 40.686283, -74.023973 40.686307, -74.024042 40.686326, -74.024112 40.686341))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116536> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116536> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116536> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_105> .

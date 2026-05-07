@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_93922> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93922> <http://www.w3.org/2000/01/rdf-schema#label> "POINT BREEZE AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_93922> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.920769 40.560694, -73.920708 40.560343, -73.920627 40.559994, -73.920526 40.559648, -73.920406 40.559306)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93922> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93922> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93922> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_27> .

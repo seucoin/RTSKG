@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_50636> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50636> <http://www.w3.org/2000/01/rdf-schema#label> "KEUNE CT" .
+<https://w3id.org/rtskg/new_york_city/instance/road_50636> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.098857 40.602198, -74.09932 40.601701, -74.099266 40.601296, -74.099545 40.600806)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50636> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ct> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50636> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50636> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_118> .

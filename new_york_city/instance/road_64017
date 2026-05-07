@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_64017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64017> <http://www.w3.org/2000/01/rdf-schema#label> "KNICKERBOCKER AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_64017> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.915617 40.697261, -73.915453 40.697168, -73.915391 40.697132, -73.91529 40.697075, -73.915234 40.697043, -73.91515 40.696995, -73.915097 40.696965, -73.914867 40.696834)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64017> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64017> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64017> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_36> .

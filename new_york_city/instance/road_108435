@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_108435> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108435> <http://www.w3.org/2000/01/rdf-schema#label> "E LOOP RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_108435> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.957274 40.752865, -73.957281 40.75286, -73.957288 40.752855, -73.957296 40.752851, -73.957304 40.752847, -73.957313 40.752844, -73.957322 40.752841), (-73.957322 40.752841, -73.957331 40.752839, -73.95734 40.752837, -73.95735 40.752836, -73.957359 40.752835, -73.957369 40.752835, -73.957379 40.752836))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108435> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108435> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108435> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_202> .

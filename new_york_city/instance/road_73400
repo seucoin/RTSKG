@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_73400> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_73400> <http://www.w3.org/2000/01/rdf-schema#label> "ANNAPOLIS ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_73400> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.741161 40.604116, -73.74128 40.604166, -73.741389 40.604231, -73.741483 40.604308, -73.741559 40.604395, -73.741595 40.604445, -73.741647 40.604488, -73.741711 40.604523, -73.741783 40.604545, -73.741856 40.604554)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_73400> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_73400> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_73400> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_86> .

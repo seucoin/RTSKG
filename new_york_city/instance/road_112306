@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_112306> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112306> <http://www.w3.org/2000/01/rdf-schema#label> "CENTRAL PARK EXIT WEST 100 ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_112306> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.962823 40.794245, -73.962538 40.794086, -73.962245 40.793936, -73.961943 40.793796, -73.961858 40.79376)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112306> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112306> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_151> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112306> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_43> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_121589> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121589> <http://www.w3.org/2000/01/rdf-schema#label> "LGA TERMINAL B DEPARTURES ROAD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_121589> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.867389 40.770847, -73.867522 40.770851, -73.867654 40.770866, -73.867783 40.77089), (-73.867783 40.77089, -73.867909 40.770923, -73.868031 40.770965, -73.868146 40.771015), (-73.868146 40.771015, -73.86864 40.771299))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121589> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121589> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121589> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_138> .

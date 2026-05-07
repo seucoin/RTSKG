@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_113380> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113380> <http://www.w3.org/2000/01/rdf-schema#label> "QUEENS BOTANICAL GARDEN PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_113380> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.826589 40.751174, -73.82666 40.751293), (-73.82666 40.751293, -73.826683 40.751283, -73.826708 40.751275, -73.826733 40.751268), (-73.826733 40.751268, -73.826758 40.751263, -73.826784 40.75126, -73.826811 40.751259))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113380> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113380> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113380> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_92> .

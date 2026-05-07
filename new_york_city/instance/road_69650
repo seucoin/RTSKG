@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_69650> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69650> <http://www.w3.org/2000/01/rdf-schema#label> "FORDHAM HILL OVAL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_69650> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.908071 40.864078, -73.908064 40.864054, -73.908073 40.864027, -73.908098 40.864006, -73.908128 40.863996)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69650> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_oval> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69650> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69650> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_136> .

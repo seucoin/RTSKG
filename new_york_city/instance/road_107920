@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_107920> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107920> <http://www.w3.org/2000/01/rdf-schema#label> "CHESTNUT DR N" .
+<https://w3id.org/rtskg/new_york_city/instance/road_107920> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.863621 40.872273, -73.86343 40.872783), (-73.86343 40.872783, -73.863422 40.872798, -73.863413 40.872813, -73.863403 40.872827, -73.863391 40.87284), (-73.863391 40.87284, -73.863377 40.872852, -73.863363 40.872864, -73.863347 40.872875, -73.86333 40.872885))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107920> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107920> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107920> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_254> .

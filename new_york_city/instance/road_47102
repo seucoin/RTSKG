@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_47102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47102> <http://www.w3.org/2000/01/rdf-schema#label> "FOSTER RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_47102> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.201648 40.527646, -74.201968 40.528271, -74.202024 40.528385)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47102> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47102> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47102> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_204> .

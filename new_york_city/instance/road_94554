@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_94554> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94554> <http://www.w3.org/2000/01/rdf-schema#label> "ILYSSA WAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_94554> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.184098 40.560307, -74.184408 40.560276, -74.184657 40.560301, -74.18584 40.560182, -74.186232 40.560031, -74.186584 40.559997, -74.186661 40.5606, -74.186774 40.560798, -74.186864 40.561325)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94554> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_way> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94554> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94554> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_5> .

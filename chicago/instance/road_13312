@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_13312> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_13312> <http://www.w3.org/2000/01/rdf-schema#label> "SANGAMON" .
+<https://w3id.org/rtskg/chicago/instance/road_13312> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.647369 41.739654, -87.647366 41.739545, -87.647357 41.73929, -87.647351 41.739099, -87.647346 41.73892, -87.647338 41.738663, -87.647333 41.738462, -87.647326 41.738216, -87.647321 41.738059, -87.647318 41.737934, -87.647316 41.737839)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_13312> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_st> .
 <https://w3id.org/rtskg/chicago/instance/road_13312> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_4> .
 <https://w3id.org/rtskg/chicago/instance/road_13312> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_71> .

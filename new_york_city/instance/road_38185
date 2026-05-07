@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_38185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_38185> <http://www.w3.org/2000/01/rdf-schema#label> "DOUGLAS AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_38185> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.916847 40.887613, -73.916887 40.887898, -73.916906 40.888184, -73.916905 40.88847, -73.916883 40.888756, -73.916729 40.88946)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_38185> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_38185> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_38185> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_200> .

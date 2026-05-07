@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_108449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108449> <http://www.w3.org/2000/01/rdf-schema#label> "BLOOMINGDALE RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_108449> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.217675 40.53875, -74.217657 40.538982, -74.217647 40.539213, -74.217644 40.539445), (-74.217644 40.539445, -74.217649 40.539677, -74.21766 40.539908, -74.217679 40.54014))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108449> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108449> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108449> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_204> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_15348> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_15348> <http://www.w3.org/2000/01/rdf-schema#label> "LIBERTY AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_15348> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.790638 40.703086, -73.790483 40.703047, -73.790321 40.703021, -73.790156 40.703007, -73.789989 40.703008, -73.789825 40.703021, -73.789665 40.703048)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_15348> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_15348> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_15348> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_130> .

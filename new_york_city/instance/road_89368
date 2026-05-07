@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_89368> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89368> <http://www.w3.org/2000/01/rdf-schema#label> "E 222 ST PEDESTRIAN OPAS" .
+<https://w3id.org/rtskg/new_york_city/instance/road_89368> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.83423 40.874879, -73.834444 40.874887), (-73.834444 40.874887, -73.834502 40.874999, -73.834565 40.875109, -73.834634 40.875217), (-73.834634 40.875217, -73.834708 40.875323, -73.834787 40.875426, -73.834871 40.875528))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89368> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_opas> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89368> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89368> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_51> .

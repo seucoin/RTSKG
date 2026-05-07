@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_108582> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108582> <http://www.w3.org/2000/01/rdf-schema#label> "CATHERINE SLIP" .
+<https://w3id.org/rtskg/new_york_city/instance/road_108582> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.996387 40.709759, -73.996376 40.709715, -73.996337 40.709555, -73.996321 40.709494, -73.996259 40.70928, -73.996063 40.709213)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108582> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_slip> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108582> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108582> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_45> .

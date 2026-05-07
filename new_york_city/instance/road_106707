@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_106707> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106707> <http://www.w3.org/2000/01/rdf-schema#label> "OCEAN AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_106707> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.915181 40.563164, -73.915248 40.563079, -73.915308 40.562991, -73.915359 40.562899), (-73.915359 40.562899, -73.9154 40.562805, -73.915433 40.562709, -73.915456 40.562611), (-73.915456 40.562611, -73.915815 40.561412))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106707> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106707> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106707> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_27> .

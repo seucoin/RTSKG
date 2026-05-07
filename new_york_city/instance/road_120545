@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_120545> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120545> <http://www.w3.org/2000/01/rdf-schema#label> "MANOR CT" .
+<https://w3id.org/rtskg/new_york_city/instance/road_120545> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.140933 40.575746, -74.14268 40.575334), (-74.14268 40.575334, -74.142768 40.575313, -74.142857 40.575295, -74.142946 40.575279), (-74.142946 40.575279, -74.143037 40.575266, -74.143128 40.575255, -74.143219 40.575246))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120545> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ct> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120545> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120545> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_118> .

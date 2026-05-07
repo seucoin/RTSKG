@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_129737> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_129737> <http://www.w3.org/2000/01/rdf-schema#label> "HARLEM RIVER DR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_129737> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.934777 40.811607, -73.934684 40.812022, -73.934642 40.812268, -73.934624 40.812414, -73.934609 40.812531, -73.934563 40.813013, -73.934515 40.813506, -73.934484 40.813762, -73.934472 40.813863, -73.934464 40.813962)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_129737> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_129737> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_129737> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_74> .

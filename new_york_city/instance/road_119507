@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_119507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119507> <http://www.w3.org/2000/01/rdf-schema#label> "WILLOW RD W" .
+<https://w3id.org/rtskg/new_york_city/instance/road_119507> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.150691 40.619553, -74.151299 40.618939), (-74.151299 40.618939, -74.151525 40.618757, -74.15174 40.618567, -74.151945 40.618371), (-74.151945 40.618371, -74.152139 40.618168, -74.152321 40.617959, -74.152491 40.617745), (-74.152491 40.617745, -74.152607 40.617563))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119507> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119507> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119507> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_156> .

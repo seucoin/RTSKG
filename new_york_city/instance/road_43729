@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_43729> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_43729> <http://www.w3.org/2000/01/rdf-schema#label> "MORGAN AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_43729> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.93666 40.717446, -73.936703 40.717545, -73.936731 40.717608, -73.936849 40.71788, -73.936889 40.71797, -73.936949 40.71811)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_43729> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_43729> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_43729> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_80> .

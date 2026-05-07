@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_128836> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_128836> <http://www.w3.org/2000/01/rdf-schema#label> "NEW ENGLAND THRUWAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_128836> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.833695 40.870459, -73.833815 40.870753, -73.834054 40.871338, -73.834237 40.871786, -73.834338 40.872035, -73.83446 40.87237, -73.834567 40.872707, -73.83466 40.873047, -73.834739 40.873389, -73.834803 40.873733)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_128836> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_trwy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_128836> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_128836> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_51> .

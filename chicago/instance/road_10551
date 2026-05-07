@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_10551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_10551> <http://www.w3.org/2000/01/rdf-schema#label> "LAVERGNE" .
+<https://w3id.org/rtskg/chicago/instance/road_10551> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.749182 41.874018, -87.749177 41.873899, -87.74917 41.87371, -87.749165 41.873564, -87.749163 41.873519, -87.749157 41.873363, -87.749145 41.873027)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_10551> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_10551> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_3> .
 <https://w3id.org/rtskg/chicago/instance/road_10551> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_25> .

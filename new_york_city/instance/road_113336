@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_113336> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113336> <http://www.w3.org/2000/01/rdf-schema#label> "MAGNOLIA WALK" .
+<https://w3id.org/rtskg/new_york_city/instance/road_113336> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.828036 40.75024, -73.827435 40.75008), (-73.827435 40.75008, -73.827248 40.75003, -73.827059 40.749985, -73.826869 40.749943), (-73.826869 40.749943, -73.826723 40.749923, -73.826575 40.749906, -73.826427 40.749892), (-73.826427 40.749892, -73.825975 40.749863))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113336> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_walk> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113336> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113336> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_92> .

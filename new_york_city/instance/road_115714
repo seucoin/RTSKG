@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_115714> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115714> <http://www.w3.org/2000/01/rdf-schema#label> "HIGHLAND PARK GREENWAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_115714> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.893248 40.685648, -73.893219 40.685716, -73.893189 40.685783, -73.893155 40.68585), (-73.893155 40.68585, -73.893068 40.68601, -73.892969 40.686166, -73.892859 40.686318))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115714> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115714> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_96> .

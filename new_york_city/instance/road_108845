@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_108845> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108845> <http://www.w3.org/2000/01/rdf-schema#label> "SANDS STREET BIKE PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_108845> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.984825 40.699863, -73.985315 40.699936), (-73.985315 40.699936, -73.985412 40.699949, -73.98551 40.699959, -73.985609 40.699966), (-73.985609 40.699966, -73.986183 40.699988, -73.986238 40.699909))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108845> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108845> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108845> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_66> .

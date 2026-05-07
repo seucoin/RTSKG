@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_90327> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_90327> <http://www.w3.org/2000/01/rdf-schema#label> "STAFF ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_90327> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.930998 40.866818, -73.930903 40.866982, -73.93079 40.86714, -73.93066 40.867292, -73.930513 40.867435, -73.930351 40.867569, -73.930177 40.867691, -73.929991 40.867801)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_90327> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_90327> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_90327> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_243> .

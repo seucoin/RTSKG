@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_89669> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89669> <http://www.w3.org/2000/01/rdf-schema#label> "BEVERLY RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_89669> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.832372 40.708334, -73.832324 40.708232, -73.832256 40.708133, -73.832168 40.70804, -73.832062 40.707957, -73.831942 40.707887, -73.831811 40.707832, -73.831674 40.707791, -73.831535 40.707767, -73.831166 40.707663)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89669> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89669> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89669> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_134> .

@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_98356> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_98356> <http://www.w3.org/2000/01/rdf-schema#label> "ALLEY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_98356> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.918853 40.616192, -73.91891 40.616189, -73.919261 40.616172, -73.919286 40.616188, -73.9193 40.616317, -73.919319 40.616497, -73.919339 40.616687)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_98356> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_98356> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_91> .

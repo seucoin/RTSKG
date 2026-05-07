@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_78402> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78402> <http://www.w3.org/2000/01/rdf-schema#label> "RUMSON RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_78402> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.159673 40.577391, -74.160401 40.576942, -74.160495 40.576887, -74.160579 40.576821, -74.160649 40.576746, -74.160703 40.576665, -74.160739 40.576579, -74.160347 40.576158)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78402> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78402> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78402> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_118> .

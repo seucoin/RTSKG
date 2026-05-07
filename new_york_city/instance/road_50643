@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_50643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50643> <http://www.w3.org/2000/01/rdf-schema#label> "TENNYSON DR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_50643> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.149299 40.53504, -74.149417 40.53499, -74.14953 40.534933, -74.149637 40.53487), (-74.149637 40.53487, -74.149738 40.534801, -74.149832 40.534726, -74.149918 40.534647))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50643> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50643> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50643> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_109> .

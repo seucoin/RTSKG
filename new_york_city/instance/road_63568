@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_63568> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_63568> <http://www.w3.org/2000/01/rdf-schema#label> "BELT PARKWAY EB EN 135 AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_63568> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.734944 40.672365, -73.735059 40.672464, -73.735088 40.672534, -73.735096 40.672638, -73.735079 40.672717, -73.735035 40.672843)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_63568> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_63568> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_203> .

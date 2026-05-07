@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_107133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107133> <http://www.w3.org/2000/01/rdf-schema#label> "DELANCEY ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_107133> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.979217 40.71541, -73.979056 40.71536, -73.978699 40.715252, -73.978657 40.715239, -73.978585 40.715218, -73.978486 40.715187, -73.978379 40.715155)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107133> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107133> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107133> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_232> .

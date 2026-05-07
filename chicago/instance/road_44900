@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_44900> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_44900> <http://www.w3.org/2000/01/rdf-schema#label> "LARRABEE" .
+<https://w3id.org/rtskg/chicago/instance/road_44900> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.643431 41.911018, -87.64345 41.911636, -87.64346 41.911876, -87.64347 41.912166, -87.643479 41.912456, -87.64349 41.91281)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_44900> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_st> .
 <https://w3id.org/rtskg/chicago/instance/road_44900> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_6> .
 <https://w3id.org/rtskg/chicago/instance/road_44900> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_7> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_86614> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86614> <http://www.w3.org/2000/01/rdf-schema#label> "ELLWELL CRES" .
+<https://w3id.org/rtskg/new_york_city/instance/road_86614> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.862267 40.720419, -73.861981 40.720336, -73.861685 40.720266, -73.861381 40.720213, -73.861072 40.720176, -73.860759 40.720155, -73.860445 40.720152, -73.860132 40.720166, -73.859823 40.720196, -73.859519 40.720243, -73.859224 40.720304)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86614> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_cres> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86614> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86614> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_196> .

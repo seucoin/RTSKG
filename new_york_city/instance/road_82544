@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_82544> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_82544> <http://www.w3.org/2000/01/rdf-schema#label> "FRESH MEADOW LN" .
+<https://w3id.org/rtskg/new_york_city/instance/road_82544> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.793928 40.732008, -73.793886 40.73199, -73.793835 40.731983, -73.793782 40.731987, -73.793735 40.732004, -73.793699 40.732028)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_82544> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ln> .
 <https://w3id.org/rtskg/new_york_city/instance/road_82544> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_82544> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_98> .

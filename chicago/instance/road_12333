@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_12333> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_12333> <http://www.w3.org/2000/01/rdf-schema#label> "COTTAGE GROVE" .
+<https://w3id.org/rtskg/chicago/instance/road_12333> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.60593 41.78041, -87.605928 41.780338, -87.605924 41.780166, -87.605922 41.780043, -87.60592 41.779958, -87.605917 41.779804, -87.605914 41.779624, -87.605909 41.779436, -87.605904 41.779195, -87.6059 41.779014, -87.605894 41.778781, -87.60589 41.778594)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_12333> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_12333> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_5> .
 <https://w3id.org/rtskg/chicago/instance/road_12333> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_42> .

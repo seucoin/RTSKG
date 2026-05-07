@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_48081> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_48081> <http://www.w3.org/2000/01/rdf-schema#label> "VYSE AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_48081> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.888938 40.831806, -73.888885 40.831894, -73.888677 40.832241, -73.888636 40.83231, -73.888492 40.832549, -73.888453 40.832614, -73.88826 40.832937, -73.887949 40.833455)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_48081> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_48081> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_48081> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_60> .

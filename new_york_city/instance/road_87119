@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_87119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87119> <http://www.w3.org/2000/01/rdf-schema#label> "30 AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_87119> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.782637 40.772471, -73.78247 40.772502, -73.782306 40.772551, -73.782149 40.772617, -73.782005 40.772698, -73.781877 40.772792, -73.781768 40.772898, -73.781679 40.77301, -73.781605 40.773097, -73.781513 40.773176, -73.781407 40.773245, -73.781288 40.773303, -73.781162 40.773346, -73.781031 40.773375)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87119> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87119> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87119> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_16> .

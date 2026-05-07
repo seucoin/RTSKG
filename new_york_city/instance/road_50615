@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_50615> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50615> <http://www.w3.org/2000/01/rdf-schema#label> "JANSEN ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_50615> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.179494 40.528301, -74.17958 40.528248, -74.179656 40.528185, -74.179721 40.528115, -74.179771 40.528038, -74.179806 40.527958, -74.179837 40.527862, -74.179888 40.527769, -74.179957 40.527682, -74.180042 40.527603, -74.180141 40.527537, -74.180249 40.527483)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50615> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50615> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50615> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_84> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_62903> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62903> <http://www.w3.org/2000/01/rdf-schema#label> "REGAL WALK" .
+<https://w3id.org/rtskg/new_york_city/instance/road_62903> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.168143 40.622085, -74.168012 40.622001, -74.16787 40.621927, -74.167719 40.621864, -74.167559 40.621813, -74.167394 40.621774, -74.167227 40.621749, -74.166804 40.621596, -74.166482 40.621592, -74.165103 40.621188)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62903> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_walk> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62903> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62903> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_156> .

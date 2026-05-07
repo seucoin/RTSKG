@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_12615> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_12615> <http://www.w3.org/2000/01/rdf-schema#label> "CORNELIA" .
+<https://w3id.org/rtskg/chicago/instance/road_12615> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.826554 41.943057, -87.826746 41.943053, -87.826872 41.94305, -87.826951 41.943049, -87.827124 41.943045, -87.827161 41.943045, -87.827266 41.943042, -87.827439 41.943039, -87.827582 41.943036, -87.827753 41.943032)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_12615> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_12615> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_3> .
 <https://w3id.org/rtskg/chicago/instance/road_12615> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_17> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_94133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94133> <http://www.w3.org/2000/01/rdf-schema#label> "ESMAC CT W" .
+<https://w3id.org/rtskg/new_york_city/instance/road_94133> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.105952 40.595011, -74.105855 40.594948, -74.105762 40.594881, -74.105671 40.594813), (-74.105671 40.594813, -74.105583 40.594742, -74.105499 40.594669, -74.105418 40.594594))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94133> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ct> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94133> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94133> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_118> .

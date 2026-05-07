@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_60903> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_60903> <http://www.w3.org/2000/01/rdf-schema#label> "3 AVE BRIDGE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_60903> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.93492 40.806687, -73.934822 40.806682, -73.934723 40.806685, -73.934625 40.806695), (-73.934625 40.806695, -73.934529 40.806711, -73.934435 40.806735, -73.934345 40.806765))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_60903> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_60903> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_60903> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_74> .

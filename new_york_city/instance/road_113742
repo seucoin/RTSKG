@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_113742> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113742> <http://www.w3.org/2000/01/rdf-schema#label> "JFK TERMINAL 4 ACCESS ROAD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_113742> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.78676 40.644565, -73.786714 40.644541, -73.786671 40.644514, -73.786632 40.644484, -73.786595 40.644452, -73.786562 40.644418, -73.786533 40.644382, -73.786508 40.644344, -73.786488 40.644304, -73.786471 40.644264, -73.78646 40.644222), (-73.78646 40.644222, -73.786124 40.643493))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113742> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113742> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113742> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_132> .

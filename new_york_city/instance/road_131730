@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_131730> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_131730> <http://www.w3.org/2000/01/rdf-schema#label> "PULASKI BRG" .
+<https://w3id.org/rtskg/new_york_city/instance/road_131730> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.952801 40.736099, -73.95283 40.736286, -73.952874 40.736501, -73.952914 40.736758, -73.952922 40.736811)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_131730> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_brg> .
 <https://w3id.org/rtskg/new_york_city/instance/road_131730> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_131730> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_112> .

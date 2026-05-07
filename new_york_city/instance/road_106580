@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_106580> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106580> <http://www.w3.org/2000/01/rdf-schema#label> "PARKCHESTER RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_106580> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.85991 40.835602, -73.859839 40.835697, -73.859774 40.835795, -73.859717 40.835896), (-73.859717 40.835896, -73.859668 40.835999, -73.859626 40.836103, -73.859591 40.83621))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106580> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106580> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106580> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_182> .

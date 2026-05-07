@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_121632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121632> <http://www.w3.org/2000/01/rdf-schema#label> "HAMILTON AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_121632> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.998267 40.67174, -73.998188 40.671622, -73.998027 40.671379, -73.99776 40.670931, -73.99765 40.670747, -73.997499 40.670494, -73.997436 40.670387, -73.997418 40.670357)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121632> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121632> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121632> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_106> .

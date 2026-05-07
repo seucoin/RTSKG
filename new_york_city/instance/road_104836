@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_104836> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104836> <http://www.w3.org/2000/01/rdf-schema#label> "MANHATTAN CRUISE TERMINAL RAMP" .
+<https://w3id.org/rtskg/new_york_city/instance/road_104836> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.996105 40.768737, -73.996047 40.768652), (-73.996047 40.768652, -73.996036 40.768626, -73.996029 40.768599, -73.996025 40.768572, -73.996024 40.768545, -73.996026 40.768517, -73.996032 40.76849), (-73.996032 40.76849, -73.996061 40.768401))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104836> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ramp> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104836> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104836> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_50> .

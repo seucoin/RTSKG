@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_106014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106014> <http://www.w3.org/2000/01/rdf-schema#label> "PUGSLEY AVE PEDESTRIAN OPAS" .
+<https://w3id.org/rtskg/new_york_city/instance/road_106014> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.856118 40.825945, -73.85607 40.825705, -73.856111 40.8257, -73.856198 40.826049)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106014> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_opas> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106014> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106014> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_213> .

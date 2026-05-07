@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_27224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_27224> <http://www.w3.org/2000/01/rdf-schema#label> "GLENWOOD ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_27224> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.731349 40.77005, -73.731313 40.76996, -73.731259 40.769873, -73.731186 40.769792, -73.731098 40.769721, -73.730998 40.769662, -73.73089 40.769616, -73.729558 40.769273)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_27224> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_27224> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_27224> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_64> .

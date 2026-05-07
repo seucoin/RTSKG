@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_110752> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110752> <http://www.w3.org/2000/01/rdf-schema#label> "UTICA ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_110752> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.206617 40.524663, -74.207186 40.524596, -74.207361 40.524579, -74.207758 40.524541, -74.208331 40.524499, -74.208457 40.524516, -74.208587 40.524519, -74.208717 40.524506, -74.208842 40.524479, -74.208959 40.524438)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110752> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110752> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110752> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_84> .

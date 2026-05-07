@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_58441> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_58441> <http://www.w3.org/2000/01/rdf-schema#label> "JENNINGS ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_58441> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.898844 40.831759, -73.898182 40.831825, -73.898106 40.831833, -73.898049 40.831839, -73.897892 40.831854, -73.897702 40.831873, -73.897633 40.83188, -73.897548 40.831889, -73.897415 40.831902, -73.897342 40.831909, -73.897274 40.831916, -73.896693 40.831974)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_58441> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_58441> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_58441> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_167> .

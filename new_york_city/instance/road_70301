@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_70301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70301> <http://www.w3.org/2000/01/rdf-schema#label> "BRUCKNER BL NB EN HAVEMEYER AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_70301> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.847081 40.828376, -73.84702 40.828322, -73.846939 40.828277, -73.846841 40.828245, -73.846732 40.828233, -73.846622 40.828241, -73.846522 40.828269, -73.846438 40.828312, -73.846374 40.828362)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70301> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70301> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_250> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70301> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_345> .

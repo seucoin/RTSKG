@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_64811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64811> <http://www.w3.org/2000/01/rdf-schema#label> "BARLOW DR S" .
+<https://w3id.org/rtskg/new_york_city/instance/road_64811> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.90484 40.609125, -73.904911 40.60899, -73.905 40.608859, -73.905109 40.608735, -73.905235 40.608618, -73.905378 40.608513, -73.905533 40.608419, -73.905699 40.608339, -73.905873 40.608274, -73.906051 40.608223)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64811> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64811> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64811> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_155> .

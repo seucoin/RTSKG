@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_110342> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110342> <http://www.w3.org/2000/01/rdf-schema#label> "ARTHUR KILL RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_110342> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.169827 40.561099, -74.170042 40.561125, -74.170256 40.561154, -74.170469 40.561185), (-74.170469 40.561185, -74.170681 40.561219, -74.170893 40.561255, -74.171105 40.561293), (-74.171105 40.561293, -74.171252 40.561328, -74.17151 40.561406, -74.171779 40.561501))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110342> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110342> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110342> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_99> .

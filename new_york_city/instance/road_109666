@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_109666> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109666> <http://www.w3.org/2000/01/rdf-schema#label> "ST ALBANS COMM LIV CTR DRIVEWAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_109666> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.770403 40.691044, -73.77046 40.691054, -73.770518 40.691059, -73.770577 40.69106), (-73.770577 40.69106, -73.770636 40.691057, -73.770694 40.691049, -73.77075 40.691037))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109666> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109666> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_205> .

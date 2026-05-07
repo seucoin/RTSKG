@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_54845> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54845> <http://www.w3.org/2000/01/rdf-schema#label> "PLAZA ST E" .
+<https://w3id.org/rtskg/new_york_city/instance/road_54845> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.969 40.674721, -73.968913 40.674572, -73.96884 40.674417, -73.968783 40.674259, -73.968743 40.674097, -73.968719 40.673935)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54845> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54845> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_189> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54845> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_185> .

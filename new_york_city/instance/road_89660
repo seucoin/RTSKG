@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_89660> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89660> <http://www.w3.org/2000/01/rdf-schema#label> "GAYLORD DR S" .
+<https://w3id.org/rtskg/new_york_city/instance/road_89660> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.905725 40.609362, -73.905781 40.60926, -73.90586 40.609163, -73.905959 40.609076, -73.906075 40.609002, -73.906203 40.608943, -73.906338 40.608902, -73.906505 40.608883, -73.906677 40.60888, -73.90685 40.608893, -73.90702 40.608922, -73.907183 40.608967, -73.907337 40.609026, -73.907477 40.609098)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89660> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89660> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89660> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_155> .

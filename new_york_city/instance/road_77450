@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_77450> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_77450> <http://www.w3.org/2000/01/rdf-schema#label> "SUNRISE TER" .
+<https://w3id.org/rtskg/new_york_city/instance/road_77450> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.085704 40.628656, -74.085761 40.62866, -74.085818 40.628659, -74.085875 40.628655, -74.085931 40.628646, -74.085986 40.628634), (-74.085986 40.628634, -74.086039 40.628617, -74.08609 40.628597, -74.086138 40.628574, -74.086183 40.628547, -74.086225 40.628517), (-74.086225 40.628517, -74.086498 40.628033))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_77450> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ter> .
 <https://w3id.org/rtskg/new_york_city/instance/road_77450> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_77450> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_115> .

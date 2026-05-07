@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_80047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_80047> <http://www.w3.org/2000/01/rdf-schema#label> "SUNSET TRL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_80047> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.811467 40.813343, -73.811686 40.813323, -73.811905 40.813319, -73.812124 40.813333), (-73.812124 40.813333, -73.812341 40.813363, -73.812552 40.81341, -73.812755 40.813472))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_80047> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_trl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_80047> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_80047> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_208> .

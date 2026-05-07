@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_102366> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102366> <http://www.w3.org/2000/01/rdf-schema#label> "145 ST BRIDGE PED AND BIKE PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_102366> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.933832 40.819605, -73.934066 40.819642, -73.934222 40.8197, -73.934317 40.81974)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102366> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102366> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102366> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_42> .

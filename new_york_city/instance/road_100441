@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_100441> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100441> <http://www.w3.org/2000/01/rdf-schema#label> "SNUG HARBOR GREENWAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_100441> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.10413 40.645521, -74.104127 40.645551, -74.103714 40.645564, -74.103126 40.645558, -74.102716 40.645529, -74.102461 40.645492, -74.102105 40.645417, -74.101966 40.645387, -74.101714 40.645314, -74.101751 40.645254)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100441> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100441> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_206> .

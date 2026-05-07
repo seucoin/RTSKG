@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_36142> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36142> <http://www.w3.org/2000/01/rdf-schema#label> "NEPTUNE AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_36142> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.967875 40.580385, -73.969086 40.580149, -73.970444 40.579899), (-73.970444 40.579899, -73.970672 40.579878, -73.9709 40.579864, -73.97113 40.579856), (-73.97113 40.579856, -73.971359 40.579855, -73.971588 40.579859, -73.971817 40.57987))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36142> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36142> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36142> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_55> .

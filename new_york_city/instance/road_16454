@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_16454> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_16454> <http://www.w3.org/2000/01/rdf-schema#label> "WESTGATE ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_16454> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.763678 40.674754, -73.763647 40.674757, -73.763616 40.674758, -73.763585 40.674757, -73.763555 40.674754, -73.763524 40.674748), (-73.763524 40.674748, -73.763495 40.67474, -73.763467 40.674731, -73.76344 40.674719, -73.763415 40.674705, -73.763392 40.674689))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_16454> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_16454> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_16454> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_205> .

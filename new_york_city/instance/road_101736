@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_101736> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101736> <http://www.w3.org/2000/01/rdf-schema#label> "FORT WASHINGTON PARK GREENWAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_101736> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.931889 40.866956, -73.931804 40.866978, -73.931717 40.866995, -73.931628 40.867006, -73.931538 40.867011, -73.931448 40.867009, -73.931358 40.867002, -73.93127 40.866988, -73.931183 40.866969, -73.931099 40.866944), (-73.931099 40.866944, -73.930998 40.866818))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101736> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101736> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_243> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101736> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_399> .

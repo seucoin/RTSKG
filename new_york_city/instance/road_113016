@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_113016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113016> <http://www.w3.org/2000/01/rdf-schema#label> "W 155 STREET PEDESTRIAN OPAS" .
+<https://w3id.org/rtskg/new_york_city/instance/road_113016> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.949339 40.834285, -73.949436 40.8343, -73.949581 40.834323, -73.949581 40.834323, -73.949553 40.834419)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113016> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_opas> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113016> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113016> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_116> .

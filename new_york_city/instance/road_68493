@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_68493> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68493> <http://www.w3.org/2000/01/rdf-schema#label> "MANOR RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_68493> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.753584 40.77596, -73.753496 40.776003, -73.753398 40.776035, -73.753294 40.776053, -73.753188 40.776058, -73.753084 40.776049)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68493> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68493> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68493> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_64> .

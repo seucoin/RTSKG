@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_118559> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118559> <http://www.w3.org/2000/01/rdf-schema#label> "MARINETTE ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_118559> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.750845 40.782502, -73.750761 40.782512, -73.750671 40.782507, -73.750584 40.782485, -73.750505 40.782448, -73.750442 40.7824, -73.750398 40.782345)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118559> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118559> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118559> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_64> .

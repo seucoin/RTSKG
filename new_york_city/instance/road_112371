@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_112371> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112371> <http://www.w3.org/2000/01/rdf-schema#label> "HECKSCHER BALLFIELDS PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_112371> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.976858 40.769169, -73.976972 40.76927, -73.977097 40.769363, -73.977231 40.769449, -73.977374 40.769525), (-73.977374 40.769525, -73.977524 40.769593, -73.977682 40.769651, -73.977845 40.769699, -73.978012 40.769737), (-73.978012 40.769737, -73.978286 40.770175))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112371> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112371> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112371> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_43> .

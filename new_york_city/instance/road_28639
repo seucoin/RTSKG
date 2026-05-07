@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_28639> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_28639> <http://www.w3.org/2000/01/rdf-schema#label> "PENELOPE AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_28639> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.877942 40.717906, -73.877614 40.718059, -73.877563 40.718082, -73.877512 40.718106, -73.877141 40.718278)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_28639> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_28639> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_28639> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_160> .

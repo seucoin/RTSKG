@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_108049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108049> <http://www.w3.org/2000/01/rdf-schema#label> "DAFFODIL HILL WAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_108049> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.877679 40.858986, -73.877716 40.859006, -73.877755 40.859024, -73.877796 40.859038), (-73.877796 40.859038, -73.877839 40.859049, -73.877884 40.859057, -73.877929 40.859061))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108049> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_way> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108049> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108049> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_31> .

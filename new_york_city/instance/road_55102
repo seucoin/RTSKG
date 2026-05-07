@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_55102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_55102> <http://www.w3.org/2000/01/rdf-schema#label> "VANDERBILT AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_55102> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.969796 40.674609, -73.969721 40.674508), (-73.969721 40.674508, -73.96969 40.674458, -73.969662 40.674407, -73.96964 40.674355), (-73.96964 40.674355, -73.969585 40.67417, -73.969603 40.674056, -73.969604 40.674055))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_55102> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_55102> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_55102> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_181> .

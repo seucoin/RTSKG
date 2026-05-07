@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_100203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100203> <http://www.w3.org/2000/01/rdf-schema#label> "CROSS ISLAND PKWY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_100203> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.808908 40.786226, -73.808461 40.786115), (-73.808461 40.786115, -73.808236 40.786078, -73.808012 40.786038, -73.80779 40.785993), (-73.80779 40.785993, -73.807569 40.785943, -73.807349 40.78589, -73.807132 40.785833))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100203> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pkwy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100203> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100203> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_252> .

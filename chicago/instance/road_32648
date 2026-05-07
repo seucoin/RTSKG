@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_32648> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_32648> <http://www.w3.org/2000/01/rdf-schema#label> "CORTLAND" .
+<https://w3id.org/rtskg/chicago/instance/road_32648> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.802284 41.914402, -87.80256 41.914399, -87.802867 41.914396, -87.802968 41.914394, -87.803249 41.914391, -87.803293 41.914391, -87.803586 41.914388, -87.803785 41.914385, -87.803938 41.914384, -87.804115 41.914381)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_32648> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_st> .
 <https://w3id.org/rtskg/chicago/instance/road_32648> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_3> .
 <https://w3id.org/rtskg/chicago/instance/road_32648> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_25> .

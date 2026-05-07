@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_61748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61748> <http://www.w3.org/2000/01/rdf-schema#label> "EDWARD L GRANT HWY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_61748> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.921713 40.838926, -73.921611 40.839081, -73.921528 40.839243, -73.921465 40.839412, -73.921424 40.839585, -73.921405 40.839759, -73.921408 40.839932, -73.921431 40.84003, -73.921468 40.840126, -73.921518 40.840219, -73.92158 40.840306)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61748> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_hwy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61748> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61748> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_119> .

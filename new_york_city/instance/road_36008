@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_36008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36008> <http://www.w3.org/2000/01/rdf-schema#label> "DEAN ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_36008> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.935997 40.676128, -73.93576 40.676115, -73.935675 40.676111, -73.935358 40.676093, -73.93527 40.676089, -73.935037 40.676076, -73.93495 40.676071, -73.934686 40.676057, -73.934602 40.676052, -73.934462 40.676044, -73.934364 40.676039, -73.934122 40.676026, -73.934035 40.676021, -73.933227 40.675977)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36008> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36008> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36008> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_61> .

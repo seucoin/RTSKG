@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_11666> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_11666> <http://www.w3.org/2000/01/rdf-schema#label> "FLOURNOY" .
+<https://w3id.org/rtskg/chicago/instance/road_11666> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.67888 41.873237, -87.679412 41.873228, -87.679643 41.873225, -87.679943 41.87322, -87.68036 41.873213, -87.680816 41.873206, -87.681323 41.873199)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_11666> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_st> .
 <https://w3id.org/rtskg/chicago/instance/road_11666> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_6> .
 <https://w3id.org/rtskg/chicago/instance/road_11666> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_28> .

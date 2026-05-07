@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_111449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111449> <http://www.w3.org/2000/01/rdf-schema#label> "MUNDY LN" .
+<https://w3id.org/rtskg/new_york_city/instance/road_111449> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.840655 40.901412, -73.8407 40.901485, -73.840742 40.90156, -73.84078 40.901636), (-73.84078 40.901636, -73.840813 40.901713, -73.840842 40.901792, -73.840867 40.901871), (-73.840867 40.901871, -73.841022 40.902822))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111449> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ln> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111449> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111449> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_259> .

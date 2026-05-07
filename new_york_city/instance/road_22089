@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_22089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_22089> <http://www.w3.org/2000/01/rdf-schema#label> "LAUREL HILL BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_22089> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.926035 40.731824, -73.926412 40.731239, -73.926776 40.730676, -73.926866 40.730498, -73.926979 40.730325, -73.927116 40.730159, -73.927274 40.730001, -73.927453 40.729856, -73.92765 40.729724, -73.927861 40.729609, -73.928084 40.72951, -73.928315 40.729429, -73.928551 40.729367)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_22089> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_22089> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_22089> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_226> .

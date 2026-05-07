@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_44777> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_44777> <http://www.w3.org/2000/01/rdf-schema#label> "VICTORY BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_44777> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.088905 40.6303, -74.089011 40.63024, -74.089109 40.630172, -74.089199 40.630096, -74.089277 40.630014, -74.089344 40.629928, -74.090527 40.628147, -74.090585 40.62806, -74.091595 40.626567)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_44777> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_44777> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_44777> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_245> .

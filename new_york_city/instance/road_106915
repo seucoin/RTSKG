@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_106915> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106915> <http://www.w3.org/2000/01/rdf-schema#label> "NURSERY PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_106915> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.191319 40.585713, -74.19077 40.585136, -74.189876 40.585621, -74.189074 40.586096, -74.188407 40.586439, -74.187882 40.58669, -74.18653 40.587219, -74.185387 40.587608)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106915> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106915> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106915> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_23> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_57481> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_57481> <http://www.w3.org/2000/01/rdf-schema#label> "WINDY HOLLOW WAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_57481> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.109147 40.585963, -74.109868 40.586599), (-74.109868 40.586599, -74.10993 40.586623, -74.109994 40.586643, -74.11006 40.586659, -74.110128 40.586669), (-74.110128 40.586669, -74.110196 40.586675, -74.110266 40.586677, -74.110335 40.586673, -74.110403 40.586665))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_57481> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_way> .
 <https://w3id.org/rtskg/new_york_city/instance/road_57481> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_57481> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_118> .

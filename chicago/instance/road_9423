@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_9423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_9423> <http://www.w3.org/2000/01/rdf-schema#label> "56TH" .
+<https://w3id.org/rtskg/chicago/instance/road_9423> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.622419 41.792904, -87.622115 41.792911, -87.621608 41.792918, -87.6215 41.79292, -87.620919 41.792927, -87.620801 41.792924)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_9423> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_st> .
 <https://w3id.org/rtskg/chicago/instance/road_9423> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_5> .
 <https://w3id.org/rtskg/chicago/instance/road_9423> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_40> .

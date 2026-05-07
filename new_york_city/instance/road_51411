@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_51411> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_51411> <http://www.w3.org/2000/01/rdf-schema#label> "GOLD ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_51411> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.982852 40.701367, -73.98293 40.701283, -73.982942 40.701089, -73.982947 40.701004, -73.982971 40.700596, -73.982993 40.700231, -73.982998 40.700149, -73.983011 40.699846)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_51411> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_51411> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_51411> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_66> .

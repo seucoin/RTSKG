@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_88518> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_88518> <http://www.w3.org/2000/01/rdf-schema#label> "AVON RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_88518> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.782518 40.720298, -73.782329 40.720648, -73.782213 40.72077, -73.782113 40.720903, -73.782033 40.721046, -73.781974 40.721196, -73.781939 40.72135, -73.781926 40.721506, -73.781937 40.721659, -73.78197 40.721807)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_88518> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_88518> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_88518> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_131> .

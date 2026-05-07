@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_107971> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107971> <http://www.w3.org/2000/01/rdf-schema#label> "WILD AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_107971> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.193152 40.585745, -74.195111 40.585814, -74.195428 40.585844, -74.195748 40.585861, -74.196069 40.585866, -74.196389 40.585858, -74.196708 40.585837, -74.196858 40.585822, -74.197025 40.585805, -74.197566 40.586786, -74.198484 40.587129)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107971> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107971> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107971> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_23> .

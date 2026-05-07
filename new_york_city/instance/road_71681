@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_71681> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_71681> <http://www.w3.org/2000/01/rdf-schema#label> "J ROBINSON PY EB EN HIGHLAND BL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_71681> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.89627 40.680635, -73.896456 40.681587), (-73.896456 40.681587, -73.896467 40.681654, -73.896476 40.681722, -73.896483 40.681789), (-73.896483 40.681789, -73.896488 40.681857, -73.896491 40.681924, -73.896492 40.681992))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_71681> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_71681> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_63> .
 <https://w3id.org/rtskg/new_york_city/instance/road_71681> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_223> .

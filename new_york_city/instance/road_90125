@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_90125> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_90125> <http://www.w3.org/2000/01/rdf-schema#label> "SHORTHILL RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_90125> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.840672 40.712049, -73.840518 40.712188, -73.840374 40.712335, -73.840243 40.712487, -73.840124 40.712645, -73.840039 40.712766, -73.839973 40.712896, -73.839928 40.713031, -73.839905 40.71317, -73.839904 40.713309, -73.839926 40.713445)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_90125> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_90125> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_90125> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_95> .

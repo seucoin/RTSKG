@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_112189> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112189> <http://www.w3.org/2000/01/rdf-schema#label> "HAY RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_112189> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.018862 40.691823, -74.018816 40.691766), (-74.018816 40.691766, -74.018819 40.691687, -74.018818 40.691607, -74.018812 40.691528), (-74.018812 40.691528, -74.018798 40.691431, -74.018776 40.691336, -74.018748 40.691241))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112189> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112189> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112189> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_105> .

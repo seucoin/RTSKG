@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_107189> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107189> <http://www.w3.org/2000/01/rdf-schema#label> "KENNY RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_107189> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.21807 40.509671, -74.218113 40.509768, -74.218773 40.510541, -74.218991 40.510834, -74.219167 40.511146, -74.219632 40.511941)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107189> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107189> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107189> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_84> .

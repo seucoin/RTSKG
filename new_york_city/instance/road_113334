@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_113334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113334> <http://www.w3.org/2000/01/rdf-schema#label> "CIRCLE GARDEN PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_113334> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.826129 40.750219, -73.826145 40.750219, -73.826161 40.75022, -73.826177 40.750223, -73.826192 40.750226, -73.826207 40.75023), (-73.826207 40.75023, -73.826222 40.750235, -73.826236 40.750241, -73.826249 40.750248, -73.826262 40.750256, -73.826273 40.750264))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113334> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113334> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113334> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_92> .

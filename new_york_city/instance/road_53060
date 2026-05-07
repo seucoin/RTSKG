@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_53060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53060> <http://www.w3.org/2000/01/rdf-schema#label> "SAND LN" .
+<https://w3id.org/rtskg/new_york_city/instance/road_53060> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.072398 40.598666, -74.072317 40.598676, -74.072231 40.598673, -74.072146 40.598657, -74.072067 40.598628, -74.072067 40.598628, -74.072067 40.598628, -74.071998 40.598589, -74.071943 40.598542)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53060> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ln> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53060> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53060> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_6> .

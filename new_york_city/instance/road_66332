@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_66332> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66332> <http://www.w3.org/2000/01/rdf-schema#label> "DUMONT AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_66332> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.905524 40.664675, -73.904969 40.664756, -73.904829 40.664776, -73.904699 40.664795, -73.904097 40.664883, -73.903982 40.6649, -73.903745 40.664934, -73.903367 40.664989, -73.903255 40.665006, -73.903036 40.665038, -73.902803 40.665071)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66332> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66332> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66332> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_35> .

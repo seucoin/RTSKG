@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_117541> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117541> <http://www.w3.org/2000/01/rdf-schema#label> "VLEIGH PL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_117541> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.820651 40.719429, -73.820703 40.719358), (-73.820703 40.719358, -73.820706 40.719302, -73.820712 40.719246, -73.820721 40.71919), (-73.820721 40.71919, -73.820733 40.719135, -73.820747 40.71908, -73.820764 40.719026))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117541> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117541> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117541> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_135> .

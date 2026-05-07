@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_115052> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115052> <http://www.w3.org/2000/01/rdf-schema#label> "DITMARS BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_115052> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.873475 40.770812, -73.873095 40.770917, -73.872919 40.770967, -73.872733 40.771001, -73.872539 40.771019, -73.872342 40.77102, -73.872145 40.771004, -73.871953 40.77097, -73.871769 40.770919, -73.871597 40.770854, -73.87144 40.770777, -73.870736 40.770355)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115052> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115052> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115052> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_70> .

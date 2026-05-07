@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_70598> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70598> <http://www.w3.org/2000/01/rdf-schema#label> "SHELL RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_70598> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.974522 40.582516, -73.974573 40.582415, -73.974936 40.582019, -73.975883 40.581248, -73.975948 40.581187, -73.976 40.581118, -73.976039 40.581045, -73.976064 40.580969, -73.976133 40.579899)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70598> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70598> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70598> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_55> .

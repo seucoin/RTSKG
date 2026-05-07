@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_51931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_51931> <http://www.w3.org/2000/01/rdf-schema#label> "STATEN IS EP EB EN LAMBERTS LA" .
+<https://w3id.org/rtskg/new_york_city/instance/road_51931> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.159757 40.615507, -74.159738 40.615444, -74.159711 40.615383, -74.159677 40.615325, -74.159636 40.615269), (-74.159636 40.615269, -74.159588 40.615216, -74.159534 40.615167, -74.159474 40.615121, -74.159409 40.615081))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_51931> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_51931> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_23> .

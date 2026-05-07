@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_53316> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_53316> <http://www.w3.org/2000/01/rdf-schema#label> "EAST RIVER" .
+<https://w3id.org/rtskg/chicago/instance/road_53316> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.845204 41.960177, -87.845442 41.960349, -87.845692 41.960563, -87.845931 41.960816, -87.846242 41.961282, -87.846376 41.96161, -87.846504 41.961997, -87.846552 41.962308, -87.846578 41.962699, -87.846576 41.96287)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_53316> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_rd> .
 <https://w3id.org/rtskg/chicago/instance/road_53316> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_3> .
 <https://w3id.org/rtskg/chicago/instance/road_53316> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_76> .

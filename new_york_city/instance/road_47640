@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_47640> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47640> <http://www.w3.org/2000/01/rdf-schema#label> "MIDLAND AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_47640> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.101122 40.577318, -74.101012 40.577114, -74.100882 40.576915, -74.100731 40.576723, -74.100561 40.57654, -74.100374 40.576367, -74.100171 40.576206, -74.099953 40.576058, -74.099723 40.575924, -74.097618 40.574781)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47640> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47640> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47640> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_172> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_88916> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_88916> <http://www.w3.org/2000/01/rdf-schema#label> "INWOOD RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_88916> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.093552 40.612935, -74.093607 40.612813, -74.093684 40.612694, -74.093784 40.612581, -74.093904 40.612477, -74.094041 40.612387, -74.094193 40.612312, -74.094355 40.612253, -74.094521 40.612213, -74.094688 40.612189)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_88916> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_88916> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_88916> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_115> .

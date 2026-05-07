@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_64329> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64329> <http://www.w3.org/2000/01/rdf-schema#label> "ROCKAWAY PKWY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_64329> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.889715 40.633714, -73.889013 40.633078, -73.888968 40.633037, -73.888899 40.632974, -73.888864 40.632942, -73.888801 40.632886, -73.888777 40.632864, -73.888685 40.63278, -73.888649 40.632748, -73.888441 40.632559, -73.88841 40.632531, -73.888256 40.632392)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64329> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pkwy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64329> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64329> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_39> .

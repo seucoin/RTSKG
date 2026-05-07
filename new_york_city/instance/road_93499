@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_93499> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93499> <http://www.w3.org/2000/01/rdf-schema#label> "DAWSON CT" .
+<https://w3id.org/rtskg/new_york_city/instance/road_93499> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.165976 40.60495, -74.165709 40.604942, -74.165441 40.604941, -74.165174 40.604946), (-74.165174 40.604946, -74.164908 40.604958, -74.164642 40.604977, -74.164377 40.605002))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93499> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ct> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93499> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93499> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_23> .

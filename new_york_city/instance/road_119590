@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_119590> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119590> <http://www.w3.org/2000/01/rdf-schema#label> "PELHAM PKWY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_119590> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.860218 40.856975, -73.858776 40.857014, -73.857737 40.857043, -73.857225 40.857059, -73.857074 40.857061, -73.85696 40.857063, -73.856725 40.857069, -73.856158 40.857083)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119590> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pkwy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119590> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119590> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_185> .

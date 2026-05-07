@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_116427> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116427> <http://www.w3.org/2000/01/rdf-schema#label> "ISHAM PARK PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_116427> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.919206 40.868923, -73.919151 40.868913, -73.919095 40.868907, -73.919039 40.868906, -73.918983 40.868908, -73.918927 40.868914), (-73.918927 40.868914, -73.918872 40.868924, -73.918819 40.868938, -73.918767 40.868956, -73.918718 40.868977, -73.918672 40.869002))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116427> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116427> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116427> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_127> .

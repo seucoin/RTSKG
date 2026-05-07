@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_24171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_24171> <http://www.w3.org/2000/01/rdf-schema#label> "CABRINI BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_24171> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.940219 40.851342, -73.940158 40.85141, -73.94 40.85192, -73.939968 40.852029, -73.939705 40.852932, -73.939541 40.853494, -73.938653 40.854685)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_24171> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_24171> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_24171> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_243> .

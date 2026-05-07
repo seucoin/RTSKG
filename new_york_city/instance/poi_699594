@@ -1,7 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/poi_699594> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/poi> .
 <https://w3id.org/rtskg/new_york_city/instance/poi_699594> <http://www.w3.org/2000/01/rdf-schema#label> "Alice H. and Edward A. Kerbs Memorial Boathouse" .
-<https://w3id.org/rtskg/new_york_city/instance/poi_699594> <https://w3id.org/rtskg/ontology/dataproperty/latitude> "40.7739709"^^<http://www.w3.org/2001/XMLSchema#double> .
-<https://w3id.org/rtskg/new_york_city/instance/poi_699594> <https://w3id.org/rtskg/ontology/dataproperty/longitude> "-73.9665413"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://w3id.org/rtskg/new_york_city/instance/poi_699594> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POINT(-73.966541 40.773971)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/poi_699594> <https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category> <https://w3id.org/rtskg/new_york_city/instance/poi_category_shopping> .
 <https://w3id.org/rtskg/new_york_city/instance/poi_699594> <https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_block> <https://w3id.org/rtskg/new_york_city/instance/block_20198> .
 <https://w3id.org/rtskg/new_york_city/instance/poi_699594> <https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_195> .

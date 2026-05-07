@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_87419> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87419> <http://www.w3.org/2000/01/rdf-schema#label> "CROSS BRONX EXPWY EB ET 2 A" .
+<https://w3id.org/rtskg/new_york_city/instance/road_87419> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.914898 40.844925, -73.914802 40.844886, -73.914715 40.844833, -73.914643 40.844767, -73.914588 40.844694, -73.914553 40.844616)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87419> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87419> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_169> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87419> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_53> .

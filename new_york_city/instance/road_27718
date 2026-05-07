@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_27718> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_27718> <http://www.w3.org/2000/01/rdf-schema#label> "QUEENS MIDTOWN TUNL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_27718> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.969637 40.747883, -73.969479 40.747905, -73.969311 40.747913, -73.969146 40.747913, -73.968997 40.747897, -73.96888 40.747873, -73.968729 40.747827, -73.968582 40.747761)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_27718> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_tunl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_27718> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_27718> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_233> .

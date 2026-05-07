@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_71086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_71086> <http://www.w3.org/2000/01/rdf-schema#label> "E 63 STREET PEDESTRIAN OPAS" .
+<https://w3id.org/rtskg/new_york_city/instance/road_71086> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.956422 40.760719, -73.9563 40.760669, -73.95581 40.761099, -73.955787 40.761084, -73.955961 40.760937, -73.955936 40.760905)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_71086> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_opas> .
 <https://w3id.org/rtskg/new_york_city/instance/road_71086> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_71086> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_140> .

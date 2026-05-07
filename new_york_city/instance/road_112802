@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_112802> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112802> <http://www.w3.org/2000/01/rdf-schema#label> "RFK BR QUEENS PED AND BIKE PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_112802> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.929737 40.784228, -73.929693 40.784107, -73.92964 40.783989, -73.929579 40.783872), (-73.929579 40.783872, -73.929505 40.783714, -73.929417 40.78356, -73.929315 40.783411), (-73.929315 40.783411, -73.928973 40.782939, -73.928403 40.782162, -73.92766 40.781204))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112802> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112802> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_194> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_88980> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_88980> <http://www.w3.org/2000/01/rdf-schema#label> "MONTICELLO TER" .
+<https://w3id.org/rtskg/new_york_city/instance/road_88980> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.146733 40.54571, -74.148324 40.545009, -74.148392 40.544963, -74.148447 40.544906, -74.148486 40.544843)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_88980> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ter> .
 <https://w3id.org/rtskg/new_york_city/instance/road_88980> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_88980> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_109> .

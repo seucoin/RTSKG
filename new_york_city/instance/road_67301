@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_67301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_67301> <http://www.w3.org/2000/01/rdf-schema#label> "BELMONT AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_67301> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.88729 40.671857, -73.887066 40.67189, -73.887 40.6719, -73.886927 40.671911, -73.886867 40.67192, -73.886405 40.671989)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_67301> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_67301> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_67301> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_76> .

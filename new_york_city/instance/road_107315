@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_107315> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107315> <http://www.w3.org/2000/01/rdf-schema#label> "BAYVIEW AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_107315> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.202787 40.516632, -74.202484 40.516264, -74.201988 40.515664, -74.201713 40.515481, -74.201452 40.515285, -74.201207 40.515078, -74.200979 40.51486, -74.200689 40.514392)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107315> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107315> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107315> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_84> .

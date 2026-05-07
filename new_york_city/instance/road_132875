@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_132875> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132875> <http://www.w3.org/2000/01/rdf-schema#label> "EWEN PARK PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_132875> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.909433 40.882658, -73.909386 40.882685, -73.909336 40.88271, -73.909283 40.882731), (-73.909283 40.882731, -73.909228 40.882749, -73.909171 40.882764, -73.909113 40.882775))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132875> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132875> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132875> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_220> .

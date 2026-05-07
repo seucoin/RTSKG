@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_78138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78138> <http://www.w3.org/2000/01/rdf-schema#label> "MAPLE PKWY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_78138> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.156395 40.631373, -74.156443 40.6303, -74.156494 40.629545, -74.156533 40.628847, -74.156603 40.62879)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78138> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pkwy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78138> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78138> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_156> .

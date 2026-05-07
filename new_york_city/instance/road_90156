@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_90156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_90156> <http://www.w3.org/2000/01/rdf-schema#label> "GRAFE ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_90156> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.21256 40.551079, -74.212749 40.551218, -74.212833 40.551256, -74.21293 40.551283, -74.213037 40.551295, -74.213147 40.551291, -74.213253 40.55127, -74.21335 40.551234, -74.213432 40.551186, -74.213497 40.55113)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_90156> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_90156> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_90156> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_204> .

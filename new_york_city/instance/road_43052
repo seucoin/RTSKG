@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_43052> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_43052> <http://www.w3.org/2000/01/rdf-schema#label> "CLARKSON AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_43052> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.94716 40.655602, -73.94508 40.65573, -73.944874 40.655743, -73.944289 40.655778, -73.943653 40.655818, -73.943356 40.655837)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_43052> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_43052> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_43052> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_188> .

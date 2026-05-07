@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_56744> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_56744> <http://www.w3.org/2000/01/rdf-schema#label> "KNOLLS CRES" .
+<https://w3id.org/rtskg/new_york_city/instance/road_56744> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.917152 40.878987, -73.917831 40.878577), (-73.917831 40.878577, -73.917852 40.878567, -73.917875 40.878558, -73.917899 40.878551, -73.917924 40.878545, -73.917949 40.878541), (-73.917949 40.878541, -73.917975 40.878539, -73.918001 40.878539, -73.918026 40.87854, -73.918052 40.878543, -73.918077 40.878548))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_56744> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_cres> .
 <https://w3id.org/rtskg/new_york_city/instance/road_56744> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_56744> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_220> .

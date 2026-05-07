@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/station_area_412> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/station_area> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_412> <http://www.w3.org/2000/01/rdf-schema#label> "Eastchester-Dyre Av_5" .
+<https://w3id.org/rtskg/new_york_city/instance/station_area_412> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POLYGON ((-73.831951 40.884034, -73.832292 40.884346, -73.834819 40.887116, -73.834967 40.887831, -73.834498 40.888928, -73.831611 40.890712, -73.831129 40.890667, -73.828365 40.890369, -73.826622 40.887395, -73.827907 40.885999, -73.831744 40.884068, -73.831951 40.884034))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_412> <https://w3id.org/rtskg/ontology/dataproperty/walking_time_minutes> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_412> <https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station> <https://w3id.org/rtskg/new_york_city/instance/station_207> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_412> <https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block> <https://w3id.org/rtskg/new_york_city/instance/block_39393> .

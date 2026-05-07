@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_50268> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50268> <http://www.w3.org/2000/01/rdf-schema#label> "SANDS ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_50268> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.9829 40.699841, -73.982825 40.699831, -73.982738 40.699829, -73.982645 40.699826, -73.982554 40.699824, -73.982405 40.699819, -73.982304 40.699816, -73.982044 40.699809, -73.98105 40.69978, -73.980945 40.699777, -73.980574 40.699767, -73.980463 40.699711)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50268> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50268> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50268> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_66> .

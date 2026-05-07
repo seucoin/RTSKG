@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_61163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61163> <http://www.w3.org/2000/01/rdf-schema#label> "MOTHER GASTON BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_61163> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.905923 40.666197, -73.905872 40.666002, -73.905857 40.665946, -73.905786 40.665674, -73.905769 40.665608, -73.905748 40.665531, -73.905733 40.665475, -73.905716 40.665408, -73.905699 40.665345, -73.905676 40.665256, -73.905657 40.665184, -73.905524 40.664675)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61163> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61163> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61163> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_35> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_5783> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_5783> <http://www.w3.org/2000/01/rdf-schema#label> "RADNOR ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_5783> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.784347 40.719684, -73.784266 40.719328, -73.784171 40.718974, -73.784061 40.718622, -73.783937 40.718272, -73.783799 40.717926)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_5783> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_5783> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_5783> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_131> .

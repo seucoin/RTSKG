@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_118722> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118722> <http://www.w3.org/2000/01/rdf-schema#label> "CHISHOLM PARK FOUNTAIN RING DR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_118722> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.86998 40.644542, -73.871341 40.645951), (-73.871341 40.645951, -73.871389 40.645986, -73.871433 40.646025, -73.871472 40.646067, -73.871505 40.646111, -73.871534 40.646158, -73.871557 40.646206, -73.871574 40.646255, -73.871586 40.646305))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118722> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118722> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118722> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_76> .

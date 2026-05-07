@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_45652> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45652> <http://www.w3.org/2000/01/rdf-schema#label> "RICHMOND RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_45652> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.095863 40.595959, -74.096098 40.595873, -74.096329 40.595782, -74.096557 40.595686), (-74.096557 40.595686, -74.096782 40.595586, -74.097004 40.595482, -74.097222 40.595373))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45652> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45652> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45652> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_118> .

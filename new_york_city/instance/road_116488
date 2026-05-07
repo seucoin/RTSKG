@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_116488> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116488> <http://www.w3.org/2000/01/rdf-schema#label> "HIGH BRIDGE PARK PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_116488> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.934423 40.8419, -73.93434 40.841873, -73.934255 40.841852, -73.934168 40.841836, -73.934079 40.841825), (-73.934079 40.841825, -73.93399 40.84182, -73.9339 40.84182, -73.933811 40.841825, -73.933722 40.841836))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116488> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116488> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116488> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_120> .

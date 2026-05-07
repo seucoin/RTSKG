@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_116825> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116825> <http://www.w3.org/2000/01/rdf-schema#label> "BRONX RIVER PARKWAY EXIT 6 NB" .
+<https://w3id.org/rtskg/new_york_city/instance/road_116825> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.870727 40.853488, -73.870702 40.853647, -73.870707 40.8538, -73.870737 40.853949, -73.870802 40.8541)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116825> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116825> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_31> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116825> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_625> .

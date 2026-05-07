@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_99856> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99856> <http://www.w3.org/2000/01/rdf-schema#label> "CO-OP CITY SECT 5 PED PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_99856> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.82161 40.866897, -73.820728 40.86652, -73.82037 40.866363, -73.820668 40.865961, -73.820765 40.866002, -73.821026 40.866115, -73.821588 40.866358, -73.821625 40.866391, -73.821716 40.866534, -73.821949 40.866635)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99856> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99856> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99856> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_51> .

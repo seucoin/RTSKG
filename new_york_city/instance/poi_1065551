@@ -1,6 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/poi_1065551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/poi> .
-<https://w3id.org/rtskg/new_york_city/instance/poi_1065551> <https://w3id.org/rtskg/ontology/dataproperty/latitude> "40.5914576"^^<http://www.w3.org/2001/XMLSchema#double> .
-<https://w3id.org/rtskg/new_york_city/instance/poi_1065551> <https://w3id.org/rtskg/ontology/dataproperty/longitude> "-73.9603814"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://w3id.org/rtskg/new_york_city/instance/poi_1065551> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POINT(-73.960381 40.591458)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/poi_1065551> <https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category> <https://w3id.org/rtskg/new_york_city/instance/poi_category_residential_area> .
 <https://w3id.org/rtskg/new_york_city/instance/poi_1065551> <https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_block> <https://w3id.org/rtskg/new_york_city/instance/block_5469> .
 <https://w3id.org/rtskg/new_york_city/instance/poi_1065551> <https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_583> .

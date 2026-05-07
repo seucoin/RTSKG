@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_22001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_22001> <http://www.w3.org/2000/01/rdf-schema#label> "EGGLESTON" .
+<https://w3id.org/rtskg/chicago/instance/road_22001> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.633686 41.68519, -87.633678 41.685026, -87.633672 41.684756, -87.63367 41.684701, -87.633667 41.68458, -87.633665 41.684497, -87.63366 41.684271, -87.633655 41.684047, -87.63365 41.683858, -87.633648 41.683774, -87.633644 41.683575, -87.633637 41.68337)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_22001> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_22001> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_1> .
 <https://w3id.org/rtskg/chicago/instance/road_22001> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_49> .

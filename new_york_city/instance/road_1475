@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_1475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_1475> <http://www.w3.org/2000/01/rdf-schema#label> "LINCOLN TUNNEL ENTRANCE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_1475> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.995007 40.756145, -73.994979 40.756244, -73.994969 40.756346, -73.994977 40.756448, -73.995003 40.756547), (-73.995003 40.756547, -73.995043 40.756625, -73.995087 40.756702, -73.995135 40.756777), (-73.995135 40.756777, -73.995188 40.75685, -73.995245 40.756921, -73.995306 40.75699))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_1475> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_1475> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_48> .
 <https://w3id.org/rtskg/new_york_city/instance/road_1475> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_123> .

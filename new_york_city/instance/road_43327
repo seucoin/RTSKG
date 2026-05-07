@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_43327> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_43327> <http://www.w3.org/2000/01/rdf-schema#label> "KINGS HWY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_43327> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.940755 40.620532, -73.940647 40.620651, -73.940531 40.620766, -73.940407 40.620875), (-73.940407 40.620875, -73.940276 40.62098, -73.940137 40.621079, -73.939992 40.621171))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_43327> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_hwy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_43327> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_43327> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_91> .

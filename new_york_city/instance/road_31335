@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_31335> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_31335> <http://www.w3.org/2000/01/rdf-schema#label> "CONCORD ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_31335> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.728879 40.768716, -73.728811 40.768611, -73.728723 40.768513, -73.728615 40.768424, -73.728492 40.768348, -73.728358 40.768287, -73.728216 40.768242)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_31335> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_31335> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_31335> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_64> .

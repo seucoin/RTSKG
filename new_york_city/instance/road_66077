@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_66077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66077> <http://www.w3.org/2000/01/rdf-schema#label> "FRANKLIN D ROOSEVELT DR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_66077> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.976458 40.715307, -73.976425 40.715378, -73.976389 40.715456, -73.976339 40.715562, -73.975995 40.716297, -73.975945 40.716404, -73.97582 40.716672, -73.975763 40.716793, -73.975715 40.716897, -73.975528 40.717296, -73.975481 40.717397, -73.975446 40.717473, -73.975422 40.717522, -73.97533 40.71772)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66077> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66077> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66077> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_232> .

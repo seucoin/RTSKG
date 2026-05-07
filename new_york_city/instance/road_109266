@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_109266> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109266> <http://www.w3.org/2000/01/rdf-schema#label> "BRONX RIVER PKWY NB EN STORY AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_109266> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.872311 40.823627, -73.87233 40.823677, -73.872346 40.823728, -73.872359 40.823779), (-73.872359 40.823779, -73.87237 40.82383, -73.872377 40.823882, -73.872382 40.823934))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109266> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109266> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_213> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109266> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_569> .

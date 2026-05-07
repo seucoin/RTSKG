@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_47703> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_47703> <http://www.w3.org/2000/01/rdf-schema#label> "CHICAGO SKYWAY" .
+<https://w3id.org/rtskg/chicago/instance/road_47703> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.531558 41.710042, -87.531437 41.709931, -87.531029 41.709568, -87.530786 41.709343, -87.53047 41.709049, -87.530202 41.708804, -87.530194 41.708797, -87.529862 41.70849, -87.529682 41.708323, -87.529585 41.70823)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_47703> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_expy> .
 <https://w3id.org/rtskg/chicago/instance/road_47703> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_1> .
 <https://w3id.org/rtskg/chicago/instance/road_47703> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_52> .

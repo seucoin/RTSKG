@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_76364> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_76364> <http://www.w3.org/2000/01/rdf-schema#label> "ULMER ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_76364> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.837125 40.772799, -73.836436 40.771487, -73.836329 40.771311, -73.836199 40.771141, -73.836048 40.770981, -73.835878 40.770832, -73.835691 40.770697, -73.83549 40.770577)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_76364> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_76364> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_76364> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_53> .

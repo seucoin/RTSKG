@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_62178> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62178> <http://www.w3.org/2000/01/rdf-schema#label> "STEUBEN ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_62178> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.077586 40.603667, -74.077537 40.603545, -74.077485 40.603424, -74.077429 40.603304), (-74.077429 40.603304, -74.077371 40.603185, -74.077311 40.603067, -74.077247 40.602949))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62178> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62178> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62178> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_6> .

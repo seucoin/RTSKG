@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_133504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133504> <http://www.w3.org/2000/01/rdf-schema#label> "BRUCKNER BOULEVARD BIKE PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_133504> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.898224 40.813089, -73.897956 40.813293, -73.897693 40.813503, -73.897438 40.813717), (-73.897438 40.813717, -73.897189 40.813935, -73.896946 40.814158, -73.896711 40.814384))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133504> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133504> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_126> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133504> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_403> .

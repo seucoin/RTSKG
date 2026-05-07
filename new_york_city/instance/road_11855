@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_11855> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_11855> <http://www.w3.org/2000/01/rdf-schema#label> "62 DRIVE PEDESTRIAN OPAS" .
+<https://w3id.org/rtskg/new_york_city/instance/road_11855> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.844827 40.737922, -73.844736 40.737926, -73.84471 40.738095, -73.844688 40.738252), (-73.844688 40.738252, -73.844684 40.738295, -73.844676 40.738338, -73.844663 40.738381, -73.844646 40.738423, -73.844624 40.738463))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_11855> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_opas> .
 <https://w3id.org/rtskg/new_york_city/instance/road_11855> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_11855> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_93> .

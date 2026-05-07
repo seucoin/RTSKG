@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_47220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47220> <http://www.w3.org/2000/01/rdf-schema#label> "DOVER GRN" .
+<https://w3id.org/rtskg/new_york_city/instance/road_47220> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.197729 40.556436, -74.19864 40.557348, -74.19785 40.558125, -74.197816 40.558157, -74.197765 40.558181, -74.197701 40.558191, -74.197638 40.558183, -74.197586 40.558159, -74.19755 40.558128, -74.197031 40.557625)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47220> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_grn> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47220> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47220> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_5> .

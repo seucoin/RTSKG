@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_53757> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53757> <http://www.w3.org/2000/01/rdf-schema#label> "TARRING ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_53757> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.125237 40.563535, -74.12549 40.563318, -74.125756 40.563109, -74.126033 40.56291, -74.126034 40.56291, -74.126034 40.56291, -74.126323 40.562721)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53757> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53757> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53757> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_176> .

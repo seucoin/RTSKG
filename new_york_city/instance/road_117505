@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_117505> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117505> <http://www.w3.org/2000/01/rdf-schema#label> "QUEENS BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_117505> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.902486 40.741325, -73.901966 40.74125, -73.901563 40.741192, -73.901061 40.741129, -73.900558 40.741067, -73.899721 40.740977)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117505> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117505> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117505> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_260> .

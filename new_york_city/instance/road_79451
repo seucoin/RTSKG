@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_79451> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79451> <http://www.w3.org/2000/01/rdf-schema#label> "DURANT AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_79451> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.1415 40.549597, -74.141848 40.549325), (-74.141848 40.549325, -74.141851 40.549266, -74.141861 40.549206, -74.141877 40.549148, -74.141901 40.549091), (-74.141901 40.549091, -74.141931 40.549036, -74.141967 40.548983, -74.14201 40.548932, -74.142058 40.548885))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79451> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79451> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79451> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_109> .

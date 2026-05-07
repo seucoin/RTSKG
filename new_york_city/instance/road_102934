@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_102934> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102934> <http://www.w3.org/2000/01/rdf-schema#label> "RIVERS EDGE RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_102934> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.930824 40.788935, -73.930974 40.788885, -73.931117 40.788826, -73.931253 40.788759), (-73.931253 40.788759, -73.931337 40.788711, -73.931417 40.78866, -73.931493 40.788606), (-73.931493 40.788606, -73.931514 40.78859, -73.931533 40.788575, -73.931553 40.788559))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102934> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102934> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102934> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_194> .

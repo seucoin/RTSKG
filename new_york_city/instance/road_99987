@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_99987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99987> <http://www.w3.org/2000/01/rdf-schema#label> "BIVONA ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_99987> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.832232 40.882058, -73.832375 40.882076, -73.83252 40.882111, -73.832661 40.882163, -73.832793 40.882232, -73.832859 40.88228)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99987> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99987> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99987> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_51> .

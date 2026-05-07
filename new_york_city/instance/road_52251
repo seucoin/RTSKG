@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_52251> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52251> <http://www.w3.org/2000/01/rdf-schema#label> "LACONIA AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_52251> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.848365 40.885618, -73.848323 40.885681, -73.848287 40.885736, -73.848251 40.885789, -73.84821 40.885851, -73.848173 40.885905, -73.848137 40.885959, -73.848095 40.886021, -73.84805 40.886088, -73.848023 40.886129, -73.847988 40.88618, -73.847905 40.886304)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52251> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52251> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52251> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_254> .

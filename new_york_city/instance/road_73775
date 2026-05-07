@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_73775> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_73775> <http://www.w3.org/2000/01/rdf-schema#label> "EDGECOMBE AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_73775> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.935438 40.84076, -73.935596 40.841182, -73.935629 40.841287, -73.93563 40.841288, -73.93563 40.841288, -73.935644 40.841397, -73.935644 40.841398, -73.935644 40.841398, -73.935638 40.841508, -73.935638 40.841508, -73.935612 40.841617, -73.935612 40.841617, -73.935612 40.841617, -73.935568 40.841721)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_73775> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_73775> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_73775> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_120> .

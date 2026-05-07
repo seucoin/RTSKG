@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_16120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_16120> <http://www.w3.org/2000/01/rdf-schema#label> "FARMERS BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_16120> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.761955 40.688243, -73.761942 40.688118, -73.761942 40.688118, -73.761942 40.688118, -73.76191 40.687994, -73.761861 40.687874, -73.761861 40.687874, -73.761861 40.687874, -73.761794 40.687759)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_16120> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_16120> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_16120> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_205> .

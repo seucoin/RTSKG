@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_40677> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40677> <http://www.w3.org/2000/01/rdf-schema#label> "FATHER CAPODANNO BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_40677> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.071243 40.585394, -74.071359 40.585245, -74.071491 40.585103, -74.071639 40.584969, -74.0718 40.584844, -74.071973 40.584731, -74.072243 40.584547, -74.072501 40.584353, -74.072744 40.584148, -74.072973 40.583934, -74.073712 40.583239)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40677> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40677> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40677> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_214> .

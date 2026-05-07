@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_54067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54067> <http://www.w3.org/2000/01/rdf-schema#label> "STATEN IS MALL DR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_54067> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.162489 40.584177, -74.162466 40.58409, -74.162448 40.584002, -74.162435 40.583913), (-74.162435 40.583913, -74.162428 40.583824, -74.162427 40.583735, -74.162431 40.583646))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54067> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54067> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54067> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_118> .

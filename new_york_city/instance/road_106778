@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_106778> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106778> <http://www.w3.org/2000/01/rdf-schema#label> "JAMIE LN" .
+<https://w3id.org/rtskg/new_york_city/instance/road_106778> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.184381 40.563279, -74.185224 40.5632, -74.18517 40.562837, -74.185275 40.562592, -74.185132 40.561755, -74.18426 40.561725, -74.184091 40.56141, -74.184049 40.561214, -74.184204 40.561166)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106778> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ln> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106778> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106778> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_5> .

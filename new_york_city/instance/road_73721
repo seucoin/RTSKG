@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_73721> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_73721> <http://www.w3.org/2000/01/rdf-schema#label> "HORACE HARDING EXPY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_73721> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.729155 40.761904, -73.728769 40.762144, -73.728371 40.762373, -73.72796 40.762591, -73.727539 40.762796, -73.727108 40.762988, -73.726668 40.763167)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_73721> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_expy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_73721> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_73721> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_64> .

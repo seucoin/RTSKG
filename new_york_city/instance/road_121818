@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_121818> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121818> <http://www.w3.org/2000/01/rdf-schema#label> "PAN AM ROAD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_121818> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.823365 40.660623, -73.819535 40.662155, -73.819423 40.662211, -73.819299 40.662255, -73.819168 40.662286, -73.819031 40.662302, -73.818895 40.662304, -73.818762 40.662292, -73.813346 40.661312, -73.812523 40.661157)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121818> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121818> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121818> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_132> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_40545> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40545> <http://www.w3.org/2000/01/rdf-schema#label> "W FINGERBOARD RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_40545> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.076502 40.601044, -74.076606 40.601104, -74.076774 40.601184, -74.076953 40.60125, -74.077139 40.601301, -74.07733 40.601338, -74.079221 40.601393)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40545> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40545> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40545> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_6> .

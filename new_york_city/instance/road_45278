@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_45278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45278> <http://www.w3.org/2000/01/rdf-schema#label> "CARLTON BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_45278> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.176658 40.547029, -74.176567 40.546893, -74.176495 40.546746, -74.176445 40.54659, -74.176421 40.54643, -74.176422 40.546267, -74.17645 40.546107, -74.176501 40.545952, -74.176576 40.545806, -74.17667 40.54567, -74.177304 40.544938)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45278> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45278> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45278> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_84> .

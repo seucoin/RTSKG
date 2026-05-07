@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_16960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_16960> <http://www.w3.org/2000/01/rdf-schema#label> "N SERVICE RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_16960> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.798381 40.645682, -73.799184 40.645723, -73.799835 40.645983, -73.800932 40.646693, -73.803125 40.648867, -73.804023 40.649966)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_16960> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_16960> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_16960> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_132> .

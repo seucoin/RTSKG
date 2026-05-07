@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_132153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132153> <http://www.w3.org/2000/01/rdf-schema#label> "GROSVENOR ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_132153> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.751615 40.777822, -73.751262 40.777826, -73.750909 40.777844, -73.750558 40.777877, -73.75032 40.777909, -73.75021 40.777924)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132153> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132153> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132153> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_64> .

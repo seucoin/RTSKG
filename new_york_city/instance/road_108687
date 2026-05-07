@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_108687> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108687> <http://www.w3.org/2000/01/rdf-schema#label> "CONRAD AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_108687> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.146749 40.589528, -74.146748 40.589547, -74.14675 40.589567, -74.146754 40.589586, -74.14676 40.589605, -74.146769 40.589624, -74.14678 40.589641), (-74.14678 40.589641, -74.146793 40.589658, -74.146808 40.589674, -74.146824 40.589689, -74.146843 40.589703, -74.146863 40.589715, -74.146885 40.589725))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108687> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108687> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108687> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_23> .

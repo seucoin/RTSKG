@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_88779> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_88779> <http://www.w3.org/2000/01/rdf-schema#label> "IRVINGTON ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_88779> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.186085 40.522, -74.185917 40.521739, -74.185742 40.521479, -74.185561 40.521223), (-74.185561 40.521223, -74.185374 40.520969, -74.18518 40.520718, -74.18498 40.520469))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_88779> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_88779> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_88779> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_84> .

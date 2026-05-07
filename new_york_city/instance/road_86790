@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_86790> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86790> <http://www.w3.org/2000/01/rdf-schema#label> "W 255 ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_86790> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.912143 40.904452, -73.912699 40.904794), (-73.912699 40.904794, -73.912765 40.904818, -73.912832 40.904837, -73.912902 40.904852, -73.912973 40.904863), (-73.912973 40.904863, -73.913044 40.90487, -73.913117 40.904873, -73.913189 40.904872, -73.913261 40.904866))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86790> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86790> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86790> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_200> .

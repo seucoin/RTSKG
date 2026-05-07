@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_3123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_3123> <http://www.w3.org/2000/01/rdf-schema#label> "AINSLIE" .
+<https://w3id.org/rtskg/chicago/instance/road_3123> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.686536 41.970463, -87.686829 41.970456, -87.687049 41.970452, -87.687143 41.97045, -87.687308 41.970448, -87.687568 41.970444, -87.687754 41.970442)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_3123> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_st> .
 <https://w3id.org/rtskg/chicago/instance/road_3123> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_2> .
 <https://w3id.org/rtskg/chicago/instance/road_3123> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_4> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_82432> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_82432> <http://www.w3.org/2000/01/rdf-schema#label> "I 278 EB EN PROSPECT EXPWY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_82432> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.996492 40.668625, -73.996217 40.66844, -73.995998 40.66801), (-73.995998 40.66801, -73.995919 40.667833, -73.99583 40.667659, -73.995731 40.667488), (-73.995731 40.667488, -73.995624 40.66732, -73.995507 40.667155, -73.995381 40.666995))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_82432> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_82432> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_228> .
 <https://w3id.org/rtskg/new_york_city/instance/road_82432> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_133> .

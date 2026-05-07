@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_77771> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_77771> <http://www.w3.org/2000/01/rdf-schema#label> "GROTE ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_77771> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.886931 40.851158, -73.886857 40.851187, -73.88678 40.851211, -73.886702 40.851231), (-73.886702 40.851231, -73.886621 40.851246, -73.88654 40.851256, -73.886457 40.851262))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_77771> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_77771> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_77771> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_20> .

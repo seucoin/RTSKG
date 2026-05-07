@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_108010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108010> <http://www.w3.org/2000/01/rdf-schema#label> "HIGH ISLAND PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_108010> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.787262 40.858839, -73.787166 40.858937, -73.787066 40.859032, -73.786962 40.859125), (-73.786962 40.859125, -73.786854 40.859215, -73.786742 40.859302, -73.786626 40.859387))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108010> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108010> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108010> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_46> .

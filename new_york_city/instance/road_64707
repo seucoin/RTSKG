@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_64707> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64707> <http://www.w3.org/2000/01/rdf-schema#label> "POWELL ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_64707> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.902803 40.665071, -73.90275 40.664879, -73.902704 40.664713, -73.902692 40.664668, -73.902674 40.664602, -73.902594 40.664314, -73.90257 40.664227, -73.902377 40.663525)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64707> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64707> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64707> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_35> .

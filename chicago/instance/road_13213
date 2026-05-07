@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_13213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_13213> <http://www.w3.org/2000/01/rdf-schema#label> "BALMORAL" .
+<https://w3id.org/rtskg/chicago/instance/road_13213> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.748114 41.978982, -87.748438 41.978979, -87.748768 41.978975, -87.74895 41.978973, -87.749414 41.978967, -87.749804 41.978963, -87.750228 41.978958, -87.750591 41.978954, -87.750855 41.978951)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_13213> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_13213> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_3> .
 <https://w3id.org/rtskg/chicago/instance/road_13213> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_12> .

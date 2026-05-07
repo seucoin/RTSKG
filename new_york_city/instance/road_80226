@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_80226> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_80226> <http://www.w3.org/2000/01/rdf-schema#label> "KELLY ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_80226> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.896487 40.819643, -73.89634 40.819785, -73.89621 40.81994, -73.896099 40.820104, -73.89601 40.820277, -73.895943 40.820456, -73.895899 40.820638, -73.895879 40.82082, -73.895883 40.821001)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_80226> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_80226> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_80226> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_147> .

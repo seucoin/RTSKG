@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_110182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110182> <http://www.w3.org/2000/01/rdf-schema#label> "PROVOST AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_110182> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.827983 40.888848, -73.82792 40.888962, -73.827767 40.889237, -73.827614 40.889564, -73.827482 40.889897, -73.827373 40.890235, -73.827363 40.890277, -73.827346 40.890342)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110182> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110182> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110182> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_81> .

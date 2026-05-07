@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_111651> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111651> <http://www.w3.org/2000/01/rdf-schema#label> "HUTCHINSON RVR PKWY NB EN PALMER" .
+<https://w3id.org/rtskg/new_york_city/instance/road_111651> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.826306 40.861203, -73.826394 40.861187, -73.8265 40.861187, -73.826606 40.861206, -73.826704 40.861243, -73.826784 40.861295, -73.826845 40.861356, -73.826883 40.861421, -73.826903 40.861483, -73.826931 40.861872)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111651> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111651> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_51> .

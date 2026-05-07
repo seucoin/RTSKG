@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_109773> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109773> <http://www.w3.org/2000/01/rdf-schema#label> "ELM ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_109773> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.115042 40.642169, -74.114952 40.641913, -74.114865 40.641656, -74.114782 40.641399), (-74.114782 40.641399, -74.114701 40.641141, -74.114623 40.640883, -74.114549 40.640624), (-74.114549 40.640624, -74.113738 40.637437))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109773> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109773> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109773> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_206> .

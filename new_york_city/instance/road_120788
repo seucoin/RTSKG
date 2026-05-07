@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_120788> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120788> <http://www.w3.org/2000/01/rdf-schema#label> "ACADEMY OF ST DOROTHY DVWY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_120788> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.085704 40.59648, -74.085726 40.596485, -74.085747 40.596491, -74.085767 40.596499, -74.085786 40.596507, -74.085805 40.596517), (-74.085805 40.596517, -74.085822 40.596528, -74.085838 40.59654, -74.085853 40.596553, -74.085866 40.596567, -74.085878 40.596582))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120788> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120788> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120788> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_214> .

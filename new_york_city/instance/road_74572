@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_74572> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_74572> <http://www.w3.org/2000/01/rdf-schema#label> "ANDES RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_74572> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.015524 40.692472, -74.015592 40.692484, -74.015661 40.692495, -74.01573 40.692505), (-74.01573 40.692505, -74.0158 40.692514, -74.015869 40.692522, -74.015939 40.692528), (-74.015939 40.692528, -74.01823 40.69268))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_74572> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_74572> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_74572> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_105> .

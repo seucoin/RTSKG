@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_133656> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133656> <http://www.w3.org/2000/01/rdf-schema#label> "ORCHARD BEACH BUS TERMINAL LOOP" .
+<https://w3id.org/rtskg/new_york_city/instance/road_133656> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.799578 40.86647, -73.799371 40.866449, -73.799168 40.866416, -73.798968 40.866372, -73.798773 40.866316), (-73.798773 40.866316, -73.798584 40.866248, -73.798404 40.86617, -73.798231 40.866081, -73.798068 40.865982), (-73.798068 40.865982, -73.797268 40.865573))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133656> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_loop> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133656> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133656> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_184> .

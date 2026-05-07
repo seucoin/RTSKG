@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_14363> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_14363> <http://www.w3.org/2000/01/rdf-schema#label> "CAMP RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_14363> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.757965 40.597476, -73.758164 40.597458, -73.758362 40.597425, -73.758557 40.597379, -73.758745 40.597318, -73.758925 40.597245, -73.759094 40.597159, -73.75925 40.597064)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_14363> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_14363> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_14363> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_86> .

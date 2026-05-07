@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_92641> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_92641> <http://www.w3.org/2000/01/rdf-schema#label> "WARWICK AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_92641> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.752628 40.778619, -73.75232 40.77857, -73.752008 40.778537, -73.751694 40.778519, -73.751379 40.778516)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_92641> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_92641> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_92641> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_64> .

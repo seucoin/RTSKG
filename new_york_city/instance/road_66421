@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_66421> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66421> <http://www.w3.org/2000/01/rdf-schema#label> "BLAKE AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_66421> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.907906 40.665902, -73.907763 40.665923, -73.907676 40.665936, -73.907374 40.665981, -73.906798 40.666067, -73.906355 40.666133, -73.906284 40.666143, -73.906024 40.666182)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66421> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66421> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66421> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_35> .

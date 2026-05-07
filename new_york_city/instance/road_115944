@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_115944> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115944> <http://www.w3.org/2000/01/rdf-schema#label> "HOUSTON ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_115944> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.144336 40.622525, -74.145658 40.622668, -74.145833 40.62265, -74.146007 40.622618, -74.146178 40.622571, -74.146341 40.622511, -74.146494 40.622437, -74.146635 40.622352, -74.146761 40.622258)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115944> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115944> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115944> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_187> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_13143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_13143> <http://www.w3.org/2000/01/rdf-schema#label> "BCH CHANNEL DR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_13143> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.881217 40.567743, -73.881362 40.567698, -73.881466 40.567666, -73.881639 40.567623, -73.881809 40.567591, -73.881972 40.567569, -73.882106 40.567557, -73.88229 40.567543, -73.882397 40.567537)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_13143> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_13143> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_13143> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_27> .

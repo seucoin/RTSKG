@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_101621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101621> <http://www.w3.org/2000/01/rdf-schema#label> "PELHAM PARKWAY WESTBOUND" .
+<https://w3id.org/rtskg/new_york_city/instance/road_101621> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.821484 40.857318, -73.821591 40.857374, -73.821689 40.857397, -73.82177 40.857413, -73.821866 40.857415, -73.822009 40.857392, -73.822311 40.857344)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101621> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101621> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_184> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101621> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_623> .

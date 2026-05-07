@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_36867> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36867> <http://www.w3.org/2000/01/rdf-schema#label> "WATSON AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_36867> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.865421 40.82781, -73.864984 40.827868, -73.864926 40.827876, -73.864803 40.827893, -73.86475 40.8279, -73.864637 40.827915, -73.864581 40.827923, -73.864496 40.827934)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36867> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36867> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36867> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_212> .

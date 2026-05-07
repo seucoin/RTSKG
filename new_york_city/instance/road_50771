@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_50771> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50771> <http://www.w3.org/2000/01/rdf-schema#label> "VERRAZZANO BRDG EN LILY POND AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_50771> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.065214 40.601662, -74.06522 40.601614, -74.065232 40.601566, -74.065249 40.60152, -74.06527 40.601474), (-74.06527 40.601474, -74.065297 40.60143, -74.065327 40.601387, -74.065363 40.601347, -74.065402 40.601309))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50771> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50771> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_6> .

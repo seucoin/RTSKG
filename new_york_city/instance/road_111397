@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_111397> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111397> <http://www.w3.org/2000/01/rdf-schema#label> "NARROWS RD N" .
+<https://w3id.org/rtskg/new_york_city/instance/road_111397> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.094268 40.610814, -74.094703 40.610885, -74.095143 40.610942, -74.095586 40.610985, -74.096032 40.611012, -74.096478 40.611026, -74.096924 40.611024, -74.097368 40.611008)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111397> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111397> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111397> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_115> .

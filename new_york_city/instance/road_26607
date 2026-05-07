@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_26607> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_26607> <http://www.w3.org/2000/01/rdf-schema#label> "COLLEGE POINT BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_26607> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.841344 40.769051, -73.841245 40.768955, -73.840985 40.768704, -73.839962 40.767716, -73.839199 40.767002, -73.839149 40.766916)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_26607> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_26607> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_26607> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_53> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_86506> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86506> <http://www.w3.org/2000/01/rdf-schema#label> "128 AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_86506> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.782606 40.675276, -73.782406 40.675367, -73.782214 40.675467, -73.782029 40.675575), (-73.782029 40.675575, -73.781854 40.675691, -73.781687 40.675816, -73.781531 40.675947))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86506> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86506> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86506> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_218> .

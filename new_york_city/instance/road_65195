@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_65195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_65195> <http://www.w3.org/2000/01/rdf-schema#label> "LOUISIANA AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_65195> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.892459 40.653719, -73.892296 40.653486, -73.892125 40.653256, -73.891947 40.65303), (-73.891947 40.65303, -73.891761 40.652807, -73.891567 40.652588, -73.891367 40.652373))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_65195> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_65195> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_65195> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_39> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_24065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_24065> <http://www.w3.org/2000/01/rdf-schema#label> "RIVERSIDE DR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_24065> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.928479 40.865641, -73.92829 40.865662, -73.928128 40.86565, -73.927442 40.865596, -73.92727 40.865543)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_24065> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_24065> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_24065> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_127> .

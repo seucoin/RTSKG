@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_20435> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_20435> <http://www.w3.org/2000/01/rdf-schema#label> "FLUSHING AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_20435> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.912894 40.715411, -73.912485 40.715582, -73.912295 40.715712, -73.912139 40.715837, -73.912119 40.715853, -73.911959 40.716004, -73.911815 40.716164, -73.911645 40.716376, -73.911608 40.716423)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_20435> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_20435> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_20435> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_157> .

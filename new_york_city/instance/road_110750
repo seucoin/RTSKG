@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_110750> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110750> <http://www.w3.org/2000/01/rdf-schema#label> "AMBOY RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_110750> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.207303 40.525291, -74.20734 40.525284, -74.207378 40.525278, -74.207416 40.525272), (-74.207416 40.525272, -74.207588 40.525252, -74.207762 40.525242, -74.207937 40.525241), (-74.207937 40.525241, -74.20815 40.525254, -74.20836 40.52528, -74.208566 40.525321))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110750> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110750> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110750> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_204> .

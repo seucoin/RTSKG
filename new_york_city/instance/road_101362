@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_101362> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101362> <http://www.w3.org/2000/01/rdf-schema#label> "OTTAVIO PROM" .
+<https://w3id.org/rtskg/new_york_city/instance/road_101362> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.230794 40.50279, -74.230667 40.50281, -74.230106 40.503009), (-74.230106 40.503009, -74.230049 40.503032, -74.22999 40.503053, -74.22993 40.503072), (-74.22993 40.503072, -74.229869 40.503088, -74.229806 40.503102, -74.229743 40.503113), (-74.229743 40.503113, -74.228577 40.503345))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101362> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_prom> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101362> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101362> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_44> .

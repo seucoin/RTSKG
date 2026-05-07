@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_37016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_37016> <http://www.w3.org/2000/01/rdf-schema#label> "VAN CORTLANDT PARK E" .
+<https://w3id.org/rtskg/new_york_city/instance/road_37016> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.868204 40.902364, -73.868152 40.902449), (-73.868152 40.902449, -73.868114 40.902509, -73.868078 40.90257, -73.868044 40.902631), (-73.868044 40.902631, -73.868012 40.902694, -73.867983 40.902757, -73.867957 40.90282))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_37016> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_park> .
 <https://w3id.org/rtskg/new_york_city/instance/road_37016> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_37016> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_240> .

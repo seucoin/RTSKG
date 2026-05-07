@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_113213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113213> <http://www.w3.org/2000/01/rdf-schema#label> "UNISPHERE CIR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_113213> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.845494 40.746011, -73.845417 40.745968, -73.845329 40.745934, -73.845233 40.745911, -73.845134 40.745902, -73.845036 40.745905, -73.844942 40.745919)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113213> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_cir> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113213> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113213> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_93> .

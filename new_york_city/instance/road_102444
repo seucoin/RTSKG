@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_102444> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102444> <http://www.w3.org/2000/01/rdf-schema#label> "FDR DRIVE EXIT 17 SB" .
+<https://w3id.org/rtskg/new_york_city/instance/road_102444> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.930096 40.80064, -73.930087 40.800662, -73.930078 40.800683, -73.930071 40.800705), (-73.930071 40.800705, -73.930056 40.800768, -73.930048 40.800831, -73.930048 40.800895, -73.930055 40.800958, -73.93007 40.801021))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102444> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102444> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_74> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_133602> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133602> <http://www.w3.org/2000/01/rdf-schema#label> "GRAHAM AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_133602> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.942335 40.700981, -73.942308 40.700999, -73.942283 40.701018, -73.942261 40.701038, -73.94224 40.70106), (-73.94224 40.70106, -73.942223 40.701084, -73.942207 40.701108, -73.942195 40.701133, -73.942186 40.701159), (-73.942186 40.701159, -73.942268 40.701645))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133602> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133602> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133602> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_80> .

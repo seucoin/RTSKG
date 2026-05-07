@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_42882> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_42882> <http://www.w3.org/2000/01/rdf-schema#label> "MCGUINNESS BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_42882> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.952345 40.734707, -73.952399 40.734891, -73.952512 40.735276, -73.95255 40.735406, -73.952567 40.735519)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_42882> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_42882> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_42882> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_112> .

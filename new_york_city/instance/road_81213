@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_81213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_81213> <http://www.w3.org/2000/01/rdf-schema#label> "HARMAN ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_81213> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.922272 40.696451, -73.921984 40.696744, -73.921892 40.696839, -73.921219 40.697524, -73.921143 40.697602, -73.920825 40.697926)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_81213> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_81213> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_81213> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_36> .

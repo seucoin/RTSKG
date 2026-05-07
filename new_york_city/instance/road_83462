@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_83462> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83462> <http://www.w3.org/2000/01/rdf-schema#label> "FEDERAL CIR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_83462> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.808341 40.658301, -73.808327 40.658204, -73.808306 40.658108, -73.808277 40.658013), (-73.808277 40.658013, -73.808241 40.657919, -73.808197 40.657828, -73.808147 40.657738))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83462> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_cir> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83462> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83462> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_132> .

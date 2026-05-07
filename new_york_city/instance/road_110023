@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_110023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110023> <http://www.w3.org/2000/01/rdf-schema#label> "HIGH ROCK PARK PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_110023> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.124782 40.590152, -74.124681 40.590131, -74.124559 40.59015, -74.124448 40.590179, -74.124334 40.590229, -74.124264 40.590292, -74.124214 40.590379, -74.124167 40.590502, -74.124131 40.590631, -74.124096 40.590755)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110023> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110023> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110023> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_118> .

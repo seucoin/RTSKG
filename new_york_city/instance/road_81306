@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_81306> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_81306> <http://www.w3.org/2000/01/rdf-schema#label> "TAPSCOTT ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_81306> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.921021 40.667861, -73.921003 40.667789, -73.920992 40.667747, -73.92098 40.667702, -73.920967 40.667651, -73.920954 40.6676, -73.92094 40.667549, -73.920928 40.6675, -73.920911 40.667436, -73.920891 40.667359, -73.920789 40.666963, -73.920768 40.666884, -73.920582 40.666163, -73.920445 40.665635)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_81306> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_81306> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_81306> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_177> .

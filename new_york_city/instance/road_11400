@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_11400> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_11400> <http://www.w3.org/2000/01/rdf-schema#label> "VAN HORN ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_11400> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.873676 40.730554, -73.873695 40.730519, -73.873697 40.730479, -73.87368 40.730441, -73.873649 40.730412, -73.872919 40.730152)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_11400> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_11400> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_11400> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_196> .

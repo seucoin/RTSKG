@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_89602> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89602> <http://www.w3.org/2000/01/rdf-schema#label> "FLORENCE PL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_89602> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.20037 40.524502, -74.200608 40.524475, -74.200847 40.524446, -74.201084 40.524414), (-74.201084 40.524414, -74.201322 40.524381, -74.201558 40.524345, -74.201794 40.524308))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89602> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89602> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89602> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_84> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_89680> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89680> <http://www.w3.org/2000/01/rdf-schema#label> "BRUCKNER EXPY EXIT 8A SB" .
+<https://w3id.org/rtskg/new_york_city/instance/road_89680> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.826425 40.855604, -73.826511 40.855102, -73.826528 40.854091, -73.826571 40.853718, -73.826659 40.853351)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89680> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89680> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_184> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89680> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_623> .

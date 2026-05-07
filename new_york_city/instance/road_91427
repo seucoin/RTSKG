@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_91427> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91427> <http://www.w3.org/2000/01/rdf-schema#label> "W MOSHOLU PKWY S" .
+<https://w3id.org/rtskg/new_york_city/instance/road_91427> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.887971 40.882905, -73.887702 40.882998, -73.887227 40.883049, -73.887162 40.883057, -73.887124 40.883067)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91427> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pkwy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91427> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91427> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_174> .

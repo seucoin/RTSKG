@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_95137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_95137> <http://www.w3.org/2000/01/rdf-schema#label> "SAVO LN" .
+<https://w3id.org/rtskg/new_york_city/instance/road_95137> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.065929 40.60121, -74.066028 40.601122, -74.066114 40.601021, -74.066182 40.600911, -74.066232 40.600795, -74.06626 40.600674, -74.066267 40.600552, -74.066254 40.600433, -74.066221 40.600319, -74.066282 40.600186, -74.066326 40.600047, -74.066351 40.599905, -74.066358 40.599762, -74.066346 40.59962)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_95137> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ln> .
 <https://w3id.org/rtskg/new_york_city/instance/road_95137> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_95137> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_6> .

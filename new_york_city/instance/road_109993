@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_109993> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109993> <http://www.w3.org/2000/01/rdf-schema#label> "DRIVEWAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_109993> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.185717 40.562519, -74.1857 40.56239, -74.185695 40.562301, -74.185654 40.562156, -74.185619 40.562043, -74.185563 40.561817, -74.185497 40.56143)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109993> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109993> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_5> .

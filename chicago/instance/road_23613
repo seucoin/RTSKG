@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_23613> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_23613> <http://www.w3.org/2000/01/rdf-schema#label> "JUNEWAY" .
+<https://w3id.org/rtskg/chicago/instance/road_23613> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.675461 42.022537, -87.675465 42.022539, -87.675521 42.022546, -87.675615 42.022546, -87.67568 42.022549, -87.67582 42.022548, -87.675994 42.022548, -87.676301 42.022549, -87.676542 42.02255, -87.676711 42.022551)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_23613> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ter> .
 <https://w3id.org/rtskg/chicago/instance/road_23613> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_2> .
 <https://w3id.org/rtskg/chicago/instance/road_23613> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_1> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_125> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_125> <http://www.w3.org/2000/01/rdf-schema#label> "STONY ISLAND" .
+<https://w3id.org/rtskg/chicago/instance/road_125> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.585159 41.720662, -87.585141 41.720122, -87.585132 41.719833, -87.585112 41.719537, -87.585106 41.719312, -87.585099 41.719126, -87.585086 41.718733)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_125> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_125> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_5> .
 <https://w3id.org/rtskg/chicago/instance/road_125> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_50> .

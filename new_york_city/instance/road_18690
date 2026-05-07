@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_18690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_18690> <http://www.w3.org/2000/01/rdf-schema#label> "EASTERN RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_18690> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.765268 40.652487, -73.765856 40.652793, -73.76642 40.653124, -73.766959 40.65348), (-73.766959 40.65348, -73.76747 40.653858, -73.767951 40.654258, -73.768402 40.654678))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_18690> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_18690> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_18690> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_132> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_43212> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_43212> <http://www.w3.org/2000/01/rdf-schema#label> "BATCHELDER ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_43212> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.938639 40.598617, -73.938547 40.598131, -73.938533 40.598057, -73.938522 40.598, -73.938511 40.597944, -73.938499 40.597878, -73.938477 40.597766, -73.938387 40.597286, -73.938366 40.597179, -73.938276 40.596703, -73.938264 40.596639, -73.9382 40.596301)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_43212> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_43212> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_43212> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_210> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_7650> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_7650> <http://www.w3.org/2000/01/rdf-schema#label> "WOODHAVEN BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_7650> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.870633 40.73278, -73.870651 40.732744, -73.870731 40.732584, -73.870803 40.732443, -73.870878 40.732301, -73.870934 40.732202)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_7650> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_7650> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_7650> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_82> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_109409> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109409> <http://www.w3.org/2000/01/rdf-schema#label> "E 120 ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_109409> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.935706 40.799515, -73.935642 40.799489, -73.935428 40.799399, -73.93364 40.798643, -73.933525 40.798593)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109409> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109409> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109409> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_74> .

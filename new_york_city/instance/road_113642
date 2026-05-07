@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_113642> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113642> <http://www.w3.org/2000/01/rdf-schema#label> "BROOKLYN QUEENS EXPWY EB ET 26" .
+<https://w3id.org/rtskg/new_york_city/instance/road_113642> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.001566 40.677035, -74.001657 40.677295, -74.001883 40.677628, -74.001986 40.677779, -74.002109 40.677948, -74.002496 40.678428, -74.002653 40.67861)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113642> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113642> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_195> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113642> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_343> .

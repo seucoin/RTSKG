@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_38507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_38507> <http://www.w3.org/2000/01/rdf-schema#label> "CROPSEY AVE BRIDGE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_38507> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.986046 40.581729, -73.985925 40.581276, -73.985905 40.581208, -73.985887 40.581153)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_38507> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_38507> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_38507> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_55> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_40347> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40347> <http://www.w3.org/2000/01/rdf-schema#label> "NOSTRAND AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_40347> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.941846 40.600206, -73.941762 40.599762, -73.941762 40.599762, -73.941708 40.599483, -73.941481 40.598313)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40347> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40347> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40347> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_210> .

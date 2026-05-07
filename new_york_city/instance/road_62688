@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_62688> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62688> <http://www.w3.org/2000/01/rdf-schema#label> "JEFFERSON ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_62688> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.926893 40.703675, -73.925336 40.705261)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62688> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62688> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62688> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_36> .

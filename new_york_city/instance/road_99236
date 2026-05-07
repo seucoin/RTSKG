@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_99236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99236> <http://www.w3.org/2000/01/rdf-schema#label> "BARUCH DR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_99236> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.977369 40.718951, -73.977356 40.718986, -73.977257 40.719238)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99236> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99236> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99236> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_232> .

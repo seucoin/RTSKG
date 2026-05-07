@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_112006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112006> <http://www.w3.org/2000/01/rdf-schema#label> "BRONX RIVER GREENWAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_112006> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.871363 40.872899, -73.871294 40.872963, -73.871218 40.873022, -73.871135 40.873076, -73.871047 40.873124, -73.870953 40.873166, -73.870855 40.873203, -73.870754 40.873232), (-73.870754 40.873232, -73.870751 40.873232))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112006> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112006> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_31> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112006> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_333> .

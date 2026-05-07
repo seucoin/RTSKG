@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_31801> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_31801> <http://www.w3.org/2000/01/rdf-schema#label> "HENDERSON AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_31801> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.11755 40.636962, -74.117687 40.636944, -74.117848 40.636923, -74.118021 40.636901, -74.118193 40.636878, -74.118344 40.636858, -74.118474 40.636842, -74.118606 40.636824, -74.118737 40.636807, -74.118874 40.636789, -74.118999 40.636773, -74.119239 40.636742, -74.119367 40.636725, -74.119753 40.636675)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_31801> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_31801> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_31801> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_206> .

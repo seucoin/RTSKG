@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_47682> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47682> <http://www.w3.org/2000/01/rdf-schema#label> "FOUR CORNERS RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_47682> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.10788 40.591627, -74.107931 40.591696, -74.10799 40.591763, -74.108055 40.591825), (-74.108055 40.591825, -74.108127 40.591884, -74.108204 40.591937, -74.108287 40.591986))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47682> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47682> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47682> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_118> .

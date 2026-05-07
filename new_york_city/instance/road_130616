@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_130616> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130616> <http://www.w3.org/2000/01/rdf-schema#label> "HUNTERS POINT AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_130616> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.940284 40.740808, -73.940062 40.740768), (-73.940062 40.740768, -73.939833 40.740729, -73.939603 40.740694, -73.939371 40.740663), (-73.939371 40.740663, -73.939065 40.740626, -73.938757 40.740594, -73.938448 40.740569))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130616> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130616> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130616> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_145> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_76149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_76149> <http://www.w3.org/2000/01/rdf-schema#label> "ELDER AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_76149> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.829653 40.74918, -73.829438 40.749214, -73.829226 40.749264, -73.829023 40.749332, -73.82883 40.749415, -73.828652 40.749513)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_76149> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_76149> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_76149> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_92> .

@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_100770> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100770> <http://www.w3.org/2000/01/rdf-schema#label> "FLATBUSH AV GREENWAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_100770> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.90787 40.596326, -73.907116 40.595644, -73.907051 40.595586), (-73.907051 40.595586, -73.907001 40.595544, -73.906955 40.595498, -73.906916 40.59545, -73.906882 40.595398, -73.906854 40.595345, -73.906833 40.59529), (-73.906833 40.59529, -73.906773 40.595278))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100770> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100770> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_154> .

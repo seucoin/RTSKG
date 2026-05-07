@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_78427> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78427> <http://www.w3.org/2000/01/rdf-schema#label> "BLUEBERRY LN" .
+<https://w3id.org/rtskg/new_york_city/instance/road_78427> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.160413 40.52811, -74.159679 40.528547, -74.159618 40.528604, -74.15957 40.52867, -74.159539 40.528744, -74.159529 40.528821, -74.159538 40.528897, -74.159565 40.528967, -74.159979 40.52938)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78427> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ln> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78427> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78427> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_109> .

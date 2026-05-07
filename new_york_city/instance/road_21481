@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_21481> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_21481> <http://www.w3.org/2000/01/rdf-schema#label> "E HAMPTON BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_21481> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.746809 40.752037, -73.746673 40.75194, -73.746528 40.751851, -73.746376 40.751769, -73.746218 40.751694)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_21481> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_21481> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_21481> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_64> .

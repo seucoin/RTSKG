@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_107134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107134> <http://www.w3.org/2000/01/rdf-schema#label> "WILLIAMSBURG BRG" .
+<https://w3id.org/rtskg/new_york_city/instance/road_107134> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.979122 40.715588, -73.978988 40.715517, -73.978953 40.715506, -73.978628 40.715408, -73.978594 40.715398, -73.978573 40.715392, -73.978512 40.715374, -73.978394 40.715338, -73.978289 40.715307)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107134> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_brg> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107134> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107134> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_232> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_17752> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_17752> <http://www.w3.org/2000/01/rdf-schema#label> "EDDY" .
+<https://w3id.org/rtskg/chicago/instance/road_17752> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.705343 41.945771, -87.705678 41.945768, -87.705951 41.945765, -87.705956 41.945765, -87.706082 41.945764, -87.706277 41.945764, -87.706574 41.945762)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_17752> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_st> .
 <https://w3id.org/rtskg/chicago/instance/road_17752> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_6> .
 <https://w3id.org/rtskg/chicago/instance/road_17752> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_21> .

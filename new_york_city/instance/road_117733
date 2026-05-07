@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_117733> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117733> <http://www.w3.org/2000/01/rdf-schema#label> "SQUIBB PARK AND BRIDGE PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_117733> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.996218 40.701532, -73.996232 40.701522, -73.996244 40.701512, -73.996256 40.7015, -73.996266 40.701488), (-73.996266 40.701488, -73.996274 40.701475, -73.996282 40.701461, -73.996287 40.701448, -73.996291 40.701433))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117733> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117733> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117733> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_33> .

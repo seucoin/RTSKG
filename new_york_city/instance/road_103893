@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_103893> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103893> <http://www.w3.org/2000/01/rdf-schema#label> "WHITESTONE EXPRESSWAY NB ET 14" .
+<https://w3id.org/rtskg/new_york_city/instance/road_103893> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.837542 40.767545, -73.837485 40.767582, -73.83743 40.76762, -73.837376 40.76766), (-73.837376 40.76766, -73.837325 40.767701, -73.837275 40.767744, -73.837227 40.767787))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103893> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103893> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_92> .

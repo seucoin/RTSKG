@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_112293> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112293> <http://www.w3.org/2000/01/rdf-schema#label> "TELEPORT DR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_112293> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.177376 40.606164, -74.177269 40.606041, -74.177179 40.605867, -74.17713 40.605588, -74.177137 40.605527, -74.177166 40.605279)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112293> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112293> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112293> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_23> .

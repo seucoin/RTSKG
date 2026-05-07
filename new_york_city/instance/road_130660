@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_130660> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130660> <http://www.w3.org/2000/01/rdf-schema#label> "ASTORIA BLVD N EN NORTHERN BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_130660> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.852848 40.758342, -73.853106 40.758394), (-73.853106 40.758394, -73.853383 40.758435, -73.853655 40.758493, -73.85392 40.758567), (-73.85392 40.758567, -73.854176 40.758656, -73.854423 40.758761, -73.854657 40.75888))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130660> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130660> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_93> .

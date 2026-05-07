@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_121724> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121724> <http://www.w3.org/2000/01/rdf-schema#label> "US VETERANS HOSPITAL DVWY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_121724> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.903101 40.867686, -73.903172 40.867698, -73.903243 40.867707, -73.903315 40.867712), (-73.903315 40.867712, -73.903388 40.867715, -73.90346 40.867713, -73.903533 40.867708), (-73.903533 40.867708, -73.903757 40.867699))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121724> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121724> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121724> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_136> .

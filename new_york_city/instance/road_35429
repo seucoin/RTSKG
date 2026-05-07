@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_35429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_35429> <http://www.w3.org/2000/01/rdf-schema#label> "CLASSON AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_35429> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.960294 40.690354, -73.960239 40.69007, -73.960224 40.689997, -73.960188 40.689812, -73.960174 40.689738, -73.960148 40.689617, -73.960098 40.689353, -73.960006 40.688889)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_35429> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_35429> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_35429> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_17> .

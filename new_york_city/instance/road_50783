@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_50783> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50783> <http://www.w3.org/2000/01/rdf-schema#label> "OLYMPIA BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_50783> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.071058 40.592821, -74.071188 40.592821, -74.071318 40.592814, -74.071446 40.592798), (-74.071446 40.592798, -74.071573 40.592775, -74.071697 40.592745, -74.071817 40.592707))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50783> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50783> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50783> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_214> .

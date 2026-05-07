@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_103223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103223> <http://www.w3.org/2000/01/rdf-schema#label> "RFK BRIDGE EXIT 46 MANHATTAN" .
+<https://w3id.org/rtskg/new_york_city/instance/road_103223> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.920106 40.797637, -73.920327 40.797653), (-73.920327 40.797653, -73.920626 40.797672, -73.920923 40.797707, -73.921215 40.797758), (-73.921215 40.797758, -73.921503 40.797825, -73.921783 40.797907, -73.922055 40.798004), (-73.922055 40.798004, -73.922575 40.798101))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103223> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103223> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_194> .

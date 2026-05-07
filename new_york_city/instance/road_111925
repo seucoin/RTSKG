@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_111925> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111925> <http://www.w3.org/2000/01/rdf-schema#label> "SHORE PARKWAY GREENWAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_111925> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.884738 40.630127, -73.88477 40.630141, -73.884804 40.630153, -73.88484 40.630164, -73.884876 40.630171, -73.884913 40.630177), (-73.884913 40.630177, -73.88495 40.63018, -73.884988 40.630181, -73.885026 40.63018, -73.885063 40.630176, -73.8851 40.630169))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111925> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111925> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_39> .

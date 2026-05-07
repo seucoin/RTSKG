@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_19853> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_19853> <http://www.w3.org/2000/01/rdf-schema#label> "OCEANIA ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_19853> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.767616 40.745535, -73.76698 40.744231, -73.76688 40.744102, -73.766764 40.743979, -73.766635 40.743863, -73.766492 40.743757, -73.766339 40.743661, -73.766176 40.743576)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_19853> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_19853> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_19853> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_175> .

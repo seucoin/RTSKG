@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_113597> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113597> <http://www.w3.org/2000/01/rdf-schema#label> "PORT LIBERTE-WALL ST FERRY RTE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_113597> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.006316 40.70347, -74.004962 40.703352, -74.004005 40.702655), (-74.004005 40.702655, -74.003829 40.702454, -74.003681 40.702241, -74.003561 40.702017))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113597> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rte> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113597> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_309> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113597> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_317> .

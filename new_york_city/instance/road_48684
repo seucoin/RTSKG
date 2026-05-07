@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_48684> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_48684> <http://www.w3.org/2000/01/rdf-schema#label> "GREEN VALLEY RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_48684> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.194098 40.548737, -74.194278 40.54865, -74.194468 40.548575, -74.194666 40.548515, -74.19487 40.548468, -74.195765 40.549201, -74.196222 40.549738)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_48684> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_48684> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_48684> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_5> .

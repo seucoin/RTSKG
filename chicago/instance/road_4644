@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_4644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_4644> <http://www.w3.org/2000/01/rdf-schema#label> "MULLIGAN" .
+<https://w3id.org/rtskg/chicago/instance/road_4644> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.784535 41.932848, -87.784542 41.933046, -87.784549 41.933267, -87.784556 41.933461, -87.784563 41.933682, -87.78457 41.933904, -87.784583 41.934285, -87.784585 41.934355, -87.784592 41.934677)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_4644> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_4644> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_3> .
 <https://w3id.org/rtskg/chicago/instance/road_4644> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_19> .

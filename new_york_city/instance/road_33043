@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_33043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_33043> <http://www.w3.org/2000/01/rdf-schema#label> "CAULDWELL AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_33043> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.907751 40.821176, -73.9077 40.8213, -73.907678 40.821351, -73.907632 40.821462, -73.90761 40.821515, -73.90759 40.821564, -73.907571 40.821611, -73.907535 40.821696, -73.907518 40.821737, -73.907502 40.821776, -73.907484 40.82182, -73.907428 40.821953)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_33043> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_33043> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_33043> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_159> .

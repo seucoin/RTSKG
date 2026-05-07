@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_95120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_95120> <http://www.w3.org/2000/01/rdf-schema#label> "NORTHVIEW CT" .
+<https://w3id.org/rtskg/new_york_city/instance/road_95120> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.088796 40.644248, -74.08878 40.644194, -74.088747 40.64414, -74.088696 40.644092, -74.08863 40.644054, -74.088556 40.64403, -74.08848 40.64402, -74.088407 40.644023)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_95120> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ct> .
 <https://w3id.org/rtskg/new_york_city/instance/road_95120> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_95120> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_206> .

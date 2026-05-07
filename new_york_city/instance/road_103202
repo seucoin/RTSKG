@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_103202> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103202> <http://www.w3.org/2000/01/rdf-schema#label> "HARLEM RIVER PATHWAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_103202> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.92636 40.799414, -73.926424 40.799323, -73.926482 40.799229, -73.926534 40.799134), (-73.926534 40.799134, -73.92658 40.799036, -73.92662 40.798937, -73.926653 40.798837))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103202> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103202> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_194> .

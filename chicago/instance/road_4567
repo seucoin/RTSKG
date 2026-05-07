@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_4567> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_4567> <http://www.w3.org/2000/01/rdf-schema#label> "DR MARTIN LUTHER KING JR" .
+<https://w3id.org/rtskg/chicago/instance/road_4567> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.615283 41.7666, -87.615275 41.766266, -87.615272 41.766176, -87.615271 41.766147, -87.61527 41.766097, -87.615266 41.765982, -87.615262 41.765711)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_4567> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_dr> .
 <https://w3id.org/rtskg/chicago/instance/road_4567> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_5> .
 <https://w3id.org/rtskg/chicago/instance/road_4567> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_69> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_83129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83129> <http://www.w3.org/2000/01/rdf-schema#label> "GRAND CENTRAL PKWY EB EN 33 ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_83129> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.914767 40.76961, -73.913957 40.769521, -73.913557 40.769474, -73.913245 40.769435, -73.912881 40.769432)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83129> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83129> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_223> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83129> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_113> .

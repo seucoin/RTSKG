@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_78454> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78454> <http://www.w3.org/2000/01/rdf-schema#label> "PARK HILL CT" .
+<https://w3id.org/rtskg/new_york_city/instance/road_78454> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.0767 40.618666, -74.076561 40.618516, -74.076438 40.618359, -74.076331 40.618195), (-74.076331 40.618195, -74.076242 40.618026, -74.076169 40.617851, -74.076114 40.617673))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78454> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ct> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78454> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78454> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_115> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_28570> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_28570> <http://www.w3.org/2000/01/rdf-schema#label> "LAURELTON PKWY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_28570> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.737185 40.670918, -73.737356 40.670627, -73.737548 40.670343, -73.737759 40.670066, -73.737989 40.669798, -73.738237 40.66954, -73.738502 40.669293)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_28570> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pkwy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_28570> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_28570> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_139> .

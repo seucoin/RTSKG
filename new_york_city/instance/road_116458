@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_116458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116458> <http://www.w3.org/2000/01/rdf-schema#label> "ASTORIA PARK PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_116458> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.919964 40.77985, -73.920097 40.779714), (-73.920097 40.779714, -73.92015 40.77966, -73.920209 40.779609, -73.920274 40.779563, -73.920344 40.779521, -73.920418 40.779484))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116458> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116458> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_8> .

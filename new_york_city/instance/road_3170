@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_3170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_3170> <http://www.w3.org/2000/01/rdf-schema#label> "AMSTERDAM AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_3170> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.96758 40.797875, -73.967478 40.798015, -73.967425 40.79809, -73.967377 40.798156, -73.967299 40.798264, -73.967252 40.798329, -73.967206 40.798393, -73.967121 40.798513)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_3170> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_3170> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_3170> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_151> .

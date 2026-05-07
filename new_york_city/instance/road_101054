@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_101054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101054> <http://www.w3.org/2000/01/rdf-schema#label> "LAURELTON PARKWAY GREENWAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_101054> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.737695 40.668781, -73.737691 40.668762, -73.737685 40.668743, -73.737677 40.668724), (-73.737677 40.668724, -73.737668 40.668706, -73.737658 40.668688, -73.737647 40.668671))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101054> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101054> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_203> .

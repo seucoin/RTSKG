@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_93127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93127> <http://www.w3.org/2000/01/rdf-schema#label> "CUNNINGHAM RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_93127> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.219266 40.503451, -74.21919 40.503451, -74.219114 40.503456, -74.21904 40.503467), (-74.21904 40.503467, -74.218967 40.503483, -74.218897 40.503506, -74.21883 40.503533))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93127> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93127> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93127> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_84> .

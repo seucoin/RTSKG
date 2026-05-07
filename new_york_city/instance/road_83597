@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_83597> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83597> <http://www.w3.org/2000/01/rdf-schema#label> "CENTRAL PARK LENOX AVE ACCESS RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_83597> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.953804 40.798221, -73.953929 40.798234, -73.954053 40.798259, -73.954172 40.798295, -73.954285 40.798341, -73.954388 40.798396)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83597> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83597> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_43> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83597> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_15> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_61232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61232> <http://www.w3.org/2000/01/rdf-schema#label> "BQE EB ENTRANCE TILLARY ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_61232> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.982184 40.695914, -73.982009 40.695913, -73.981747 40.695947, -73.981426 40.696031, -73.981129 40.696127), (-73.981129 40.696127, -73.981012 40.696172, -73.98089 40.69621, -73.980763 40.696239), (-73.980763 40.696239, -73.980634 40.696259, -73.980504 40.69627, -73.980372 40.696271))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61232> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61232> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_65> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61232> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_389> .

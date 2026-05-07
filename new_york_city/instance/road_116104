@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_116104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116104> <http://www.w3.org/2000/01/rdf-schema#label> "BOBBY WAGNER WALK" .
+<https://w3id.org/rtskg/new_york_city/instance/road_116104> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.942683 40.778038, -73.942707 40.778125, -73.942854 40.778424, -73.942899 40.778464)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116104> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_walk> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116104> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116104> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_262> .

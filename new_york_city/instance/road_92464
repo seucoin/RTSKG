@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_92464> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_92464> <http://www.w3.org/2000/01/rdf-schema#label> "HENRY HUDSON PARKWAY ET 16 NB" .
+<https://w3id.org/rtskg/new_york_city/instance/road_92464> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.93421 40.862511, -73.934129 40.862592, -73.933908 40.862811, -73.933804 40.862933, -73.933765 40.86297, -73.933717 40.862998, -73.933647 40.86301, -73.933293 40.863003)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_92464> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_92464> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_243> .
 <https://w3id.org/rtskg/new_york_city/instance/road_92464> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_73> .

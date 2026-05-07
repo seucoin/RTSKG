@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_113802> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113802> <http://www.w3.org/2000/01/rdf-schema#label> "DUMBO-S WILLIAMSBURG FERRY RTE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_113802> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.995887 40.703268, -73.995743 40.703483, -73.995599 40.703697, -73.995455 40.703911), (-73.995455 40.703911, -73.995311 40.704125, -73.995166 40.70434, -73.995022 40.704554))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113802> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rte> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113802> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_365> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113802> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_481> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_110999> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110999> <http://www.w3.org/2000/01/rdf-schema#label> "ERSKINE ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_110999> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.869798 40.658077, -73.869755 40.658032, -73.869711 40.657987, -73.869664 40.657944), (-73.869664 40.657944, -73.869617 40.657901, -73.869567 40.657859, -73.869517 40.657818), (-73.869517 40.657818, -73.869142 40.657576))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110999> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110999> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110999> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_76> .

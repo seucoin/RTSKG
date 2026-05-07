@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_115073> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115073> <http://www.w3.org/2000/01/rdf-schema#label> "WHITLOCK AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_115073> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.887108 40.823314, -73.887039 40.823446, -73.886976 40.82358, -73.88692 40.823715), (-73.88692 40.823715, -73.886871 40.823852, -73.88683 40.823991, -73.886795 40.82413), (-73.886795 40.82413, -73.886456 40.825295))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115073> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115073> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115073> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_126> .

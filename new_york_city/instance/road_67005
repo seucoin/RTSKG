@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_67005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_67005> <http://www.w3.org/2000/01/rdf-schema#label> "MILLER AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_67005> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.891545 40.673859, -73.891343 40.673075, -73.891331 40.67303, -73.891283 40.672843, -73.89127 40.672793, -73.891232 40.672645, -73.891218 40.67259)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_67005> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_67005> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_67005> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_76> .

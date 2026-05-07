@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_64603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64603> <http://www.w3.org/2000/01/rdf-schema#label> "ORCHARD BEACH ROAD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_64603> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.810703 40.868573, -73.810525 40.868569, -73.810346 40.868551, -73.810169 40.868519, -73.809997 40.868473, -73.809832 40.868413, -73.809678 40.868341, -73.809537 40.868259)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64603> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64603> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64603> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_184> .

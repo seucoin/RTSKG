@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_70555> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70555> <http://www.w3.org/2000/01/rdf-schema#label> "CROSS BX EP SB EN WHITE PLAINS" .
+<https://w3id.org/rtskg/new_york_city/instance/road_70555> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.865862 40.834884, -73.8654 40.834848, -73.864826 40.834757, -73.864204 40.834578, -73.863775 40.834455, -73.863309 40.834416)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70555> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70555> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_248> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70555> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_617> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_116396> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116396> <http://www.w3.org/2000/01/rdf-schema#label> "MCCARREN PARK PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_116396> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.951786 40.721388, -73.951996 40.721142, -73.952618 40.720778, -73.952644 40.720763)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116396> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116396> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116396> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_255> .

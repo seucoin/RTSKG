@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_103090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103090> <http://www.w3.org/2000/01/rdf-schema#label> "HEWLETT ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_103090> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.705679 40.754374, -73.704922 40.753886, -73.704767 40.753791, -73.704595 40.753709, -73.70441 40.753644, -73.704214 40.753596, -73.704013 40.753567, -73.703811 40.753558, -73.703613 40.753567)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103090> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103090> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103090> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_101> .

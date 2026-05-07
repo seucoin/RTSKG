@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_128805> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_128805> <http://www.w3.org/2000/01/rdf-schema#label> "BRONX RIVER PKWY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_128805> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.861471 40.898786, -73.861493 40.898929, -73.861497 40.898974, -73.861488 40.899237, -73.861474 40.899426, -73.861451 40.899596, -73.861446 40.899632, -73.861408 40.899794, -73.861386 40.899888, -73.861287 40.900241)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_128805> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pkwy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_128805> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_128805> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_259> .

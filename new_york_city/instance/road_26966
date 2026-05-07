@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_26966> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_26966> <http://www.w3.org/2000/01/rdf-schema#label> "EDGERTON RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_26966> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.789766 40.719509, -73.789775 40.719653, -73.789761 40.7198, -73.789723 40.719947, -73.789661 40.72009, -73.789577 40.720227, -73.789473 40.720354, -73.789351 40.720468, -73.789215 40.720569)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_26966> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_26966> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_26966> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_131> .

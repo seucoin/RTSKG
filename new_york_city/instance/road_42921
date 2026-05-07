@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_42921> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_42921> <http://www.w3.org/2000/01/rdf-schema#label> "LAFAYETTE AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_42921> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.960006 40.688889, -73.959917 40.6889, -73.959834 40.688909, -73.959658 40.688929, -73.959006 40.689004, -73.958902 40.689016, -73.958484 40.689064, -73.958378 40.689076, -73.957778 40.689145, -73.957631 40.689162, -73.957223 40.689209)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_42921> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_42921> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_42921> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_17> .

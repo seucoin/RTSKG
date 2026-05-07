@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_50648> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50648> <http://www.w3.org/2000/01/rdf-schema#label> "ARROWOOD CT" .
+<https://w3id.org/rtskg/new_york_city/instance/road_50648> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.212363 40.550345, -74.212353 40.550244, -74.212338 40.550144, -74.212319 40.550045), (-74.212319 40.550045, -74.212294 40.549946, -74.212265 40.549848, -74.212231 40.54975))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50648> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ct> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50648> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50648> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_204> .

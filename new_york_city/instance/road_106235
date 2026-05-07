@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_106235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106235> <http://www.w3.org/2000/01/rdf-schema#label> "BREVOORT HOUSES PEDESTIRAN PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_106235> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.923118 40.680328, -73.923591 40.680281, -73.923612 40.680184, -73.923666 40.680115, -73.923836 40.680044, -73.923791 40.679745, -73.923785 40.679495)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106235> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106235> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106235> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_61> .

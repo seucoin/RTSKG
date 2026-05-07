@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_93498> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93498> <http://www.w3.org/2000/01/rdf-schema#label> "SAYBROOK ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_93498> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.160404 40.60745, -74.160394 40.607149, -74.160405 40.606847, -74.160438 40.606545, -74.160492 40.606245, -74.160567 40.605947, -74.160664 40.605653, -74.16078 40.605365, -74.160917 40.605083)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93498> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93498> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93498> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_23> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_121311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121311> <http://www.w3.org/2000/01/rdf-schema#label> "VILLAGE LN" .
+<https://w3id.org/rtskg/new_york_city/instance/road_121311> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.168147 40.544027, -74.16801 40.543629, -74.168026 40.543555, -74.168063 40.543481, -74.168123 40.543413, -74.168202 40.543355, -74.168295 40.543314, -74.168394 40.54329, -74.168492 40.543282)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121311> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ln> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121311> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121311> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_84> .

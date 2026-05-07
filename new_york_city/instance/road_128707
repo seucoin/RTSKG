@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_128707> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_128707> <http://www.w3.org/2000/01/rdf-schema#label> "GOWANUS EXPY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_128707> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.996186 40.666531, -73.996189 40.666489, -73.996195 40.666396, -73.996218 40.666208, -73.996253 40.666021, -73.996263 40.66598, -73.996289 40.665873, -73.996299 40.665835)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_128707> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_expy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_128707> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_128707> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_228> .

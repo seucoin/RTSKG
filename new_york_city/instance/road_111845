@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_111845> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111845> <http://www.w3.org/2000/01/rdf-schema#label> "RANDALLS ISLAND GREENWAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_111845> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.926507 40.797957, -73.926506 40.797944, -73.926505 40.79793, -73.926504 40.797916), (-73.926504 40.797916, -73.926503 40.797909, -73.926502 40.797902, -73.926501 40.797894), (-73.926501 40.797894, -73.926452 40.797783, -73.926399 40.797674, -73.926341 40.797566))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111845> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111845> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_194> .

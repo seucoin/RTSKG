@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_100133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100133> <http://www.w3.org/2000/01/rdf-schema#label> "MARBLE HILL HOUSES PED PTH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_100133> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.907896 40.874511, -73.90777 40.874462, -73.90764 40.874421, -73.907506 40.874388), (-73.907506 40.874388, -73.907369 40.874362, -73.90723 40.874344, -73.907089 40.874334), (-73.907089 40.874334, -73.906754 40.874308))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100133> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100133> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100133> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .

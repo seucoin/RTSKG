@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_54194> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54194> <http://www.w3.org/2000/01/rdf-schema#label> "NETHERLAND AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_54194> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.91093 40.885864, -73.910904 40.885987, -73.91086 40.886108, -73.9108 40.886225, -73.910724 40.886335, -73.910632 40.886407, -73.910551 40.886487, -73.910485 40.886575, -73.910433 40.886669, -73.910398 40.886765)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54194> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54194> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54194> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_220> .

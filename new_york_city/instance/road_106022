@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_106022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106022> <http://www.w3.org/2000/01/rdf-schema#label> "DOOLEY ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_106022> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.945553 40.585148, -73.946197 40.586071), (-73.946197 40.586071, -73.946247 40.586123, -73.94629 40.586178, -73.946329 40.586235, -73.946361 40.586294), (-73.946361 40.586294, -73.946388 40.586355, -73.946408 40.586418, -73.946421 40.586481, -73.946429 40.586545))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106022> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106022> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106022> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_210> .

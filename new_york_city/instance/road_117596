@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_117596> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117596> <http://www.w3.org/2000/01/rdf-schema#label> "FORT INDEPENDENCE STREET" .
+<https://w3id.org/rtskg/new_york_city/instance/road_117596> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.899609 40.879114, -73.899555 40.879391, -73.899528 40.879493), (-73.899528 40.879493, -73.899429 40.879792, -73.899341 40.880092, -73.899263 40.880394), (-73.899263 40.880394, -73.899195 40.880698, -73.899138 40.881003, -73.899092 40.881309))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117596> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117596> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117596> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_241> .

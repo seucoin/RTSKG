@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_118389> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118389> <http://www.w3.org/2000/01/rdf-schema#label> "SLOSSON AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_118389> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.11967 40.621753, -74.119593 40.621416, -74.119495 40.621081, -74.119376 40.620751), (-74.119376 40.620751, -74.119236 40.620425, -74.119077 40.620105, -74.118897 40.619791), (-74.118897 40.619791, -74.118507 40.619201))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118389> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118389> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118389> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_251> .

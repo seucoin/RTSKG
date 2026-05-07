@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_30658> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_30658> <http://www.w3.org/2000/01/rdf-schema#label> "GARFIELD" .
+<https://w3id.org/rtskg/chicago/instance/road_30658> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.62408 41.794336, -87.623843 41.79434, -87.62332 41.794349, -87.623271 41.79435, -87.622581 41.794361, -87.622458 41.794371)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_30658> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_blvd> .
 <https://w3id.org/rtskg/chicago/instance/road_30658> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_5> .
 <https://w3id.org/rtskg/chicago/instance/road_30658> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_40> .

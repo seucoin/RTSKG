@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_116712> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116712> <http://www.w3.org/2000/01/rdf-schema#label> "VERRAZZANO BR EN UPPER LVL BEP" .
+<https://w3id.org/rtskg/new_york_city/instance/road_116712> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.030499 40.611679, -74.030703 40.611513, -74.030918 40.611355, -74.031141 40.611204), (-74.031141 40.611204, -74.031373 40.61106, -74.031613 40.610925, -74.031861 40.610799))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116712> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116712> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_14> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116712> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_269> .

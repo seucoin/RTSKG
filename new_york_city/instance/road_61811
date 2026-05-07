@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_61811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61811> <http://www.w3.org/2000/01/rdf-schema#label> "ROCKAWAY BREEZY BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_61811> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.894365 40.564389, -73.894567 40.564338, -73.895563 40.564077, -73.902255 40.562198, -73.902321 40.562179)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61811> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61811> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61811> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_27> .

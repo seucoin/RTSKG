@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_35668> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_35668> <http://www.w3.org/2000/01/rdf-schema#label> "CONEY ISLAND AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_35668> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.960318 40.586523, -73.960329 40.58651, -73.960379 40.586446, -73.960387 40.586236, -73.960386 40.586026, -73.960376 40.585816, -73.960319 40.585156, -73.960309 40.585035, -73.960292 40.584829)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_35668> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_35668> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_35668> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_29> .

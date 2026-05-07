@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_52776> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52776> <http://www.w3.org/2000/01/rdf-schema#label> "HOYT ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_52776> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.989993 40.683327, -73.990032 40.683272, -73.990064 40.683224, -73.990108 40.683162, -73.990215 40.683006, -73.99026 40.682941, -73.990425 40.682702)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52776> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52776> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52776> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_25> .

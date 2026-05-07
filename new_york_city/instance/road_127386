@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_127386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127386> <http://www.w3.org/2000/01/rdf-schema#label> "HUTCHINSON RIVER PKWY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_127386> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.816148 40.883315, -73.8161 40.883467, -73.81566 40.884863, -73.815624 40.884976, -73.815298 40.88627, -73.815196 40.886674)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127386> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pkwy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127386> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127386> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_184> .

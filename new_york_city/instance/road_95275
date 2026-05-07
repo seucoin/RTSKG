@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_95275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_95275> <http://www.w3.org/2000/01/rdf-schema#label> "SELMOFF LN" .
+<https://w3id.org/rtskg/new_york_city/instance/road_95275> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.133627 40.592976, -74.133426 40.593013, -74.133228 40.59306, -74.133035 40.593118, -74.132848 40.593185, -74.132745 40.593187, -74.132641 40.593176, -74.132541 40.59315, -74.132448 40.593112, -74.132368 40.593063)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_95275> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ln> .
 <https://w3id.org/rtskg/new_york_city/instance/road_95275> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_95275> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_118> .

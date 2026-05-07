@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_85732> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85732> <http://www.w3.org/2000/01/rdf-schema#label> "MAYBERRY PROM" .
+<https://w3id.org/rtskg/new_york_city/instance/road_85732> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.158772 40.52827, -74.158922 40.528148, -74.159086 40.528035, -74.159263 40.527932, -74.15945 40.527841, -74.159647 40.527762, -74.159851 40.527696, -74.160059 40.527643)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85732> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_prom> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85732> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85732> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_109> .

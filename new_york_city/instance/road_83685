@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_83685> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83685> <http://www.w3.org/2000/01/rdf-schema#label> "TERRACE DR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_83685> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.972356 40.773789, -73.972477 40.773777, -73.9726 40.773774, -73.972722 40.773779), (-73.972722 40.773779, -73.972843 40.773793, -73.972962 40.773816, -73.973077 40.773846))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83685> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83685> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83685> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_43> .

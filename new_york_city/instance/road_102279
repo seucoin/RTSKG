@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_102279> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102279> <http://www.w3.org/2000/01/rdf-schema#label> "EAST RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_102279> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.940251 40.77102, -73.940377 40.77107, -73.940494 40.771133, -73.940598 40.771209, -73.940686 40.771295, -73.940756 40.771389)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102279> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102279> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102279> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_202> .

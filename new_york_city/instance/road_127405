@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_127405> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127405> <http://www.w3.org/2000/01/rdf-schema#label> "WHITESTONE EXPY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_127405> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.825558 40.795657, -73.825445 40.795474, -73.825135 40.794991, -73.824913 40.794647, -73.824711 40.794333, -73.824472 40.793961, -73.824293 40.793682, -73.824075 40.793344, -73.823915 40.793095)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127405> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_expy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127405> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127405> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_252> .

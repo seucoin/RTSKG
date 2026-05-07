@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_47222> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47222> <http://www.w3.org/2000/01/rdf-schema#label> "SEGUINE AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_47222> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.197383 40.520269, -74.197358 40.520223, -74.197336 40.520177, -74.197318 40.520131), (-74.197318 40.520131, -74.197302 40.520083, -74.19729 40.520035, -74.197281 40.519987))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47222> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47222> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47222> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_84> .

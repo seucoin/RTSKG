@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_53167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53167> <http://www.w3.org/2000/01/rdf-schema#label> "BENEDICT RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_53167> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.109677 40.599294, -74.109485 40.599181, -74.109217 40.599096)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53167> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53167> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53167> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_118> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_40928> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40928> <http://www.w3.org/2000/01/rdf-schema#label> "DANIEL LOW TER" .
+<https://w3id.org/rtskg/new_york_city/instance/road_40928> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.081079 40.642466, -74.080979 40.642425, -74.080887 40.64237, -74.080805 40.642305, -74.080738 40.642231, -74.080689 40.64215, -74.080656 40.642067, -74.080556 40.6417)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40928> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ter> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40928> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40928> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_206> .

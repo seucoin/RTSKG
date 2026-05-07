@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_16914> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_16914> <http://www.w3.org/2000/01/rdf-schema#label> "BAISLEY BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_16914> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.778443 40.679094, -73.778233 40.679244, -73.778008 40.679381, -73.777769 40.679505, -73.777518 40.679614, -73.777258 40.679706)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_16914> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_16914> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_16914> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_10> .

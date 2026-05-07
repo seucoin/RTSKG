@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_115107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115107> <http://www.w3.org/2000/01/rdf-schema#label> "THOMAS JEFFERSON PARK PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_115107> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.935581 40.792738, -73.935419 40.792971, -73.935424 40.793001, -73.935327 40.79313, -73.935276 40.793151, -73.935119 40.793367, -73.934914 40.793651, -73.934691 40.79396, -73.93469 40.793962, -73.934659 40.794004)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115107> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115107> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115107> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_74> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_50015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_50015> <http://www.w3.org/2000/01/rdf-schema#label> "HAYFORD" .
+<https://w3id.org/rtskg/chicago/instance/road_50015> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.718412 41.755721, -87.718625 41.755718, -87.718886 41.755714, -87.719164 41.75571, -87.719459 41.755705, -87.719859 41.7557, -87.720308 41.755691, -87.72047 41.755689)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_50015> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_st> .
 <https://w3id.org/rtskg/chicago/instance/road_50015> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_4> .
 <https://w3id.org/rtskg/chicago/instance/road_50015> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_70> .

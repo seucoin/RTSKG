@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_85288> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85288> <http://www.w3.org/2000/01/rdf-schema#label> "WILSON TER" .
+<https://w3id.org/rtskg/new_york_city/instance/road_85288> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.093886 40.605819, -74.093644 40.605669, -74.093588 40.605412, -74.093492 40.604469, -74.0935 40.604161, -74.093502 40.604088, -74.094839 40.604279)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85288> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ter> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85288> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85288> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_118> .

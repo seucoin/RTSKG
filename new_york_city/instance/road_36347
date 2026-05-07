@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_36347> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36347> <http://www.w3.org/2000/01/rdf-schema#label> "FIELDSTON RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_36347> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.90035 40.904775, -73.90039 40.904858, -73.900447 40.904936, -73.90052 40.905006, -73.900605 40.905066, -73.900676 40.905137, -73.90073 40.905217, -73.900763 40.905303, -73.900776 40.905391, -73.900719 40.905476)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36347> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36347> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36347> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_200> .

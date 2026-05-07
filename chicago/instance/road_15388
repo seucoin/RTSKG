@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_15388> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_15388> <http://www.w3.org/2000/01/rdf-schema#label> "SHERIDAN" .
+<https://w3id.org/rtskg/chicago/instance/road_15388> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.654928 41.973313, -87.654931 41.973417, -87.654938 41.973687, -87.654951 41.974202, -87.654955 41.974297)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_15388> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_rd> .
 <https://w3id.org/rtskg/chicago/instance/road_15388> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_2> .
 <https://w3id.org/rtskg/chicago/instance/road_15388> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_3> .

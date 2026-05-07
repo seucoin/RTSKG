@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_27279> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_27279> <http://www.w3.org/2000/01/rdf-schema#label> "LITTLE NECK PKWY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_27279> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.741866 40.7737, -73.741816 40.773606, -73.74175 40.773516, -73.741669 40.773432, -73.741575 40.773356, -73.741471 40.77329, -73.741358 40.773235)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_27279> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pkwy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_27279> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_27279> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_64> .

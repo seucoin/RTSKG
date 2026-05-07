@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_21686> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_21686> <http://www.w3.org/2000/01/rdf-schema#label> "225 ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_21686> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.750013 40.669455, -73.750069 40.669432, -73.750081 40.669423, -73.750094 40.669413, -73.750107 40.669402, -73.750119 40.669387, -73.750132 40.669368, -73.750135 40.669357, -73.75014 40.669342, -73.75014 40.669327, -73.750138 40.669313, -73.75013 40.669295)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_21686> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_21686> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_21686> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_139> .

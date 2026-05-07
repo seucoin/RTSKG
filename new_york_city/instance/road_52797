@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_52797> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52797> <http://www.w3.org/2000/01/rdf-schema#label> "GRANDVIEW AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_52797> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.164801 40.639559, -74.164885 40.639171, -74.164952 40.638781, -74.165 40.638389, -74.16503 40.637996, -74.165042 40.637603, -74.165035 40.63721)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52797> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52797> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52797> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_156> .

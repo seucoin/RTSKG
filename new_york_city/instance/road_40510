@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_40510> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40510> <http://www.w3.org/2000/01/rdf-schema#label> "TOMPKINS AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_40510> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.944771 40.687645, -73.944728 40.687453, -73.944714 40.687382, -73.944623 40.686913)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40510> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40510> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40510> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_17> .

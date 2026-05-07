@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_107653> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107653> <http://www.w3.org/2000/01/rdf-schema#label> "ED KOCH QUEENSBORO BRG" .
+<https://w3id.org/rtskg/new_york_city/instance/road_107653> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.941525 40.75129, -73.940931 40.751023, -73.940864 40.750993, -73.940812 40.750969)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107653> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_brg> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107653> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107653> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_146> .

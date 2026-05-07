@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_61193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61193> <http://www.w3.org/2000/01/rdf-schema#label> "PORT AUTHORITY BUS TERMINAL RAMP" .
+<https://w3id.org/rtskg/new_york_city/instance/road_61193> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.994956 40.757734, -73.994923 40.757748, -73.994889 40.757762, -73.994854 40.757773), (-73.994854 40.757773, -73.994818 40.757783, -73.994781 40.757792, -73.994744 40.757798))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61193> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61193> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_48> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61193> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_123> .

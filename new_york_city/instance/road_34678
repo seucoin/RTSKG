@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_34678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_34678> <http://www.w3.org/2000/01/rdf-schema#label> "DEKALB AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_34678> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.960294 40.690354, -73.960139 40.690373, -73.960085 40.690379, -73.959577 40.690438, -73.959429 40.690456)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_34678> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_34678> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_34678> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_49> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_62801> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62801> <http://www.w3.org/2000/01/rdf-schema#label> "E BROADWAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_62801> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.987168 40.71432, -73.985856 40.714428, -73.985673 40.714444, -73.985586 40.714451, -73.985345 40.71447)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62801> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62801> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_232> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62801> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_391> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_86651> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86651> <http://www.w3.org/2000/01/rdf-schema#label> "PENDLETON PL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_86651> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.091793 40.641941, -74.091926 40.641914, -74.092058 40.641871, -74.092184 40.64181, -74.092297 40.641733, -74.092393 40.641643, -74.092468 40.641542, -74.09252 40.641436, -74.092549 40.641328, -74.092555 40.641223, -74.092056 40.639614)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86651> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86651> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86651> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_206> .

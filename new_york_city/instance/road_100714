@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_100714> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100714> <http://www.w3.org/2000/01/rdf-schema#label> "IKEA GREENWAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_100714> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.011469 40.670389, -74.011458 40.670412, -74.011613 40.670626, -74.011832 40.670965, -74.012704 40.671194, -74.012795 40.671253, -74.012967 40.671127, -74.013002 40.671149)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100714> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100714> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_195> .

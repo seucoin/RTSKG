@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_51935> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_51935> <http://www.w3.org/2000/01/rdf-schema#label> "ARMSTRONG AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_51935> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.16018 40.549438, -74.160356 40.550189, -74.160271 40.550835, -74.160206 40.551333, -74.160108 40.551549)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_51935> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_51935> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_51935> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_109> .

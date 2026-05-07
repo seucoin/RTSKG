@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_112531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112531> <http://www.w3.org/2000/01/rdf-schema#label> "ROCKEFELLER FOUNTAIN CIR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_112531> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.877868 40.853651, -73.877886 40.85366, -73.877902 40.853669, -73.877917 40.85368), (-73.877917 40.85368, -73.877931 40.853691, -73.877944 40.853704, -73.877955 40.853717))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112531> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_cir> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112531> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112531> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_31> .

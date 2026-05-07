@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_109132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109132> <http://www.w3.org/2000/01/rdf-schema#label> "CHERRY ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_109132> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.996494 40.710208, -73.996329 40.710227)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109132> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109132> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109132> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_45> .

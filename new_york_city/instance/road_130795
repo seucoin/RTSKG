@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_130795> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130795> <http://www.w3.org/2000/01/rdf-schema#label> "CENTRAL PARK PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_130795> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.973083 40.769707, -73.973149 40.769637, -73.973212 40.769675, -73.973302 40.76972, -73.973422 40.76977, -73.973532 40.769806, -73.97362 40.769831, -73.973743 40.769844, -73.973886 40.769856, -73.974031 40.769848, -73.974137 40.769835)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130795> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130795> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130795> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_43> .

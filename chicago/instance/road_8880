@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_8880> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_8880> <http://www.w3.org/2000/01/rdf-schema#label> "CANAL" .
+<https://w3id.org/rtskg/chicago/instance/road_8880> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.638382 41.847053, -87.638377 41.846854, -87.638377 41.846838, -87.638374 41.846717, -87.638373 41.846702, -87.638367 41.846494, -87.638366 41.846449, -87.638363 41.84636, -87.638362 41.84633)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_8880> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_st> .
 <https://w3id.org/rtskg/chicago/instance/road_8880> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_6> .
 <https://w3id.org/rtskg/chicago/instance/road_8880> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_34> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_31462> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_31462> <http://www.w3.org/2000/01/rdf-schema#label> "BOELSEN CRES" .
+<https://w3id.org/rtskg/new_york_city/instance/road_31462> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.861355 40.724616, -73.861513 40.724536, -73.86166 40.72444, -73.861794 40.724331, -73.861911 40.72421, -73.862009 40.724079, -73.862085 40.723941, -73.862138 40.7238, -73.86217 40.723657)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_31462> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_cres> .
 <https://w3id.org/rtskg/new_york_city/instance/road_31462> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_31462> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_196> .

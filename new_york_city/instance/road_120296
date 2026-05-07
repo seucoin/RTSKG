@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_120296> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120296> <http://www.w3.org/2000/01/rdf-schema#label> "HURLBERT ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_120296> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.083304 40.594725, -74.083372 40.594575, -74.083484 40.594507, -74.083699 40.594051, -74.083917 40.59352)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120296> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120296> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120296> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_214> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_95127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_95127> <http://www.w3.org/2000/01/rdf-schema#label> "LEEWOOD LOOP" .
+<https://w3id.org/rtskg/new_york_city/instance/road_95127> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.079101 40.610947, -74.079562 40.611099, -74.080263 40.610749, -74.080285 40.61061, -74.080324 40.610473, -74.080379 40.610339, -74.080449 40.610209, -74.080534 40.610085, -74.079827 40.609732)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_95127> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_loop> .
 <https://w3id.org/rtskg/new_york_city/instance/road_95127> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_95127> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_115> .

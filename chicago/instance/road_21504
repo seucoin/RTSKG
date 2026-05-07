@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_21504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_21504> <http://www.w3.org/2000/01/rdf-schema#label> "LAKE SHORE" .
+<https://w3id.org/rtskg/chicago/instance/road_21504> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.650986 41.978203, -87.651008 41.978251, -87.651127 41.978508, -87.651232 41.978731, -87.651569 41.979461, -87.651613 41.979554, -87.651641 41.979613, -87.651704 41.979749, -87.651841 41.980042)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_21504> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_dr> .
 <https://w3id.org/rtskg/chicago/instance/road_21504> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_2> .
 <https://w3id.org/rtskg/chicago/instance/road_21504> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_77> .

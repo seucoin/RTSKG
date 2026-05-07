@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_121484> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121484> <http://www.w3.org/2000/01/rdf-schema#label> "BETHESDA TER PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_121484> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.971032 40.773779, -73.970809 40.773741, -73.970587 40.773703), (-73.970587 40.773703, -73.970556 40.773706, -73.970526 40.773711, -73.970496 40.773717, -73.970467 40.773726, -73.970439 40.773736, -73.970413 40.773748, -73.970387 40.773762))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121484> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ter> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121484> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121484> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_43> .

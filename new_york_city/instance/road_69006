@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_69006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69006> <http://www.w3.org/2000/01/rdf-schema#label> "BRONX SHORE RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_69006> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.922065 40.799403, -73.922213 40.799487, -73.922361 40.799562, -73.922491 40.799628, -73.922651 40.7997, -73.922787 40.799755, -73.922935 40.799807, -73.923084 40.799854, -73.923228 40.799893, -73.92361 40.799995)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69006> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69006> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69006> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_194> .

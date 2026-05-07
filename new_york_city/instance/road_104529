@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_104529> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104529> <http://www.w3.org/2000/01/rdf-schema#label> "MARINA RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_104529> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.840147 40.764081, -73.840244 40.764082, -73.84034 40.764079, -73.840436 40.764072), (-73.840436 40.764072, -73.840627 40.764032))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104529> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104529> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104529> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_253> .

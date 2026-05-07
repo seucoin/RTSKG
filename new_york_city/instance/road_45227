@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_45227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45227> <http://www.w3.org/2000/01/rdf-schema#label> "WOODROW RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_45227> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.180736 40.55766, -74.180704 40.557585, -74.180757 40.557511, -74.180876 40.557375)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45227> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45227> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45227> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_5> .

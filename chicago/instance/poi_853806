@@ -1,5 +1,4 @@
 <https://w3id.org/rtskg/chicago/instance/poi_853806> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/poi> .
 <https://w3id.org/rtskg/chicago/instance/poi_853806> <http://www.w3.org/2000/01/rdf-schema#label> "Holiday Inn Express & Suites Chicago O'Hare Airport" .
-<https://w3id.org/rtskg/chicago/instance/poi_853806> <https://w3id.org/rtskg/ontology/dataproperty/latitude> "41.9992585"^^<http://www.w3.org/2001/XMLSchema#double> .
-<https://w3id.org/rtskg/chicago/instance/poi_853806> <https://w3id.org/rtskg/ontology/dataproperty/longitude> "-87.8828208"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://w3id.org/rtskg/chicago/instance/poi_853806> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POINT(-87.882821 41.999259)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/poi_853806> <https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category> <https://w3id.org/rtskg/chicago/instance/poi_category_residential_area> .

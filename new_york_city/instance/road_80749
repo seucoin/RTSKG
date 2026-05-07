@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_80749> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_80749> <http://www.w3.org/2000/01/rdf-schema#label> "MAC DOUGAL ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_80749> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.908572 40.680562, -73.908456 40.680575, -73.90837 40.680585, -73.908306 40.680593, -73.908204 40.680604, -73.907996 40.680628, -73.907918 40.680637, -73.906721 40.680776)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_80749> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_80749> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_80749> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_177> .

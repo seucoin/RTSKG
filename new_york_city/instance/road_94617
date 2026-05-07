@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_94617> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94617> <http://www.w3.org/2000/01/rdf-schema#label> "SKYLINE DR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_94617> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.080393 40.614807, -74.080253 40.614801, -74.08011 40.614811, -74.079971 40.614838, -74.079839 40.614882, -74.079721 40.614939)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94617> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94617> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94617> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_115> .

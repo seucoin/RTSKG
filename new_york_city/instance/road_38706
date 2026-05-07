@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_38706> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_38706> <http://www.w3.org/2000/01/rdf-schema#label> "COURT ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_38706> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.990852 40.692806, -73.990859 40.69275, -73.990851 40.692691, -73.990825 40.692633, -73.990783 40.692581, -73.990729 40.692538, -73.990668 40.692505)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_38706> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_38706> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_38706> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_33> .

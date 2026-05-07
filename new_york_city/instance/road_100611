@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_100611> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100611> <http://www.w3.org/2000/01/rdf-schema#label> "BELT PARKWAY WB EN 4 AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_100611> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.034873 40.611374, -74.035031 40.61135, -74.035206 40.611351, -74.035383 40.611369, -74.035558 40.611402, -74.035727 40.611451, -74.035887 40.611514, -74.036034 40.611591, -74.036167 40.611678, -74.037534 40.612581, -74.037886 40.612749)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100611> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100611> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_14> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100611> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_269> .

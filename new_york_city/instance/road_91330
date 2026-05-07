@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_91330> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91330> <http://www.w3.org/2000/01/rdf-schema#label> "WALLACE AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_91330> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.864311 40.872804, -73.864213 40.872912, -73.864129 40.873028, -73.864061 40.87315, -73.86401 40.873278, -73.863976 40.873408, -73.86396 40.873538)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91330> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91330> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91330> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_254> .

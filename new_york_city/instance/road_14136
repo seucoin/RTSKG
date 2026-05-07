@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_14136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_14136> <http://www.w3.org/2000/01/rdf-schema#label> "VETERANS RD W" .
+<https://w3id.org/rtskg/new_york_city/instance/road_14136> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.209263 40.556686, -74.209931 40.556499, -74.210592 40.556296, -74.211245 40.556075, -74.2117 40.555907), (-74.2117 40.555907, -74.211974 40.5558, -74.212245 40.55569, -74.212514 40.555576), (-74.212514 40.555576, -74.21278 40.555459, -74.213043 40.555338, -74.213304 40.555213))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_14136> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_14136> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_14136> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_204> .

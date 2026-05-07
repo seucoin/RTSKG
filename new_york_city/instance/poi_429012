@@ -1,6 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/poi_429012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/poi> .
 <https://w3id.org/rtskg/new_york_city/instance/poi_429012> <http://www.w3.org/2000/01/rdf-schema#label> "Bionic Bagels" .
-<https://w3id.org/rtskg/new_york_city/instance/poi_429012> <https://w3id.org/rtskg/ontology/dataproperty/latitude> "40.5926911"^^<http://www.w3.org/2001/XMLSchema#double> .
-<https://w3id.org/rtskg/new_york_city/instance/poi_429012> <https://w3id.org/rtskg/ontology/dataproperty/longitude> "-73.9400583"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://w3id.org/rtskg/new_york_city/instance/poi_429012> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POINT(-73.940058 40.592691)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/poi_429012> <https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category> <https://w3id.org/rtskg/new_york_city/instance/poi_category_shopping> .
 <https://w3id.org/rtskg/new_york_city/instance/poi_429012> <https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_block> <https://w3id.org/rtskg/new_york_city/instance/block_1160> .

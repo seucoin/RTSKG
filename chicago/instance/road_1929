@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_1929> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_1929> <http://www.w3.org/2000/01/rdf-schema#label> "HIAWATHA" .
+<https://w3id.org/rtskg/chicago/instance/road_1929> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.759854 41.998414, -87.759989 41.998477, -87.760144 41.998549, -87.760247 41.998598, -87.760342 41.998642, -87.760372 41.998656, -87.760376 41.998658, -87.760507 41.998719, -87.76071 41.998814, -87.760887 41.998897)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_1929> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_1929> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_3> .
 <https://w3id.org/rtskg/chicago/instance/road_1929> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_12> .

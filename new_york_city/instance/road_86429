@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_86429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86429> <http://www.w3.org/2000/01/rdf-schema#label> "REEDS MILL LN" .
+<https://w3id.org/rtskg/new_york_city/instance/road_86429> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.832317 40.880843, -73.83237 40.880904, -73.832407 40.880973, -73.832425 40.881048, -73.832423 40.881123, -73.832402 40.881194, -73.832232 40.882058)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86429> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ln> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86429> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86429> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_51> .

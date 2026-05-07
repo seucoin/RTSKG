@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_101369> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101369> <http://www.w3.org/2000/01/rdf-schema#label> "PELHAM PARKWAY EXIT WB" .
+<https://w3id.org/rtskg/new_york_city/instance/road_101369> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.832273 40.855777, -73.831946 40.8556), (-73.831946 40.8556, -73.831845 40.855556, -73.831738 40.855519, -73.831628 40.85549, -73.831514 40.85547, -73.831399 40.855457), (-73.831399 40.855457, -73.831293 40.855442))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101369> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101369> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_184> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101369> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_623> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_110562> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110562> <http://www.w3.org/2000/01/rdf-schema#label> "FORDHAM UNIVERSITY PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_110562> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.886578 40.862471, -73.88751 40.863159), (-73.88751 40.863159, -73.887622 40.863175, -73.887735 40.863189, -73.887848 40.863201), (-73.887848 40.863201, -73.887961 40.86321, -73.888075 40.863217, -73.888189 40.863222))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110562> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110562> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110562> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_20> .

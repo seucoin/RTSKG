@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_120917> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120917> <http://www.w3.org/2000/01/rdf-schema#label> "PENNSYLVANIA AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_120917> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.877229 40.643702, -73.877005 40.643578, -73.876797 40.643485, -73.876582 40.643401, -73.876502 40.643372, -73.876268 40.64329)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120917> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120917> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120917> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_222> .

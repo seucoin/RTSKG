@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_73676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_73676> <http://www.w3.org/2000/01/rdf-schema#label> "190 ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_73676> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.760171 40.69007, -73.760159 40.689999, -73.760165 40.689927, -73.76019 40.689855, -73.760232 40.68979, -73.760288 40.689734, -73.75984 40.688962)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_73676> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_73676> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_73676> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_205> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_120558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120558> <http://www.w3.org/2000/01/rdf-schema#label> "RICHMOND UNIV MEDICAL CNTR DVWY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_120558> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.075885 40.621633, -74.07582 40.621601, -74.075751 40.621574, -74.07568 40.621552, -74.075606 40.621535), (-74.075606 40.621535, -74.07553 40.621523, -74.075453 40.621518, -74.075375 40.621518, -74.075298 40.621524))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120558> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120558> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120558> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_221> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_60089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_60089> <http://www.w3.org/2000/01/rdf-schema#label> "RIVERDALE AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_60089> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.907003 40.885853, -73.906994 40.885981, -73.906991 40.886108, -73.906994 40.886236), (-73.906994 40.886236, -73.907003 40.886363, -73.907017 40.886491, -73.907037 40.886617))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_60089> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_60089> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_60089> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_220> .

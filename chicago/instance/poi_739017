@@ -1,6 +1,5 @@
 <https://w3id.org/rtskg/chicago/instance/poi_739017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/poi> .
 <https://w3id.org/rtskg/chicago/instance/poi_739017> <http://www.w3.org/2000/01/rdf-schema#label> "United Church of Altgeld Gardens" .
-<https://w3id.org/rtskg/chicago/instance/poi_739017> <https://w3id.org/rtskg/ontology/dataproperty/latitude> "41.6581441"^^<http://www.w3.org/2001/XMLSchema#double> .
-<https://w3id.org/rtskg/chicago/instance/poi_739017> <https://w3id.org/rtskg/ontology/dataproperty/longitude> "-87.5971333"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://w3id.org/rtskg/chicago/instance/poi_739017> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POINT(-87.597133 41.658144)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/poi_739017> <https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category> <https://w3id.org/rtskg/chicago/instance/poi_category_place_of_worship> .
 <https://w3id.org/rtskg/chicago/instance/poi_739017> <https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_block> <https://w3id.org/rtskg/chicago/instance/block_942> .

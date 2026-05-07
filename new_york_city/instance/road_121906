@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_121906> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121906> <http://www.w3.org/2000/01/rdf-schema#label> "HUDSON VIEW LOOP" .
+<https://w3id.org/rtskg/new_york_city/instance/road_121906> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.073405 40.630155, -74.073417 40.63016, -74.073431 40.630165, -74.073444 40.630168, -74.073458 40.630171), (-74.073458 40.630171, -74.073473 40.630173, -74.073487 40.630174, -74.073501 40.630175, -74.073516 40.630174))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121906> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_loop> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121906> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121906> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_221> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_32099> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_32099> <http://www.w3.org/2000/01/rdf-schema#label> "BONFIELD" .
+<https://w3id.org/rtskg/chicago/instance/road_32099> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.656317 41.842438, -87.656024 41.842096, -87.655918 41.841973, -87.655727 41.841751, -87.655451 41.841432, -87.655203 41.841145, -87.655064 41.840985, -87.654859 41.840746, -87.654835 41.840719, -87.654556 41.840392)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_32099> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_st> .
 <https://w3id.org/rtskg/chicago/instance/road_32099> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_6> .
 <https://w3id.org/rtskg/chicago/instance/road_32099> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_60> .

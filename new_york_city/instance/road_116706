@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_116706> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116706> <http://www.w3.org/2000/01/rdf-schema#label> "RUPPERT PLZ" .
+<https://w3id.org/rtskg/new_york_city/instance/road_116706> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.929393 40.826799, -73.929271 40.826997, -73.929104 40.82728, -73.928674 40.827485, -73.928059 40.827778, -73.927648 40.82797, -73.927453 40.82823)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116706> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_plz> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116706> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116706> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_247> .

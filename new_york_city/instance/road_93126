@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_93126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93126> <http://www.w3.org/2000/01/rdf-schema#label> "CUNNINGHAM RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_93126> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.221584 40.508952, -74.2215 40.508559, -74.221487 40.505588, -74.221476 40.505485, -74.221446 40.505382, -74.221397 40.505284, -74.221331 40.505192, -74.22125 40.505109, -74.219396 40.503432, -74.219266 40.503451)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93126> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93126> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93126> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_84> .

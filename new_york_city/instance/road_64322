@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_64322> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64322> <http://www.w3.org/2000/01/rdf-schema#label> "FORT TRYON PLACE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_64322> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.93274 40.86295, -73.932635 40.862931, -73.932521 40.862928, -73.932404 40.862944, -73.932294 40.86298, -73.932198 40.863033, -73.932122 40.863098, -73.932068 40.863169, -73.931793 40.863471)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64322> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64322> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64322> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_243> .

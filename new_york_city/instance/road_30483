@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_30483> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_30483> <http://www.w3.org/2000/01/rdf-schema#label> "MAZEAU ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_30483> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.891225 40.728206, -73.890584 40.727714, -73.890523 40.727545, -73.890477 40.727372, -73.890446 40.727198, -73.890431 40.727022, -73.890431 40.726846)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_30483> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_30483> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_30483> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_157> .

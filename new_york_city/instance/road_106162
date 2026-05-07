@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_106162> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106162> <http://www.w3.org/2000/01/rdf-schema#label> "FULTON ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_106162> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.92377 40.678995, -73.923579 40.678985, -73.9233 40.678969, -73.923165 40.678962, -73.923052 40.678956, -73.922936 40.678949, -73.922506 40.678926)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106162> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106162> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106162> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_61> .

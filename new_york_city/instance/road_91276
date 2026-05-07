@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_91276> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91276> <http://www.w3.org/2000/01/rdf-schema#label> "ROMEO CT" .
+<https://w3id.org/rtskg/new_york_city/instance/road_91276> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.766469 40.723777, -73.766291 40.723273, -73.766243 40.723223, -73.766176 40.723182, -73.766094 40.723154, -73.766005 40.723143, -73.765919 40.72315, -73.765843 40.723172, -73.764911 40.723508)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91276> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ct> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91276> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91276> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_131> .

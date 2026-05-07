@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_60635> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_60635> <http://www.w3.org/2000/01/rdf-schema#label> "CLOVE LAKES PARK PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_60635> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.108884 40.617931, -74.108987 40.617922, -74.109202 40.617924, -74.10935 40.617935, -74.109621 40.617983, -74.109755 40.617999, -74.109827 40.618002, -74.109836 40.618001, -74.109882 40.617996, -74.110055 40.617967)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_60635> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_60635> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_251> .

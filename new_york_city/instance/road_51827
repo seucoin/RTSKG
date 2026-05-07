@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_51827> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_51827> <http://www.w3.org/2000/01/rdf-schema#label> "ARLENE ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_51827> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.165775 40.605663, -74.16578 40.60554, -74.165796 40.605419, -74.165824 40.605298), (-74.165824 40.605298, -74.165863 40.605179, -74.165914 40.605063, -74.165976 40.60495))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_51827> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_51827> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_51827> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_23> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_56871> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_56871> <http://www.w3.org/2000/01/rdf-schema#label> "STILLWELL AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_56871> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.84298 40.853232, -73.84292 40.853357, -73.842874 40.853452, -73.842749 40.853667, -73.842602 40.853876, -73.842437 40.854076, -73.842254 40.854267, -73.842055 40.854446)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_56871> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_56871> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_56871> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_185> .

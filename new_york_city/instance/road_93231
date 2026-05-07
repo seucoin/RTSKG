@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_93231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93231> <http://www.w3.org/2000/01/rdf-schema#label> "UTAH ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_93231> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.249182 40.513789, -74.24924 40.513758, -74.249301 40.51373, -74.249364 40.513707, -74.24943 40.513688), (-74.24943 40.513688, -74.249498 40.513672, -74.249567 40.513662, -74.249637 40.513655, -74.249707 40.513653))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93231> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93231> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93231> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_44> .

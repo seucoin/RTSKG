@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_67143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_67143> <http://www.w3.org/2000/01/rdf-schema#label> "SCHENCK AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_67143> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.882913 40.659789, -73.882741 40.659556, -73.8827 40.6595, -73.882546 40.659291, -73.88251 40.659242, -73.88223 40.658863, -73.8822 40.658822, -73.881963 40.6585, -73.881827 40.658316)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_67143> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_67143> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_67143> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_76> .

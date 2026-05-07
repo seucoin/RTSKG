@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_107286> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107286> <http://www.w3.org/2000/01/rdf-schema#label> "BROOKVILLE BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_107286> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.746551 40.652572, -73.746553 40.652148), (-73.746553 40.652148, -73.746528 40.651898, -73.746479 40.651651, -73.746404 40.651407), (-73.746404 40.651407, -73.746306 40.651168, -73.746183 40.650936, -73.746038 40.650711))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107286> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107286> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107286> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_203> .

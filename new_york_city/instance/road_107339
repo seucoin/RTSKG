@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_107339> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107339> <http://www.w3.org/2000/01/rdf-schema#label> "MAGUIRE AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_107339> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.210683 40.527756, -74.210766 40.527886, -74.210834 40.528023, -74.21086 40.528095, -74.210885 40.528163, -74.21092 40.528304, -74.210938 40.528447, -74.210938 40.528589)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107339> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107339> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107339> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_204> .

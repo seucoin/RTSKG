@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_52029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52029> <http://www.w3.org/2000/01/rdf-schema#label> "LANDIS AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_52029> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.068462 40.600539, -74.06829 40.600194, -74.068252 40.600093, -74.068195 40.599996, -74.06812 40.599905, -74.068031 40.599824)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52029> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52029> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52029> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_6> .

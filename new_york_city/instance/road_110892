@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_110892> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110892> <http://www.w3.org/2000/01/rdf-schema#label> "26 WARD WWTP DY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_110892> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.878478 40.649707, -73.877061 40.650307), (-73.877061 40.650307, -73.877031 40.650356, -73.877006 40.650406, -73.876987 40.650457), (-73.876987 40.650457, -73.876973 40.65051, -73.876965 40.650563, -73.876963 40.650617), (-73.876963 40.650617, -73.877607 40.651496))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110892> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110892> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110892> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_76> .

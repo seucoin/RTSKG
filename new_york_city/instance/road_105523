@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_105523> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105523> <http://www.w3.org/2000/01/rdf-schema#label> "ROOSEVELT I HOUSES PED PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_105523> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.938499 40.693611, -73.938359 40.693526, -73.938274 40.693373, -73.938272 40.693328, -73.938298 40.693292, -73.938502 40.693149, -73.938358 40.692878)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105523> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105523> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105523> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_225> .

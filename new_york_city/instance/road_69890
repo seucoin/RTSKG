@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_69890> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69890> <http://www.w3.org/2000/01/rdf-schema#label> "FDR DRIVE EXIT 17 NB RFK BRDG" .
+<https://w3id.org/rtskg/new_york_city/instance/road_69890> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.92992 40.800096, -73.930066 40.800166, -73.930898 40.800521, -73.931011 40.800593, -73.931033 40.800616)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69890> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69890> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_74> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69890> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_19> .

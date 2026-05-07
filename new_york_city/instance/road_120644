@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_120644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120644> <http://www.w3.org/2000/01/rdf-schema#label> "NAVY ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_120644> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.979991 40.696209, -73.980038 40.696191, -73.980082 40.69617, -73.980124 40.696146, -73.980162 40.69612, -73.980197 40.69609), (-73.980197 40.69609, -73.980229 40.696059, -73.980256 40.696025, -73.980279 40.695989, -73.980298 40.695952, -73.980311 40.695914))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120644> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120644> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120644> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_97> .

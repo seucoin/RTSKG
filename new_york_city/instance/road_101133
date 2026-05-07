@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_101133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101133> <http://www.w3.org/2000/01/rdf-schema#label> "MARINE PY-GIL HODGES BR BIKE PTH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_101133> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.882088 40.568606, -73.882043 40.568531), (-73.882043 40.568531, -73.882039 40.568525, -73.882036 40.568519, -73.882032 40.568513))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101133> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101133> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101133> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_27> .

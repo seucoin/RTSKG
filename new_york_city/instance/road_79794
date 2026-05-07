@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_79794> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79794> <http://www.w3.org/2000/01/rdf-schema#label> "EBBITTS ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_79794> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.104133 40.561181, -74.103759 40.560944, -74.103374 40.560717, -74.102979 40.5605), (-74.102979 40.5605, -74.102575 40.560294, -74.102161 40.560098, -74.101739 40.559914))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79794> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79794> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79794> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_172> .

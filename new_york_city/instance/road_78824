@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_78824> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78824> <http://www.w3.org/2000/01/rdf-schema#label> "RANDALL AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_78824> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.827883 40.823184, -73.826407 40.823908, -73.826317 40.823952, -73.826038 40.824089, -73.825974 40.82412, -73.825767 40.824222, -73.825696 40.824257, -73.825622 40.824293, -73.825555 40.824326, -73.82549 40.824357)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78824> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78824> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78824> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_208> .

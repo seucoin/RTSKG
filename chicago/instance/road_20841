@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_20841> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_20841> <http://www.w3.org/2000/01/rdf-schema#label> "CORLISS" .
+<https://w3id.org/rtskg/chicago/instance/road_20841> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.600794 41.690876, -87.600796 41.690863, -87.600811 41.690797, -87.600846 41.690684, -87.600896 41.690556, -87.600962 41.690429, -87.60115 41.690083, -87.601242 41.689912, -87.601343 41.689725)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_20841> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_20841> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_1> .
 <https://w3id.org/rtskg/chicago/instance/road_20841> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_50> .

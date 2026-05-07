@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_113488> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113488> <http://www.w3.org/2000/01/rdf-schema#label> "LIBERTY-ELLIS ISLANDS FERRY RTE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_113488> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.017255 40.702854, -74.017443 40.702729, -74.017642 40.702613, -74.01785 40.702508), (-74.01785 40.702508, -74.018068 40.702413, -74.018293 40.70233, -74.018525 40.702259), (-74.018525 40.702259, -74.019897 40.701767))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113488> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rte> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113488> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113488> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_12> .

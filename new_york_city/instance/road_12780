@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_12780> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12780> <http://www.w3.org/2000/01/rdf-schema#label> "AMSTEL BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_12780> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.803334 40.59242, -73.804032 40.59241, -73.806015 40.593519)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12780> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12780> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12780> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_117> .

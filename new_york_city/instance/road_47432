@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_47432> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47432> <http://www.w3.org/2000/01/rdf-schema#label> "CASTLETON AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_47432> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.114538 40.634757, -74.114806 40.634768, -74.115074 40.634767, -74.115342 40.634755, -74.115609 40.634732, -74.116004 40.634679, -74.116401 40.634635, -74.116801 40.634601, -74.117201 40.634576)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47432> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47432> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47432> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_245> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_133494> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133494> <http://www.w3.org/2000/01/rdf-schema#label> "PICNIC PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_133494> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.182356 40.587548, -74.182094 40.587666, -74.181848 40.587803, -74.181621 40.587958), (-74.181621 40.587958, -74.181436 40.588115, -74.181265 40.58828, -74.18111 40.588455), (-74.18111 40.588455, -74.181122 40.588566))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133494> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133494> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133494> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_99> .

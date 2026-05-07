@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_61754> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61754> <http://www.w3.org/2000/01/rdf-schema#label> "DYER AVENUE UNDERPASS 31 ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_61754> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.9986 40.753491, -73.998611 40.753649, -73.998608 40.753673, -73.998587 40.753785, -73.998564 40.753884, -73.998534 40.753968, -73.9985 40.754036, -73.998359 40.754252)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61754> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61754> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_68> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61754> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_123> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_90587> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_90587> <http://www.w3.org/2000/01/rdf-schema#label> "MAGNOLIA PL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_90587> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.819837 40.757553, -73.819768 40.757451, -73.819712 40.757345, -73.819671 40.757235, -73.819645 40.757151, -73.819609 40.75707, -73.819562 40.756991, -73.819505 40.756917)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_90587> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_90587> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_90587> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_92> .

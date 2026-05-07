@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_115562> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115562> <http://www.w3.org/2000/01/rdf-schema#label> "DAVIDSON AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_115562> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.906053 40.856759, -73.905986 40.85687, -73.905953 40.856924, -73.905793 40.857189, -73.905766 40.857233, -73.905661 40.857407)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115562> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115562> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115562> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_235> .

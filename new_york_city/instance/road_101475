@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_101475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101475> <http://www.w3.org/2000/01/rdf-schema#label> "HIGH LINE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_101475> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.002014 40.751699, -74.001983 40.751783, -74.001962 40.751869, -74.00195 40.751955, -74.001946 40.752043, -74.001952 40.75213), (-74.001952 40.75213, -74.001967 40.752216, -74.001991 40.752301, -74.002023 40.752385, -74.002064 40.752466, -74.002114 40.752545))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101475> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101475> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_246> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101475> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_123> .

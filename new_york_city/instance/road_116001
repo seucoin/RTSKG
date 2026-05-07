@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_116001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116001> <http://www.w3.org/2000/01/rdf-schema#label> "BROOKLYN WATERFRONT GREENWAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_116001> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.004068 40.686275, -74.004521 40.686406, -74.004588 40.686385, -74.004645 40.686324, -74.004898 40.685804, -74.004927 40.685697)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116001> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116001> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_54> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_42776> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_42776> <http://www.w3.org/2000/01/rdf-schema#label> "FULLERTON" .
+<https://w3id.org/rtskg/chicago/instance/road_42776> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.748758 41.924206, -87.749055 41.924203, -87.750335 41.924186, -87.750927 41.924178, -87.751227 41.924175)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_42776> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_42776> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_3> .
 <https://w3id.org/rtskg/chicago/instance/road_42776> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_19> .

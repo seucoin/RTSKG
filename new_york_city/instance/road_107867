@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_107867> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107867> <http://www.w3.org/2000/01/rdf-schema#label> "DOUGLAS RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_107867> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.094198 40.606748, -74.094282 40.606714, -74.094359 40.606668, -74.094426 40.606612, -74.094478 40.606548, -74.094514 40.606478, -74.094532 40.606408, -74.09456 40.606334, -74.094566 40.606255, -74.094549 40.606175, -74.09451 40.606102, -74.094453 40.606038)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107867> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107867> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107867> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_118> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_113120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113120> <http://www.w3.org/2000/01/rdf-schema#label> "E 25 STREET PEDESTRIAN OPAS" .
+<https://w3id.org/rtskg/new_york_city/instance/road_113120> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.974989 40.737178, -73.97515 40.737251, -73.975134 40.737271, -73.974947 40.737193, -73.974827 40.737143, -73.974791 40.737119)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113120> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_opas> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113120> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113120> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_137> .

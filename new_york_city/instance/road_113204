@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_113204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113204> <http://www.w3.org/2000/01/rdf-schema#label> "GRAND ARMY PLZ" .
+<https://w3id.org/rtskg/new_york_city/instance/road_113204> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.970663 40.674331, -73.970695 40.674209, -73.970711 40.674086, -73.970711 40.673962, -73.970695 40.673838), (-73.970695 40.673838, -73.970664 40.673716, -73.970617 40.673597, -73.970555 40.673482, -73.970478 40.673372))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113204> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_plz> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113204> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113204> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_181> .

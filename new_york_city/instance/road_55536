@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_55536> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_55536> <http://www.w3.org/2000/01/rdf-schema#label> "W 246 ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_55536> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.911998 40.892247, -73.912161 40.892178, -73.912335 40.892122, -73.912518 40.892081, -73.912708 40.892054, -73.9129 40.892044, -73.913091 40.89205, -73.913278 40.892071, -73.913458 40.892106)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_55536> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_55536> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_55536> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_200> .

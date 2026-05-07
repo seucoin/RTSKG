@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_120467> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120467> <http://www.w3.org/2000/01/rdf-schema#label> "174 ST SOUTH PED BR OVER I-895" .
+<https://w3id.org/rtskg/new_york_city/instance/road_120467> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.881847 40.835294, -73.881888 40.835232, -73.882051 40.83499, -73.882021 40.834977, -73.88186 40.835218, -73.881679 40.835158, -73.881667 40.835172, -73.88165 40.835192, -73.881468 40.835161)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120467> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120467> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_60> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120467> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_55> .

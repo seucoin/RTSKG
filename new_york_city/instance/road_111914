@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_111914> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111914> <http://www.w3.org/2000/01/rdf-schema#label> "GRAND ARMY PLAZA GREENWAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_111914> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.970504 40.672454, -73.97043 40.672415, -73.970352 40.672381, -73.970271 40.672353, -73.970186 40.672331), (-73.970186 40.672331, -73.970098 40.672315, -73.97001 40.672306, -73.96992 40.672303, -73.96983 40.672307))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111914> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111914> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_181> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111914> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_190> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_58013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_58013> <http://www.w3.org/2000/01/rdf-schema#label> "FRANKLIN AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_58013> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.957274 40.690702, -73.957229 40.690445, -73.957219 40.690386, -73.957146 40.689972, -73.957067 40.68955, -73.957058 40.689502)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_58013> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_58013> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_58013> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_17> .

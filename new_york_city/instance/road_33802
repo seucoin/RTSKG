@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_33802> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_33802> <http://www.w3.org/2000/01/rdf-schema#label> "COLONIAL RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_33802> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.036072 40.625607, -74.036221 40.625246, -74.036427 40.624743)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_33802> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_33802> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_33802> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_14> .

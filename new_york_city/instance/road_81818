@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_81818> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_81818> <http://www.w3.org/2000/01/rdf-schema#label> "GOWANUS EXPRESSWAY EB EXIT 24" .
+<https://w3id.org/rtskg/new_york_city/instance/road_81818> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.995537 40.666285, -73.995604 40.666245, -73.995665 40.666201, -73.99572 40.666153, -73.99577 40.666101), (-73.99577 40.666101, -73.995814 40.666046, -73.995851 40.665989, -73.99588 40.665929, -73.995903 40.665867), (-73.995903 40.665867, -73.995952 40.66573))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_81818> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_81818> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_228> .
 <https://w3id.org/rtskg/new_york_city/instance/road_81818> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_103> .

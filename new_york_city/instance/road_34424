@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_34424> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_34424> <http://www.w3.org/2000/01/rdf-schema#label> "BAILEY AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_34424> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.897968 40.884042, -73.896597 40.885017, -73.896344 40.885134), (-73.896344 40.885134, -73.896236 40.885173, -73.896124 40.885207, -73.89601 40.885236), (-73.89601 40.885236, -73.895894 40.88526, -73.895776 40.885278, -73.895657 40.88529))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_34424> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_34424> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_34424> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_241> .

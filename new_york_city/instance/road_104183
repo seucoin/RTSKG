@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_104183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104183> <http://www.w3.org/2000/01/rdf-schema#label> "FDR DRIVE NB ENTRANCE E 96 ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_104183> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.943633 40.782971, -73.943336 40.783345, -73.943122 40.783562, -73.942915 40.783714, -73.942633 40.783906, -73.942055 40.784313)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104183> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104183> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_75> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104183> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_221> .

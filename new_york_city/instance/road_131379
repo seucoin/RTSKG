@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_131379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_131379> <http://www.w3.org/2000/01/rdf-schema#label> "MORNINGSIDE AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_131379> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.954968 40.810073, -73.954894 40.810089), (-73.954894 40.810089, -73.954881 40.810108, -73.954868 40.810127, -73.954854 40.810146), (-73.954854 40.810146, -73.954841 40.810165, -73.954827 40.810183, -73.954813 40.810202), (-73.954813 40.810202, -73.954836 40.810253))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_131379> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_131379> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_131379> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_166> .

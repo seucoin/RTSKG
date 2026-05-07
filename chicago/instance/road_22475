@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_22475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_22475> <http://www.w3.org/2000/01/rdf-schema#label> "DAN RYAN 18TH ST" .
+<https://w3id.org/rtskg/chicago/instance/road_22475> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.644103 41.86115, -87.644102 41.861143, -87.644097 41.861059, -87.644089 41.860956, -87.644082 41.86081, -87.644075 41.860638, -87.64407 41.860511, -87.644069 41.860486)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_22475> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_er> .
 <https://w3id.org/rtskg/chicago/instance/road_22475> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_6> .
 <https://w3id.org/rtskg/chicago/instance/road_22475> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_28> .

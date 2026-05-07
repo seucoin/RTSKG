@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_133599> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133599> <http://www.w3.org/2000/01/rdf-schema#label> "BROOKLYN WATERFRONT GREENWAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_133599> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.99955 40.694294, -73.999564 40.694306, -73.999576 40.694319, -73.999587 40.694333), (-73.999587 40.694333, -73.999637 40.694412, -73.99968 40.694493, -73.999716 40.694576))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133599> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133599> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_33> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133599> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_305> .

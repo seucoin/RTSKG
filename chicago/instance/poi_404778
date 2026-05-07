@@ -1,6 +1,5 @@
 <https://w3id.org/rtskg/chicago/instance/poi_404778> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/poi> .
 <https://w3id.org/rtskg/chicago/instance/poi_404778> <http://www.w3.org/2000/01/rdf-schema#label> "Saint Monica School" .
-<https://w3id.org/rtskg/chicago/instance/poi_404778> <https://w3id.org/rtskg/ontology/dataproperty/latitude> "41.9742647"^^<http://www.w3.org/2001/XMLSchema#double> .
-<https://w3id.org/rtskg/chicago/instance/poi_404778> <https://w3id.org/rtskg/ontology/dataproperty/longitude> "-87.8040987"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://w3id.org/rtskg/chicago/instance/poi_404778> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POINT(-87.804099 41.974265)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/poi_404778> <https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category> <https://w3id.org/rtskg/chicago/instance/poi_category_culture_and_education> .
 <https://w3id.org/rtskg/chicago/instance/poi_404778> <https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_block> <https://w3id.org/rtskg/chicago/instance/block_17294> .

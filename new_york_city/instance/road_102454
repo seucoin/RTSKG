@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_102454> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102454> <http://www.w3.org/2000/01/rdf-schema#label> "RFK BRIDGE PED AND BIKE PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_102454> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.929828 40.800987, -73.929787 40.80098, -73.929747 40.800972, -73.929707 40.800964), (-73.929707 40.800964, -73.929667 40.800955, -73.929627 40.800946, -73.929587 40.800936))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102454> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102454> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102454> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_74> .

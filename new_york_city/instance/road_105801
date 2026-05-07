@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_105801> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105801> <http://www.w3.org/2000/01/rdf-schema#label> "WHITE PLAINS RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_105801> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.867236 40.86928, -73.867234 40.869325, -73.867229 40.869496, -73.867228 40.869534, -73.867226 40.869614, -73.867225 40.869641, -73.867222 40.869703)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105801> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105801> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105801> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_32> .

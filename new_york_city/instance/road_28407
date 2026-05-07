@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_28407> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_28407> <http://www.w3.org/2000/01/rdf-schema#label> "BRADDOCK AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_28407> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.735496 40.728312, -73.734989 40.728193, -73.734528 40.728094, -73.734264 40.728033, -73.734085 40.727992, -73.733637 40.727892)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_28407> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_28407> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_28407> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_191> .

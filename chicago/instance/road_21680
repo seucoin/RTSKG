@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_21680> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_21680> <http://www.w3.org/2000/01/rdf-schema#label> "HOLBROOK" .
+<https://w3id.org/rtskg/chicago/instance/road_21680> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.785055 41.991233, -87.785421 41.991042, -87.785422 41.991041, -87.785543 41.990978, -87.785627 41.990935, -87.786207 41.99064, -87.786442 41.990519, -87.786926 41.990267, -87.787192 41.990129)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_21680> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_st> .
 <https://w3id.org/rtskg/chicago/instance/road_21680> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_3> .
 <https://w3id.org/rtskg/chicago/instance/road_21680> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_10> .

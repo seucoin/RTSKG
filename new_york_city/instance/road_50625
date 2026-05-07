@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_50625> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50625> <http://www.w3.org/2000/01/rdf-schema#label> "SEA BREEZE LN" .
+<https://w3id.org/rtskg/new_york_city/instance/road_50625> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.23726 40.50071, -74.237374 40.500653, -74.237753 40.500587, -74.237917 40.501074, -74.237888 40.501117, -74.237932 40.501276, -74.237523 40.501342)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50625> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ln> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50625> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50625> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_44> .

@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_89644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89644> <http://www.w3.org/2000/01/rdf-schema#label> "NEW ENGLAND THRWY NB EXIT 10" .
+<https://w3id.org/rtskg/new_york_city/instance/road_89644> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.828258 40.861393, -73.828435 40.861516, -73.828583 40.861657, -73.828749 40.861787, -73.828932 40.861906, -73.829128 40.86201, -73.829334 40.862099, -73.829549 40.862172)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89644> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89644> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_51> .

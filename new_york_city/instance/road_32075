@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_32075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_32075> <http://www.w3.org/2000/01/rdf-schema#label> "DELAFIELD AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_32075> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.906957 40.895456, -73.907013 40.895621, -73.907053 40.895789, -73.907075 40.895959, -73.90708 40.896129, -73.907069 40.896299, -73.907081 40.896981, -73.907084 40.897086, -73.907068 40.897193, -73.907032 40.897297, -73.906977 40.897395, -73.906905 40.897485)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_32075> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_32075> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_32075> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_200> .

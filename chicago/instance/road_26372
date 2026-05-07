@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_26372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_26372> <http://www.w3.org/2000/01/rdf-schema#label> "LAFAYETTE" .
+<https://w3id.org/rtskg/chicago/instance/road_26372> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.625287 41.730802, -87.625279 41.730559, -87.62527 41.730278, -87.625268 41.730192, -87.625265 41.730112, -87.625264 41.73008)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_26372> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_26372> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_4> .
 <https://w3id.org/rtskg/chicago/instance/road_26372> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_44> .

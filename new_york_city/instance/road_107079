@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_107079> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107079> <http://www.w3.org/2000/01/rdf-schema#label> "LORRAINE LOOP" .
+<https://w3id.org/rtskg/new_york_city/instance/road_107079> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.220687 40.546655, -74.220705 40.546631, -74.22072 40.546606, -74.220733 40.546579, -74.220742 40.546553, -74.220749 40.546525), (-74.220749 40.546525, -74.220752 40.546497, -74.220753 40.54647, -74.22075 40.546442, -74.220744 40.546414, -74.220735 40.546387))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107079> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_loop> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107079> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107079> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_44> .

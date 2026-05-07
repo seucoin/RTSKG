@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_57285> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_57285> <http://www.w3.org/2000/01/rdf-schema#label> "OCEAN TER" .
+<https://w3id.org/rtskg/new_york_city/instance/road_57285> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.105808 40.60372, -74.105642 40.603647, -74.105473 40.603579, -74.105299 40.603517), (-74.105299 40.603517, -74.105123 40.603461, -74.104943 40.60341, -74.104761 40.603365))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_57285> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ter> .
 <https://w3id.org/rtskg/new_york_city/instance/road_57285> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_57285> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_118> .

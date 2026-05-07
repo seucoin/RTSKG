@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_130662> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130662> <http://www.w3.org/2000/01/rdf-schema#label> "WILSON ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_130662> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.966761 40.702643, -73.96678 40.702646, -73.9668 40.702648, -73.96682 40.702649, -73.966839 40.702649, -73.966859 40.702647), (-73.966859 40.702647, -73.966879 40.702644, -73.966898 40.70264, -73.966916 40.702635, -73.966934 40.702629, -73.966951 40.702621))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130662> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130662> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130662> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_34> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_65066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_65066> <http://www.w3.org/2000/01/rdf-schema#label> "IRON MINE DR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_65066> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.108582 40.585329, -74.108965 40.585292, -74.109103 40.585278, -74.10924 40.585245, -74.109369 40.585195, -74.109485 40.585129, -74.109584 40.58505, -74.109662 40.584963, -74.11096 40.583258)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_65066> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_65066> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_65066> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_118> .

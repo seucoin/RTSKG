@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_79599> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79599> <http://www.w3.org/2000/01/rdf-schema#label> "SCHIEFFELIN AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_79599> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.846068 40.882909, -73.845994 40.882966, -73.845808 40.883109, -73.845737 40.883164, -73.845672 40.883213, -73.84535 40.883461, -73.845309 40.883492)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79599> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79599> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79599> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_81> .

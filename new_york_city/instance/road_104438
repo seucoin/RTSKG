@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_104438> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104438> <http://www.w3.org/2000/01/rdf-schema#label> "PROSPECT PARK SW" .
+<https://w3id.org/rtskg/new_york_city/instance/road_104438> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.972304 40.651558, -73.972294 40.65154, -73.972283 40.651523, -73.972269 40.651507, -73.972254 40.651491, -73.972237 40.651477), (-73.972237 40.651477, -73.972219 40.651463, -73.9722 40.651451, -73.972179 40.65144, -73.972158 40.65143, -73.972135 40.651422))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104438> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_park> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104438> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104438> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_190> .

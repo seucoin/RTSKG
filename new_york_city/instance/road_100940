@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_100940> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100940> <http://www.w3.org/2000/01/rdf-schema#label> "CBE SB EN WASHINGTON BRIDGE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_100940> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.930569 40.848048, -73.930515 40.848079, -73.930424 40.848115, -73.930322 40.848136, -73.930269 40.848141, -73.930165 40.848134, -73.930069 40.84811, -73.929987 40.848074, -73.929569 40.847596)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100940> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100940> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_120> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100940> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_67> .

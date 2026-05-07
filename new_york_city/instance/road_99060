@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_99060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99060> <http://www.w3.org/2000/01/rdf-schema#label> "BELT PY EB EN JOHN F KENNEDY EP" .
+<https://w3id.org/rtskg/new_york_city/instance/road_99060> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.7778 40.667161, -73.776758 40.667214, -73.774441 40.667367, -73.773108 40.667368, -73.772286 40.667391)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99060> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99060> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_219> .

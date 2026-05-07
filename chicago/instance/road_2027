@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_2027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_2027> <http://www.w3.org/2000/01/rdf-schema#label> "MOZART" .
+<https://w3id.org/rtskg/chicago/instance/road_2027> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.694866 41.788208, -87.694859 41.787971, -87.69485 41.787664, -87.694843 41.787428, -87.694835 41.787145, -87.694828 41.786898, -87.694827 41.786843, -87.694822 41.786639, -87.694815 41.786386)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_2027> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_st> .
 <https://w3id.org/rtskg/chicago/instance/road_2027> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_4> .
 <https://w3id.org/rtskg/chicago/instance/road_2027> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_63> .

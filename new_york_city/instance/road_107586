@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_107586> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107586> <http://www.w3.org/2000/01/rdf-schema#label> "TYRELLAN AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_107586> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.230135 40.528751, -74.230073 40.528795), (-74.230073 40.528795, -74.230051 40.528938, -74.230044 40.529081, -74.230052 40.529223), (-74.230052 40.529223, -74.230076 40.529365, -74.230115 40.529505, -74.23017 40.529642))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107586> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107586> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107586> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_44> .

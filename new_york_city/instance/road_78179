@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_78179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78179> <http://www.w3.org/2000/01/rdf-schema#label> "WAKEFIELD RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_78179> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.156506 40.530315, -74.155729 40.530729), (-74.155729 40.530729, -74.155599 40.530845, -74.155472 40.530964, -74.155349 40.531085), (-74.155349 40.531085, -74.155231 40.531208, -74.155117 40.531334, -74.155007 40.531462))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78179> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78179> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78179> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_109> .

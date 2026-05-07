@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_131193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_131193> <http://www.w3.org/2000/01/rdf-schema#label> "CARL SCHURZ PARK PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_131193> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.944121 40.775126, -73.94409 40.775098, -73.944056 40.775073, -73.944019 40.775049, -73.94398 40.775029), (-73.94398 40.775029, -73.943938 40.775011, -73.943895 40.774996, -73.94385 40.774983, -73.943803 40.774974))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_131193> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_131193> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_131193> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_262> .

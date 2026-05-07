@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_18975> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_18975> <http://www.w3.org/2000/01/rdf-schema#label> "RACINE" .
+<https://w3id.org/rtskg/chicago/instance/road_18975> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.659168 41.947149, -87.659165 41.947254, -87.659171 41.947446, -87.659176 41.947623, -87.659182 41.947873, -87.659186 41.948059)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_18975> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_18975> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_6> .
 <https://w3id.org/rtskg/chicago/instance/road_18975> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_6> .

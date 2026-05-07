@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_15223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_15223> <http://www.w3.org/2000/01/rdf-schema#label> "KENNEDY EXPRESS" .
+<https://w3id.org/rtskg/chicago/instance/road_15223> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.673432 41.919662, -87.673709 41.919819, -87.674458 41.920244, -87.674776 41.920425, -87.675103 41.920612, -87.675355 41.920755, -87.675639 41.920917, -87.675911 41.921071, -87.676173 41.92122, -87.676222 41.921248, -87.676515 41.921414)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_15223> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_rl> .
 <https://w3id.org/rtskg/chicago/instance/road_15223> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_6> .
 <https://w3id.org/rtskg/chicago/instance/road_15223> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_22> .

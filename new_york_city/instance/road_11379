@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_11379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_11379> <http://www.w3.org/2000/01/rdf-schema#label> "CALDWELL AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_11379> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.877557 40.725759, -73.877311 40.725764, -73.877064 40.725752, -73.877064 40.725752, -73.877064 40.725752, -73.876819 40.725724, -73.876759 40.725713, -73.876344 40.725622)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_11379> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_11379> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_11379> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_160> .

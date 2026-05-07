@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_40598> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40598> <http://www.w3.org/2000/01/rdf-schema#label> "VAN DUZER ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_40598> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.087718 40.614966, -74.087619 40.614841, -74.087537 40.614708, -74.087474 40.614569, -74.08743 40.614427)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40598> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40598> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40598> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_221> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_2041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_2041> <http://www.w3.org/2000/01/rdf-schema#label> "PARK AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_2041> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.950558 40.78907, -73.950442 40.789224, -73.950391 40.789293, -73.950345 40.789355, -73.950294 40.789422, -73.950093 40.789692)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_2041> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_2041> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_2041> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_75> .

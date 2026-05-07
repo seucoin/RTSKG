@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_108068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108068> <http://www.w3.org/2000/01/rdf-schema#label> "ROCK GARDEN PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_108068> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.878775 40.864538, -73.878602 40.864186), (-73.878602 40.864186, -73.878591 40.864171, -73.878579 40.864156, -73.878565 40.864141, -73.878549 40.864128, -73.878532 40.864116, -73.878514 40.864106, -73.878494 40.864096))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108068> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108068> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108068> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_31> .

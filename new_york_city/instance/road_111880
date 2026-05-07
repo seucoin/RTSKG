@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_111880> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111880> <http://www.w3.org/2000/01/rdf-schema#label> "SHOELACE PARK GREENWAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_111880> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.862425 40.892774, -73.862412 40.892793, -73.862397 40.892812, -73.86238 40.892829, -73.862362 40.892846), (-73.862362 40.892846, -73.862342 40.892861, -73.86232 40.892875, -73.862297 40.892888, -73.862273 40.892899))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111880> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111880> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_240> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111880> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_91> .

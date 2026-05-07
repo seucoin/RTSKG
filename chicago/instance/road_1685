@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_1685> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_1685> <http://www.w3.org/2000/01/rdf-schema#label> "SUNNYSIDE" .
+<https://w3id.org/rtskg/chicago/instance/road_1685> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.703412 41.963046, -87.703603 41.963044, -87.704013 41.963042, -87.704023 41.963041, -87.704282 41.963039, -87.704636 41.963038)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_1685> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_1685> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_3> .
 <https://w3id.org/rtskg/chicago/instance/road_1685> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_14> .

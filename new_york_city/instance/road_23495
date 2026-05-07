@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_23495> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_23495> <http://www.w3.org/2000/01/rdf-schema#label> "DOUGLASTON PKWY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_23495> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.739382 40.755769, -73.7395 40.755639, -73.739639 40.755517, -73.739795 40.755407, -73.739966 40.755311, -73.740149 40.755231, -73.74034 40.755167, -73.740554 40.755079, -73.740758 40.754976, -73.740949 40.754858, -73.741123 40.754727, -73.74128 40.754585)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_23495> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pkwy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_23495> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_23495> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_64> .

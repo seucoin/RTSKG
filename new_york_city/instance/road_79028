@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_79028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79028> <http://www.w3.org/2000/01/rdf-schema#label> "MEISNER AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_79028> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.13074 40.582519, -74.130914 40.582397, -74.131101 40.582287, -74.1313 40.582189, -74.131509 40.582105)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79028> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79028> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79028> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_118> .

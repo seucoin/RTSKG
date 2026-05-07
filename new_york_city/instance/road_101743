@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_101743> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101743> <http://www.w3.org/2000/01/rdf-schema#label> "ADAM CLAYTON POWELL JR BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_101743> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.935319 40.827605, -73.935292 40.827664, -73.935259 40.827721, -73.935221 40.827776), (-73.935221 40.827776, -73.935178 40.827829, -73.935131 40.827879, -73.935079 40.827927), (-73.935079 40.827927, -73.934937 40.828))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101743> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101743> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101743> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_42> .

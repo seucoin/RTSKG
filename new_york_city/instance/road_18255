@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_18255> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_18255> <http://www.w3.org/2000/01/rdf-schema#label> "MERRICK BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_18255> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.761597 40.679791, -73.761002 40.679458, -73.760789 40.679345, -73.760564 40.679245, -73.76033 40.679158, -73.760088 40.679084, -73.759849 40.679025)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_18255> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_18255> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_18255> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_205> .

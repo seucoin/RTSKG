@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_72020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_72020> <http://www.w3.org/2000/01/rdf-schema#label> "AVE K" .
+<https://w3id.org/rtskg/new_york_city/instance/road_72020> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.928318 40.625793, -73.9282 40.625797, -73.928083 40.625802, -73.927966 40.625808), (-73.927966 40.625808, -73.927849 40.625815, -73.927732 40.625823, -73.927615 40.625832))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_72020> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_72020> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_91> .

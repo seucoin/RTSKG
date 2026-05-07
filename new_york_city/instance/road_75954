@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_75954> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_75954> <http://www.w3.org/2000/01/rdf-schema#label> "MAYFIELD RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_75954> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.791872 40.713801, -73.791899 40.713937, -73.791902 40.714079, -73.791881 40.714223, -73.791834 40.714366, -73.791761 40.714503, -73.791665 40.714631, -73.791549 40.714746, -73.791417 40.714846, -73.791274 40.71493)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_75954> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_75954> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_75954> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_131> .

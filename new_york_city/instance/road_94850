@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_94850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94850> <http://www.w3.org/2000/01/rdf-schema#label> "ROBIN CT" .
+<https://w3id.org/rtskg/new_york_city/instance/road_94850> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.221632 40.536797, -74.221746 40.536697, -74.221846 40.536584, -74.221927 40.536459, -74.221987 40.536326, -74.222024 40.536187, -74.222037 40.536046, -74.222026 40.535907, -74.221992 40.535773, -74.221938 40.535647)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94850> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ct> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94850> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94850> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_44> .

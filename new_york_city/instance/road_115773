@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_115773> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115773> <http://www.w3.org/2000/01/rdf-schema#label> "BROOKLYN BRIDGE PARK GREENWAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_115773> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.999385 40.695865, -73.999297 40.695869, -73.999177 40.695992, -73.999095 40.696162, -73.999033 40.696271)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115773> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115773> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_33> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115773> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_305> .

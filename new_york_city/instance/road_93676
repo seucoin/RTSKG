@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_93676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93676> <http://www.w3.org/2000/01/rdf-schema#label> "RICHMOND PKWY NB EN PRK & RIDE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_93676> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.223751 40.523086, -74.223592 40.523371, -74.223432 40.523656, -74.223273 40.523941), (-74.223273 40.523941, -74.22308 40.524237, -74.222854 40.52452, -74.222598 40.524787, -74.222312 40.525036), (-74.222312 40.525036, -74.221132 40.52593, -74.221066 40.526008))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93676> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93676> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_44> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93676> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_629> .

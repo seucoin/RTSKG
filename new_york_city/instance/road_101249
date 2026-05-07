@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_101249> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101249> <http://www.w3.org/2000/01/rdf-schema#label> "VAN CORTLANDT PARK GREENWAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_101249> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.895505 40.888812, -73.895379 40.888783, -73.895251 40.88876, -73.895121 40.888742), (-73.895121 40.888742, -73.894991 40.888731, -73.894859 40.888725, -73.894728 40.888726))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101249> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101249> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_240> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101249> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_705> .

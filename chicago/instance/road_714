@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_714> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_714> <http://www.w3.org/2000/01/rdf-schema#label> "COLFAX" .
+<https://w3id.org/rtskg/chicago/instance/road_714> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.561261 41.744526, -87.561254 41.744083, -87.561248 41.743762, -87.561241 41.743314, -87.561239 41.743239, -87.561236 41.743077, -87.561235 41.743064, -87.561232 41.742708)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_714> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_714> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_5> .
 <https://w3id.org/rtskg/chicago/instance/road_714> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_46> .

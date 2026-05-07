@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_47764> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47764> <http://www.w3.org/2000/01/rdf-schema#label> "CROTONA PKWY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_47764> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.884892 40.844566, -73.88484 40.844761, -73.884768 40.844953, -73.884677 40.845142, -73.884567 40.845325, -73.884439 40.845501, -73.884295 40.845668, -73.884135 40.845826)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47764> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pkwy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47764> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47764> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_78> .

@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_91334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91334> <http://www.w3.org/2000/01/rdf-schema#label> "W SHR EXPWY NB EN ARTHUR KILL RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_91334> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.199675 40.560197, -74.199865 40.559948, -74.200935 40.558967, -74.201325 40.558633, -74.2019 40.558195, -74.20217 40.55797, -74.202756 40.557481, -74.203986 40.556626)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91334> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91334> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_99> .

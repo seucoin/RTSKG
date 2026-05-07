@@ -1,4 +1,3 @@
 <https://w3id.org/rtskg/chicago/instance/poi_842215> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/poi> .
-<https://w3id.org/rtskg/chicago/instance/poi_842215> <https://w3id.org/rtskg/ontology/dataproperty/latitude> "41.8596502"^^<http://www.w3.org/2001/XMLSchema#double> .
-<https://w3id.org/rtskg/chicago/instance/poi_842215> <https://w3id.org/rtskg/ontology/dataproperty/longitude> "-87.8057603"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://w3id.org/rtskg/chicago/instance/poi_842215> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POINT(-87.80576 41.85965)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/poi_842215> <https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category> <https://w3id.org/rtskg/chicago/instance/poi_category_parking_area> .

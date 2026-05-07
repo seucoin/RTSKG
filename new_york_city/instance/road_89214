@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_89214> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89214> <http://www.w3.org/2000/01/rdf-schema#label> "GLEN ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_89214> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.186248 40.601928, -74.186354 40.601733, -74.186547 40.601455, -74.18677 40.601196, -74.187097 40.600938, -74.187586 40.600601, -74.188052 40.600347)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89214> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89214> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89214> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_23> .

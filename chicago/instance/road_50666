@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_50666> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_50666> <http://www.w3.org/2000/01/rdf-schema#label> "GLENLAKE" .
+<https://w3id.org/rtskg/chicago/instance/road_50666> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.689705 41.992273, -87.690034 41.992269, -87.690285 41.992268, -87.690327 41.992268, -87.690602 41.992266, -87.690937 41.992262)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_50666> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_50666> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_2> .
 <https://w3id.org/rtskg/chicago/instance/road_50666> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_2> .

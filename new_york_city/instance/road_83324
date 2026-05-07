@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_83324> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83324> <http://www.w3.org/2000/01/rdf-schema#label> "PIKE ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_83324> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.992538 40.712465, -73.992524 40.712344, -73.992515 40.712257, -73.992492 40.712055, -73.99248 40.71195, -73.992458 40.711762)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83324> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83324> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83324> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_45> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_118729> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118729> <http://www.w3.org/2000/01/rdf-schema#label> "CHISHOLM PARK GULL TRL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_118729> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.866463 40.64505, -73.866395 40.644801), (-73.866395 40.644801, -73.866302 40.644692, -73.866197 40.64459, -73.866081 40.644494, -73.865955 40.644406, -73.865821 40.644327, -73.865678 40.644256, -73.865528 40.644194, -73.865372 40.644141))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118729> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_trl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118729> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118729> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_76> .

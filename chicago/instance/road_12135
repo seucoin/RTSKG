@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_12135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_12135> <http://www.w3.org/2000/01/rdf-schema#label> "ALBION" .
+<https://w3id.org/rtskg/chicago/instance/road_12135> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.704622 42.001119, -87.704777 42.001116, -87.705134 42.001111, -87.705232 42.00111, -87.705385 42.001108, -87.705655 42.001102, -87.70584 42.001098)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_12135> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_12135> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_2> .
 <https://w3id.org/rtskg/chicago/instance/road_12135> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_2> .

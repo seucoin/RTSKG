@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_60289> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_60289> <http://www.w3.org/2000/01/rdf-schema#label> "GRAFTON ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_60289> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.919182 40.66844, -73.919006 40.66775, -73.918991 40.667694, -73.918979 40.667646, -73.918967 40.667598, -73.918954 40.667547, -73.918941 40.667498, -73.918929 40.667451, -73.918916 40.6674, -73.918903 40.667348, -73.918886 40.667281, -73.918537 40.665917)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_60289> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_60289> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_60289> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_35> .

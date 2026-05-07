@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_49388> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_49388> <http://www.w3.org/2000/01/rdf-schema#label> "WILCOX ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_49388> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.156038 40.624351, -74.156178 40.624371, -74.15632 40.624379, -74.156464 40.624375, -74.156606 40.62436, -74.156744 40.624333, -74.156921 40.624321, -74.156976 40.624321, -74.157101 40.624322, -74.157279 40.624337, -74.157454 40.624364)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_49388> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_49388> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_49388> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_156> .

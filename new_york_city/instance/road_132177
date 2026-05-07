@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_132177> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132177> <http://www.w3.org/2000/01/rdf-schema#label> "GULF AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_132177> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.182358 40.627498, -74.182213 40.627416, -74.181509 40.627025, -74.180557 40.626447, -74.180463 40.626379, -74.179975 40.626043, -74.179459 40.625632, -74.179282 40.625457, -74.179086 40.625266, -74.178876 40.625038)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132177> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132177> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132177> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_23> .

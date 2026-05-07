@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_83079> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83079> <http://www.w3.org/2000/01/rdf-schema#label> "EPSOM CRSE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_83079> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.764761 40.724719, -73.76466 40.724758, -73.764528 40.724826, -73.764407 40.724907, -73.764301 40.725, -73.764212 40.725101, -73.764141 40.725208)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83079> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_crse> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83079> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83079> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_131> .

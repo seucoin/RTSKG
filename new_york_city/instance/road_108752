@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_108752> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108752> <http://www.w3.org/2000/01/rdf-schema#label> "COTTAGE ROW" .
+<https://w3id.org/rtskg/new_york_city/instance/road_108752> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.104538 40.644693, -74.104389 40.644597, -74.104266 40.644394, -74.104225 40.644244, -74.104203 40.644102, -74.104154 40.643799, -74.104115 40.643587)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108752> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_row> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108752> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108752> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_206> .

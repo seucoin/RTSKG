@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_94656> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94656> <http://www.w3.org/2000/01/rdf-schema#label> "AMBASSADOR LN" .
+<https://w3id.org/rtskg/new_york_city/instance/road_94656> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.217838 40.52885, -74.21808 40.528833, -74.218322 40.528826, -74.218565 40.528829), (-74.218565 40.528829, -74.218807 40.528843, -74.219048 40.528867, -74.219287 40.528901))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94656> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ln> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94656> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94656> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_44> .

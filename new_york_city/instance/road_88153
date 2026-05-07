@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_88153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_88153> <http://www.w3.org/2000/01/rdf-schema#label> "HOXIE DR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_88153> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.75534 40.75707, -73.755128 40.756951, -73.754906 40.756842, -73.754674 40.756743, -73.754435 40.756656, -73.754189 40.756581, -73.753939 40.756519)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_88153> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_88153> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_88153> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_175> .

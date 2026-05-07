@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_54449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54449> <http://www.w3.org/2000/01/rdf-schema#label> "WEBB AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_54449> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.902127 40.869417, -73.902093 40.869523, -73.902041 40.869626, -73.90197 40.869724, -73.901884 40.869813, -73.901784 40.869892, -73.90169 40.870009, -73.901614 40.870134, -73.901559 40.870266, -73.901524 40.870401)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54449> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54449> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54449> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_241> .

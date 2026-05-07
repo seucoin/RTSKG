@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/station_area_386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/station_area> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_386> <http://www.w3.org/2000/01/rdf-schema#label> "Cypress Av_5" .
+<https://w3id.org/rtskg/new_york_city/instance/station_area_386> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POLYGON ((-73.911108 40.808039, -73.910221 40.807761, -73.908597 40.806396, -73.908652 40.802765, -73.912755 40.802315, -73.915603 40.802675, -73.918032 40.804568, -73.917964 40.806116, -73.916589 40.808133, -73.915432 40.808476, -73.913884 40.808723, -73.911985 40.808305, -73.911108 40.808039))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_386> <https://w3id.org/rtskg/ontology/dataproperty/walking_time_minutes> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_386> <https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station> <https://w3id.org/rtskg/new_york_city/instance/station_194> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_386> <https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block> <https://w3id.org/rtskg/new_york_city/instance/block_23139> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_54647> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54647> <http://www.w3.org/2000/01/rdf-schema#label> "BAYCHESTER AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_54647> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.831013 40.866864, -73.830997 40.866877, -73.830982 40.86689, -73.830969 40.866904, -73.830958 40.866919, -73.830948 40.866935, -73.830941 40.866951, -73.830935 40.866968, -73.830931 40.866985, -73.83093 40.867002), (-73.83093 40.867002, -73.830932 40.867148))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54647> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54647> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54647> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_51> .

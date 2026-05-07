@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_102804> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102804> <http://www.w3.org/2000/01/rdf-schema#label> "SHEA RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_102804> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.849809 40.756969, -73.849645 40.757065, -73.849475 40.757155, -73.849299 40.757238), (-73.849299 40.757238, -73.849117 40.757314, -73.84893 40.757382, -73.848738 40.757442))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102804> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102804> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102804> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_93> .

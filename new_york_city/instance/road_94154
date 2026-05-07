@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_94154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94154> <http://www.w3.org/2000/01/rdf-schema#label> "CLARADON LN" .
+<https://w3id.org/rtskg/new_york_city/instance/road_94154> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.071001 40.603529, -74.07126 40.603373, -74.071531 40.603229, -74.071812 40.603097, -74.072102 40.602977, -74.0724 40.602871)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94154> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ln> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94154> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94154> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_6> .

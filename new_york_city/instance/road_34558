@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_34558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_34558> <http://www.w3.org/2000/01/rdf-schema#label> "BEDFORD PARK BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_34558> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.885518 40.870193, -73.885393 40.870105, -73.885279 40.870008, -73.885178 40.869901, -73.885091 40.869788, -73.885021 40.869669, -73.884966 40.869546)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_34558> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_34558> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_34558> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_18> .

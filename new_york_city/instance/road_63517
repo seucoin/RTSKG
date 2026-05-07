@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_63517> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_63517> <http://www.w3.org/2000/01/rdf-schema#label> "BROOK AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_63517> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.910701 40.822332, -73.910616 40.822445, -73.910547 40.822565, -73.910496 40.822693, -73.910466 40.822824, -73.910455 40.822957, -73.910465 40.823089, -73.910494 40.823216)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_63517> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_63517> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_63517> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_167> .

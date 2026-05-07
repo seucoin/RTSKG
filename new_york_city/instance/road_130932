@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_130932> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130932> <http://www.w3.org/2000/01/rdf-schema#label> "UNIV HEIGHTS BR BIKE AND PED PTH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_130932> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.913433 40.862147, -73.913565 40.862133, -73.913646 40.862167, -73.914084 40.86235, -73.914292 40.862436)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130932> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130932> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130932> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_136> .

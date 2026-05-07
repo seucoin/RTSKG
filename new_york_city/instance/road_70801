@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_70801> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70801> <http://www.w3.org/2000/01/rdf-schema#label> "BAY PLZ DRIVEWAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_70801> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.830448 40.867012, -73.830024 40.86712, -73.829858 40.867178, -73.829678 40.867221, -73.82949 40.867247, -73.829297 40.867254, -73.829105 40.867242, -73.828918 40.867212, -73.82874 40.867164, -73.828576 40.867101, -73.828162 40.866894)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70801> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_plz> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70801> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70801> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_51> .

@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_70811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70811> <http://www.w3.org/2000/01/rdf-schema#label> "CROSS ISLAND PKWY EXIT 30 SB" .
+<https://w3id.org/rtskg/new_york_city/instance/road_70811> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.745694 40.755119, -73.745311 40.754374, -73.745172 40.754075, -73.74501 40.753728, -73.744953 40.75362, -73.744921 40.753579, -73.744819 40.753481)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70811> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70811> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_64> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_77855> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_77855> <http://www.w3.org/2000/01/rdf-schema#label> "RUSSEK DR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_77855> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.199605 40.548888, -74.199507 40.548663, -74.199405 40.548439, -74.199298 40.548216), (-74.199298 40.548216, -74.199186 40.547995, -74.19907 40.547775, -74.19895 40.547556))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_77855> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_77855> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_77855> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_5> .

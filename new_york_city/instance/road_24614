@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_24614> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_24614> <http://www.w3.org/2000/01/rdf-schema#label> "HOLLIS AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_24614> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.764619 40.707321, -73.764489 40.707232, -73.764346 40.707153, -73.764193 40.707087, -73.764032 40.707032, -73.763866 40.706992)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_24614> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_24614> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_24614> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_122> .

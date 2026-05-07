@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_121562> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121562> <http://www.w3.org/2000/01/rdf-schema#label> "LA GUARDIA AIRPORT EXIT" .
+<https://w3id.org/rtskg/new_york_city/instance/road_121562> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.87084 40.771861, -73.870919 40.771896, -73.871 40.77193, -73.871082 40.771961), (-73.871082 40.771961, -73.871165 40.771991, -73.87125 40.772018, -73.871336 40.772043))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121562> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_exit> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121562> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121562> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_138> .

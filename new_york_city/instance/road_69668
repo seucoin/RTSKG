@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_69668> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69668> <http://www.w3.org/2000/01/rdf-schema#label> "BAY PARK DRIVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_69668> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.852803 40.78994, -73.854006 40.789895, -73.854052 40.789891, -73.85406 40.789893, -73.854108 40.789901, -73.854161 40.789933, -73.854191 40.789982, -73.854188 40.790033, -73.854162 40.790072, -73.854127 40.790096, -73.853172 40.790477)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69668> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69668> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69668> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_53> .

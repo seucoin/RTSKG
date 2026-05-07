@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_120367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120367> <http://www.w3.org/2000/01/rdf-schema#label> "SOUTH AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_120367> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.166189 40.635862, -74.16627 40.633802, -74.166274 40.633711, -74.166281 40.633541, -74.166281 40.633541)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120367> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120367> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120367> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_156> .

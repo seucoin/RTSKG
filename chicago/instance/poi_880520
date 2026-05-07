@@ -1,5 +1,4 @@
 <https://w3id.org/rtskg/chicago/instance/poi_880520> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/poi> .
 <https://w3id.org/rtskg/chicago/instance/poi_880520> <http://www.w3.org/2000/01/rdf-schema#label> "Burger King" .
-<https://w3id.org/rtskg/chicago/instance/poi_880520> <https://w3id.org/rtskg/ontology/dataproperty/latitude> "41.7814996"^^<http://www.w3.org/2001/XMLSchema#double> .
-<https://w3id.org/rtskg/chicago/instance/poi_880520> <https://w3id.org/rtskg/ontology/dataproperty/longitude> "-87.8688489"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://w3id.org/rtskg/chicago/instance/poi_880520> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POINT(-87.868849 41.7815)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/poi_880520> <https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category> <https://w3id.org/rtskg/chicago/instance/poi_category_shopping> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_20788> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_20788> <http://www.w3.org/2000/01/rdf-schema#label> "CATHEDRAL PKWY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_20788> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.96805 40.804692, -73.968114 40.804751, -73.968162 40.804821, -73.968188 40.804899, -73.968191 40.804978, -73.968171 40.805053, -73.96793 40.805484, -73.967907 40.80552, -73.967898 40.805567, -73.967913 40.805618, -73.967952 40.805662, -73.968008 40.805692, -73.968053 40.805701)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_20788> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pkwy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_20788> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_20788> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_166> .

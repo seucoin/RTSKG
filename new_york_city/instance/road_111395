@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_111395> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111395> <http://www.w3.org/2000/01/rdf-schema#label> "STATEN IS EXPRESSWAY WB ET 13A" .
+<https://w3id.org/rtskg/new_york_city/instance/road_111395> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.09072 40.60934, -74.091258 40.609654, -74.09182 40.609942, -74.092404 40.610203), (-74.092404 40.610203, -74.093009 40.610436, -74.093631 40.61064, -74.094268 40.610814))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111395> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111395> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_115> .

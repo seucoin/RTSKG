@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_127924> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127924> <http://www.w3.org/2000/01/rdf-schema#label> "WEST SHORE EXPY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_127924> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.191192 40.59722, -74.191282 40.596986, -74.191825 40.59558, -74.191875 40.595451, -74.191985 40.595155)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127924> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_expy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127924> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127924> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_23> .

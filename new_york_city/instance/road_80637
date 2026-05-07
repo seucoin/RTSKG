@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_80637> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_80637> <http://www.w3.org/2000/01/rdf-schema#label> "FDR DRIVE SB ENTRANCE E 30 ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_80637> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.973135 40.740354, -73.973116 40.740256, -73.973191 40.739755, -73.973256 40.739517, -73.973344 40.739282, -73.973453 40.739052, -73.973583 40.738829, -73.973733 40.738614, -73.973833 40.738287)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_80637> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_80637> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_137> .

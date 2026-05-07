@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_62913> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62913> <http://www.w3.org/2000/01/rdf-schema#label> "CAMPUS RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_62913> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.948761 40.632029, -73.948277 40.631745, -73.948202 40.631703, -73.948136 40.631654, -73.94808 40.631597, -73.948035 40.631536)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62913> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62913> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62913> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_89> .

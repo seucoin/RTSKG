@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_101332> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101332> <http://www.w3.org/2000/01/rdf-schema#label> "GIVAN AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_101332> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.834821 40.878063, -73.834645 40.878108, -73.834474 40.878169, -73.834312 40.878248, -73.834165 40.878341, -73.834034 40.878448, -73.834016 40.878466)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101332> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101332> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101332> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_51> .

@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_45851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45851> <http://www.w3.org/2000/01/rdf-schema#label> "E 240 ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_45851> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.862663 40.901467, -73.862459 40.901367, -73.862246 40.901276, -73.862025 40.901196, -73.861798 40.901127, -73.861566 40.90107)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45851> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45851> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_587> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_9988> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_9988> <http://www.w3.org/2000/01/rdf-schema#label> "MALBA DR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_9988> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.826683 40.790613, -73.826736 40.79076, -73.826804 40.790903, -73.826888 40.791042), (-73.826888 40.791042, -73.826987 40.791174, -73.8271 40.791301, -73.827226 40.791419))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_9988> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_9988> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_9988> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_252> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_102080> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102080> <http://www.w3.org/2000/01/rdf-schema#label> "E RIVER ESPL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_102080> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.97621 40.714952, -73.97619 40.714991, -73.975921 40.715513, -73.975581 40.716206, -73.97525 40.716884, -73.975048 40.717275), (-73.975048 40.717275, -73.97495 40.717488, -73.974864 40.717704, -73.97479 40.717923), (-73.97479 40.717923, -73.974739 40.718236))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102080> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_espl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102080> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102080> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_232> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_49420> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_49420> <http://www.w3.org/2000/01/rdf-schema#label> "COTTER AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_49420> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.141757 40.564539, -74.142194 40.564209, -74.142258 40.564169, -74.142311 40.564117, -74.142347 40.564056, -74.142363 40.563992, -74.14236 40.563929)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_49420> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_49420> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_49420> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_109> .

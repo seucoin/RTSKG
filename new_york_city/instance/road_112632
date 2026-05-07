@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_112632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112632> <http://www.w3.org/2000/01/rdf-schema#label> "BRONX ZOO PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_112632> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.877405 40.847329, -73.877314 40.847337, -73.877224 40.847348, -73.877135 40.847363), (-73.877135 40.847363, -73.877047 40.847381, -73.876961 40.847403, -73.876876 40.847428))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112632> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112632> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112632> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_31> .

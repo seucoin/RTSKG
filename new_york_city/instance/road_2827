@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_2827> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_2827> <http://www.w3.org/2000/01/rdf-schema#label> "LEXINGTON AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_2827> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.945325 40.793561, -73.945181 40.793758, -73.945132 40.793825, -73.945099 40.79387, -73.945069 40.79391, -73.944867 40.794187)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_2827> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_2827> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_2827> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_75> .

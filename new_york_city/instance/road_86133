@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_86133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86133> <http://www.w3.org/2000/01/rdf-schema#label> "N ELLIOTT WALK" .
+<https://w3id.org/rtskg/new_york_city/instance/road_86133> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.977873 40.693672, -73.977801 40.693645, -73.977717 40.693631, -73.977625 40.693635, -73.977537 40.693658, -73.977462 40.693697, -73.977406 40.693747, -73.97737 40.693801, -73.977291 40.693847, -73.977201 40.693883, -73.977105 40.693909, -73.977005 40.693923, -73.976905 40.693926)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86133> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_walk> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86133> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86133> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_97> .

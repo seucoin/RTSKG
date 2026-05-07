@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_131787> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_131787> <http://www.w3.org/2000/01/rdf-schema#label> "RFK BRIDGE ET HARLEM RVR DRV NB" .
+<https://w3id.org/rtskg/new_york_city/instance/road_131787> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.929846 40.801523, -73.92989 40.801577, -73.929933 40.801631, -73.929974 40.801686), (-73.929974 40.801686, -73.930012 40.801742, -73.930049 40.801799, -73.930083 40.801857))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_131787> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_131787> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_74> .

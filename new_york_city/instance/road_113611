@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_113611> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113611> <http://www.w3.org/2000/01/rdf-schema#label> "BELFORD-WALL STREET FERRY RTE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_113611> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.006091 40.702959, -74.005967 40.702648, -74.005063 40.701854), (-74.005063 40.701854, -74.004985 40.701786, -74.004912 40.701716, -74.004843 40.701643), (-74.004843 40.701643, -74.004778 40.701567, -74.004718 40.70149, -74.004663 40.70141))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113611> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rte> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113611> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113611> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_87> .

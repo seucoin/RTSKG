@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_38008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_38008> <http://www.w3.org/2000/01/rdf-schema#label> "MACOMBS RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_38008> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.917811 40.843305, -73.917714 40.843396, -73.91763 40.843495, -73.917559 40.843602, -73.917504 40.843715, -73.917466 40.843832, -73.917445 40.843951, -73.917441 40.844069, -73.917453 40.844185)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_38008> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_38008> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_38008> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_119> .

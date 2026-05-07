@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_21312> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_21312> <http://www.w3.org/2000/01/rdf-schema#label> "SPAULDING" .
+<https://w3id.org/rtskg/chicago/instance/road_21312> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.705613 41.780763, -87.705611 41.780693, -87.705606 41.780492, -87.705602 41.780369, -87.7056 41.78031, -87.705597 41.780201, -87.705593 41.780071, -87.705587 41.779858)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_21312> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_21312> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_4> .
 <https://w3id.org/rtskg/chicago/instance/road_21312> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_66> .

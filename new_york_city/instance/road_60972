@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_60972> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_60972> <http://www.w3.org/2000/01/rdf-schema#label> "BOSCOMBE AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_60972> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.234426 40.524571, -74.234379 40.524602, -74.234329 40.524629, -74.234277 40.524653, -74.234222 40.524673, -74.234165 40.52469, -74.234106 40.524704, -74.234046 40.524713, -74.233985 40.524719, -74.233924 40.524721), (-74.233924 40.524721, -74.233443 40.524696))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_60972> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_60972> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_60972> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_44> .

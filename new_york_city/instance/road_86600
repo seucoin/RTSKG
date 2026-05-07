@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_86600> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86600> <http://www.w3.org/2000/01/rdf-schema#label> "BAY 48 ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_86600> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.988408 40.586637, -73.988485 40.586602, -73.988532 40.58658)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86600> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86600> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86600> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_108> .

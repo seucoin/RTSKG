@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_4190> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_4190> <http://www.w3.org/2000/01/rdf-schema#label> "BALBO" .
+<https://w3id.org/rtskg/chicago/instance/road_4190> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.620593 41.873213, -87.620536 41.873214, -87.619825 41.873226, -87.619262 41.873233, -87.618492 41.873243, -87.617313 41.873256)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_4190> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_dr> .
 <https://w3id.org/rtskg/chicago/instance/road_4190> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_6> .
 <https://w3id.org/rtskg/chicago/instance/road_4190> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_32> .

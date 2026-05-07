@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_112412> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112412> <http://www.w3.org/2000/01/rdf-schema#label> "AVE D" .
+<https://w3id.org/rtskg/new_york_city/instance/road_112412> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.89941 40.655693, -73.899014 40.656223), (-73.899014 40.656223, -73.898973 40.656279, -73.898938 40.656337, -73.898911 40.656398, -73.898891 40.65646), (-73.898891 40.65646, -73.898879 40.656523, -73.898874 40.656587, -73.898877 40.656651, -73.898888 40.656714))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112412> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112412> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_76> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112412> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_407> .

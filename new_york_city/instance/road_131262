@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_131262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_131262> <http://www.w3.org/2000/01/rdf-schema#label> "BRUCKNER EXPRESSWAY EB EXIT 47" .
+<https://w3id.org/rtskg/new_york_city/instance/road_131262> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.916582 40.802208, -73.916291 40.802677), (-73.916291 40.802677, -73.916264 40.802744, -73.916245 40.802813, -73.916234 40.802884, -73.916232 40.802954, -73.916238 40.803025, -73.916253 40.803094, -73.916275 40.803163))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_131262> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_131262> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_168> .
 <https://w3id.org/rtskg/new_york_city/instance/road_131262> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_327> .

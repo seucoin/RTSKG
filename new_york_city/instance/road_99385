@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_99385> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99385> <http://www.w3.org/2000/01/rdf-schema#label> "PELTON AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_99385> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.111879 40.643236, -74.111865 40.643152, -74.11165 40.642052, -74.111469 40.641129, -74.111368 40.640609, -74.11116 40.639544, -74.11081 40.637754)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99385> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99385> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99385> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_206> .

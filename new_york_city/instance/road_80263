@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_80263> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_80263> <http://www.w3.org/2000/01/rdf-schema#label> "RESERVOIR AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_80263> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.900259 40.875496, -73.900254 40.875546, -73.90027 40.875603, -73.900312 40.87566, -73.900382 40.875705, -73.900467 40.875729, -73.900553 40.87573, -73.900627 40.875713, -73.900682 40.875685)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_80263> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_80263> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_80263> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_241> .

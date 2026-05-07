@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_113487> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113487> <http://www.w3.org/2000/01/rdf-schema#label> "BATTERY PARK PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_113487> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.016567 40.703934, -74.016555 40.70392, -74.01654 40.703907, -74.016525 40.703894, -74.016508 40.703883, -74.016489 40.703873), (-74.016489 40.703873, -74.01647 40.703863, -74.01645 40.703856, -74.016429 40.703849, -74.016408 40.703844, -74.016386 40.70384))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113487> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113487> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113487> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_12> .

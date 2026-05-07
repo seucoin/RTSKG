@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_106222> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106222> <http://www.w3.org/2000/01/rdf-schema#label> "HOLLAND AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_106222> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.80979 40.586998, -73.810025 40.586989, -73.810259 40.586967, -73.810491 40.586933, -73.810719 40.586885, -73.810942 40.586826, -73.811192 40.586744, -73.813199 40.586246)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106222> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106222> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106222> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_117> .

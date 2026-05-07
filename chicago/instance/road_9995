@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_9995> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_9995> <http://www.w3.org/2000/01/rdf-schema#label> "OVERHILL" .
+<https://w3id.org/rtskg/chicago/instance/road_9995> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.819686 41.99117, -87.819673 41.991379, -87.819664 41.991438, -87.819651 41.991483, -87.819623 41.991535, -87.81957 41.9916, -87.819533 41.991644, -87.819469 41.991714, -87.819444 41.991742, -87.819293 41.991912)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_9995> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_9995> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_3> .
 <https://w3id.org/rtskg/chicago/instance/road_9995> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_10> .

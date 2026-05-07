@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_36792> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36792> <http://www.w3.org/2000/01/rdf-schema#label> "ROSEDALE AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_36792> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.865219 40.814537, -73.865275 40.81478, -73.86529 40.814843, -73.865363 40.815158, -73.865376 40.815214, -73.86543 40.815445, -73.865444 40.815506, -73.8655 40.815746, -73.865516 40.815818, -73.865705 40.816631)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36792> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36792> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36792> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_213> .

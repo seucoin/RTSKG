@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_48060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_48060> <http://www.w3.org/2000/01/rdf-schema#label> "BRYANT AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_48060> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.88855 40.823246, -73.888607 40.823929, -73.888614 40.824015, -73.888621 40.824105, -73.88863 40.824202, -73.888645 40.824386, -73.888652 40.824475, -73.88866 40.82457, -73.888668 40.824662, -73.888683 40.82484, -73.888691 40.824932, -73.888712 40.82519)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_48060> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_48060> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_48060> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_126> .

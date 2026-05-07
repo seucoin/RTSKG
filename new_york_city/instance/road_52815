@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_52815> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52815> <http://www.w3.org/2000/01/rdf-schema#label> "WINDHAM LOOP" .
+<https://w3id.org/rtskg/new_york_city/instance/road_52815> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.161297 40.577889, -74.161625 40.576722, -74.162187 40.576164), (-74.162187 40.576164, -74.162358 40.576232, -74.162523 40.576306, -74.162683 40.576388), (-74.162683 40.576388, -74.162837 40.576476, -74.162984 40.576571, -74.163123 40.576671), (-74.163123 40.576671, -74.162998 40.577629))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52815> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_loop> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52815> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52815> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_118> .

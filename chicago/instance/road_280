@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_280> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_280> <http://www.w3.org/2000/01/rdf-schema#label> "SHEFFIELD" .
+<https://w3id.org/rtskg/chicago/instance/road_280> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.654106 41.939912, -87.654121 41.940367, -87.65413 41.940666, -87.654139 41.940965, -87.654153 41.941433, -87.654163 41.941742)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_280> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_280> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_6> .
 <https://w3id.org/rtskg/chicago/instance/road_280> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_6> .

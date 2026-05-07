@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_46980> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_46980> <http://www.w3.org/2000/01/rdf-schema#label> "POILLON AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_46980> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.178869 40.535543, -74.178547 40.53497, -74.178232 40.534394, -74.177924 40.533816), (-74.177924 40.533816, -74.177625 40.533235, -74.177333 40.532653, -74.177048 40.532068), (-74.177048 40.532068, -74.176173 40.529202, -74.175562 40.528099))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_46980> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_46980> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_46980> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_84> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_101979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101979> <http://www.w3.org/2000/01/rdf-schema#label> "MADISON AV BRDG PED & BIKE PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_101979> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.934202 40.814063, -73.93418 40.814066, -73.934158 40.814068, -73.934136 40.81407), (-73.934136 40.81407, -73.934114 40.814071, -73.934092 40.814071, -73.93407 40.814071))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101979> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101979> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101979> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_74> .

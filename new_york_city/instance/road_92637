@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_92637> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_92637> <http://www.w3.org/2000/01/rdf-schema#label> "ALSTON PL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_92637> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.752751 40.773427, -73.75264 40.773444, -73.752525 40.773448, -73.75241 40.773438, -73.752299 40.773416, -73.752195 40.773382)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_92637> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_92637> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_92637> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_64> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_32001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_32001> <http://www.w3.org/2000/01/rdf-schema#label> "WESTWOOD AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_32001> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.120034 40.606445, -74.120128 40.606436, -74.120228 40.606428, -74.120504 40.606403, -74.120604 40.606395, -74.120922 40.606367)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_32001> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_32001> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_32001> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_23> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_119646> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119646> <http://www.w3.org/2000/01/rdf-schema#label> "BQE EB ENTRANCE ATLANTIC AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_119646> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.99875 40.691612, -73.998639 40.691544, -73.998524 40.69148, -73.998406 40.691419), (-73.998406 40.691419, -73.998284 40.691363, -73.99816 40.69131, -73.998032 40.691262))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119646> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119646> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_33> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119646> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_305> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_27026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_27026> <http://www.w3.org/2000/01/rdf-schema#label> "TUDOR RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_27026> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.78483 40.724936, -73.784537 40.725109, -73.784231 40.725272, -73.783913 40.725422, -73.783586 40.72556, -73.78325 40.725684, -73.782906 40.725794, -73.782556 40.72589)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_27026> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_27026> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_27026> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_131> .

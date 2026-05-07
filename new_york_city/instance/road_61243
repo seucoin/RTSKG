@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_61243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61243> <http://www.w3.org/2000/01/rdf-schema#label> "BARTOW AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_61243> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.823622 40.869149, -73.823547 40.869134, -73.822402 40.868894, -73.822241 40.868862, -73.822068 40.868806, -73.821903 40.868734, -73.821751 40.868649, -73.821738 40.86864, -73.821613 40.868551)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61243> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61243> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61243> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_51> .

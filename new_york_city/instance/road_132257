@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_132257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132257> <http://www.w3.org/2000/01/rdf-schema#label> "UNION TURNPIKE PED AND BIKE PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_132257> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.829405 40.715067, -73.829327 40.715106, -73.829252 40.715148, -73.82918 40.715194), (-73.82918 40.715194, -73.829112 40.715242, -73.829048 40.715294, -73.828988 40.715349), (-73.828988 40.715349, -73.828308 40.716145, -73.828159 40.716302))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132257> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132257> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132257> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_93> .

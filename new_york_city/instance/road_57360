@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_57360> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_57360> <http://www.w3.org/2000/01/rdf-schema#label> "TODT HILL RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_57360> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.110783 40.591401, -74.110828 40.590981, -74.110976 40.590657, -74.111102 40.590326, -74.111205 40.58999, -74.111286 40.58965, -74.111342 40.589308, -74.111376 40.588965, -74.111203 40.588672)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_57360> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_57360> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_57360> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_118> .

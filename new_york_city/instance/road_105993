@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_105993> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105993> <http://www.w3.org/2000/01/rdf-schema#label> "SWINTON AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_105993> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.822135 40.820156, -73.822227 40.820303, -73.822277 40.820383, -73.822373 40.820536, -73.822421 40.820613, -73.822473 40.820695, -73.822524 40.820776, -73.822743 40.821126)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105993> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105993> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105993> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_208> .

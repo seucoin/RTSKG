@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_99599> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99599> <http://www.w3.org/2000/01/rdf-schema#label> "FOREST HOUSES PEDESTRIAN PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_99599> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.904337 40.823768, -73.904343 40.823744, -73.904347 40.82372, -73.904347 40.823695, -73.904344 40.823671), (-73.904344 40.823671, -73.904339 40.823647, -73.90433 40.823624, -73.904319 40.823601, -73.904306 40.823579), (-73.904306 40.823579, -73.90406 40.823252))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99599> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99599> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99599> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_167> .

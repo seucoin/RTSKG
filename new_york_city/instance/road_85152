@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_85152> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85152> <http://www.w3.org/2000/01/rdf-schema#label> "BERTHA PL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_85152> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.092203 40.623467, -74.092141 40.622894, -74.092741 40.621788, -74.092903 40.621622)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85152> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85152> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85152> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_115> .

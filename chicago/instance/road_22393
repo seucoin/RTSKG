@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_22393> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_22393> <http://www.w3.org/2000/01/rdf-schema#label> "POTOMAC" .
+<https://w3id.org/rtskg/chicago/instance/road_22393> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.731274 41.904399, -87.731376 41.904397, -87.732103 41.904387, -87.732967 41.904374, -87.733634 41.904363, -87.733734 41.904362)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_22393> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_22393> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_6> .
 <https://w3id.org/rtskg/chicago/instance/road_22393> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_23> .

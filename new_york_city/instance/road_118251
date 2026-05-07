@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_118251> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118251> <http://www.w3.org/2000/01/rdf-schema#label> "BOND ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_118251> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.9887 40.681226, -73.988919 40.680901, -73.98913 40.680589)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118251> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118251> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118251> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_40> .

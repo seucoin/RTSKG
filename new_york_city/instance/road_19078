@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_19078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_19078> <http://www.w3.org/2000/01/rdf-schema#label> "MAURICE AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_19078> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.900713 40.734367, -73.900651 40.734446, -73.90058 40.734522, -73.900502 40.734592, -73.900416 40.734658), (-73.900416 40.734658, -73.900323 40.734717, -73.900225 40.734771, -73.90012 40.734818, -73.900011 40.734859))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_19078> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_19078> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_19078> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_83> .

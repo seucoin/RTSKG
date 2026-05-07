@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_75972> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_75972> <http://www.w3.org/2000/01/rdf-schema#label> "HANFORD ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_75972> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.744068 40.760687, -73.744019 40.760615, -73.743961 40.760546, -73.743896 40.760481, -73.743822 40.760422, -73.743742 40.760368, -73.743655 40.76032), (-73.743655 40.76032, -73.743563 40.760279, -73.743466 40.760244, -73.743365 40.760216, -73.743262 40.760196, -73.743156 40.760183, -73.743049 40.760178))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_75972> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_75972> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_75972> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_64> .

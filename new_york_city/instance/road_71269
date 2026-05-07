@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_71269> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_71269> <http://www.w3.org/2000/01/rdf-schema#label> "HAMILTON PL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_71269> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.996852 40.670911, -73.99692 40.670805, -73.997 40.670703, -73.99709 40.670607), (-73.99709 40.670607, -73.99719 40.670517, -73.997299 40.670433, -73.997418 40.670357))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_71269> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_71269> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_71269> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_106> .

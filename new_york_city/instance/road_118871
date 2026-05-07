@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_118871> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118871> <http://www.w3.org/2000/01/rdf-schema#label> "UNIVERSITY RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_118871> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.792208 40.722038, -73.794423 40.723138), (-73.794423 40.723138, -73.794503 40.723174, -73.794577 40.723216, -73.794646 40.723263, -73.794709 40.723315), (-73.794709 40.723315, -73.794764 40.723371, -73.794813 40.723431, -73.794853 40.723495, -73.794885 40.723561))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118871> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118871> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118871> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_121> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_121348> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121348> <http://www.w3.org/2000/01/rdf-schema#label> "PELHAM BAY PARK DVWY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_121348> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.820485 40.848509, -73.821609 40.850179), (-73.821609 40.850179, -73.821358 40.850288, -73.821095 40.850382, -73.820824 40.850459), (-73.820824 40.850459, -73.820546 40.850521, -73.820262 40.850565, -73.819974 40.850593))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121348> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121348> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121348> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_184> .

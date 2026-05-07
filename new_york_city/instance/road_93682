@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_93682> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93682> <http://www.w3.org/2000/01/rdf-schema#label> "JFK EXPRESSWAY EXIT NB" .
+<https://w3id.org/rtskg/new_york_city/instance/road_93682> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.7778 40.667161, -73.77705 40.667142, -73.776115 40.667141, -73.775172 40.667135, -73.774163 40.667061)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93682> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93682> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_219> .

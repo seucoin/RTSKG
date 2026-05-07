@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_12183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12183> <http://www.w3.org/2000/01/rdf-schema#label> "GROTON ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_12183> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.85397 40.718242, -73.853575 40.718098, -73.853535 40.718084, -73.852268 40.717621, -73.852193 40.717594, -73.852159 40.717582, -73.851823 40.717459)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12183> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12183> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12183> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_95> .

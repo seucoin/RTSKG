@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_7434> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_7434> <http://www.w3.org/2000/01/rdf-schema#label> "ROCKAWAY BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_7434> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.785748 40.672388, -73.785532 40.672281, -73.785328 40.672162, -73.785137 40.672032), (-73.785137 40.672032, -73.78496 40.671889, -73.784798 40.671737, -73.784653 40.671575))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_7434> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_7434> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_7434> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_218> .

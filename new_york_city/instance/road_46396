@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_46396> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_46396> <http://www.w3.org/2000/01/rdf-schema#label> "STORY AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_46396> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.871003 40.822571, -73.870689 40.822613, -73.87054 40.822634, -73.870327 40.822662, -73.870258 40.822672, -73.870207 40.822679, -73.870003 40.822706)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_46396> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_46396> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_46396> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_213> .

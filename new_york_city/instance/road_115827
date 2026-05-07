@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_115827> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115827> <http://www.w3.org/2000/01/rdf-schema#label> "AVIATION RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_115827> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.888011 40.582159, -73.888534 40.58204, -73.889067 40.581951, -73.889608 40.581895), (-73.889608 40.581895, -73.890153 40.581871, -73.890699 40.581878, -73.891242 40.581918), (-73.891242 40.581918, -73.891319 40.581853))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115827> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115827> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115827> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_154> .

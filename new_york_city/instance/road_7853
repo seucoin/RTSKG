@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_7853> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_7853> <http://www.w3.org/2000/01/rdf-schema#label> "ASTORIA BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_7853> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.860131 40.760284, -73.86003 40.760265, -73.859921 40.760263, -73.859811 40.76028, -73.859709 40.760315, -73.859622 40.760365, -73.859555 40.760426)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_7853> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_7853> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_7853> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_70> .

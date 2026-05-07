@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_127882> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127882> <http://www.w3.org/2000/01/rdf-schema#label> "LONG ISLAND EXPY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_127882> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.767707 40.745731, -73.767262 40.745852, -73.766934 40.745949, -73.766794 40.74599, -73.766341 40.746124, -73.765874 40.746251, -73.765157 40.746446, -73.764994 40.74649, -73.764377 40.74665, -73.764124 40.746722, -73.763373 40.746926, -73.763104 40.746999)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127882> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_expy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127882> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127882> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_175> .

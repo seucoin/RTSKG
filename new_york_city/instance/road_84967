@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_84967> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_84967> <http://www.w3.org/2000/01/rdf-schema#label> "GAULDY AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_84967> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.164993 40.618294, -74.165126 40.618363, -74.165265 40.618426, -74.165409 40.618481), (-74.165409 40.618481, -74.165557 40.618529, -74.16571 40.618569, -74.165866 40.618601))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_84967> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_84967> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_84967> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_23> .

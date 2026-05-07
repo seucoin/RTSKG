@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_29516> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_29516> <http://www.w3.org/2000/01/rdf-schema#label> "SAGAMORE AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_29516> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.76436 40.711529, -73.764301 40.71162, -73.764258 40.711718, -73.764233 40.711822, -73.764227 40.711928, -73.764241 40.712032, -73.764273 40.712133, -73.764322 40.712227)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_29516> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_29516> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_29516> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_122> .

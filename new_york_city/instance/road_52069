@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_52069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52069> <http://www.w3.org/2000/01/rdf-schema#label> "HASTINGS ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_52069> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.066345 40.601354, -74.066506 40.601177, -74.066652 40.600989, -74.066779 40.600792, -74.066887 40.600587, -74.066974 40.600377, -74.067041 40.600162, -74.067085 40.599945, -74.067108 40.599727, -74.067109 40.599511)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52069> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52069> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52069> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_6> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_68245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68245> <http://www.w3.org/2000/01/rdf-schema#label> "CANARSIE VETERANS CIR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_68245> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.884917 40.629524, -73.884856 40.629566, -73.884804 40.629618, -73.884766 40.629677, -73.884744 40.629741, -73.884739 40.629806, -73.884742 40.629826, -73.884761 40.62993)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68245> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_cir> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68245> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68245> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_39> .

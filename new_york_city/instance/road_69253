@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_69253> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69253> <http://www.w3.org/2000/01/rdf-schema#label> "RAILROAD AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_69253> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.938935 40.73377, -73.93755 40.731724, -73.936875 40.730949), (-73.936875 40.730949, -73.936679 40.73074, -73.936462 40.730543, -73.936225 40.730361), (-73.936225 40.730361, -73.935969 40.730193, -73.935696 40.730042, -73.935408 40.729907))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69253> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69253> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69253> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_226> .

@@ -1,6 +1,5 @@
 <https://w3id.org/rtskg/chicago/instance/poi_774618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/poi> .
 <https://w3id.org/rtskg/chicago/instance/poi_774618> <http://www.w3.org/2000/01/rdf-schema#label> "Saint Florian School" .
-<https://w3id.org/rtskg/chicago/instance/poi_774618> <https://w3id.org/rtskg/ontology/dataproperty/latitude> "41.6569464"^^<http://www.w3.org/2001/XMLSchema#double> .
-<https://w3id.org/rtskg/chicago/instance/poi_774618> <https://w3id.org/rtskg/ontology/dataproperty/longitude> "-87.5477665"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://w3id.org/rtskg/chicago/instance/poi_774618> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POINT(-87.547766 41.656946)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/poi_774618> <https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category> <https://w3id.org/rtskg/chicago/instance/poi_category_culture_and_education> .
 <https://w3id.org/rtskg/chicago/instance/poi_774618> <https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_block> <https://w3id.org/rtskg/chicago/instance/block_1250> .

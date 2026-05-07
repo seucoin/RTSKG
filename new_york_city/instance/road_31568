@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_31568> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_31568> <http://www.w3.org/2000/01/rdf-schema#label> "CROMWELL CRES" .
+<https://w3id.org/rtskg/new_york_city/instance/road_31568> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.862793 40.722579, -73.862663 40.722427, -73.862514 40.722282, -73.862348 40.722147, -73.862166 40.722024, -73.861971 40.721914, -73.861765 40.721818, -73.86155 40.721738)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_31568> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_cres> .
 <https://w3id.org/rtskg/new_york_city/instance/road_31568> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_31568> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_196> .

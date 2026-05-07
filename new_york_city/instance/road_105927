@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_105927> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105927> <http://www.w3.org/2000/01/rdf-schema#label> "BELL BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_105927> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.751671 40.728333, -73.751538 40.728294, -73.7514 40.728265, -73.75126 40.728244), (-73.75126 40.728244, -73.751118 40.728234, -73.750975 40.728233, -73.750833 40.728242))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105927> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105927> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105927> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_191> .

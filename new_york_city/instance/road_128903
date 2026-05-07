@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_128903> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_128903> <http://www.w3.org/2000/01/rdf-schema#label> "I 278 EASTBOUND EXIT 42" .
+<https://w3id.org/rtskg/new_york_city/instance/road_128903> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.899122 40.755315, -73.898992 40.755035, -73.898971 40.754989, -73.898878 40.754755, -73.898864 40.75472)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_128903> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_128903> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_129> .
 <https://w3id.org/rtskg/new_york_city/instance/road_128903> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_175> .

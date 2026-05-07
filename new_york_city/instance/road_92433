@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_92433> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_92433> <http://www.w3.org/2000/01/rdf-schema#label> "VARICK ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_92433> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.006759 40.722508, -74.006709 40.722456, -74.006673 40.722349, -74.006673 40.722215, -74.006693 40.722105, -74.006715 40.721979, -74.006752 40.721896, -74.00686 40.721834)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_92433> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_92433> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_92433> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_231> .

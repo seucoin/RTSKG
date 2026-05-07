@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_111739> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111739> <http://www.w3.org/2000/01/rdf-schema#label> "PELHAM PARKWAY GREENWAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_111739> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.8676 40.85735, -73.867477 40.85735, -73.867285 40.857389, -73.867132 40.857382, -73.867077 40.857395, -73.86703 40.857391, -73.866987 40.857378, -73.866884 40.857381)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111739> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111739> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_185> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111739> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_225> .

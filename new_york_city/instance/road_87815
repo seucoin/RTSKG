@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_87815> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87815> <http://www.w3.org/2000/01/rdf-schema#label> "POPLAR AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_87815> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.214844 40.5528, -74.214913 40.552805, -74.214983 40.552825, -74.215045 40.552861, -74.215091 40.552909, -74.215116 40.552963, -74.215122 40.553015)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87815> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87815> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87815> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_204> .

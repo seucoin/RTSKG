@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_84714> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_84714> <http://www.w3.org/2000/01/rdf-schema#label> "TAYLOR ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_84714> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.964904 40.70477, -73.964798 40.704837, -73.964635 40.70494, -73.963881 40.705415, -73.963809 40.705461, -73.963743 40.705502, -73.96368 40.705542, -73.96362 40.70558, -73.96355 40.705624, -73.963467 40.705676, -73.963359 40.705744, -73.963099 40.705908)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_84714> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_84714> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_84714> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_217> .

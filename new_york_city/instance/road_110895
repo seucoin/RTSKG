@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_110895> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110895> <http://www.w3.org/2000/01/rdf-schema#label> "DRIVEWAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_110895> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.903813 40.622198, -73.903791 40.62222, -73.903771 40.622244, -73.903754 40.622269, -73.90374 40.622296, -73.90373 40.622323, -73.903723 40.62235, -73.903719 40.622379, -73.903718 40.622407), (-73.903718 40.622407, -73.903821 40.62372))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110895> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110895> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_155> .

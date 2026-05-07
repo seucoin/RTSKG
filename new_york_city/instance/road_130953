@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_130953> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130953> <http://www.w3.org/2000/01/rdf-schema#label> "HALLETT NATURE SANCTUARY PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_130953> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.973897 40.766905, -73.973952 40.766883), (-73.973952 40.766883, -73.974024 40.766874, -73.974097 40.76687, -73.97417 40.766872), (-73.97417 40.766872, -73.974243 40.766879, -73.974315 40.766891, -73.974384 40.766908))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130953> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130953> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130953> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_43> .

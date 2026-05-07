@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_74029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_74029> <http://www.w3.org/2000/01/rdf-schema#label> "RODMAN WALK" .
+<https://w3id.org/rtskg/new_york_city/instance/road_74029> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.836877 40.746883, -73.8368 40.746781, -73.836705 40.746685, -73.836594 40.746597, -73.836469 40.74652, -73.836333 40.746456, -73.836189 40.746406, -73.836041 40.74637)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_74029> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_walk> .
 <https://w3id.org/rtskg/new_york_city/instance/road_74029> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_74029> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_93> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_95106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_95106> <http://www.w3.org/2000/01/rdf-schema#label> "TIFFANY CT" .
+<https://w3id.org/rtskg/new_york_city/instance/road_95106> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.2118 40.523721, -74.211788 40.523696, -74.211755 40.52368, -74.21172 40.523682, -74.211598 40.52371)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_95106> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ct> .
 <https://w3id.org/rtskg/new_york_city/instance/road_95106> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_95106> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_84> .

@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_104525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104525> <http://www.w3.org/2000/01/rdf-schema#label> "MARINA ROAD BIKE PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_104525> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.83955 40.763977, -73.839618 40.764009, -73.839688 40.764038, -73.839759 40.764065), (-73.839759 40.764065, -73.839832 40.764089, -73.839906 40.764111, -73.839982 40.76413))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104525> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104525> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_253> .

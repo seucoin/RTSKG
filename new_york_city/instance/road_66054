@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_66054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66054> <http://www.w3.org/2000/01/rdf-schema#label> "ELDRIDGE ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_66054> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.99063 40.720774, -73.990461 40.721107, -73.990423 40.721182, -73.990389 40.721249, -73.990357 40.721311, -73.990323 40.721376, -73.990289 40.721444, -73.990253 40.721515, -73.990181 40.721656, -73.990141 40.721735, -73.990042 40.721929)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66054> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66054> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66054> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_148> .

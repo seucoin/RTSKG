@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_99901> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99901> <http://www.w3.org/2000/01/rdf-schema#label> "WHITEHALL TER" .
+<https://w3id.org/rtskg/new_york_city/instance/road_99901> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.758081 40.723138, -73.757465 40.723579, -73.756839 40.724014, -73.756205 40.724441, -73.756058 40.724537, -73.755563 40.724861)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99901> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ter> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99901> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99901> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_131> .

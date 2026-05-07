@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/station_area_282> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/station_area> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_282> <http://www.w3.org/2000/01/rdf-schema#label> "Beach 44 St_5" .
+<https://w3id.org/rtskg/new_york_city/instance/station_area_282> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POLYGON ((-73.780719 40.593201, -73.778955 40.594679, -73.775842 40.596677, -73.774083 40.595967, -73.771214 40.59441, -73.772552 40.591773, -73.772943 40.591609, -73.775608 40.591459, -73.780078 40.592726, -73.780719 40.593201))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_282> <https://w3id.org/rtskg/ontology/dataproperty/walking_time_minutes> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_282> <https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station> <https://w3id.org/rtskg/new_york_city/instance/station_142> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_282> <https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block> <https://w3id.org/rtskg/new_york_city/instance/block_25827> .

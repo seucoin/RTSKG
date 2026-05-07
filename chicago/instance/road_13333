@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_13333> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_13333> <http://www.w3.org/2000/01/rdf-schema#label> "MAYFIELD" .
+<https://w3id.org/rtskg/chicago/instance/road_13333> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.772839 41.912934, -87.772849 41.913228, -87.772859 41.913529, -87.772886 41.914274)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_13333> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_13333> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_3> .
 <https://w3id.org/rtskg/chicago/instance/road_13333> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_25> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_115482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115482> <http://www.w3.org/2000/01/rdf-schema#label> "SUFFOLK ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_115482> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.985912 40.719347, -73.985751 40.71966, -73.9856 40.719955, -73.985321 40.720498)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115482> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115482> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115482> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_148> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_113317> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113317> <http://www.w3.org/2000/01/rdf-schema#label> "MEADOW LAKE PARK PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_113317> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.838228 40.737038, -73.838216 40.73699, -73.83821 40.736942, -73.838209 40.736893, -73.838214 40.736845), (-73.838214 40.736845, -73.838267 40.736595), (-73.838267 40.736595, -73.83827 40.73652, -73.838264 40.736445, -73.83825 40.736371))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113317> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113317> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113317> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_93> .

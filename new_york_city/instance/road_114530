@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_114530> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_114530> <http://www.w3.org/2000/01/rdf-schema#label> "HUTCHINSON RIVER PKWY NB EN SHR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_114530> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.816101 40.871667, -73.816761 40.872233), (-73.816761 40.872233, -73.816813 40.872275, -73.816863 40.872318, -73.816911 40.872362), (-73.816911 40.872362, -73.816956 40.872408, -73.816999 40.872455, -73.817039 40.872503))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_114530> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_114530> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_184> .

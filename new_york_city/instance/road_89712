@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_89712> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89712> <http://www.w3.org/2000/01/rdf-schema#label> "MAJOR DEEGAN EP NB EN W 179 ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_89712> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.917189 40.855927, -73.917271 40.855984, -73.917341 40.856052, -73.917397 40.85613, -73.917435 40.856215, -73.917454 40.856302, -73.917453 40.856389, -73.917375 40.856754, -73.91742 40.856871)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89712> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89712> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_235> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_23129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_23129> <http://www.w3.org/2000/01/rdf-schema#label> "SUTPHIN BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_23129> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.789891 40.67521, -73.789718 40.67495, -73.789528 40.674697, -73.789321 40.674451, -73.789097 40.674212, -73.788858 40.673983, -73.788605 40.673764, -73.788339 40.673555)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_23129> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_23129> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_23129> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_10> .

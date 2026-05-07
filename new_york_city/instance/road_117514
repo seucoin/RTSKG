@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_117514> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117514> <http://www.w3.org/2000/01/rdf-schema#label> "ATLANTIC AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_117514> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.948619 40.678422, -73.948336 40.678409, -73.948052 40.678395, -73.947769 40.67838), (-73.947769 40.67838, -73.947486 40.678364, -73.947203 40.678347, -73.94692 40.678329))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117514> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117514> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117514> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_61> .

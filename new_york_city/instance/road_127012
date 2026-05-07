@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_127012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127012> <http://www.w3.org/2000/01/rdf-schema#label> "JACKIE ROBINSON PKWY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_127012> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.861762 40.702689, -73.861453 40.702631, -73.861268 40.702596, -73.860909 40.702527, -73.860329 40.702474, -73.859779 40.70249, -73.859549 40.702524, -73.859378 40.702549, -73.859078 40.702621, -73.858797 40.702712, -73.858332 40.702889, -73.85825 40.702925)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127012> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pkwy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127012> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127012> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_102> .

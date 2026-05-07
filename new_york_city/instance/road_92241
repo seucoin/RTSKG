@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_92241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_92241> <http://www.w3.org/2000/01/rdf-schema#label> "GRAFF AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_92241> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.835199 40.830236, -73.83544 40.830316), (-73.83544 40.830316, -73.835508 40.830336, -73.835575 40.830361, -73.835638 40.83039, -73.835697 40.830423, -73.835753 40.83046, -73.835804 40.830501, -73.835851 40.830544), (-73.835851 40.830544, -73.836018 40.830726, -73.837626 40.832904))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_92241> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_92241> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_92241> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_208> .

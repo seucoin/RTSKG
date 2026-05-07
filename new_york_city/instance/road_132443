@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_132443> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132443> <http://www.w3.org/2000/01/rdf-schema#label> "SHERIDAN BLVD ENTRANCE RAMP" .
+<https://w3id.org/rtskg/new_york_city/instance/road_132443> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.885172 40.822919, -73.885248 40.823112, -73.885273 40.823159, -73.885313 40.823216, -73.88543 40.823366, -73.885513 40.823457, -73.885564 40.823516, -73.885668 40.823609, -73.885962 40.823824)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132443> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132443> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_60> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132443> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_495> .

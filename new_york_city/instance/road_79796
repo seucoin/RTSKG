@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_79796> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79796> <http://www.w3.org/2000/01/rdf-schema#label> "VALLEY RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_79796> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.110403 40.586491, -74.110543 40.586562, -74.110681 40.586635, -74.110818 40.58671), (-74.110818 40.58671, -74.110954 40.586786, -74.111087 40.586864, -74.111219 40.586944))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79796> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79796> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79796> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_118> .

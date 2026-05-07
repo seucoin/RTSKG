@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/station_area_316> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/station_area> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_316> <http://www.w3.org/2000/01/rdf-schema#label> "Broad Channel_5" .
+<https://w3id.org/rtskg/new_york_city/instance/station_area_316> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POLYGON ((-73.816555 40.605548, -73.818787 40.605773, -73.820092 40.606785, -73.819666 40.609774, -73.818958 40.609715, -73.816805 40.60881, -73.816031 40.607944, -73.816317 40.606578, -73.816555 40.605548))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_316> <https://w3id.org/rtskg/ontology/dataproperty/walking_time_minutes> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_316> <https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station> <https://w3id.org/rtskg/new_york_city/instance/station_159> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_316> <https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block> <https://w3id.org/rtskg/new_york_city/instance/block_24197> .

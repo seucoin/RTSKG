@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_1002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_1002> <http://www.w3.org/2000/01/rdf-schema#label> "MELVINA" .
+<https://w3id.org/rtskg/chicago/instance/road_1002> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.780829 41.931071, -87.78084 41.93147, -87.780841 41.93148, -87.780848 41.931687, -87.780855 41.931908, -87.780867 41.932282, -87.780874 41.932475, -87.78088 41.932655, -87.780889 41.932899)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_1002> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_1002> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_3> .
 <https://w3id.org/rtskg/chicago/instance/road_1002> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_19> .

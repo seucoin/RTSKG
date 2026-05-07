@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_114700> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_114700> <http://www.w3.org/2000/01/rdf-schema#label> "MORENO CT" .
+<https://w3id.org/rtskg/new_york_city/instance/road_114700> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.213141 40.535514, -74.213145 40.535472, -74.213159 40.535322), (-74.213159 40.535322, -74.21317 40.535312, -74.213183 40.535302, -74.213198 40.535293, -74.213213 40.535285), (-74.213213 40.535285, -74.213229 40.535278, -74.213246 40.535272, -74.213263 40.535268, -74.213281 40.535265))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_114700> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ct> .
 <https://w3id.org/rtskg/new_york_city/instance/road_114700> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_114700> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_204> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_67483> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_67483> <http://www.w3.org/2000/01/rdf-schema#label> "HIGHLAND BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_67483> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.898711 40.679638, -73.898491 40.679679, -73.898275 40.679733, -73.898066 40.679802, -73.897864 40.679883, -73.897673 40.679977, -73.897494 40.680082)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_67483> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_67483> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_67483> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_37> .

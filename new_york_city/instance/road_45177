@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_45177> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45177> <http://www.w3.org/2000/01/rdf-schema#label> "ANNADALE RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_45177> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.17731 40.540508, -74.177263 40.540347, -74.177263 40.540347, -74.177234 40.540183, -74.177224 40.540017, -74.177232 40.539852)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45177> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45177> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45177> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_84> .

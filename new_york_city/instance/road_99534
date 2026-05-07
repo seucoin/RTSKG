@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_99534> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99534> <http://www.w3.org/2000/01/rdf-schema#label> "JOANNE CT" .
+<https://w3id.org/rtskg/new_york_city/instance/road_99534> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.171022 40.525069, -74.170524 40.524482), (-74.170524 40.524482, -74.170511 40.524462, -74.170501 40.524441, -74.170493 40.524419, -74.170488 40.524397), (-74.170488 40.524397, -74.170486 40.524375, -74.170487 40.524352, -74.170491 40.52433, -74.170498 40.524308))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99534> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ct> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99534> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99534> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_84> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_115717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115717> <http://www.w3.org/2000/01/rdf-schema#label> "HIGHLAND PARK PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_115717> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.89071 40.686494, -73.890685 40.68653, -73.890656 40.686563, -73.890622 40.686595, -73.890585 40.686624), (-73.890585 40.686624, -73.890544 40.68665, -73.890501 40.686673, -73.890454 40.686692, -73.890406 40.686709))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115717> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115717> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115717> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_96> .

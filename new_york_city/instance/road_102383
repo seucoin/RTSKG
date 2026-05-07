@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_102383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102383> <http://www.w3.org/2000/01/rdf-schema#label> "HARLEM RIVER DR SB EN 3 AV BRG" .
+<https://w3id.org/rtskg/new_york_city/instance/road_102383> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.935231 40.807045, -73.935212 40.806992, -73.935187 40.806941, -73.935156 40.806891, -73.935119 40.806844), (-73.935119 40.806844, -73.935077 40.8068, -73.935029 40.806759, -73.934977 40.806721, -73.93492 40.806687))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102383> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_brg> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102383> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102383> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_74> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_46103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_46103> <http://www.w3.org/2000/01/rdf-schema#label> "OLINVILLE AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_46103> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.868129 40.878383, -73.868085 40.878369, -73.868031 40.878368, -73.867979 40.878385, -73.867942 40.878415, -73.867924 40.878449, -73.867267 40.879833)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_46103> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_46103> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_46103> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_254> .

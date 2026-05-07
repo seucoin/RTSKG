@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_70165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70165> <http://www.w3.org/2000/01/rdf-schema#label> "RFK BRIDGE EXIT FDR DRIVE SB" .
+<https://w3id.org/rtskg/new_york_city/instance/road_70165> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.930548 40.801512, -73.930609 40.80152, -73.930671 40.801523, -73.930733 40.801521, -73.930794 40.801516, -73.930855 40.801507), (-73.930855 40.801507, -73.930914 40.801493, -73.930971 40.801476, -73.931026 40.801454, -73.931078 40.801429, -73.931127 40.801401))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70165> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70165> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_74> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70165> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_19> .

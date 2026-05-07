@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_120815> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120815> <http://www.w3.org/2000/01/rdf-schema#label> "COMO AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_120815> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.770075 40.721625, -73.770065 40.721883, -73.769902 40.722008, -73.769725 40.722124, -73.769534 40.722228, -73.769332 40.72232, -73.769122 40.722398, -73.768905 40.722461)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120815> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120815> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120815> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_131> .

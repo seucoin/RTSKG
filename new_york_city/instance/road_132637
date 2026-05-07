@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_132637> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132637> <http://www.w3.org/2000/01/rdf-schema#label> "DEVOE PARK PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_132637> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.905357 40.863092, -73.905321 40.863087, -73.905285 40.86308, -73.905251 40.863071, -73.905217 40.86306), (-73.905217 40.86306, -73.905184 40.863047, -73.905153 40.863033, -73.905123 40.863016, -73.905095 40.862998))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132637> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132637> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_136> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132637> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_431> .

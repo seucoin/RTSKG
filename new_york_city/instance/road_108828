@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_108828> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108828> <http://www.w3.org/2000/01/rdf-schema#label> "BRIDLE PATH W" .
+<https://w3id.org/rtskg/new_york_city/instance/road_108828> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.976896 40.77259, -73.976947 40.772449), (-73.976947 40.772449, -73.977015 40.772301, -73.977098 40.772158, -73.977196 40.772021, -73.977308 40.77189, -73.977433 40.771766, -73.977572 40.77165))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108828> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108828> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108828> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_43> .

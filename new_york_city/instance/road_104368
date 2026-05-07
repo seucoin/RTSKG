@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_104368> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104368> <http://www.w3.org/2000/01/rdf-schema#label> "W 230 ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_104368> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.910546 40.880326, -73.910572 40.88034, -73.9106 40.880352, -73.910628 40.880362, -73.910658 40.880371, -73.910688 40.880377, -73.910719 40.880382, -73.910751 40.880385), (-73.910751 40.880385, -73.910928 40.880399))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104368> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104368> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104368> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_220> .

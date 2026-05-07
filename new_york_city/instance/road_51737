@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_51737> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_51737> <http://www.w3.org/2000/01/rdf-schema#label> "WILLOW RD E" .
+<https://w3id.org/rtskg/new_york_city/instance/road_51737> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.151555 40.617521, -74.151745 40.617188, -74.151919 40.616851, -74.151919 40.61685, -74.151919 40.61685, -74.152076 40.616508, -74.152077 40.616508, -74.152077 40.616508, -74.152218 40.616161, -74.152218 40.616161, -74.152218 40.61616, -74.152342 40.61581, -74.152342 40.61581, -74.152449 40.615457)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_51737> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_51737> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_51737> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_187> .

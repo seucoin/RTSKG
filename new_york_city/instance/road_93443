@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_93443> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93443> <http://www.w3.org/2000/01/rdf-schema#label> "TULIP CIR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_93443> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.191773 40.550785, -74.191856 40.550846, -74.19195 40.550899, -74.192052 40.550943, -74.19216 40.550977, -74.192272 40.551)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93443> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_cir> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93443> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93443> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_5> .

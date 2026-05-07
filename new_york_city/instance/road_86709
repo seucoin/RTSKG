@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_86709> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86709> <http://www.w3.org/2000/01/rdf-schema#label> "MAJOR DEEGAN EP NB EN W 230 ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_86709> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.904253 40.876399, -73.904165 40.876607, -73.904094 40.876821, -73.904041 40.877037, -73.904005 40.877256, -73.903989 40.877476, -73.903941 40.877868)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86709> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86709> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_241> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86709> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_551> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_31720> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_31720> <http://www.w3.org/2000/01/rdf-schema#label> "FORK CHICAGO RIVER" .
+<https://w3id.org/rtskg/chicago/instance/road_31720> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.661858 41.83551, -87.661671 41.835253, -87.661287 41.834863, -87.660896 41.834656, -87.660354 41.83437, -87.66027 41.83428)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_31720> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_4> .
 <https://w3id.org/rtskg/chicago/instance/road_31720> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_6> .
 <https://w3id.org/rtskg/chicago/instance/road_31720> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_59> .

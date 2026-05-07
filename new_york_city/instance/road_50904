@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_50904> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50904> <http://www.w3.org/2000/01/rdf-schema#label> "LILY POND AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_50904> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.065004 40.605322, -74.065024 40.605264, -74.065177 40.605153, -74.065316 40.60503, -74.065439 40.604898, -74.065545 40.604758)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50904> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50904> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50904> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_221> .

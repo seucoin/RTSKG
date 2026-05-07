@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_93031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93031> <http://www.w3.org/2000/01/rdf-schema#label> "SHRADY PL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_93031> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.899651 40.877937, -73.899717 40.878004, -73.899795 40.878064, -73.899883 40.878116, -73.899978 40.878159, -73.900045 40.878176, -73.900107 40.878203, -73.900162 40.87824, -73.900204 40.878284, -73.900234 40.878332)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93031> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93031> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93031> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_241> .

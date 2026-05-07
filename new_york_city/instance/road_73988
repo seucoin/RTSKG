@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_73988> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_73988> <http://www.w3.org/2000/01/rdf-schema#label> "DUNTON ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_73988> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.764119 40.721611, -73.764021 40.721565, -73.763933 40.721505, -73.763859 40.721433, -73.763859 40.721433, -73.763859 40.721433, -73.763803 40.721352, -73.763767 40.721267, -73.763751 40.72118)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_73988> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_73988> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_73988> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_131> .

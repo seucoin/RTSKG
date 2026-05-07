@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_75942> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_75942> <http://www.w3.org/2000/01/rdf-schema#label> "CURZON RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_75942> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.837332 40.704863, -73.837215 40.704936, -73.837082 40.705, -73.836938 40.70505, -73.836783 40.705087, -73.836623 40.705108, -73.836462 40.705113, -73.836303 40.705102, -73.836151 40.705076, -73.836008 40.705037)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_75942> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_75942> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_75942> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_134> .

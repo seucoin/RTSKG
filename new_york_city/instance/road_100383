@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_100383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100383> <http://www.w3.org/2000/01/rdf-schema#label> "BUFFALO ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_100383> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.129622 40.538845, -74.130015 40.538543, -74.130105 40.537825, -74.132179 40.535959, -74.132325 40.535673)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100383> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100383> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100383> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_110> .

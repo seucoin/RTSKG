@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_554> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_554> <http://www.w3.org/2000/01/rdf-schema#label> "LA SALLE" .
+<https://w3id.org/rtskg/chicago/instance/road_554> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.627244 41.712581, -87.627238 41.712337, -87.627231 41.712032, -87.627224 41.711739, -87.627218 41.711473, -87.627213 41.711257, -87.627207 41.711029, -87.627205 41.710877, -87.627202 41.710764)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_554> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_st> .
 <https://w3id.org/rtskg/chicago/instance/road_554> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_1> .
 <https://w3id.org/rtskg/chicago/instance/road_554> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_49> .

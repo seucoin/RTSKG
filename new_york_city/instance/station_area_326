@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/station_area_326> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/station_area> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_326> <http://www.w3.org/2000/01/rdf-schema#label> "Bronx Park East_5" .
+<https://w3id.org/rtskg/new_york_city/instance/station_area_326> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POLYGON ((-73.865118 40.847801, -73.866545 40.846412, -73.867975 40.845476, -73.86955 40.848408, -73.870431 40.851438, -73.868889 40.852897, -73.868449 40.852975, -73.866757 40.852394, -73.866319 40.851914, -73.865265 40.850211, -73.865118 40.847801))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_326> <https://w3id.org/rtskg/ontology/dataproperty/walking_time_minutes> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_326> <https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station> <https://w3id.org/rtskg/new_york_city/instance/station_164> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_326> <https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block> <https://w3id.org/rtskg/new_york_city/instance/block_45195> .

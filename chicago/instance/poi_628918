@@ -1,6 +1,5 @@
 <https://w3id.org/rtskg/chicago/instance/poi_628918> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/poi> .
-<https://w3id.org/rtskg/chicago/instance/poi_628918> <https://w3id.org/rtskg/ontology/dataproperty/latitude> "41.9112732"^^<http://www.w3.org/2001/XMLSchema#double> .
-<https://w3id.org/rtskg/chicago/instance/poi_628918> <https://w3id.org/rtskg/ontology/dataproperty/longitude> "-87.6413995"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://w3id.org/rtskg/chicago/instance/poi_628918> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POINT(-87.6414 41.911273)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/poi_628918> <https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category> <https://w3id.org/rtskg/chicago/instance/poi_category_scenic_spots> .
 <https://w3id.org/rtskg/chicago/instance/poi_628918> <https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_block> <https://w3id.org/rtskg/chicago/instance/block_14529> .
 <https://w3id.org/rtskg/chicago/instance/poi_628918> <https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_station_area> <https://w3id.org/rtskg/chicago/instance/station_area_215> .

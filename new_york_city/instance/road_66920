@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_66920> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66920> <http://www.w3.org/2000/01/rdf-schema#label> "STANLEY AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_66920> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.882913 40.659789, -73.881938 40.660209, -73.881794 40.660271, -73.881566 40.660369, -73.881466 40.660412, -73.881123 40.660559)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66920> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66920> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66920> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_76> .

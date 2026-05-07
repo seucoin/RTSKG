@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_70573> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70573> <http://www.w3.org/2000/01/rdf-schema#label> "CROSS BX EP NB EN WASHINGTON BR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_70573> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.920568 40.844737, -73.920269 40.844758, -73.919971 40.844791, -73.919675 40.844836), (-73.919675 40.844836, -73.91935 40.844871, -73.918404 40.844945))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70573> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70573> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_119> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70573> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_53> .

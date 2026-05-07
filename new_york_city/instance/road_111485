@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_111485> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111485> <http://www.w3.org/2000/01/rdf-schema#label> "BULLARD AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_111485> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.858239 40.900554, -73.858086 40.900796, -73.857911 40.901029, -73.857716 40.901251), (-73.857716 40.901251, -73.857499 40.901463, -73.857264 40.901663, -73.857011 40.901849))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111485> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111485> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111485> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_259> .

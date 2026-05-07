@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_69687> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69687> <http://www.w3.org/2000/01/rdf-schema#label> "BELT PARKWAY EB EN E 14 ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_69687> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.954675 40.584709, -73.954642 40.584777, -73.954589 40.58484, -73.954519 40.584893, -73.954434 40.584921)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69687> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69687> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_150> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69687> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_663> .

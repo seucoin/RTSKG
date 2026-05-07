@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_6460> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_6460> <http://www.w3.org/2000/01/rdf-schema#label> "ABERDEEN RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_6460> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.786511 40.721361, -73.786504 40.721509, -73.786478 40.721656, -73.786434 40.721802, -73.786371 40.721944, -73.786292 40.722079, -73.786197 40.722208, -73.786043 40.72237, -73.785874 40.722523, -73.785691 40.722668, -73.785495 40.722802, -73.785288 40.722924)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_6460> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_6460> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_6460> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_131> .

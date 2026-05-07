@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_83152> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83152> <http://www.w3.org/2000/01/rdf-schema#label> "FAIRWAY CLOS" .
+<https://w3id.org/rtskg/new_york_city/instance/road_83152> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.842564 40.713551, -73.842598 40.713578, -73.842621 40.713619, -73.842622 40.71367, -73.842591 40.713719, -73.842539 40.713752, -73.842482 40.713764, -73.842433 40.713762)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83152> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_clos> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83152> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83152> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_95> .

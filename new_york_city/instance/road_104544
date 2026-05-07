@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_104544> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104544> <http://www.w3.org/2000/01/rdf-schema#label> "DRAPER PL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_104544> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.16347 40.593, -74.163495 40.592868, -74.163535 40.592739, -74.163589 40.592612), (-74.163589 40.592612, -74.163657 40.59249, -74.163739 40.592372, -74.163834 40.59226))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104544> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104544> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104544> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_23> .

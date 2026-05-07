@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_110976> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110976> <http://www.w3.org/2000/01/rdf-schema#label> "FRESH KILLS PARK PEDESTRIAN PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_110976> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.186423 40.579268, -74.186763 40.579297, -74.187106 40.5793, -74.187447 40.579278, -74.187785 40.579232), (-74.187785 40.579232, -74.188114 40.579161, -74.188434 40.579067, -74.18874 40.57895, -74.189031 40.578811))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110976> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110976> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110976> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_99> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_45763> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45763> <http://www.w3.org/2000/01/rdf-schema#label> "MEDFORD RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_45763> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.096079 40.602985, -74.09618 40.602825, -74.096298 40.602671, -74.096432 40.602524), (-74.096432 40.602524, -74.09658 40.602387, -74.096743 40.602259, -74.096919 40.602142))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45763> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45763> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45763> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_118> .

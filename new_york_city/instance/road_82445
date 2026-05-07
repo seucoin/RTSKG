@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_82445> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_82445> <http://www.w3.org/2000/01/rdf-schema#label> "LONG ISLAND EXPWY EB ET 31S" .
+<https://w3id.org/rtskg/new_york_city/instance/road_82445> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.742996 40.751617, -73.742829 40.751448, -73.742657 40.751281, -73.742479 40.751118), (-73.742479 40.751118, -73.742296 40.750958, -73.742107 40.750802, -73.741914 40.75065))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_82445> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_82445> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_64> .

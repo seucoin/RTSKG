@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_36367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36367> <http://www.w3.org/2000/01/rdf-schema#label> "SEDGWICK AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_36367> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.913286 40.859627, -73.913081 40.85977, -73.912862 40.859902, -73.912631 40.860023, -73.912388 40.860131, -73.912136 40.860226, -73.911877 40.860306, -73.911613 40.860372, -73.911452 40.860412, -73.911297 40.860466, -73.911151 40.860532, -73.911016 40.86061)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36367> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36367> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36367> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_235> .

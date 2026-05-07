@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_116415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116415> <http://www.w3.org/2000/01/rdf-schema#label> "MARCUS GARVEY PARK PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_116415> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.944906 40.803528, -73.944863 40.803593, -73.944837 40.803653, -73.944828 40.803717, -73.944838 40.803774, -73.944854 40.803824, -73.944875 40.803877, -73.944894 40.803935, -73.944888 40.804104)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116415> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116415> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116415> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_74> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_81932> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_81932> <http://www.w3.org/2000/01/rdf-schema#label> "VENUS PL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_81932> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.2001 40.544302, -74.201138 40.543979, -74.202121 40.543686, -74.202739 40.543506)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_81932> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_81932> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_81932> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_204> .

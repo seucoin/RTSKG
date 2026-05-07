@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_94222> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94222> <http://www.w3.org/2000/01/rdf-schema#label> "WEED RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_94222> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.054766 40.605513, -74.054664 40.605068, -74.054583 40.604894, -74.054487 40.604724, -74.054378 40.604559, -74.054304 40.604336, -74.054217 40.604115, -74.054119 40.603898, -74.054079 40.603613)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94222> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94222> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94222> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_6> .

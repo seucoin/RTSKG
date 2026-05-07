@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_115323> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115323> <http://www.w3.org/2000/01/rdf-schema#label> "KOSCIUSZKO BRG" .
+<https://w3id.org/rtskg/new_york_city/instance/road_115323> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.92791 40.728262, -73.927773 40.728386, -73.927638 40.728511, -73.927503 40.728636), (-73.927503 40.728636, -73.92737 40.728762, -73.927237 40.728889, -73.927106 40.729017))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115323> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_brg> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115323> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115323> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_226> .

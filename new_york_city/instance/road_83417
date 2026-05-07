@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_83417> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83417> <http://www.w3.org/2000/01/rdf-schema#label> "CARPENTER AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_83417> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.763206 40.711613, -73.762937 40.711663, -73.762673 40.711726, -73.762413 40.711802, -73.762161 40.711889, -73.761917 40.711988, -73.761755 40.712115, -73.761608 40.712252, -73.761478 40.7124, -73.761365 40.712557, -73.761272 40.71272, -73.7612 40.712887)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83417> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83417> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83417> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_122> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_117862> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117862> <http://www.w3.org/2000/01/rdf-schema#label> "LINDEN ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_117862> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.915617 40.697261, -73.91537 40.697513, -73.915172 40.697715, -73.914062 40.698846)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117862> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117862> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117862> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_36> .

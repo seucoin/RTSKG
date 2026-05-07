@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_121630> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121630> <http://www.w3.org/2000/01/rdf-schema#label> "IKEA BUS TERMINAL DVWY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_121630> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.011735 40.672703, -74.011557 40.672405, -74.011414 40.672248, -74.011281 40.672158, -74.011062 40.672093, -74.010129 40.671843, -74.010059 40.671836, -74.009826 40.671941)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121630> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121630> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121630> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_195> .

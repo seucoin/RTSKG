@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_105581> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105581> <http://www.w3.org/2000/01/rdf-schema#label> "TINTON AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_105581> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.902837 40.823456, -73.902802 40.82354, -73.902769 40.823619, -73.902624 40.823969, -73.902595 40.82404, -73.902558 40.82413, -73.902332 40.824675)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105581> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105581> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105581> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_167> .

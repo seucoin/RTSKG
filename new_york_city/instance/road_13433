@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_13433> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_13433> <http://www.w3.org/2000/01/rdf-schema#label> "CYPRESS HILLS ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_13433> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.881301 40.691559, -73.88112 40.691465, -73.880926 40.691382, -73.88072 40.691312, -73.880505 40.691257, -73.880284 40.691217, -73.880059 40.691194, -73.879834 40.691186, -73.879612 40.691194, -73.879394 40.691218)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_13433> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_13433> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_13433> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_96> .

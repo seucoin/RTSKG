@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_30074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_30074> <http://www.w3.org/2000/01/rdf-schema#label> "PALERMO ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_30074> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.773645 40.722342, -73.773639 40.722263, -73.773612 40.722185, -73.773566 40.722113, -73.773504 40.722051, -73.773431 40.722002, -73.773365 40.721967, -73.773307 40.721921, -73.773263 40.721866, -73.773234 40.721807, -73.773223 40.721746, -73.773099 40.721412)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_30074> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_30074> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_30074> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_131> .

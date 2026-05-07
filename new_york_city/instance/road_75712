@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_75712> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_75712> <http://www.w3.org/2000/01/rdf-schema#label> "HENRY HUDSON PY SB EN DYCKMAN ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_75712> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.93192 40.866905, -73.931827 40.866927, -73.931733 40.866941, -73.931637 40.86695, -73.931541 40.866951, -73.931445 40.866945), (-73.931445 40.866945, -73.93135 40.866933, -73.931257 40.866914, -73.931167 40.866888, -73.93108 40.866856, -73.930998 40.866818))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_75712> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_75712> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_243> .
 <https://w3id.org/rtskg/new_york_city/instance/road_75712> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_399> .

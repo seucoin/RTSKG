@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_102024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102024> <http://www.w3.org/2000/01/rdf-schema#label> "CALLAHAN LN" .
+<https://w3id.org/rtskg/new_york_city/instance/road_102024> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.232063 40.506532, -74.232033 40.506507, -74.232 40.506484, -74.231964 40.506463, -74.231927 40.506444, -74.231887 40.506428), (-74.231887 40.506428, -74.231846 40.506414, -74.231803 40.506403, -74.23176 40.506395, -74.231715 40.506389, -74.231671 40.506387), (-74.231671 40.506387, -74.231267 40.506415))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102024> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ln> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102024> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102024> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_44> .

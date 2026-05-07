@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_79767> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79767> <http://www.w3.org/2000/01/rdf-schema#label> "OLD MILL RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_79767> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.113239 40.558086, -74.113232 40.558028, -74.11323 40.55797, -74.113231 40.557912), (-74.113231 40.557912, -74.113238 40.557854, -74.113249 40.557797, -74.113264 40.55774))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79767> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79767> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79767> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_176> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_7046> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_7046> <http://www.w3.org/2000/01/rdf-schema#label> "BORDEN AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_7046> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.93288 40.737862, -73.932911 40.737812, -73.932926 40.737754, -73.932919 40.737693, -73.932891 40.737635, -73.932846 40.737587, -73.932791 40.737532)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_7046> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_7046> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_7046> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_226> .

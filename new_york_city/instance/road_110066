@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_110066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110066> <http://www.w3.org/2000/01/rdf-schema#label> "VERRAZZANO BRIDGE LOWER LEVEL EN" .
+<https://w3id.org/rtskg/new_york_city/instance/road_110066> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.06676 40.602548, -74.06656 40.602498, -74.066355 40.602463, -74.066146 40.602444), (-74.066146 40.602444, -74.065952 40.602423, -74.065761 40.60239, -74.065575 40.602345, -74.065394 40.602288))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110066> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110066> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_6> .

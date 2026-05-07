@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_94706> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94706> <http://www.w3.org/2000/01/rdf-schema#label> "EMILY LN" .
+<https://w3id.org/rtskg/new_york_city/instance/road_94706> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.184661 40.561049, -74.184838 40.561034, -74.185014 40.56101, -74.185187 40.560976, -74.185356 40.560933, -74.185839 40.560895, -74.185936 40.561445, -74.186864 40.561325)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94706> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ln> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94706> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94706> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_5> .

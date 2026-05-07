@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_130959> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130959> <http://www.w3.org/2000/01/rdf-schema#label> "VOORHIES AVE-E 14 ST PED OPAS" .
+<https://w3id.org/rtskg/new_york_city/instance/road_130959> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.954271 40.585695, -73.954223 40.585793, -73.954085 40.585798, -73.953982 40.58572)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130959> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_opas> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130959> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130959> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_210> .

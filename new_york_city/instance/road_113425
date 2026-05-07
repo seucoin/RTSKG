@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_113425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113425> <http://www.w3.org/2000/01/rdf-schema#label> "LINCOLN TUNL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_113425> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.003827 40.760141, -74.00632 40.761169, -74.008018 40.761854)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113425> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_tunl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113425> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_123> .

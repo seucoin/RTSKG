@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_132763> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132763> <http://www.w3.org/2000/01/rdf-schema#label> "KEARNEY AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_132763> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.824557 40.83974, -73.824468 40.839812), (-73.824468 40.839812, -73.824436 40.839839, -73.824408 40.839868, -73.824383 40.839899, -73.824362 40.839931), (-73.824362 40.839931, -73.824343 40.839964, -73.824328 40.839998, -73.824317 40.840033, -73.82431 40.840069))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132763> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132763> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132763> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_58> .

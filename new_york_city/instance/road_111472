@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_111472> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111472> <http://www.w3.org/2000/01/rdf-schema#label> "PARK AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_111472> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.931174 40.811557, -73.931173 40.811575, -73.931169 40.811593, -73.931163 40.811611, -73.931156 40.811628, -73.931146 40.811644), (-73.931146 40.811644, -73.931134 40.81166, -73.931121 40.811675, -73.931106 40.811689, -73.931089 40.811702, -73.931071 40.811713))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111472> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111472> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111472> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_168> .

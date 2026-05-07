@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_34521> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_34521> <http://www.w3.org/2000/01/rdf-schema#label> "E FORDHAM RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_34521> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.891062 40.86148, -73.89086 40.861372, -73.890705 40.861288, -73.890567 40.861221, -73.890388 40.861135, -73.890277 40.861117)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_34521> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_34521> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_34521> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_20> .

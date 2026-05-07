@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_86980> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86980> <http://www.w3.org/2000/01/rdf-schema#label> "CHARLECOTE RDG" .
+<https://w3id.org/rtskg/new_york_city/instance/road_86980> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.788547 40.717267, -73.788472 40.717087, -73.788414 40.716902, -73.788373 40.716714, -73.78835 40.716524, -73.788345 40.716334, -73.788357 40.716145)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86980> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rdg> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86980> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86980> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_131> .

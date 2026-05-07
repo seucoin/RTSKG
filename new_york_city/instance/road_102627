@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_102627> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102627> <http://www.w3.org/2000/01/rdf-schema#label> "KOCH BR PEDESTRIAN AND BIKE PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_102627> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.949043 40.754609, -73.948208 40.754251, -73.947373 40.753894, -73.946484 40.75352, -73.946302 40.753432, -73.945641 40.753141, -73.945474 40.753067, -73.944975 40.752847, -73.944697 40.752725, -73.944514 40.752646)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102627> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102627> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102627> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_193> .

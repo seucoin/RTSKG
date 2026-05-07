@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_112481> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112481> <http://www.w3.org/2000/01/rdf-schema#label> "WELLHOUSE DR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_112481> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.96554 40.659486, -73.965615 40.659468, -73.965829 40.659436, -73.966091 40.659368, -73.966339 40.659272, -73.966401 40.659239, -73.966566 40.659149, -73.966766 40.659004, -73.966886 40.65889, -73.966946 40.658843)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112481> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112481> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112481> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_190> .

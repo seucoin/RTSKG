@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_77837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_77837> <http://www.w3.org/2000/01/rdf-schema#label> "WOODHULL ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_77837> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.005951 40.681479, -74.005955 40.681564, -74.005944 40.68165, -74.005917 40.681734, -74.005876 40.681814, -74.005822 40.681889)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_77837> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_77837> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_77837> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_195> .

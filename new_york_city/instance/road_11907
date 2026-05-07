@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_11907> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_11907> <http://www.w3.org/2000/01/rdf-schema#label> "UNITED NATIONS AVE S" .
+<https://w3id.org/rtskg/new_york_city/instance/road_11907> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.84231 40.745381, -73.842209 40.745574, -73.842131 40.745775, -73.842075 40.745982, -73.842044 40.746193, -73.842038 40.746406, -73.842056 40.746617, -73.842098 40.746824, -73.842163 40.747026)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_11907> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_11907> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_11907> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_93> .

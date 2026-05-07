@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_21150> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_21150> <http://www.w3.org/2000/01/rdf-schema#label> "CLINTONVILLE ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_21150> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.814729 40.796721, -73.814638 40.796594, -73.81453 40.796473, -73.814409 40.79636, -73.814275 40.796257, -73.813889 40.795301)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_21150> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_21150> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_21150> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_252> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_86206> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86206> <http://www.w3.org/2000/01/rdf-schema#label> "BARTOW CIR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_86206> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.810599 40.869735, -73.810672 40.869749, -73.810746 40.869758, -73.810821 40.869761, -73.810896 40.86976, -73.81097 40.869753), (-73.81097 40.869753, -73.811044 40.869741, -73.811115 40.869724, -73.811185 40.869702, -73.811251 40.869675, -73.811314 40.869644))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86206> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_cir> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86206> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86206> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_184> .

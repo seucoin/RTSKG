@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_8620> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_8620> <http://www.w3.org/2000/01/rdf-schema#label> "BLOOMINGDALE" .
+<https://w3id.org/rtskg/chicago/instance/road_8620> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.764353 41.913047, -87.764562 41.913046, -87.764929 41.913038, -87.764959 41.913037, -87.765497 41.913029, -87.765632 41.913029)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_8620> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_8620> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_3> .
 <https://w3id.org/rtskg/chicago/instance/road_8620> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_25> .

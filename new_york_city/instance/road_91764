@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_91764> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91764> <http://www.w3.org/2000/01/rdf-schema#label> "JOHN F KENNEDY CIR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_91764> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.756788 40.743583, -73.756754 40.743526, -73.756739 40.743459, -73.756749 40.743388, -73.756785 40.74332, -73.756844 40.743264, -73.756917 40.743224, -73.756993 40.743202)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91764> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_cir> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91764> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91764> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_175> .

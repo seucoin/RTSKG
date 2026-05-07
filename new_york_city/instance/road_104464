@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_104464> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104464> <http://www.w3.org/2000/01/rdf-schema#label> "PARK CIRCLE BIKE PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_104464> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.972304 40.651558, -73.972254 40.651568, -73.972203 40.651575, -73.972151 40.651578, -73.972099 40.651578, -73.972047 40.651575), (-73.972047 40.651575, -73.971996 40.651568, -73.971946 40.651557, -73.971897 40.651543, -73.971851 40.651526, -73.971806 40.651506))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104464> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104464> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_190> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104464> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_437> .

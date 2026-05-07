@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_104045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104045> <http://www.w3.org/2000/01/rdf-schema#label> "BROOKLYN QUEENS EP WB ET 32 A" .
+<https://w3id.org/rtskg/new_york_city/instance/road_104045> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.960318 40.710144, -73.960188 40.710144, -73.960058 40.710147, -73.959928 40.710154), (-73.959928 40.710154, -73.958699 40.710267))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104045> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104045> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_256> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104045> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_479> .

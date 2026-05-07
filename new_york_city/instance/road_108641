@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_108641> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108641> <http://www.w3.org/2000/01/rdf-schema#label> "OUTERBRIDGE XING" .
+<https://w3id.org/rtskg/new_york_city/instance/road_108641> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.233461 40.525377, -74.235332 40.525356, -74.235397 40.525356, -74.236052 40.525343, -74.236608 40.525314, -74.237252 40.525281, -74.239169 40.525182, -74.239268 40.525177)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108641> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_xing> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108641> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108641> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_44> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_132926> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132926> <http://www.w3.org/2000/01/rdf-schema#label> "BRADLEY TER" .
+<https://w3id.org/rtskg/new_york_city/instance/road_132926> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.921076 40.879468, -73.921111 40.879445, -73.921132 40.87947, -73.92124 40.879402, -73.921215 40.879379, -73.921323 40.87931, -73.921368 40.879348, -73.921412 40.879325)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132926> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ter> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132926> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132926> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_220> .

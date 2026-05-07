@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_94022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94022> <http://www.w3.org/2000/01/rdf-schema#label> "HILLSIDE AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_94022> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.891014 40.566927, -73.890877 40.566907, -73.890724 40.566889, -73.890573 40.56687, -73.890468 40.566856, -73.890361 40.566848, -73.890254 40.566847, -73.889649 40.566832, -73.88912 40.56682)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94022> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94022> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94022> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_27> .

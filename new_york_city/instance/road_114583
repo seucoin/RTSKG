@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_114583> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_114583> <http://www.w3.org/2000/01/rdf-schema#label> "PEDESTRIAN AND BIKE PATH LINK" .
+<https://w3id.org/rtskg/new_york_city/instance/road_114583> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.948565 40.817624, -73.948587 40.81763, -73.948609 40.817635, -73.948632 40.817638, -73.948655 40.81764, -73.948678 40.81764, -73.948701 40.817639), (-73.948701 40.817639, -73.948854 40.817629, -73.949046 40.817609))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_114583> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_114583> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_152> .
 <https://w3id.org/rtskg/new_york_city/instance/road_114583> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_19> .

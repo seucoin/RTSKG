@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_94373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94373> <http://www.w3.org/2000/01/rdf-schema#label> "JANSEN CT" .
+<https://w3id.org/rtskg/new_york_city/instance/road_94373> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.180249 40.527483, -74.180289 40.527529, -74.180324 40.527578, -74.180352 40.527629, -74.180374 40.527681), (-74.180374 40.527681, -74.180389 40.527736, -74.180398 40.52779, -74.1804 40.527846, -74.180396 40.527901))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94373> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ct> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94373> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94373> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_84> .

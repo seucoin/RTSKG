@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_72646> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_72646> <http://www.w3.org/2000/01/rdf-schema#label> "CHEVY CHASE ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_72646> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.778287 40.720264, -73.778074 40.72011, -73.777851 40.719963, -73.777619 40.719824, -73.777379 40.719694, -73.777194 40.719596, -73.777019 40.719484, -73.776858 40.719361, -73.77671 40.719227, -73.776579 40.719084, -73.776465 40.718934, -73.77637 40.718778)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_72646> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_72646> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_72646> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_131> .

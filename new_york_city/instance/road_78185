@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_78185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78185> <http://www.w3.org/2000/01/rdf-schema#label> "STONEGATE DR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_78185> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.086663 40.601478, -74.086878 40.601989, -74.086892 40.602062, -74.086883 40.602138, -74.086853 40.60221, -74.086804 40.602274, -74.086765 40.602313, -74.086738 40.602359, -74.086727 40.60241, -74.086733 40.602461, -74.086754 40.602507, -74.087471 40.602944)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78185> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78185> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78185> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_6> .

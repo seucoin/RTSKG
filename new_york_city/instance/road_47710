@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_47710> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47710> <http://www.w3.org/2000/01/rdf-schema#label> "BRIGHTON AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_47710> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.089104 40.636255, -74.089181 40.636148, -74.089268 40.636046, -74.089364 40.635948), (-74.089364 40.635948, -74.08947 40.635856, -74.089583 40.63577, -74.089705 40.635691))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47710> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47710> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47710> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_206> .

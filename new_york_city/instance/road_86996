@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_86996> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86996> <http://www.w3.org/2000/01/rdf-schema#label> "ARKANSAS DR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_86996> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.90244 40.607961, -73.902585 40.607765, -73.902745 40.607575, -73.902921 40.607393, -73.903111 40.60722, -73.903314 40.607056, -73.90353 40.606903)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86996> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86996> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86996> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_155> .

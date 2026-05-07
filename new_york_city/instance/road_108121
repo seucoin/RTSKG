@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_108121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108121> <http://www.w3.org/2000/01/rdf-schema#label> "WATERFALL TRL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_108121> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.875457 40.861176, -73.875444 40.861193, -73.875431 40.861208, -73.875415 40.861222, -73.875398 40.861236, -73.87538 40.861248, -73.87536 40.861259), (-73.87536 40.861259, -73.875151 40.861393, -73.875072 40.861451))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108121> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_trl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108121> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108121> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_31> .

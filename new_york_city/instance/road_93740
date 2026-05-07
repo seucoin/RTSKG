@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_93740> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93740> <http://www.w3.org/2000/01/rdf-schema#label> "LITTLE BAY RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_93740> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.78031 40.793149, -73.780328 40.793355, -73.780369 40.793561, -73.780432 40.793765, -73.780516 40.793966, -73.780622 40.794162, -73.780748 40.79435, -73.780893 40.794529, -73.781055 40.794697, -73.781232 40.794853)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93740> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93740> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93740> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_15> .

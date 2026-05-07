@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_119248> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119248> <http://www.w3.org/2000/01/rdf-schema#label> "ASCH LOOP" .
+<https://w3id.org/rtskg/new_york_city/instance/road_119248> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.826309 40.870592, -73.827199 40.870894), (-73.827199 40.870894, -73.827284 40.87092, -73.827371 40.870942, -73.82746 40.870959), (-73.82746 40.870959, -73.82755 40.870973, -73.827642 40.870982, -73.827733 40.870986))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119248> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_loop> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119248> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119248> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_51> .

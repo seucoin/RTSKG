@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_28126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_28126> <http://www.w3.org/2000/01/rdf-schema#label> "UTOPIA PKWY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_28126> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.794219 40.789821, -73.793964 40.789298), (-73.793964 40.789298, -73.793963 40.789266, -73.793965 40.789234, -73.79397 40.789203), (-73.79397 40.789203, -73.793979 40.789172, -73.793991 40.789141, -73.794007 40.789112))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_28126> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pkwy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_28126> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_28126> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_252> .

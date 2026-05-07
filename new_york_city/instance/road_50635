@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_50635> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50635> <http://www.w3.org/2000/01/rdf-schema#label> "MICHAEL LOOP" .
+<https://w3id.org/rtskg/new_york_city/instance/road_50635> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.09827 40.608076, -74.09818 40.608115, -74.098101 40.608169, -74.098038 40.608233, -74.097994 40.608304, -74.097965 40.608721, -74.098914 40.608653, -74.09889 40.608432)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50635> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_loop> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50635> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50635> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_118> .

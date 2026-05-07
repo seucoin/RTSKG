@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_79060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79060> <http://www.w3.org/2000/01/rdf-schema#label> "FEATHERBED LN" .
+<https://w3id.org/rtskg/new_york_city/instance/road_79060> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.916539 40.845466, -73.916651 40.845454, -73.916772 40.845465, -73.916888 40.8455, -73.916989 40.845557, -73.917063 40.845629, -73.917108 40.845708)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79060> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ln> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79060> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79060> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_235> .

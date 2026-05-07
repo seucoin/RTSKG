@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_53906> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53906> <http://www.w3.org/2000/01/rdf-schema#label> "BRIELLE AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_53906> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.135497 40.593709, -74.13613 40.592498), (-74.13613 40.592498, -74.136285 40.5922, -74.136455 40.591906, -74.136642 40.591619), (-74.136642 40.591619, -74.136843 40.591338, -74.137059 40.591063, -74.13729 40.590795), (-74.13729 40.590795, -74.138499 40.589322, -74.138622 40.589073))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53906> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53906> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53906> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_118> .

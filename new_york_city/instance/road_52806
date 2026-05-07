@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_52806> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52806> <http://www.w3.org/2000/01/rdf-schema#label> "COMSTOCK AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_52806> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.159886 40.618411, -74.160711 40.618544, -74.160808 40.618572, -74.160899 40.618617, -74.16098 40.618678, -74.161041 40.618751, -74.161081 40.618832, -74.161096 40.618914, -74.16109 40.618993, -74.161004 40.619312)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52806> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52806> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_52806> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_156> .

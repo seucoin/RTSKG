@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_121593> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121593> <http://www.w3.org/2000/01/rdf-schema#label> "MOSHOLU AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_121593> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.896413 40.904513, -73.895294 40.903549, -73.894942 40.903246, -73.894276 40.902501, -73.89365 40.901802, -73.893159 40.901511, -73.8924 40.901063)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121593> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121593> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121593> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_200> .

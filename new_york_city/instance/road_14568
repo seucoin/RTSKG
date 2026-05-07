@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_14568> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_14568> <http://www.w3.org/2000/01/rdf-schema#label> "NAMEOKE AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_14568> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.751723 40.607507, -73.75183 40.60757, -73.751943 40.607627, -73.752062 40.607678), (-73.752062 40.607678, -73.752185 40.607721, -73.752312 40.607757, -73.752443 40.607786))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_14568> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_14568> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_14568> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_86> .

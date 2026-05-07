@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_10604> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_10604> <http://www.w3.org/2000/01/rdf-schema#label> "DAVIS CT" .
+<https://w3id.org/rtskg/new_york_city/instance/road_10604> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.942763 40.743072, -73.94338 40.742801, -73.94342 40.742756, -73.943448 40.742704, -73.943459 40.742648, -73.943455 40.742592, -73.943435 40.74254, -73.942598 40.741251)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_10604> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ct> .
 <https://w3id.org/rtskg/new_york_city/instance/road_10604> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_10604> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_145> .

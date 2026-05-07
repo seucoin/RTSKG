@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_118976> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118976> <http://www.w3.org/2000/01/rdf-schema#label> "CATHERINE ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_118976> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.134694 40.627254, -74.134842 40.627359, -74.135134 40.627564, -74.135365 40.627727)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118976> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118976> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118976> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_251> .

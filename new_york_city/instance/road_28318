@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_28318> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_28318> <http://www.w3.org/2000/01/rdf-schema#label> "SUNRISE HWY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_28318> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.728144 40.665523, -73.728427 40.665515, -73.728711 40.665514, -73.728994 40.665518), (-73.728994 40.665518, -73.729278 40.665528, -73.729561 40.665544, -73.729843 40.665566))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_28318> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_hwy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_28318> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_28318> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_203> .

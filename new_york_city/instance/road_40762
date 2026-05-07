@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_40762> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40762> <http://www.w3.org/2000/01/rdf-schema#label> "RICHMOND TER" .
+<https://w3id.org/rtskg/new_york_city/instance/road_40762> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.116062 40.641486, -74.11611 40.641348, -74.116406 40.641131, -74.116699 40.640974, -74.116845 40.640901, -74.116896 40.640877)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40762> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ter> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40762> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40762> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_206> .

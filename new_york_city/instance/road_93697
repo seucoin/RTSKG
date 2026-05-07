@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_93697> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93697> <http://www.w3.org/2000/01/rdf-schema#label> "14 ST LOOP" .
+<https://w3id.org/rtskg/new_york_city/instance/road_93697> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.978755 40.731036, -73.978645 40.731004, -73.978538 40.730968, -73.978434 40.730927), (-73.978434 40.730927, -73.978333 40.730882, -73.978235 40.730832, -73.978142 40.730778))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93697> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93697> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93697> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_224> .

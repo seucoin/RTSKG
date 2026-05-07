@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_8606> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_8606> <http://www.w3.org/2000/01/rdf-schema#label> "MELROSE" .
+<https://w3id.org/rtskg/chicago/instance/road_8606> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.669299 41.940598, -87.669713 41.940593, -87.670072 41.940588, -87.670123 41.940587, -87.670715 41.940579, -87.671119 41.940574)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_8606> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_st> .
 <https://w3id.org/rtskg/chicago/instance/road_8606> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_6> .
 <https://w3id.org/rtskg/chicago/instance/road_8606> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_6> .

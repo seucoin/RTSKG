@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_94557> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94557> <http://www.w3.org/2000/01/rdf-schema#label> "SALAMANDER CT" .
+<https://w3id.org/rtskg/new_york_city/instance/road_94557> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.223787 40.538004, -74.223174 40.538087, -74.222974 40.539189)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94557> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ct> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94557> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94557> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_44> .

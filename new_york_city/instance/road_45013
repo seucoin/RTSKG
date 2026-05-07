@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_45013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45013> <http://www.w3.org/2000/01/rdf-schema#label> "RICHMOND AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_45013> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.162332 40.605949, -74.162338 40.605337, -74.162344 40.60517, -74.162371 40.605004, -74.162419 40.604841, -74.162487 40.604682)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45013> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45013> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45013> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_23> .

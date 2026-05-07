@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_87834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87834> <http://www.w3.org/2000/01/rdf-schema#label> "ELK DR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_87834> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.755917 40.598776, -73.756028 40.598873, -73.756125 40.598979, -73.756205 40.599094, -73.756267 40.599214, -73.756311 40.599338)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87834> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87834> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87834> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_86> .

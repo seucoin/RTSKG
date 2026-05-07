@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_106901> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106901> <http://www.w3.org/2000/01/rdf-schema#label> "FRESH KILLS PK SCHMUL PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_106901> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.185133 40.586973, -74.185221 40.58727, -74.185327 40.58747, -74.185387 40.587608)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106901> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106901> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106901> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_99> .

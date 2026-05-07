@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_58553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_58553> <http://www.w3.org/2000/01/rdf-schema#label> "BARRY ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_58553> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.895602 40.811613, -73.89559 40.811654, -73.895573 40.811695, -73.895553 40.811734, -73.895529 40.811772), (-73.895529 40.811772, -73.895501 40.811808, -73.895469 40.811843, -73.895434 40.811875, -73.895396 40.811906))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_58553> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_58553> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_58553> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_126> .

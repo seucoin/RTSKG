@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_105433> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105433> <http://www.w3.org/2000/01/rdf-schema#label> "EDENWALD HOUSES PEDESTRIAN PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_105433> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.842746 40.887617, -73.842858 40.887912, -73.842785 40.888101, -73.842799 40.888232, -73.84286 40.888315)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105433> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105433> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105433> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_259> .

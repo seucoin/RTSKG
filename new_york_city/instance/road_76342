@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_76342> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_76342> <http://www.w3.org/2000/01/rdf-schema#label> "CONNECTOR ROAD TO MARINA ROAD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_76342> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.840293 40.761515, -73.840194 40.761602, -73.840081 40.76168, -73.839955 40.761748, -73.839819 40.761805, -73.839675 40.761848, -73.839527 40.761878, -73.839378 40.761893)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_76342> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_76342> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_253> .

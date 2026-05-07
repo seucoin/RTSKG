@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_12685> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_12685> <http://www.w3.org/2000/01/rdf-schema#label> "CHICAGO SKYWAY" .
+<https://w3id.org/rtskg/chicago/instance/road_12685> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.543129 41.7178, -87.543074 41.717762, -87.543042 41.717741, -87.542603 41.717437, -87.542443 41.717332)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_12685> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_expy> .
 <https://w3id.org/rtskg/chicago/instance/road_12685> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_1> .
 <https://w3id.org/rtskg/chicago/instance/road_12685> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_51> .

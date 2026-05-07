@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_100849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100849> <http://www.w3.org/2000/01/rdf-schema#label> "THROGS NECK BRG" .
+<https://w3id.org/rtskg/new_york_city/instance/road_100849> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.791641 40.78907, -73.79152 40.788954, -73.791398 40.78884, -73.791274 40.788726), (-73.791274 40.788726, -73.79115 40.788614, -73.791024 40.788501, -73.790897 40.78839))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100849> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_brg> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100849> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100849> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_252> .

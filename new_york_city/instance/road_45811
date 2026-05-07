@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_45811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45811> <http://www.w3.org/2000/01/rdf-schema#label> "DUER LN" .
+<https://w3id.org/rtskg/new_york_city/instance/road_45811> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.08981 40.632687, -74.089802 40.632543, -74.089815 40.632397, -74.089849 40.632251, -74.089903 40.632109, -74.089982 40.631972, -74.090079 40.631844, -74.090192 40.631727)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45811> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ln> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45811> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45811> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_245> .

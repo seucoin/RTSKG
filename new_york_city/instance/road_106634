@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_106634> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106634> <http://www.w3.org/2000/01/rdf-schema#label> "FORT HAMILTON BIKE PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_106634> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.975603 40.649703, -73.975827 40.649547), (-73.975827 40.649547, -73.97587 40.649521, -73.975915 40.649497, -73.975961 40.649475), (-73.975961 40.649475, -73.976089 40.649413, -73.976551 40.649235, -73.976608 40.649191))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106634> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106634> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106634> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_257> .

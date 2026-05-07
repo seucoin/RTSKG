@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/station_area_234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/station_area> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_234> <http://www.w3.org/2000/01/rdf-schema#label> "Arthur Kill_5" .
+<https://w3id.org/rtskg/new_york_city/instance/station_area_234> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POLYGON ((-74.245962 40.514656, -74.245722 40.515586, -74.242835 40.517664, -74.24023 40.519062, -74.237885 40.517265, -74.237861 40.517173, -74.238568 40.515965, -74.240739 40.51448, -74.244504 40.514391, -74.245962 40.514656))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_234> <https://w3id.org/rtskg/ontology/dataproperty/walking_time_minutes> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_234> <https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station> <https://w3id.org/rtskg/new_york_city/instance/station_118> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_234> <https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block> <https://w3id.org/rtskg/new_york_city/instance/block_1492> .

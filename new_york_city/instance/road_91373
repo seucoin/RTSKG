@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_91373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91373> <http://www.w3.org/2000/01/rdf-schema#label> "WHITESTONE BRG" .
+<https://w3id.org/rtskg/new_york_city/instance/road_91373> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.835591 40.811247, -73.835497 40.811081, -73.835306 40.810785, -73.835007 40.810322, -73.834513 40.809544, -73.834417 40.809396, -73.833722 40.808326, -73.833517 40.808012, -73.833045 40.807288, -73.832622 40.806625, -73.832 40.805651, -73.831733 40.805236, -73.831608 40.805041)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91373> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_brg> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91373> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91373> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_208> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_50766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50766> <http://www.w3.org/2000/01/rdf-schema#label> "VERRAZZANO BRG" .
+<https://w3id.org/rtskg/new_york_city/instance/road_50766> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.054685 40.60329, -74.054556 40.603332, -74.05451 40.603347, -74.054425 40.603373, -74.054274 40.603425, -74.054059 40.603493)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50766> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_brg> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50766> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50766> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_6> .

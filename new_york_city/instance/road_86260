@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_86260> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86260> <http://www.w3.org/2000/01/rdf-schema#label> "EASTENTRY RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_86260> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.104362 40.589403, -74.104411 40.589339, -74.104468 40.589278, -74.104531 40.589221), (-74.104531 40.589221, -74.104602 40.58917, -74.104678 40.589123, -74.10476 40.589082))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86260> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86260> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86260> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_118> .

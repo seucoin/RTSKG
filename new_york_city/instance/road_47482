@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_47482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47482> <http://www.w3.org/2000/01/rdf-schema#label> "SPRING ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_47482> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.099158 40.603119, -74.099221 40.603107, -74.099282 40.60309, -74.09934 40.60307, -74.099396 40.603045), (-74.099396 40.603045, -74.099448 40.603017, -74.099497 40.602985, -74.099541 40.602949, -74.099582 40.602911))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47482> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47482> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47482> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_118> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_74584> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_74584> <http://www.w3.org/2000/01/rdf-schema#label> "HARLEM RIVER DRIVE EXIT 23 NB" .
+<https://w3id.org/rtskg/new_york_city/instance/road_74584> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.935166 40.830609, -73.93521 40.83066, -73.935259 40.830708, -73.935314 40.830752), (-73.935314 40.830752, -73.935374 40.830792, -73.935439 40.830828, -73.935508 40.830859), (-73.935508 40.830859, -73.935836 40.830998))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_74584> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_74584> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_42> .
 <https://w3id.org/rtskg/new_york_city/instance/road_74584> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_39> .

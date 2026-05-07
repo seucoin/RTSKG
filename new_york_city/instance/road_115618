@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_115618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115618> <http://www.w3.org/2000/01/rdf-schema#label> "PAYSON AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_115618> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.927004 40.86796, -73.926394 40.868399, -73.9262 40.868522, -73.923823 40.869027, -73.923725 40.868977, -73.923635 40.868917, -73.923555 40.868849, -73.923488 40.868774, -73.923435 40.868694)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115618> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115618> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115618> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_127> .

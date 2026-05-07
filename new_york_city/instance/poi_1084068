@@ -1,5 +1,4 @@
 <https://w3id.org/rtskg/new_york_city/instance/poi_1084068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/poi> .
 <https://w3id.org/rtskg/new_york_city/instance/poi_1084068> <http://www.w3.org/2000/01/rdf-schema#label> "Calvary Faith Tabernacle" .
-<https://w3id.org/rtskg/new_york_city/instance/poi_1084068> <https://w3id.org/rtskg/ontology/dataproperty/latitude> "40.6737806"^^<http://www.w3.org/2001/XMLSchema#double> .
-<https://w3id.org/rtskg/new_york_city/instance/poi_1084068> <https://w3id.org/rtskg/ontology/dataproperty/longitude> "-73.7253568"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://w3id.org/rtskg/new_york_city/instance/poi_1084068> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POINT(-73.725357 40.673781)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/poi_1084068> <https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category> <https://w3id.org/rtskg/new_york_city/instance/poi_category_place_of_worship> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_75677> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_75677> <http://www.w3.org/2000/01/rdf-schema#label> "HAZEN ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_75677> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.892349 40.775856, -73.892613 40.774273, -73.892641 40.774174, -73.892683 40.774077, -73.89274 40.773984, -73.89274 40.773984, -73.89274 40.773984, -73.89281 40.773896, -73.89281 40.773896, -73.89281 40.773896, -73.892891 40.773816)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_75677> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_75677> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_75677> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_223> .

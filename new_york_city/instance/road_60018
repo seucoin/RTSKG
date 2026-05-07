@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_60018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_60018> <http://www.w3.org/2000/01/rdf-schema#label> "MCGUINNESS BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_60018> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.953201 40.737498, -73.95323 40.73762, -73.953244 40.737743, -73.953243 40.737866), (-73.953243 40.737866, -73.953228 40.737989, -73.953198 40.73811, -73.953154 40.738229))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_60018> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_60018> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_60018> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_112> .

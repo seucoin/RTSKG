@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_45010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_45010> <http://www.w3.org/2000/01/rdf-schema#label> "LOCKWOOD" .
+<https://w3id.org/rtskg/chicago/instance/road_45010> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.75752 41.875722, -87.757514 41.875579, -87.757509 41.875468, -87.757506 41.875337, -87.757503 41.875271, -87.757501 41.875201, -87.757494 41.875028, -87.757487 41.874819)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_45010> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_45010> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_3> .
 <https://w3id.org/rtskg/chicago/instance/road_45010> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_25> .

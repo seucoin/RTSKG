@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_116298> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116298> <http://www.w3.org/2000/01/rdf-schema#label> "MOUNT LORETTO SR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_116298> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.216657 40.512606, -74.217012 40.512581, -74.21737 40.512572, -74.217727 40.512579, -74.218084 40.512601, -74.218437 40.512638, -74.21859 40.512641, -74.218742 40.512657, -74.218891 40.512688, -74.219032 40.512732)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116298> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116298> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_84> .

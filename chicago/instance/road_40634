@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_40634> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_40634> <http://www.w3.org/2000/01/rdf-schema#label> "HAYES" .
+<https://w3id.org/rtskg/chicago/instance/road_40634> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.577631 41.780361, -87.577247 41.780474, -87.576872 41.780556, -87.576642 41.780601, -87.576208 41.780663, -87.575793 41.780697, -87.575427 41.780708, -87.575044 41.780712, -87.574749 41.780718)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_40634> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_dr> .
 <https://w3id.org/rtskg/chicago/instance/road_40634> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_5> .
 <https://w3id.org/rtskg/chicago/instance/road_40634> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_42> .

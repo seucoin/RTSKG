@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_36695> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36695> <http://www.w3.org/2000/01/rdf-schema#label> "SOUTHERN BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_36695> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.876049 40.868226, -73.875738 40.868007, -73.875535 40.867689, -73.875432 40.867516, -73.875313 40.867316, -73.875172 40.867158, -73.875096 40.867088, -73.875003 40.86703, -73.874898 40.866985, -73.874855 40.866974, -73.874455 40.866864)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36695> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36695> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36695> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_31> .

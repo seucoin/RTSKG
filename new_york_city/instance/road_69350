@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_69350> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69350> <http://www.w3.org/2000/01/rdf-schema#label> "ROBERT F KENNEDY BRG" .
+<https://w3id.org/rtskg/new_york_city/instance/road_69350> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.923678 40.798623, -73.923463 40.79852, -73.923159 40.798377, -73.922952 40.798279, -73.922575 40.798101)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69350> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_brg> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69350> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69350> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_194> .

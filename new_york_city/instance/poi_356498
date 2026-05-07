@@ -1,6 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/poi_356498> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/poi> .
 <https://w3id.org/rtskg/new_york_city/instance/poi_356498> <http://www.w3.org/2000/01/rdf-schema#label> "Haym Salomon Home for Nursing & Rehabilitation" .
-<https://w3id.org/rtskg/new_york_city/instance/poi_356498> <https://w3id.org/rtskg/ontology/dataproperty/latitude> "40.5948586"^^<http://www.w3.org/2001/XMLSchema#double> .
-<https://w3id.org/rtskg/new_york_city/instance/poi_356498> <https://w3id.org/rtskg/ontology/dataproperty/longitude> "-73.9965897"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://w3id.org/rtskg/new_york_city/instance/poi_356498> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POINT(-73.99659 40.594859)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/poi_356498> <https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category> <https://w3id.org/rtskg/new_york_city/instance/poi_category_governments_and_organizations> .
 <https://w3id.org/rtskg/new_york_city/instance/poi_356498> <https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_block> <https://w3id.org/rtskg/new_york_city/instance/block_5535> .

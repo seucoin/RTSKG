@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_108017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108017> <http://www.w3.org/2000/01/rdf-schema#label> "AZALEA WAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_108017> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.877712 40.859142, -73.877728 40.859128, -73.877746 40.859115, -73.877765 40.859103, -73.877786 40.859092, -73.877808 40.859083), (-73.877808 40.859083, -73.877831 40.859075, -73.877855 40.859069, -73.877879 40.859065, -73.877904 40.859062, -73.877929 40.859061))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108017> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_way> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108017> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108017> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_31> .

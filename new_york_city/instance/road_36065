@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_36065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36065> <http://www.w3.org/2000/01/rdf-schema#label> "BRIGHTON BEACH AVENUE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_36065> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.958199 40.578286, -73.95816 40.578288, -73.95807 40.578293, -73.958069 40.578293, -73.958069 40.578293, -73.95794 40.57829, -73.957939 40.57829, -73.957939 40.57829, -73.957811 40.578277)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36065> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36065> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36065> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_29> .

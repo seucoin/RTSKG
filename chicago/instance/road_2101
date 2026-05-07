@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_2101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_2101> <http://www.w3.org/2000/01/rdf-schema#label> "BERWYN" .
+<https://w3id.org/rtskg/chicago/instance/road_2101> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.669664 41.978, -87.669888 41.977996, -87.670303 41.977989, -87.670684 41.977983, -87.671349 41.977973, -87.671546 41.97797, -87.671945 41.977963, -87.672123 41.977962)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_2101> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_2101> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_2> .
 <https://w3id.org/rtskg/chicago/instance/road_2101> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_77> .

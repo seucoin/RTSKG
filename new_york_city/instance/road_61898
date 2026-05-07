@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_61898> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61898> <http://www.w3.org/2000/01/rdf-schema#label> "S BRIDGE ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_61898> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.234783 40.524785, -74.234839 40.524866, -74.234913 40.524941, -74.235002 40.525007, -74.235104 40.525061, -74.235214 40.525102, -74.235328 40.52513, -74.239269 40.525036)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61898> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61898> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61898> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_44> .

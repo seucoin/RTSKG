@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_60308> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_60308> <http://www.w3.org/2000/01/rdf-schema#label> "PALMETTO ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_60308> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.918622 40.691817, -73.918547 40.691893, -73.918509 40.691931, -73.918385 40.692058, -73.918335 40.692109, -73.917776 40.692678, -73.91773 40.692725, -73.917457 40.693003, -73.917407 40.693053, -73.917011 40.693457)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_60308> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_60308> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_60308> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_37> .

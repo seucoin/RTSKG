@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_36425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36425> <http://www.w3.org/2000/01/rdf-schema#label> "HOME ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_36425> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.899799 40.827693, -73.899411 40.827742, -73.899327 40.827753, -73.898206 40.827897)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36425> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36425> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36425> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_167> .

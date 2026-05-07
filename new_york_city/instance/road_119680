@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_119680> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119680> <http://www.w3.org/2000/01/rdf-schema#label> "BCH 95 ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_119680> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.817771 40.586475, -73.818153 40.587039, -73.818263 40.587129, -73.818388 40.587208, -73.818525 40.587275, -73.818672 40.587328, -73.818824 40.587367, -73.818956 40.587379, -73.819091 40.587376, -73.819224 40.58736, -73.819351 40.587331)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119680> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119680> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119680> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_201> .

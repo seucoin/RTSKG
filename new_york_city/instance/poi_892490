@@ -1,6 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/poi_892490> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/poi> .
 <https://w3id.org/rtskg/new_york_city/instance/poi_892490> <http://www.w3.org/2000/01/rdf-schema#label> "Idlewild Park Salt Marsh Environmental Science Learning Center" .
-<https://w3id.org/rtskg/new_york_city/instance/poi_892490> <https://w3id.org/rtskg/ontology/dataproperty/latitude> "40.6576334"^^<http://www.w3.org/2001/XMLSchema#double> .
-<https://w3id.org/rtskg/new_york_city/instance/poi_892490> <https://w3id.org/rtskg/ontology/dataproperty/longitude> "-73.7603042"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://w3id.org/rtskg/new_york_city/instance/poi_892490> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POINT(-73.760304 40.657633)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/poi_892490> <https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category> <https://w3id.org/rtskg/new_york_city/instance/poi_category_transportation> .
 <https://w3id.org/rtskg/new_york_city/instance/poi_892490> <https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_block> <https://w3id.org/rtskg/new_york_city/instance/block_26390> .

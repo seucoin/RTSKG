@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_103984> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103984> <http://www.w3.org/2000/01/rdf-schema#label> "CROSS IS PKWY NB EN HEMPSTEAD WB" .
+<https://w3id.org/rtskg/new_york_city/instance/road_103984> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.728592 40.712541, -73.728407 40.712253, -73.728241 40.711957, -73.728094 40.711656), (-73.728094 40.711656, -73.728079 40.711622, -73.728064 40.711588, -73.728049 40.711554))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103984> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103984> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_191> .

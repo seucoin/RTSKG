@@ -1,7 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/poi_643608> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/poi> .
 <https://w3id.org/rtskg/new_york_city/instance/poi_643608> <http://www.w3.org/2000/01/rdf-schema#label> "Future Leaders Institute" .
-<https://w3id.org/rtskg/new_york_city/instance/poi_643608> <https://w3id.org/rtskg/ontology/dataproperty/latitude> "40.8061517"^^<http://www.w3.org/2001/XMLSchema#double> .
-<https://w3id.org/rtskg/new_york_city/instance/poi_643608> <https://w3id.org/rtskg/ontology/dataproperty/longitude> "-73.9484181"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://w3id.org/rtskg/new_york_city/instance/poi_643608> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POINT(-73.948418 40.806152)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/poi_643608> <https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category> <https://w3id.org/rtskg/new_york_city/instance/poi_category_culture_and_education> .
 <https://w3id.org/rtskg/new_york_city/instance/poi_643608> <https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_block> <https://w3id.org/rtskg/new_york_city/instance/block_22743> .
 <https://w3id.org/rtskg/new_york_city/instance/poi_643608> <https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_15> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_85817> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85817> <http://www.w3.org/2000/01/rdf-schema#label> "BURTON CT" .
+<https://w3id.org/rtskg/new_york_city/instance/road_85817> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.129387 40.581856, -74.129221 40.582009, -74.129046 40.582155, -74.12886 40.582294), (-74.12886 40.582294, -74.128665 40.582425, -74.128461 40.582548, -74.128249 40.582663))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85817> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ct> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85817> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85817> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_118> .

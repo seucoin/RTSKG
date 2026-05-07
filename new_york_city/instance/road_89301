@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_89301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89301> <http://www.w3.org/2000/01/rdf-schema#label> "HARRIS AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_89301> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.136015 40.605894, -74.135981 40.605602, -74.135966 40.605308, -74.135969 40.605014, -74.135992 40.604721, -74.136032 40.604429, -74.136092 40.604139)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89301> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89301> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89301> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_23> .

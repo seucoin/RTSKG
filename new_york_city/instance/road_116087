@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_116087> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116087> <http://www.w3.org/2000/01/rdf-schema#label> "JOHN FINLEY WALK" .
+<https://w3id.org/rtskg/new_york_city/instance/road_116087> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.950538 40.766703, -73.950516 40.766734, -73.950424 40.766866, -73.950216 40.7671, -73.949449 40.767958, -73.949358 40.767983, -73.949119 40.768308, -73.948727 40.768843, -73.948666 40.768889)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116087> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_walk> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116087> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116087> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_140> .

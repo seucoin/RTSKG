@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_56691> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_56691> <http://www.w3.org/2000/01/rdf-schema#label> "SHAKESPEARE AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_56691> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.923545 40.835776, -73.923501 40.835855, -73.923461 40.835934, -73.923425 40.836015), (-73.923425 40.836015, -73.923393 40.836096, -73.923364 40.836179, -73.92334 40.836262), (-73.92334 40.836262, -73.923312 40.837077))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_56691> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_56691> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_56691> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_119> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_66230> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66230> <http://www.w3.org/2000/01/rdf-schema#label> "SARATOGA AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_66230> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.917702 40.685509, -73.917658 40.68528, -73.917649 40.685236, -73.917639 40.685183, -73.917628 40.685126, -73.917559 40.684775)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66230> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66230> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66230> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_177> .

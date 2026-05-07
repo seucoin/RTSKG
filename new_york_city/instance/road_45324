@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_45324> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45324> <http://www.w3.org/2000/01/rdf-schema#label> "TRAVIS AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_45324> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.164392 40.593491, -74.165626 40.593627), (-74.165626 40.593627, -74.166002 40.593681, -74.166373 40.593751, -74.166738 40.593838), (-74.166738 40.593838, -74.167096 40.593941, -74.167446 40.59406, -74.167786 40.594194))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45324> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45324> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45324> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_23> .

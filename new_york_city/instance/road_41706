@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_41706> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_41706> <http://www.w3.org/2000/01/rdf-schema#label> "HUMBOLDT ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_41706> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.941031 40.704644, -73.94105 40.704747, -73.941062 40.704819, -73.941094 40.704994, -73.941111 40.705093, -73.941142 40.705265, -73.941158 40.705353, -73.941178 40.705463, -73.941194 40.705546, -73.941213 40.70565, -73.941233 40.705756, -73.941286 40.706048)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_41706> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_41706> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_41706> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_37> .

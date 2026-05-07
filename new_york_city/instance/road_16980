@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_16980> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_16980> <http://www.w3.org/2000/01/rdf-schema#label> "CARGO SERVICE RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_16980> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.802607 40.658428, -73.802501 40.658518, -73.802434 40.658597, -73.802382 40.658684, -73.802346 40.658776, -73.802326 40.658871, -73.802324 40.658965, -73.802282 40.659064)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_16980> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_16980> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_16980> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_132> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_71913> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_71913> <http://www.w3.org/2000/01/rdf-schema#label> "HUGH J GRANT CIR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_71913> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.860851 40.833622, -73.860753 40.833604, -73.860658 40.833573, -73.860569 40.833529, -73.860492 40.833475, -73.860428 40.833412, -73.860381 40.833344)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_71913> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_cir> .
 <https://w3id.org/rtskg/new_york_city/instance/road_71913> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_71913> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_182> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_106148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106148> <http://www.w3.org/2000/01/rdf-schema#label> "MARINE TERMINAL RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_106148> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.885614 40.769406, -73.885226 40.769886), (-73.885226 40.769886, -73.885215 40.76992, -73.885208 40.769954, -73.885204 40.769989), (-73.885204 40.769989, -73.885204 40.770023, -73.885208 40.770058, -73.885215 40.770092), (-73.885215 40.770092, -73.885283 40.770447))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106148> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106148> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106148> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_138> .

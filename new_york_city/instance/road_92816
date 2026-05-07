@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_92816> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_92816> <http://www.w3.org/2000/01/rdf-schema#label> "MACGREGOR ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_92816> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.198361 40.523976, -74.19865 40.523914, -74.198933 40.52384, -74.199211 40.523752, -74.199482 40.523653, -74.199743 40.523542)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_92816> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_92816> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_92816> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_84> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_109281> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109281> <http://www.w3.org/2000/01/rdf-schema#label> "FOREST PARK DR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_109281> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.857075 40.699548, -73.856992 40.699677), (-73.856992 40.699677, -73.856946 40.699742, -73.856895 40.699804, -73.856838 40.699863))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109281> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109281> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_109281> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_96> .

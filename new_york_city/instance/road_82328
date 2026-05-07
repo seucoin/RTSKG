@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_82328> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_82328> <http://www.w3.org/2000/01/rdf-schema#label> "BRONX RIVER PARKWAY ET 8 E NB" .
+<https://w3id.org/rtskg/new_york_city/instance/road_82328> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.87168 40.863072, -73.87161 40.86361, -73.871545 40.863968, -73.871483 40.864183, -73.871395 40.864413, -73.871336 40.864506, -73.87096 40.864989, -73.870721 40.865325)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_82328> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_82328> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_31> .
 <https://w3id.org/rtskg/new_york_city/instance/road_82328> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_225> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_47990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47990> <http://www.w3.org/2000/01/rdf-schema#label> "E 205 ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_47990> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.884149 40.874975, -73.884041 40.875004, -73.883937 40.875041, -73.883837 40.875084, -73.883743 40.875134), (-73.883743 40.875134, -73.883656 40.875191, -73.883575 40.875253, -73.883502 40.87532, -73.883438 40.875393))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47990> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47990> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47990> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_18> .

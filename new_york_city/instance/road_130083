@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_130083> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130083> <http://www.w3.org/2000/01/rdf-schema#label> "THROGS NECK EXPY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_130083> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.820874 40.831818, -73.820804 40.831735, -73.819981 40.830765, -73.819299 40.829972, -73.819276 40.829944, -73.819169 40.829818, -73.818863 40.82948, -73.818332 40.828829)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130083> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_expy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130083> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130083> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_208> .

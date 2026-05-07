@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_54743> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_54743> <http://www.w3.org/2000/01/rdf-schema#label> "DEARBORN" .
+<https://w3id.org/rtskg/chicago/instance/road_54743> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.629676 41.892448, -87.62968 41.892553, -87.629688 41.892843, -87.629689 41.89287, -87.629694 41.893152, -87.629696 41.893249)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_54743> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_st> .
 <https://w3id.org/rtskg/chicago/instance/road_54743> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_6> .
 <https://w3id.org/rtskg/chicago/instance/road_54743> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_8> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_100394> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100394> <http://www.w3.org/2000/01/rdf-schema#label> "USS NORTH CAROLINA RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_100394> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.060221 40.595325, -74.060303 40.595326, -74.060385 40.595332, -74.060465 40.595344, -74.060545 40.595361), (-74.060545 40.595361, -74.060622 40.595383, -74.060696 40.59541, -74.060767 40.595442, -74.060834 40.595478))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100394> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100394> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100394> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_6> .

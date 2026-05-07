@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_100851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100851> <http://www.w3.org/2000/01/rdf-schema#label> "LITTLE BAY PARK GREENWAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_100851> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.792434 40.788636, -73.792377 40.788655, -73.792322 40.788678, -73.792269 40.788703), (-73.792269 40.788703, -73.791641 40.78907))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100851> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100851> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_252> .

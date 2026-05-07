@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_130527> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130527> <http://www.w3.org/2000/01/rdf-schema#label> "MARGARET CORBIN DR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_130527> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.93274 40.86295, -73.93271 40.863034), (-73.93271 40.863034, -73.932673 40.863091, -73.932633 40.863148, -73.932592 40.863204), (-73.932592 40.863204, -73.932549 40.863258, -73.932504 40.863313, -73.932458 40.863366))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130527> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130527> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130527> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_243> .

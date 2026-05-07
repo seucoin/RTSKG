@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_93459> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93459> <http://www.w3.org/2000/01/rdf-schema#label> "HAMMOCK LN" .
+<https://w3id.org/rtskg/new_york_city/instance/road_93459> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.198949 40.54941, -74.198837 40.549132, -74.198719 40.548857, -74.198595 40.548583), (-74.198595 40.548583, -74.198465 40.54831, -74.198329 40.548039, -74.198187 40.54777))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93459> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ln> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93459> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93459> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_5> .

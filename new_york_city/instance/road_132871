@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_132871> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132871> <http://www.w3.org/2000/01/rdf-schema#label> "PLAINVIEW AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_132871> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.754263 40.597325, -73.754415 40.597315, -73.754567 40.597316, -73.754719 40.597328, -73.754868 40.59735, -73.755014 40.597383), (-73.755014 40.597383, -73.755155 40.597426, -73.755291 40.59748, -73.755419 40.597542, -73.755539 40.597613, -73.75565 40.597693))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132871> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132871> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132871> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_86> .

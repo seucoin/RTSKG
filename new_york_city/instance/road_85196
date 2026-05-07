@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_85196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85196> <http://www.w3.org/2000/01/rdf-schema#label> "WETMORE RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_85196> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.092612 40.611468, -74.091698 40.611514, -74.091614 40.611524, -74.091531 40.611545, -74.091454 40.611576, -74.091385 40.611616, -74.091326 40.611663, -74.090984 40.612074)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85196> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85196> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85196> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_115> .

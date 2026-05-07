@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_580> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_580> <http://www.w3.org/2000/01/rdf-schema#label> "WILSON" .
+<https://w3id.org/rtskg/chicago/instance/road_580> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.658859 41.965382, -87.658938 41.965381, -87.659168 41.965379, -87.659523 41.96537, -87.659627 41.965367)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_580> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_580> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_2> .
 <https://w3id.org/rtskg/chicago/instance/road_580> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_3> .

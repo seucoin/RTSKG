@@ -1,7 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/poi_4090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/poi> .
 <https://w3id.org/rtskg/chicago/instance/poi_4090> <http://www.w3.org/2000/01/rdf-schema#label> "Hotel Chicago Downtown, Autograph Collection" .
-<https://w3id.org/rtskg/chicago/instance/poi_4090> <https://w3id.org/rtskg/ontology/dataproperty/latitude> "41.8885628"^^<http://www.w3.org/2001/XMLSchema#double> .
-<https://w3id.org/rtskg/chicago/instance/poi_4090> <https://w3id.org/rtskg/ontology/dataproperty/longitude> "-87.6288377"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://w3id.org/rtskg/chicago/instance/poi_4090> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POINT(-87.628838 41.888563)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/poi_4090> <https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category> <https://w3id.org/rtskg/chicago/instance/poi_category_residential_area> .
 <https://w3id.org/rtskg/chicago/instance/poi_4090> <https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_block> <https://w3id.org/rtskg/chicago/instance/block_14029> .
 <https://w3id.org/rtskg/chicago/instance/poi_4090> <https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_station_area> <https://w3id.org/rtskg/chicago/instance/station_area_129> .

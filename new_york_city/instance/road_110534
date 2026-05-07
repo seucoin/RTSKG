@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_110534> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110534> <http://www.w3.org/2000/01/rdf-schema#label> "FOREST HILL RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_110534> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.145836 40.588571, -74.145928 40.587945, -74.146038 40.587333, -74.14604 40.58732, -74.146172 40.586697, -74.146323 40.586078, -74.146628 40.585802, -74.146947 40.585535, -74.147279 40.585276, -74.147622 40.585028)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110534> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110534> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110534> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_118> .

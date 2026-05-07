@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_117064> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117064> <http://www.w3.org/2000/01/rdf-schema#label> "DUNTON AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_117064> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.770188 40.719472, -73.770163 40.719403, -73.770118 40.719336, -73.770056 40.719277, -73.769978 40.719229, -73.76989 40.719195, -73.7698 40.719176, -73.769132 40.719298)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117064> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117064> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117064> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_131> .

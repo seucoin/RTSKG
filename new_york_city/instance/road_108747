@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_108747> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108747> <http://www.w3.org/2000/01/rdf-schema#label> "EASTGATE PLZ" .
+<https://w3id.org/rtskg/new_york_city/instance/road_108747> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.75692 40.676537, -73.756875 40.676426, -73.756811 40.676318, -73.756729 40.676217, -73.756631 40.676125, -73.75649 40.676031)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108747> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_plz> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108747> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108747> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_205> .

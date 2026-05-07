@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_47151> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47151> <http://www.w3.org/2000/01/rdf-schema#label> "SOUTH AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_47151> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.190984 40.602233, -74.191977 40.601958), (-74.191977 40.601958, -74.19227 40.601871, -74.192562 40.60178, -74.192852 40.601685), (-74.192852 40.601685, -74.193361 40.601509, -74.193863 40.601322, -74.194358 40.601123))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47151> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47151> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_47151> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_23> .

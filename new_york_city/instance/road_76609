@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_76609> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_76609> <http://www.w3.org/2000/01/rdf-schema#label> "MARTLING AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_76609> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.118567 40.622409, -74.118595 40.622376, -74.118737 40.622239, -74.118897 40.622114, -74.119074 40.622, -74.119264 40.621902, -74.119464 40.621819, -74.119554 40.62179)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_76609> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_76609> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_76609> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_251> .

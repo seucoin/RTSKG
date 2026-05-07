@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_79056> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79056> <http://www.w3.org/2000/01/rdf-schema#label> "EDGEHILL AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_79056> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.913879 40.879536, -73.913794 40.879661, -73.913726 40.879793, -73.913678 40.879931, -73.913649 40.880073, -73.913642 40.880215, -73.913654 40.880355)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79056> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79056> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79056> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_220> .

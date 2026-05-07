@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_2023> <http://www.w3.org/2000/01/rdf-schema#label> "EISENHOWER CENTRAL AV" .
+<https://w3id.org/rtskg/chicago/instance/road_2023> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.767271 41.870513, -87.76753 41.870517, -87.767692 41.870525, -87.767848 41.870531, -87.767881 41.870532, -87.767931 41.870533, -87.767981 41.870548, -87.768065 41.870574, -87.768085 41.870593)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_2023> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_xr> .
 <https://w3id.org/rtskg/chicago/instance/road_2023> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_3> .
 <https://w3id.org/rtskg/chicago/instance/road_2023> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_25> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_49833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_49833> <http://www.w3.org/2000/01/rdf-schema#label> "ASTOR AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_49833> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.863706 40.859635, -73.863401 40.859638, -73.863332 40.859639, -73.863193 40.859641, -73.863118 40.859642, -73.862974 40.859643, -73.862899 40.859644, -73.862766 40.859646)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_49833> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_49833> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_49833> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_32> .

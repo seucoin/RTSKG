@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_70780> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70780> <http://www.w3.org/2000/01/rdf-schema#label> "JEROME AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_70780> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.880556 40.896714, -73.880806 40.897177, -73.880902 40.897413, -73.880939 40.897505, -73.88101 40.897811, -73.881002 40.898108, -73.88091 40.898352, -73.88083 40.898497, -73.880689 40.89868, -73.880414 40.898905, -73.879884 40.899315, -73.879656 40.899513, -73.879485 40.899764, -73.87932 40.900077)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70780> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70780> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70780> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_240> .

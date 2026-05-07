@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_89942> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89942> <http://www.w3.org/2000/01/rdf-schema#label> "PROSPECT EXPWY EB EN OCEAN PKWY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_89942> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.974453 40.650249, -73.974579 40.65017, -73.974735 40.650086, -73.974891 40.649999, -73.975056 40.649881, -73.975185 40.649761, -73.97527 40.649648, -73.975347 40.649541)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89942> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89942> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_257> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89942> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_361> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_83308> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83308> <http://www.w3.org/2000/01/rdf-schema#label> "JARVIS AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_83308> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.740247 40.598683, -73.740543 40.598552, -73.740851 40.598437, -73.741168 40.598339), (-73.741168 40.598339, -73.741494 40.598258, -73.741827 40.598195, -73.742164 40.598151))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83308> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83308> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83308> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_86> .

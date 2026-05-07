@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_105794> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105794> <http://www.w3.org/2000/01/rdf-schema#label> "MURPHY HOUSES PEDESTRIAN PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_105794> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.893897 40.84307, -73.89411 40.84297, -73.894289 40.842909)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105794> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105794> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105794> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_78> .

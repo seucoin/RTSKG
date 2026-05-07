@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_121745> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121745> <http://www.w3.org/2000/01/rdf-schema#label> "GOODHUE CENTER DVWY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_121745> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.098175 40.638004, -74.098103 40.638026, -74.098029 40.638044, -74.097954 40.638058, -74.097877 40.638067, -74.0978 40.638071), (-74.0978 40.638071, -74.097722 40.63807, -74.097645 40.638065, -74.097568 40.638055, -74.097493 40.63804, -74.09742 40.638021))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121745> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121745> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121745> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_245> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_74009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_74009> <http://www.w3.org/2000/01/rdf-schema#label> "MEADOW DR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_74009> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.838278 40.741573, -73.838286 40.741622, -73.838313 40.741672, -73.838361 40.741716, -73.838422 40.741747, -73.83849 40.741762, -73.838556 40.741763)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_74009> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_74009> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_74009> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_93> .

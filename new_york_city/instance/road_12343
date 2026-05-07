@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_12343> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12343> <http://www.w3.org/2000/01/rdf-schema#label> "GOODWOOD RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_12343> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.839926 40.713445, -73.839809 40.713566, -73.839678 40.71368, -73.839534 40.713784, -73.839379 40.713878, -73.839214 40.713961)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12343> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12343> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12343> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_95> .

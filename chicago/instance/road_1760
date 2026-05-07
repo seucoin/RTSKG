@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_1760> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_1760> <http://www.w3.org/2000/01/rdf-schema#label> "TALMAN" .
+<https://w3id.org/rtskg/chicago/instance/road_1760> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.690243 41.797403, -87.690241 41.797298, -87.690218 41.796443, -87.690199 41.795712, -87.690195 41.795582)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_1760> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_1760> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_4> .
 <https://w3id.org/rtskg/chicago/instance/road_1760> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_63> .

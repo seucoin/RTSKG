@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_121968> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121968> <http://www.w3.org/2000/01/rdf-schema#label> "DODGEWOOD RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_121968> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.910022 40.893554, -73.91009 40.89364, -73.910177 40.89372, -73.91028 40.893789, -73.910395 40.893845, -73.91052 40.893886, -73.910648 40.893912, -73.911522 40.893898)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121968> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121968> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121968> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_200> .

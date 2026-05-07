@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_980> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_980> <http://www.w3.org/2000/01/rdf-schema#label> "PRINCE ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_980> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.003123 40.726885, -74.003174 40.726904, -74.003227 40.726921, -74.00328 40.726936), (-74.00328 40.726936, -74.003335 40.726949, -74.00339 40.726959, -74.003446 40.726967))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_980> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_980> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_980> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_125> .

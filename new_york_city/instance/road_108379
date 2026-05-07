@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_108379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108379> <http://www.w3.org/2000/01/rdf-schema#label> "CONNER ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_108379> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.824852 40.883242, -73.824911 40.883366, -73.825155 40.88349, -73.825223 40.883529, -73.825283 40.883574, -73.825312 40.883596, -73.82534 40.883619, -73.82541 40.883677, -73.825447 40.883708, -73.825484 40.883739, -73.825651 40.883879)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108379> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108379> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108379> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_51> .

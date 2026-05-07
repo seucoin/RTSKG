@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_116935> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116935> <http://www.w3.org/2000/01/rdf-schema#label> "GOETHALS RD N" .
+<https://w3id.org/rtskg/new_york_city/instance/road_116935> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.171037 40.622636, -74.171985 40.623047, -74.172925 40.623469, -74.173856 40.623902), (-74.173856 40.623902, -74.174778 40.624347, -74.175691 40.624802, -74.176595 40.625268))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116935> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116935> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116935> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_156> .

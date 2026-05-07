@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_23625> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_23625> <http://www.w3.org/2000/01/rdf-schema#label> "MCCORMICK PL BUSWAY" .
+<https://w3id.org/rtskg/chicago/instance/road_23625> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.617931 41.85595, -87.61802 41.855839, -87.618169 41.855613, -87.61821 41.855462, -87.618229 41.855324, -87.618201 41.855172, -87.617656 41.85394, -87.617395 41.853255, -87.616825 41.851833)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_23625> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_6> .
 <https://w3id.org/rtskg/chicago/instance/road_23625> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_33> .
 <https://w3id.org/rtskg/chicago/instance/road_23625> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/chicago/instance/station_area_71> .

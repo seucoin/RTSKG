@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_133367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133367> <http://www.w3.org/2000/01/rdf-schema#label> "147 AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_133367> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.793333 40.66359, -73.793109 40.663591, -73.792885 40.663584, -73.792662 40.663567), (-73.792662 40.663567, -73.79244 40.663542, -73.792221 40.663507, -73.792004 40.663463))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133367> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133367> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133367> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_132> .

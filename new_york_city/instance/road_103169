@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_103169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103169> <http://www.w3.org/2000/01/rdf-schema#label> "FREDERICK DOUGLASS BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_103169> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.93595 40.831042, -73.935783 40.831283, -73.935517 40.831709, -73.935498 40.831751)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103169> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103169> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103169> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_42> .

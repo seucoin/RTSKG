@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_53067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53067> <http://www.w3.org/2000/01/rdf-schema#label> "QUINCY AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_53067> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.07186 40.589768, -74.072138 40.589428, -74.072206 40.589349, -74.072287 40.589275, -74.072379 40.589208, -74.07248 40.589151, -74.072588 40.589103)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53067> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53067> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53067> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_214> .

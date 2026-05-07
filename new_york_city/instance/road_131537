@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_131537> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_131537> <http://www.w3.org/2000/01/rdf-schema#label> "GRAND CENTRAL PARKWAY ET 13 WB" .
+<https://w3id.org/rtskg/new_york_city/instance/road_131537> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.829 40.714933, -73.828755 40.715067, -73.828527 40.715217, -73.828318 40.715382), (-73.828318 40.715382, -73.827509 40.716109))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_131537> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_131537> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_93> .
 <https://w3id.org/rtskg/new_york_city/instance/road_131537> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_191> .

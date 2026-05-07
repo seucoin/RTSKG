@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_57778> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_57778> <http://www.w3.org/2000/01/rdf-schema#label> "SHEPARD AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_57778> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.801273 40.808972, -73.800903 40.808803, -73.800544 40.80862, -73.800197 40.808423, -73.799863 40.808213, -73.799544 40.80799, -73.799242 40.807755, -73.798956 40.80751, -73.798128 40.806983)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_57778> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_57778> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_57778> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_208> .

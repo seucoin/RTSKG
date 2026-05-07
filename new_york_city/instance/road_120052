@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_120052> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120052> <http://www.w3.org/2000/01/rdf-schema#label> "BROOKLYN QUEENS EXPY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_120052> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.986785 40.701128, -73.986669 40.701099), (-73.986669 40.701099, -73.986488 40.701051, -73.98631 40.700996, -73.986136 40.700933), (-73.986136 40.700933, -73.985968 40.700863, -73.985804 40.700787, -73.985646 40.700703), (-73.985646 40.700703, -73.985572 40.700666, -73.985448 40.700601))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120052> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_expy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120052> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120052> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_66> .

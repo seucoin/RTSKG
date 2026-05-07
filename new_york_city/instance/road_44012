@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_44012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_44012> <http://www.w3.org/2000/01/rdf-schema#label> "BRAGG ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_44012> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.93537 40.59655, -73.935249 40.595942, -73.935233 40.595863, -73.935172 40.595556, -73.935154 40.595466, -73.935066 40.595022, -73.935047 40.594928)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_44012> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_44012> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_44012> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_210> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_48453> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_48453> <http://www.w3.org/2000/01/rdf-schema#label> "LORRAINE ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_48453> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.009613 40.675129, -74.009348 40.67506, -74.009243 40.675033, -74.009143 40.675007, -74.009063 40.674986, -74.007712 40.674634)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_48453> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_48453> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_48453> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_195> .

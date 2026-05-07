@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_50062> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_50062> <http://www.w3.org/2000/01/rdf-schema#label> "FAIRFIELD" .
+<https://w3id.org/rtskg/chicago/instance/road_50062> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.69263 41.795538, -87.692627 41.795381, -87.692609 41.794797, -87.692591 41.794169, -87.692585 41.793956, -87.692581 41.793714)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_50062> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_50062> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_4> .
 <https://w3id.org/rtskg/chicago/instance/road_50062> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_63> .

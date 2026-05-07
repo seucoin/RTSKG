@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_79138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79138> <http://www.w3.org/2000/01/rdf-schema#label> "BALCOM AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_79138> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.82537 40.82022, -73.825927 40.820884, -73.825981 40.820949, -73.826112 40.821105, -73.826174 40.821178, -73.826313 40.821344, -73.826349 40.821388, -73.826527 40.8216, -73.826572 40.821653, -73.826718 40.821827)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79138> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79138> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_79138> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_208> .

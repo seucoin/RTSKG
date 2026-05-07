@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_105664> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105664> <http://www.w3.org/2000/01/rdf-schema#label> "MITCHEL HOUSES PEDESTRIAN PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_105664> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.92657 40.80983, -73.926967 40.810002, -73.927019 40.809934, -73.927235 40.810017, -73.927274 40.809958, -73.927682 40.810125, -73.927817 40.810059)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105664> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105664> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105664> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_168> .

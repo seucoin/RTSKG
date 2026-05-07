@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/station_area_568> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/station_area> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_568> <http://www.w3.org/2000/01/rdf-schema#label> "Morris Park_5" .
+<https://w3id.org/rtskg/new_york_city/instance/station_area_568> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POLYGON ((-73.860121 40.851627, -73.861121 40.852287, -73.862934 40.854409, -73.861923 40.856791, -73.861708 40.856936, -73.859995 40.856982, -73.857167 40.856912, -73.857069 40.856853, -73.856489 40.856362, -73.85624 40.855037, -73.856895 40.85308, -73.860121 40.851627))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_568> <https://w3id.org/rtskg/ontology/dataproperty/walking_time_minutes> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_568> <https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station> <https://w3id.org/rtskg/new_york_city/instance/station_285> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_568> <https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block> <https://w3id.org/rtskg/new_york_city/instance/block_45251> .

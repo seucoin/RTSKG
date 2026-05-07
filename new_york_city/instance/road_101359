@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_101359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101359> <http://www.w3.org/2000/01/rdf-schema#label> "HUTCHINSON RVR PKWY ET 1C SB" .
+<https://w3id.org/rtskg/new_york_city/instance/road_101359> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.833941 40.855985, -73.833816 40.856005, -73.833689 40.856018, -73.833561 40.856022, -73.833434 40.856017), (-73.833434 40.856017, -73.833332 40.856021, -73.833231 40.856029, -73.833131 40.856039))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101359> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101359> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_242> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101359> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_623> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_114292> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_114292> <http://www.w3.org/2000/01/rdf-schema#label> "65 ST TRANSVERSE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_114292> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.970283 40.768033, -73.970978 40.768362, -73.971132 40.768448), (-73.971132 40.768448, -73.971301 40.768522, -73.971473 40.768592, -73.971647 40.768658), (-73.971647 40.768658, -73.971824 40.768721, -73.972004 40.768779, -73.972185 40.768834))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_114292> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_114292> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_43> .
 <https://w3id.org/rtskg/new_york_city/instance/road_114292> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_151> .

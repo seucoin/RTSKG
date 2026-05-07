@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_68676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68676> <http://www.w3.org/2000/01/rdf-schema#label> "FULTON ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_68676> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.901193 40.677203, -73.901126 40.677161, -73.901064 40.677114, -73.901008 40.677064), (-73.901008 40.677064, -73.900958 40.67701, -73.900914 40.676953, -73.900877 40.676893))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68676> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68676> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68676> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_177> .

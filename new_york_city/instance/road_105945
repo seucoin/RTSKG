@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_105945> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105945> <http://www.w3.org/2000/01/rdf-schema#label> "POPHAM AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_105945> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.922641 40.847185, -73.922609 40.847202, -73.922576 40.847217, -73.922542 40.847231), (-73.922542 40.847231, -73.922497 40.847251, -73.922454 40.847274, -73.922414 40.847299, -73.922377 40.847326, -73.922343 40.847356, -73.922312 40.847388))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105945> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105945> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105945> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_235> .

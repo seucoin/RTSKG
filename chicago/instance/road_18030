@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_18030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_18030> <http://www.w3.org/2000/01/rdf-schema#label> "BISHOP FORD" .
+<https://w3id.org/rtskg/chicago/instance/road_18030> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.579638 41.649144, -87.579182 41.648161, -87.578878 41.64738, -87.578834 41.647248, -87.578764 41.64701, -87.578677 41.646699, -87.578616 41.646448, -87.578575 41.646254, -87.578519 41.645946)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_18030> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_expy> .
 <https://w3id.org/rtskg/chicago/instance/road_18030> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_1> .
 <https://w3id.org/rtskg/chicago/instance/road_18030> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_54> .

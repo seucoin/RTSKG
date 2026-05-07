@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_64618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64618> <http://www.w3.org/2000/01/rdf-schema#label> "THOMAS S BOYLAND ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_64618> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.914172 40.671465, -73.914193 40.67137, -73.914196 40.671273, -73.914182 40.671175, -73.91415 40.671079, -73.914102 40.670988, -73.91404 40.670905)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64618> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64618> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64618> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_177> .

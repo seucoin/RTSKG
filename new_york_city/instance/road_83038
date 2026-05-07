@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_83038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83038> <http://www.w3.org/2000/01/rdf-schema#label> "ETON ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_83038> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.778246 40.716348, -73.778062 40.716231, -73.777889 40.716103, -73.77773 40.715963, -73.777588 40.715813, -73.777462 40.715655, -73.777355 40.71549, -73.777266 40.71532)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83038> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83038> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83038> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_131> .

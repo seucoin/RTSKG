@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_99652> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99652> <http://www.w3.org/2000/01/rdf-schema#label> "COLUMBUS AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_99652> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.965173 40.796095, -73.965108 40.796184, -73.965051 40.796263, -73.964972 40.796372, -73.964919 40.796446, -73.964867 40.796516, -73.96479 40.796623, -73.964718 40.796723, -73.964665 40.796795)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99652> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99652> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99652> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_151> .

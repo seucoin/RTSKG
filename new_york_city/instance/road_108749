@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_108749> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108749> <http://www.w3.org/2000/01/rdf-schema#label> "SNUG HARBOR RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_108749> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.104912 40.644786, -74.104979 40.644652, -74.105004 40.64459, -74.105047 40.64453, -74.105106 40.644476, -74.105177 40.644433, -74.105257 40.644402, -74.105339 40.644383, -74.106548 40.64425)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108749> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108749> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108749> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_206> .

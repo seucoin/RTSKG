@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_121850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121850> <http://www.w3.org/2000/01/rdf-schema#label> "WESTENTRY RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_121850> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.105266 40.588011, -74.105252 40.587979, -74.105241 40.587947, -74.105234 40.587914, -74.105231 40.587881), (-74.105231 40.587881, -74.105232 40.587848, -74.105236 40.587815, -74.105244 40.587782, -74.105256 40.58775))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121850> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121850> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121850> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_118> .

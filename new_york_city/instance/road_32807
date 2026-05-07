@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_32807> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_32807> <http://www.w3.org/2000/01/rdf-schema#label> "MONROE AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_32807> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.906484 40.846741, -73.906484 40.846884, -73.906474 40.847027, -73.906453 40.84717), (-73.906453 40.84717, -73.90642 40.847311, -73.906377 40.847451, -73.906324 40.847588))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_32807> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_32807> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_32807> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_169> .

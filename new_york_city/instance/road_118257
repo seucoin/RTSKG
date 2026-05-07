@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_118257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118257> <http://www.w3.org/2000/01/rdf-schema#label> "FRANCIS LEWIS BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_118257> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.78522 40.761437, -73.785152 40.761226, -73.785076 40.761016, -73.784991 40.760808), (-73.784991 40.760808, -73.784897 40.760602, -73.784796 40.760399, -73.784686 40.760198), (-73.784686 40.760198, -73.784544 40.75987))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118257> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118257> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118257> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_9> .

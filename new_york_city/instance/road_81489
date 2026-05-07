@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_81489> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_81489> <http://www.w3.org/2000/01/rdf-schema#label> "FOOTHILL AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_81489> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.76496 40.719398, -73.763369 40.720312), (-73.763369 40.720312, -73.76332 40.720328, -73.763269 40.720341, -73.763218 40.72035, -73.763165 40.720356, -73.763112 40.720359), (-73.763112 40.720359, -73.763058 40.720358, -73.763006 40.720353, -73.762953 40.720345, -73.762902 40.720333, -73.762853 40.720318))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_81489> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_81489> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_81489> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_131> .

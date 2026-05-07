@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_133447> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133447> <http://www.w3.org/2000/01/rdf-schema#label> "VITAL AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_133447> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.867636 40.654526, -73.867443 40.654532, -73.867252 40.654548, -73.867063 40.654575), (-73.867063 40.654575, -73.866877 40.654614, -73.866696 40.654662, -73.86652 40.654721))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133447> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133447> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133447> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_76> .

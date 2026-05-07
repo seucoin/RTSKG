@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_116252> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116252> <http://www.w3.org/2000/01/rdf-schema#label> "DISCOVERY HILL PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_116252> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.024608 40.686153, -74.024649 40.686108, -74.024694 40.686065, -74.024744 40.686026, -74.024797 40.685989, -74.024855 40.685956), (-74.024855 40.685956, -74.024915 40.685926, -74.024979 40.6859, -74.025044 40.685878, -74.025112 40.685859, -74.025182 40.685845))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116252> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116252> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116252> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_105> .

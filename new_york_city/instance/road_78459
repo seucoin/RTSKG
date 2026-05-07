@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_78459> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78459> <http://www.w3.org/2000/01/rdf-schema#label> "HANNAH ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_78459> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.073531 40.636634, -74.073533 40.63658, -74.073553 40.636523, -74.073591 40.63647, -74.073646 40.636424, -74.073714 40.636391, -74.073787 40.636373, -74.073857 40.636367)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78459> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78459> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_78459> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_221> .

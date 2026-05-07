@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_119968> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119968> <http://www.w3.org/2000/01/rdf-schema#label> "FERRY TERMINAL DR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_119968> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.073707 40.642642, -74.073733 40.642612, -74.073762 40.642584, -74.073795 40.642559, -74.073831 40.642535), (-74.073831 40.642535, -74.073869 40.642514, -74.07391 40.642496, -74.073952 40.642481, -74.073997 40.642469))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119968> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119968> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119968> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_206> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_70636> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70636> <http://www.w3.org/2000/01/rdf-schema#label> "UNNAMED ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_70636> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.871974 40.787082, -73.872799 40.786356, -73.873113 40.786204, -73.873637 40.786077, -73.874324 40.78609, -73.876186 40.786126, -73.876925 40.786037, -73.878152 40.785712, -73.878477 40.785679, -73.878894 40.785699, -73.880004 40.785849, -73.880067 40.785858)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70636> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70636> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_70636> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_199> .

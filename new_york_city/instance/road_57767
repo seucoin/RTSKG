@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_57767> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_57767> <http://www.w3.org/2000/01/rdf-schema#label> "CHANNEL VIEW RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_57767> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.770747 40.849574, -73.770722 40.849648, -73.770714 40.849726, -73.770724 40.849803, -73.770751 40.849877, -73.771016 40.850314)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_57767> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_57767> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_57767> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_46> .

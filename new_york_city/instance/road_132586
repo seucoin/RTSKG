@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_132586> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132586> <http://www.w3.org/2000/01/rdf-schema#label> "WESTCHESTER AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_132586> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.842614 40.840175, -73.84258 40.840207, -73.842402 40.840357)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132586> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132586> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132586> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_242> .

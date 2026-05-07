@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_111431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111431> <http://www.w3.org/2000/01/rdf-schema#label> "SHEPARD AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_111431> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.796891 40.806842, -73.796759 40.806837, -73.796167 40.806589, -73.795616 40.806369), (-73.795616 40.806369, -73.795573 40.806344, -73.795533 40.806317, -73.795497 40.806287, -73.795464 40.806255, -73.795435 40.80622), (-73.795435 40.80622, -73.795255 40.805987, -73.795048 40.80583))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111431> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111431> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111431> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_208> .

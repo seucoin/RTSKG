@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_12463> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12463> <http://www.w3.org/2000/01/rdf-schema#label> "UNDERWOOD RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_12463> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.836838 40.714202, -73.837172 40.713985), (-73.837172 40.713985, -73.83729 40.713915, -73.837399 40.713837, -73.837498 40.713751), (-73.837498 40.713751, -73.837585 40.713659, -73.837661 40.713561, -73.837724 40.713458))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12463> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12463> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12463> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_95> .

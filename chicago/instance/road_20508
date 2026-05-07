@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_20508> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_20508> <http://www.w3.org/2000/01/rdf-schema#label> "BRYN MAWR" .
+<https://w3id.org/rtskg/chicago/instance/road_20508> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.816854 41.981542, -87.817071 41.981535, -87.817235 41.981528, -87.817333 41.981524, -87.817376 41.981523, -87.817478 41.981519, -87.81761 41.981516, -87.817823 41.981512, -87.818082 41.981505)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_20508> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_20508> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_3> .
 <https://w3id.org/rtskg/chicago/instance/road_20508> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_10> .

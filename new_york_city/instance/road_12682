@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_12682> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12682> <http://www.w3.org/2000/01/rdf-schema#label> "BAY 32 ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_12682> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.767085 40.60001, -73.767194 40.600049, -73.767298 40.600094, -73.767398 40.600145, -73.767492 40.600202), (-73.767492 40.600202, -73.76758 40.600264, -73.767662 40.600331, -73.767737 40.600402, -73.767804 40.600478))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12682> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12682> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12682> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_86> .

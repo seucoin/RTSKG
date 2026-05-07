@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_105501> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105501> <http://www.w3.org/2000/01/rdf-schema#label> "TOMPKINS HOUSES PEDESTRIAN PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_105501> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.945503 40.696608, -73.945526 40.696565, -73.945484 40.696376, -73.945305 40.696272, -73.945263 40.696204, -73.945207 40.695921, -73.94522 40.695844)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105501> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105501> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105501> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_17> .

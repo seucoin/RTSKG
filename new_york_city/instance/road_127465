@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_127465> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127465> <http://www.w3.org/2000/01/rdf-schema#label> "VAN WYCK EXPY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_127465> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.822483 40.711766, -73.821684 40.711167), (-73.821684 40.711167, -73.821519 40.711037, -73.821361 40.710903, -73.821209 40.710764), (-73.821209 40.710764, -73.821063 40.710621, -73.820925 40.710474, -73.820793 40.710324))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127465> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_expy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127465> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127465> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_28> .

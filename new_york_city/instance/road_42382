@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_42382> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_42382> <http://www.w3.org/2000/01/rdf-schema#label> "STAGG WALK" .
+<https://w3id.org/rtskg/new_york_city/instance/road_42382> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.946854 40.709185, -73.946613 40.709207, -73.946538 40.709171, -73.946449 40.709149, -73.946351 40.709145, -73.946256 40.709161, -73.946172 40.709194, -73.946106 40.709239, -73.946091 40.709258, -73.946066 40.709272, -73.946035 40.709276, -73.946007 40.709271, -73.945518 40.70931, -73.945242 40.709332)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_42382> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_walk> .
 <https://w3id.org/rtskg/new_york_city/instance/road_42382> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_42382> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_80> .

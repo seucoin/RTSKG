@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_115002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115002> <http://www.w3.org/2000/01/rdf-schema#label> "ELLWOOD ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_115002> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.928823 40.860869, -73.928967 40.861095, -73.929112 40.861321, -73.929258 40.861547), (-73.929258 40.861547, -73.929403 40.861773, -73.929549 40.861998, -73.929696 40.862224))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115002> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115002> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115002> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_243> .

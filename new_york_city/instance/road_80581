@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_80581> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_80581> <http://www.w3.org/2000/01/rdf-schema#label> "KAPPOCK ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_80581> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.917897 40.877478, -73.917851 40.877576, -73.917799 40.877672, -73.917741 40.877765), (-73.917741 40.877765, -73.917676 40.877857, -73.917606 40.877945, -73.917529 40.878031))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_80581> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_80581> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_80581> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_220> .

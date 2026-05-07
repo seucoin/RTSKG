@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_87619> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87619> <http://www.w3.org/2000/01/rdf-schema#label> "RUTGERS ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_87619> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.989973 40.712655, -73.989961 40.712582, -73.98995 40.712519, -73.989906 40.712257, -73.989894 40.712188, -73.989882 40.712115, -73.989871 40.712051, -73.989856 40.711963, -73.989823 40.711767, -73.989822 40.711766, -73.989811 40.711701, -73.989735 40.711251)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87619> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87619> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87619> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_232> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_105273> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105273> <http://www.w3.org/2000/01/rdf-schema#label> "CASTLE HILL HOUSES PED PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_105273> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.846614 40.818765, -73.846344 40.818696, -73.846116 40.81846, -73.846048 40.818288, -73.846013 40.818181)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105273> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105273> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_105273> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_213> .

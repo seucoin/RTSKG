@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_77978> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_77978> <http://www.w3.org/2000/01/rdf-schema#label> "CORONA AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_77978> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.138941 40.56307, -74.138984 40.563018, -74.139034 40.562968, -74.139089 40.562923, -74.139149 40.562881, -74.139215 40.562844, -74.139284 40.562811), (-74.139284 40.562811, -74.139357 40.562784, -74.139434 40.562762, -74.139512 40.562746, -74.139592 40.562735, -74.139673 40.56273, -74.139755 40.56273))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_77978> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_77978> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_77978> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_109> .

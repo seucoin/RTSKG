@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_5> <http://www.w3.org/2000/01/rdf-schema#label> "BATTERY PL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_5> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.014291 40.704557, -74.014372 40.704566), (-74.014372 40.704566, -74.014469 40.704599, -74.014568 40.704628, -74.014668 40.704655), (-74.014668 40.704655, -74.014744 40.704674, -74.01482 40.704691, -74.014897 40.704706), (-74.014897 40.704706, -74.014963 40.704768))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_5> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_5> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_5> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_261> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_88631> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_88631> <http://www.w3.org/2000/01/rdf-schema#label> "CLIFTON PL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_88631> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.95132 40.68914, -73.950674 40.689215, -73.949932 40.689301, -73.949855 40.68931, -73.949769 40.689319, -73.949318 40.689372, -73.949233 40.689381, -73.949072 40.6894, -73.948993 40.689409, -73.94876 40.689436, -73.948685 40.689445, -73.94804 40.689519)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_88631> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_88631> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_88631> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_17> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_31967> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_31967> <http://www.w3.org/2000/01/rdf-schema#label> "SCHMIDTS LN" .
+<https://w3id.org/rtskg/new_york_city/instance/road_31967> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.118346 40.609152, -74.118398 40.609147, -74.118491 40.609136, -74.118692 40.609114, -74.118835 40.609099, -74.118974 40.609083, -74.119133 40.609066, -74.120255 40.608943, -74.120525 40.608913, -74.120665 40.608898, -74.1208 40.608883)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_31967> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ln> .
 <https://w3id.org/rtskg/new_york_city/instance/road_31967> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_31967> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_118> .

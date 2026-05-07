@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/station_area_486> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/station_area> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_486> <http://www.w3.org/2000/01/rdf-schema#label> "Howard Beach-JFK Airport_5" .
+<https://w3id.org/rtskg/new_york_city/instance/station_area_486> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POLYGON ((-73.835274 40.659779, -73.835287 40.659833, -73.835303 40.659899, -73.832453 40.663791, -73.832223 40.663663, -73.830561 40.662304, -73.829642 40.661205, -73.829624 40.65717, -73.830718 40.656841, -73.832973 40.658191, -73.835274 40.659779))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_486> <https://w3id.org/rtskg/ontology/dataproperty/walking_time_minutes> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_486> <https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station> <https://w3id.org/rtskg/new_york_city/instance/station_244> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_486> <https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block> <https://w3id.org/rtskg/new_york_city/instance/block_24293> .

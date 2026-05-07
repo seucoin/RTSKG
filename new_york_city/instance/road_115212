@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_115212> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115212> <http://www.w3.org/2000/01/rdf-schema#label> "N PORTLAND AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_115212> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.976367 40.696032, -73.976333 40.695828, -73.976252 40.695424, -73.976239 40.69536, -73.97622 40.695261, -73.976199 40.695159, -73.976127 40.694796, -73.976117 40.694743, -73.976053 40.69442)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115212> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115212> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115212> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_97> .

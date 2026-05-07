@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_102789> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102789> <http://www.w3.org/2000/01/rdf-schema#label> "SANDHILL RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_102789> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.744656 40.773228, -73.744629 40.773209, -73.7446 40.773192, -73.74457 40.773177, -73.744538 40.773164, -73.744505 40.773154), (-73.744505 40.773154, -73.74447 40.773145, -73.744435 40.773139, -73.744399 40.773135, -73.744363 40.773133, -73.744327 40.773133))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102789> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102789> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102789> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_64> .

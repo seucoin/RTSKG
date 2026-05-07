@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_53104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53104> <http://www.w3.org/2000/01/rdf-schema#label> "LUNA CIR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_53104> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.167641 40.529661, -74.167652 40.5297, -74.167658 40.529739, -74.16766 40.529779, -74.167657 40.529818, -74.16765 40.529857), (-74.16765 40.529857, -74.167638 40.529896, -74.167621 40.529934, -74.167601 40.52997, -74.167576 40.530005, -74.167547 40.530038))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53104> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_cir> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53104> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53104> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_84> .

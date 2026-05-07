@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_64290> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64290> <http://www.w3.org/2000/01/rdf-schema#label> "BROOKHAVEN AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_64290> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.758367 40.600306, -73.758853 40.60048, -73.758998 40.600514, -73.759154 40.600531, -73.759315 40.600529, -73.759473 40.600507, -73.759625 40.600466, -73.759763 40.600409, -73.759884 40.600338, -73.760712 40.599894)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64290> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64290> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64290> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_86> .

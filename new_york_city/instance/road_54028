@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_54028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54028> <http://www.w3.org/2000/01/rdf-schema#label> "JEWETT AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_54028> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.128857 40.635582, -74.128846 40.635333, -74.128854 40.635083, -74.128883 40.634833, -74.128933 40.634586, -74.129002 40.634342)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54028> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54028> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54028> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_187> .

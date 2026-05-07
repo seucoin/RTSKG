@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_73379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_73379> <http://www.w3.org/2000/01/rdf-schema#label> "HICKSVILLE RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_73379> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.740457 40.600308, -73.740563 40.600277, -73.740672 40.600251, -73.740783 40.600231), (-73.740783 40.600231, -73.740896 40.600217, -73.741009 40.600209, -73.741123 40.600207))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_73379> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_73379> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_73379> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_86> .

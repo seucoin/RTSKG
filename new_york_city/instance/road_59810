@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_59810> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_59810> <http://www.w3.org/2000/01/rdf-schema#label> "HOMECREST AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_59810> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.956709 40.585517, -73.956719 40.58546, -73.956746 40.585405, -73.956789 40.585354, -73.956845 40.585314, -73.95691 40.585285)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_59810> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_59810> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_59810> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_210> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_85621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85621> <http://www.w3.org/2000/01/rdf-schema#label> "SEA GATE RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_85621> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.059775 40.610391, -74.059316 40.609735, -74.059002 40.609438, -74.058919 40.609376, -74.058852 40.609302, -74.058804 40.609217, -74.05878 40.609128, -74.058779 40.60904, -74.059114 40.608509)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85621> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85621> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85621> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_221> .

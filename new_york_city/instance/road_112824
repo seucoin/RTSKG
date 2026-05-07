@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_112824> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112824> <http://www.w3.org/2000/01/rdf-schema#label> "BELT PARKWAY EB EN BAY 8 ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_112824> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.017933 40.604684, -74.018534 40.604408, -74.018645 40.604345, -74.01875 40.604278, -74.01885 40.604206, -74.018977 40.60407, -74.019065 40.603957, -74.019089 40.603926, -74.019166 40.603806)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112824> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112824> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_67> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_62985> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62985> <http://www.w3.org/2000/01/rdf-schema#label> "EDINBORO RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_62985> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.147084 40.575766, -74.147234 40.575761, -74.147383 40.575749, -74.147531 40.575729), (-74.147531 40.575729, -74.147676 40.575701, -74.147819 40.575665, -74.147958 40.575622))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62985> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62985> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_62985> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_118> .

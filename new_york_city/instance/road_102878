@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_102878> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102878> <http://www.w3.org/2000/01/rdf-schema#label> "WARDS MEADOW LOOP" .
+<https://w3id.org/rtskg/new_york_city/instance/road_102878> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.931048 40.783328, -73.931048 40.783274, -73.931041 40.78322, -73.931027 40.783167, -73.931008 40.783115, -73.930982 40.783064), (-73.930982 40.783064, -73.93095 40.783016, -73.930913 40.782969, -73.93087 40.782926, -73.930822 40.782886, -73.93077 40.782849))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102878> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_loop> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102878> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102878> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_194> .

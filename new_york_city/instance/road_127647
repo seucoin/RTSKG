@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_127647> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127647> <http://www.w3.org/2000/01/rdf-schema#label> "HENRY HUDSON PKWY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_127647> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.984061 40.785568, -73.984012 40.785637, -73.983857 40.785867, -73.983809 40.78594, -73.983669 40.786182, -73.983543 40.786428, -73.983431 40.786678, -73.983425 40.786692, -73.983333 40.786931, -73.983249 40.787187)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127647> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pkwy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127647> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127647> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_239> .

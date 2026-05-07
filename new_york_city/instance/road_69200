@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_69200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69200> <http://www.w3.org/2000/01/rdf-schema#label> "CONDUIT BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_69200> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.872107 40.677989, -73.871856 40.677921, -73.871603 40.677859, -73.871348 40.677801), (-73.871348 40.677801, -73.871091 40.677749, -73.870833 40.677702, -73.870572 40.67766))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69200> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69200> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_69200> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_63> .

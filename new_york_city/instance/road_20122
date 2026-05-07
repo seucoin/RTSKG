@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_20122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_20122> <http://www.w3.org/2000/01/rdf-schema#label> "LITTLE NECK BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_20122> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.770145 40.779958, -73.769987 40.779791, -73.769838 40.779619, -73.7697 40.779441), (-73.7697 40.779441, -73.769573 40.779259, -73.769457 40.779073, -73.769351 40.778883))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_20122> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_20122> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_20122> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_15> .

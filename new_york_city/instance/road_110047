@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_110047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110047> <http://www.w3.org/2000/01/rdf-schema#label> "POLY PREP DRIVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_110047> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.024735 40.614237, -74.024996 40.614028, -74.025093 40.61382, -74.025288 40.613623, -74.025472 40.613267, -74.025341 40.613164, -74.025194 40.61318, -74.025047 40.613472, -74.024919 40.613538, -74.02471 40.61356, -74.024696 40.613354)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110047> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110047> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110047> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_67> .

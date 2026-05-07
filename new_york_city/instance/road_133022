@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_133022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133022> <http://www.w3.org/2000/01/rdf-schema#label> "TILLOTSON AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_133022> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.841777 40.877752, -73.841682 40.877737), (-73.841682 40.877737, -73.841661 40.877745, -73.841641 40.877754, -73.841623 40.877765, -73.841605 40.877777), (-73.841605 40.877777, -73.84159 40.877789, -73.841576 40.877803, -73.841563 40.877818, -73.841552 40.877834))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133022> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133022> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_133022> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_81> .

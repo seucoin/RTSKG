@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_117386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117386> <http://www.w3.org/2000/01/rdf-schema#label> "MADISON AVE BRIDGE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_117386> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.932309 40.814158, -73.932146 40.814134, -73.931362 40.813813)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117386> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117386> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_117386> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_247> .

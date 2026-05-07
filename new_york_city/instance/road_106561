@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_106561> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106561> <http://www.w3.org/2000/01/rdf-schema#label> "RODMANS NECK PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_106561> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.802405 40.851744, -73.802384 40.851654, -73.802354 40.851566, -73.802315 40.85148), (-73.802315 40.85148, -73.80223 40.851356, -73.802143 40.851233, -73.802054 40.851111))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106561> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106561> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106561> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_184> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_102687> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102687> <http://www.w3.org/2000/01/rdf-schema#label> "BROOKLYN BRDG PEDESTRIAN PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_102687> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.98975 40.700475, -73.989516 40.700325, -73.989142 40.700088, -73.989012 40.7, -73.98887 40.699874, -73.988773 40.699762, -73.988691 40.699636, -73.988622 40.699453, -73.988592 40.699284, -73.988594 40.699219, -73.98866 40.698026, -73.988694 40.697373, -73.988752 40.696352)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102687> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102687> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_102687> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_65> .

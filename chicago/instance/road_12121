@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/chicago/instance/road_12121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_12121> <http://www.w3.org/2000/01/rdf-schema#label> "AVENUE M" .
+<https://w3id.org/rtskg/chicago/instance/road_12121> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.537696 41.691853, -87.537694 41.691624, -87.537694 41.691507, -87.537694 41.691444, -87.537695 41.691387, -87.537695 41.691227, -87.537695 41.691049, -87.537695 41.690784, -87.537695 41.690629, -87.537695 41.69045, -87.537695 41.690334, -87.537695 41.690126, -87.537696 41.690033)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_12121> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_1> .
 <https://w3id.org/rtskg/chicago/instance/road_12121> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_52> .

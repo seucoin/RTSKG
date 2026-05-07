@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_113353> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113353> <http://www.w3.org/2000/01/rdf-schema#label> "OAK ALLEE PROM" .
+<https://w3id.org/rtskg/new_york_city/instance/road_113353> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.827518 40.750675, -73.827536 40.750702, -73.827553 40.750729, -73.827569 40.750755), (-73.827569 40.750755, -73.827586 40.750782, -73.827602 40.750809, -73.827617 40.750836))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113353> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_prom> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113353> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113353> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_92> .

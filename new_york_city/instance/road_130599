@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_130599> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130599> <http://www.w3.org/2000/01/rdf-schema#label> "OAK CT" .
+<https://w3id.org/rtskg/new_york_city/instance/road_130599> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.1456 40.552089, -74.145912 40.55201, -74.146002 40.55202, -74.146094 40.552019, -74.146184 40.552005, -74.146269 40.55198)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130599> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ct> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130599> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130599> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_109> .

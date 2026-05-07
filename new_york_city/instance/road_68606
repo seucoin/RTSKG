@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_68606> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68606> <http://www.w3.org/2000/01/rdf-schema#label> "FLUSHING MDW PARK PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_68606> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.843597 40.743276, -73.843626 40.743222, -73.843637 40.743159, -73.843626 40.743093, -73.843592 40.74303, -73.843538 40.742977, -73.843471 40.742939, -73.8434 40.742917)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68606> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68606> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68606> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_93> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_81120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_81120> <http://www.w3.org/2000/01/rdf-schema#label> "GRENADA PL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_81120> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.844655 40.888041, -73.844381 40.888083, -73.84433 40.888091, -73.84408 40.888129, -73.844023 40.888137, -73.843767 40.888176)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_81120> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_81120> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_81120> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_259> .

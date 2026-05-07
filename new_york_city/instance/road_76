@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_76> <http://www.w3.org/2000/01/rdf-schema#label> "PEARL ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_76> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.000511 40.710993, -74.000622 40.71109, -74.000715 40.7112, -74.000789 40.71132, -74.000841 40.711447, -74.000869 40.711576, -74.000874 40.711705)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_76> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_76> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_76> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_45> .

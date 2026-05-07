@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_45611> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45611> <http://www.w3.org/2000/01/rdf-schema#label> "LAKEVIEW TER" .
+<https://w3id.org/rtskg/new_york_city/instance/road_45611> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.083041 40.603086, -74.082642 40.603243, -74.082575 40.603278, -74.082516 40.603321, -74.082466 40.603369, -74.08224 40.603642)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45611> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ter> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45611> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45611> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_6> .

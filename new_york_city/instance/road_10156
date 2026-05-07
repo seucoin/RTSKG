@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_10156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_10156> <http://www.w3.org/2000/01/rdf-schema#label> "QUEENS PLZ S" .
+<https://w3id.org/rtskg/new_york_city/instance/road_10156> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.938497 40.749622, -73.938142 40.749436), (-73.938142 40.749436, -73.938112 40.74942, -73.938082 40.749403, -73.938054 40.749385), (-73.938054 40.749385, -73.938026 40.749366, -73.938 40.749347, -73.937974 40.749326), (-73.937974 40.749326, -73.937862 40.749189))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_10156> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_plz> .
 <https://w3id.org/rtskg/new_york_city/instance/road_10156> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_10156> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_145> .

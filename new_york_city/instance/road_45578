@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_45578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45578> <http://www.w3.org/2000/01/rdf-schema#label> "ST PAULS AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_45578> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.081733 40.63002, -74.081981 40.629825, -74.082217 40.629622, -74.08244 40.62941), (-74.08244 40.62941, -74.082651 40.629191, -74.082848 40.628965, -74.083032 40.628733))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45578> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45578> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45578> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_115> .

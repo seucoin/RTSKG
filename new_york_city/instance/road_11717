@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_11717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_11717> <http://www.w3.org/2000/01/rdf-schema#label> "GREENPOINT AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_11717> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.919919 40.74182, -73.919758 40.741895, -73.919593 40.741966, -73.919424 40.742031), (-73.919424 40.742031, -73.919252 40.742091, -73.919077 40.742146, -73.918899 40.742195))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_11717> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_11717> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_11717> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_226> .

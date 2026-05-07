@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_120445> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120445> <http://www.w3.org/2000/01/rdf-schema#label> "BAYSIDE MARINA ACCESS ROAD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_120445> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.769007 40.779985, -73.768876 40.779896, -73.76875 40.779803, -73.76863 40.779706), (-73.76863 40.779706, -73.768611 40.779689, -73.768591 40.779673, -73.768572 40.779656), (-73.768572 40.779656, -73.768302 40.779196, -73.768313 40.778825))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120445> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120445> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120445> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_15> .

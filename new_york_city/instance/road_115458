@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_115458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115458> <http://www.w3.org/2000/01/rdf-schema#label> "CYPRESS AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_115458> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.914998 40.804881, -73.914864 40.805065, -73.914828 40.805115, -73.914685 40.805311, -73.914641 40.805371, -73.914523 40.805565)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115458> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115458> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115458> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_168> .

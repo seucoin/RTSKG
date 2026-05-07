@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_118998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118998> <http://www.w3.org/2000/01/rdf-schema#label> "FOREST AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_118998> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.161424 40.626635, -74.163603 40.626877, -74.163882 40.626908), (-74.163882 40.626908, -74.164145 40.626938, -74.164407 40.626973, -74.164667 40.627013), (-74.164667 40.627013, -74.164927 40.627057, -74.165185 40.627106, -74.165441 40.62716))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118998> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118998> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118998> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_156> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_15600> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_15600> <http://www.w3.org/2000/01/rdf-schema#label> "BROMPTON" .
+<https://w3id.org/rtskg/chicago/instance/road_15600> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.642921 41.947708, -87.643166 41.947625, -87.643353 41.947562, -87.643693 41.947447, -87.644301 41.947243, -87.644698 41.947108, -87.64499 41.947009)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_15600> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_15600> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_6> .
 <https://w3id.org/rtskg/chicago/instance/road_15600> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_6> .

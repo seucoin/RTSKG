@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_71958> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_71958> <http://www.w3.org/2000/01/rdf-schema#label> "E 34 ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_71958> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.941752 40.620028, -73.941754 40.619994, -73.941752 40.61996, -73.941746 40.619925, -73.941736 40.619892, -73.941722 40.619859), (-73.941722 40.619859, -73.941705 40.619827, -73.941684 40.619796, -73.94166 40.619767, -73.941632 40.61974, -73.941602 40.619714))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_71958> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_71958> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_71958> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_91> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_72270> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_72270> <http://www.w3.org/2000/01/rdf-schema#label> "ST JAMES PL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_72270> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.000511 40.710993, -74.000436 40.711067, -74.000254 40.711246, -74.00012 40.711378, -73.999703 40.711789)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_72270> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_72270> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_72270> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_45> .

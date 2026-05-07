@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_100621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100621> <http://www.w3.org/2000/01/rdf-schema#label> "LEIF ERICSON PARK GREENWAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_100621> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.021954 40.63746, -74.021914 40.637326, -74.021509 40.637094, -74.02118 40.636898, -74.021036 40.63681, -74.02097 40.636762, -74.020944 40.636711, -74.020948 40.636659)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100621> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100621> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_14> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100621> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_167> .

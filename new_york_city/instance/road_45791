@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_45791> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45791> <http://www.w3.org/2000/01/rdf-schema#label> "SILVER BEECH RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_45791> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.095056 40.608081, -74.095307 40.608185, -74.095553 40.608297, -74.095793 40.608416, -74.096027 40.608542)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45791> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45791> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45791> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_118> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_99953> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99953> <http://www.w3.org/2000/01/rdf-schema#label> "PETER COOPER RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_99953> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.976854 40.734977, -73.976524 40.735134, -73.976444 40.735162, -73.97635 40.735175, -73.976249 40.735169, -73.976153 40.735141, -73.976071 40.735096, -73.97601 40.73504, -73.975973 40.734979, -73.975702 40.734644, -73.975431 40.73431)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99953> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99953> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99953> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_224> .

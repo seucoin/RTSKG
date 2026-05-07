@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_59846> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_59846> <http://www.w3.org/2000/01/rdf-schema#label> "FARRAGUT RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_59846> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.921908 40.636083, -73.921846 40.636115, -73.921719 40.63618, -73.921645 40.636217, -73.92132 40.636382, -73.921239 40.636424, -73.921018 40.636536)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_59846> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_59846> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_59846> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_91> .

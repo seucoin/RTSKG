@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_24541> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_24541> <http://www.w3.org/2000/01/rdf-schema#label> "KINGSBURY AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_24541> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.742228 40.738624, -73.741553 40.73877, -73.741421 40.738792, -73.741282 40.738797, -73.741142 40.738784, -73.741008 40.738752, -73.741007 40.738752, -73.741007 40.738752, -73.740883 40.738704, -73.740775 40.738644)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_24541> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_24541> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_24541> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_64> .

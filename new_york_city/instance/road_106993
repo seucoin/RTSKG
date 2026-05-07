@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_106993> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106993> <http://www.w3.org/2000/01/rdf-schema#label> "WINFIELD AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_106993> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.082222 40.599064, -74.08251 40.598964, -74.082797 40.598861, -74.083081 40.598755), (-74.083081 40.598755, -74.083364 40.598646, -74.083645 40.598534, -74.083923 40.598419))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106993> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106993> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106993> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_214> .

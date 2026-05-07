@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/station_area_736> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/station_area> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_736> <http://www.w3.org/2000/01/rdf-schema#label> "Woodlawn_5" .
+<https://w3id.org/rtskg/new_york_city/instance/station_area_736> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POLYGON ((-73.880919 40.888759, -73.8792 40.890286, -73.878292 40.890252, -73.874479 40.888932, -73.874501 40.888681, -73.876152 40.886008, -73.876894 40.88418, -73.877729 40.883454, -73.881291 40.883806, -73.880979 40.887392, -73.880919 40.888759))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_736> <https://w3id.org/rtskg/ontology/dataproperty/walking_time_minutes> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_736> <https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station> <https://w3id.org/rtskg/new_york_city/instance/station_369> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_736> <https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block> <https://w3id.org/rtskg/new_york_city/instance/block_23294> .

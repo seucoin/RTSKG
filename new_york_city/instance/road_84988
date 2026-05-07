@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_84988> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_84988> <http://www.w3.org/2000/01/rdf-schema#label> "CRESTON PL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_84988> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.082745 40.633933, -74.083033 40.633662, -74.083114 40.633615, -74.08321 40.63358, -74.083317 40.63356, -74.083429 40.633557, -74.083538 40.633573, -74.083637 40.633605, -74.08372 40.633648, -74.084429 40.634051)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_84988> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_84988> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_84988> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_221> .

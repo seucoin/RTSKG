@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_121011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121011> <http://www.w3.org/2000/01/rdf-schema#label> "JERICHO TPKE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_121011> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.72454 40.724421, -73.724455 40.724446, -73.724438 40.724451, -73.72437 40.724471, -73.724304 40.724492, -73.724259 40.724505, -73.724221 40.724517)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121011> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_tpke> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121011> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121011> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_19> .

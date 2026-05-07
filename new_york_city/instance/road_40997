@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_40997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40997> <http://www.w3.org/2000/01/rdf-schema#label> "BENTON AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_40997> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.085596 40.591768, -74.085433 40.591738, -74.085274 40.591697, -74.08512 40.591645), (-74.08512 40.591645, -74.084974 40.591583, -74.084835 40.59151, -74.084706 40.591429))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40997> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40997> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40997> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_214> .

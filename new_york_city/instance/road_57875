@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_57875> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_57875> <http://www.w3.org/2000/01/rdf-schema#label> "CITY ISLAND RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_57875> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.802971 40.860487, -73.802992 40.86061, -73.803032 40.860731, -73.803091 40.860849, -73.803168 40.860959, -73.803261 40.861061)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_57875> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_57875> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_57875> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_184> .

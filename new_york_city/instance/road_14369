@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_14369> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_14369> <http://www.w3.org/2000/01/rdf-schema#label> "FERNSIDE PL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_14369> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.757139 40.597195, -73.75709 40.597252, -73.757037 40.597305, -73.756979 40.597356), (-73.756979 40.597356, -73.756917 40.597404, -73.75685 40.597448, -73.75678 40.597489))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_14369> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_14369> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_14369> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_86> .

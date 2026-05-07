@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_94206> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94206> <http://www.w3.org/2000/01/rdf-schema#label> "USS TENNESSEE RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_94206> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.058285 40.597965, -74.058203 40.597835, -74.058109 40.597709, -74.058003 40.59759), (-74.058003 40.59759, -74.057885 40.597477, -74.057756 40.597372, -74.057617 40.597274))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94206> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94206> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94206> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_6> .

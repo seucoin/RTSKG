@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_129561> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_129561> <http://www.w3.org/2000/01/rdf-schema#label> "BELT PKWY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_129561> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.813963 40.666313, -73.813532 40.666411, -73.813042 40.666493, -73.812857 40.666524, -73.812855 40.666524, -73.812647 40.66654, -73.812228 40.666572, -73.812026 40.666588, -73.811442 40.666587, -73.811139 40.666587, -73.811104 40.666587, -73.810484 40.666567)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_129561> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pkwy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_129561> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_129561> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_216> .

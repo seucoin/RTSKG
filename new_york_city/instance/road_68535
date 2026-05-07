@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_68535> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68535> <http://www.w3.org/2000/01/rdf-schema#label> "PALISADE AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_68535> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.911934 40.904722, -73.911819 40.90478, -73.911711 40.904845, -73.91161 40.904917, -73.911518 40.904995, -73.911435 40.905079), (-73.911435 40.905079, -73.911361 40.905168, -73.911298 40.905261, -73.911245 40.905358, -73.911203 40.905458, -73.911172 40.90556))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68535> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68535> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68535> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_200> .

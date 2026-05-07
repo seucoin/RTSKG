@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_89747> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89747> <http://www.w3.org/2000/01/rdf-schema#label> "NORTON AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_89747> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.767954 40.597434, -73.768062 40.597497, -73.768183 40.59755, -73.768315 40.597589, -73.768455 40.597614, -73.768598 40.597624, -73.76874 40.597617, -73.768877 40.597595, -73.769004 40.597561)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89747> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89747> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89747> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_117> .

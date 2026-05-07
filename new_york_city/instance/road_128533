@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_128533> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_128533> <http://www.w3.org/2000/01/rdf-schema#label> "MAJOR DEEGAN EXPY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_128533> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.901558 40.88099, -73.900952 40.881694, -73.900059 40.882731, -73.899942 40.882868, -73.899862 40.882961, -73.89925 40.883672, -73.899201 40.883728, -73.898768 40.884222, -73.898602 40.884413)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_128533> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_expy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_128533> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_128533> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_220> .

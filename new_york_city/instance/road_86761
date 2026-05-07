@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_86761> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86761> <http://www.w3.org/2000/01/rdf-schema#label> "ROYCE PL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_86761> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.910067 40.624636, -73.909902 40.624795, -73.909742 40.624958, -73.909589 40.625124), (-73.909589 40.625124, -73.909442 40.625294, -73.909302 40.625466, -73.909168 40.625642))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86761> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86761> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_86761> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_155> .

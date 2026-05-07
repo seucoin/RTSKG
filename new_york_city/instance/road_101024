@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_101024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101024> <http://www.w3.org/2000/01/rdf-schema#label> "GRAND CENTRAL PKWY ET 9 W WB" .
+<https://w3id.org/rtskg/new_york_city/instance/road_101024> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.852255 40.756439, -73.852311 40.756601), (-73.852311 40.756601, -73.852319 40.756723, -73.85234 40.756844, -73.852375 40.756964, -73.852423 40.75708, -73.852484 40.757194, -73.852558 40.757303))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101024> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101024> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_93> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101024> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_11> .

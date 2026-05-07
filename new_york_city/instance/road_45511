@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_45511> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45511> <http://www.w3.org/2000/01/rdf-schema#label> "HOWARD AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_45511> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.094072 40.617648, -74.094111 40.617315, -74.094189 40.616986, -74.094304 40.616664), (-74.094304 40.616664, -74.09439 40.616579, -74.094486 40.616501, -74.094591 40.61643, -74.094705 40.616367, -74.094825 40.616312, -74.094952 40.616266, -74.095084 40.616228))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45511> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45511> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45511> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_115> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_59743> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_59743> <http://www.w3.org/2000/01/rdf-schema#label> "PINTO ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_59743> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.769072 40.724348, -73.769448 40.723614, -73.769491 40.723542, -73.769517 40.723463, -73.769525 40.723381, -73.769514 40.723299, -73.769483 40.723221, -73.769437 40.72315, -73.768905 40.722461)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_59743> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_59743> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_59743> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_131> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_120985> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120985> <http://www.w3.org/2000/01/rdf-schema#label> "MANHATTAN BRIDGE EN NASSAU ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_120985> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.985179 40.698512, -73.985285 40.698573, -73.985384 40.69864, -73.985475 40.698715), (-73.985475 40.698715, -73.985555 40.698795, -73.985626 40.698881, -73.985686 40.698971))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120985> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120985> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_66> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120985> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_365> .

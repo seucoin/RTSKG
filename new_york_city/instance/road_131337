@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_131337> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_131337> <http://www.w3.org/2000/01/rdf-schema#label> "UNION TURNPIKE PEDESTRIAN OPAS" .
+<https://w3id.org/rtskg/new_york_city/instance/road_131337> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.856227 40.706187, -73.856187 40.706174, -73.856165 40.706166, -73.856081 40.706194, -73.855816 40.706277, -73.855709 40.706307, -73.855589 40.706145, -73.855554 40.706159, -73.855632 40.70627)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_131337> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_opas> .
 <https://w3id.org/rtskg/new_york_city/instance/road_131337> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_131337> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_102> .

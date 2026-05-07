@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_87129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87129> <http://www.w3.org/2000/01/rdf-schema#label> "FOWLER PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_87129> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.835593 40.751385, -73.835335 40.75096, -73.835129 40.750697, -73.834881 40.750337, -73.834749 40.750063, -73.834668 40.749895, -73.834587 40.749619, -73.834506 40.749345, -73.834476 40.74924, -73.834462 40.749125, -73.834432 40.748873)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87129> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87129> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87129> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_93> .

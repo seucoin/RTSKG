@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_50457> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50457> <http://www.w3.org/2000/01/rdf-schema#label> "GENESEE AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_50457> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.166189 40.552961, -74.166394 40.552918, -74.166601 40.552885, -74.16681 40.552862), (-74.16681 40.552862, -74.167021 40.552847, -74.167233 40.552842, -74.167444 40.552846), (-74.167444 40.552846, -74.167889 40.552975))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50457> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50457> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_50457> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_109> .

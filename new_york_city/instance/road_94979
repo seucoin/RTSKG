@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_94979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94979> <http://www.w3.org/2000/01/rdf-schema#label> "STONEWALL JACKSON DR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_94979> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.030953 40.606834, -74.030024 40.60638), (-74.030024 40.60638, -74.029958 40.606362, -74.029891 40.606347, -74.029823 40.606335), (-74.029823 40.606335, -74.029754 40.606327, -74.029685 40.606321, -74.029615 40.606319))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94979> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94979> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94979> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_14> .

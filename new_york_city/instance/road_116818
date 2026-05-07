@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_116818> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116818> <http://www.w3.org/2000/01/rdf-schema#label> "61 ST PEDESTRIAN OPAS" .
+<https://w3id.org/rtskg/new_york_city/instance/road_116818> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.904207 40.725771, -73.904144 40.725535, -73.904144 40.725535, -73.904126 40.725434, -73.904076 40.725378, -73.903991 40.725354, -73.903906 40.725358, -73.903865 40.725387, -73.903838 40.725456, -73.903784 40.725742)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116818> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_opas> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116818> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116818> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_157> .

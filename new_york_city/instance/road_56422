@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_56422> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_56422> <http://www.w3.org/2000/01/rdf-schema#label> "GREAT KILLS RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_56422> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.145294 40.551571, -74.145185 40.551489, -74.145087 40.551399, -74.145 40.551303, -74.144925 40.551201, -74.144864 40.551094), (-74.144864 40.551094, -74.144815 40.550983, -74.14478 40.55087, -74.14476 40.550754, -74.144754 40.550637, -74.144762 40.55052))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_56422> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_56422> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_56422> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_109> .

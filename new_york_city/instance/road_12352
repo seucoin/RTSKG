@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_12352> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12352> <http://www.w3.org/2000/01/rdf-schema#label> "JEWEL AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_12352> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.832745 40.727871, -73.832622 40.727899, -73.832497 40.72792, -73.83237 40.727932, -73.832242 40.727936, -73.832114 40.727932, -73.831987 40.72792), (-73.831987 40.72792, -73.831856 40.727874, -73.831732 40.727819, -73.831615 40.727756, -73.831506 40.727684, -73.831406 40.727606))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12352> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12352> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12352> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_135> .

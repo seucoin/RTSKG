@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_132303> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132303> <http://www.w3.org/2000/01/rdf-schema#label> "CENTRAL PARK ENTRANCE W 110 ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_132303> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.958041 40.800363, -73.957972 40.800163, -73.957904 40.799966, -73.957851 40.799812, -73.957819 40.799719)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132303> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132303> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_43> .
 <https://w3id.org/rtskg/new_york_city/instance/road_132303> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_15> .

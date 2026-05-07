@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_95021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_95021> <http://www.w3.org/2000/01/rdf-schema#label> "BETTY CT" .
+<https://w3id.org/rtskg/new_york_city/instance/road_95021> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.169174 40.640961, -74.169157 40.640333, -74.169112 40.640337, -74.169059 40.640331, -74.169004 40.640306, -74.168964 40.640264, -74.16895 40.640213, -74.168962 40.640166, -74.168991 40.640131, -74.169025 40.640109, -74.169035 40.639798)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_95021> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ct> .
 <https://w3id.org/rtskg/new_york_city/instance/road_95021> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_95021> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_156> .

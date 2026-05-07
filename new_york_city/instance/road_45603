@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_45603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45603> <http://www.w3.org/2000/01/rdf-schema#label> "TOMPKINS CIR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_45603> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.080297 40.63589, -74.080089 40.635967, -74.079886 40.636052, -74.079689 40.636145, -74.079499 40.636246, -74.079378 40.636406, -74.079245 40.636562, -74.0791 40.636712, -74.078946 40.636855)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45603> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_cir> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45603> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45603> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_221> .

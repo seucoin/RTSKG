@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_55572> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_55572> <http://www.w3.org/2000/01/rdf-schema#label> "E 169 ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_55572> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.90236 40.831311, -73.902243 40.831355, -73.902121 40.831392, -73.901996 40.831421, -73.901869 40.831443, -73.901739 40.831457), (-73.901739 40.831457, -73.901609 40.831463, -73.901478 40.831461, -73.901348 40.831451, -73.901219 40.831433, -73.901093 40.831408))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_55572> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_55572> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_55572> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_167> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_91344> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91344> <http://www.w3.org/2000/01/rdf-schema#label> "CHATHAM SQ" .
+<https://w3id.org/rtskg/new_york_city/instance/road_91344> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.997996 40.713687, -73.99791 40.713728, -73.997828 40.713772, -73.997748 40.713819), (-73.997748 40.713819, -73.997672 40.71387, -73.9976 40.713923, -73.997532 40.71398), (-73.997532 40.71398, -73.997488 40.714024))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91344> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_sq> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91344> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91344> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_45> .

@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_101255> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101255> <http://www.w3.org/2000/01/rdf-schema#label> "MOSHOLU PARKWAY SB EXIT" .
+<https://w3id.org/rtskg/new_york_city/instance/road_101255> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.887938 40.890258, -73.888312 40.889906, -73.888568 40.88967, -73.888916 40.889425, -73.889197 40.889264, -73.889506 40.889136, -73.889946 40.889, -73.890081 40.888881)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101255> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101255> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_240> .

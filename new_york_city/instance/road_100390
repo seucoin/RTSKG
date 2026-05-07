@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_100390> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100390> <http://www.w3.org/2000/01/rdf-schema#label> "MERIDIAN RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_100390> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.848607 40.748327, -73.848627 40.748426, -73.848653 40.748524, -73.848684 40.748621), (-73.848684 40.748621, -73.848722 40.748717, -73.848764 40.748812, -73.848813 40.748905))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100390> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100390> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100390> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_93> .

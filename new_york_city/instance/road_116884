@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_116884> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116884> <http://www.w3.org/2000/01/rdf-schema#label> "CLAY AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_116884> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.905707 40.839731, -73.905575 40.839934, -73.905459 40.840143, -73.905359 40.840357), (-73.905359 40.840357, -73.905276 40.840575, -73.90521 40.840796, -73.905161 40.84102))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116884> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116884> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116884> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_69> .

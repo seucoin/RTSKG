@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_24112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_24112> <http://www.w3.org/2000/01/rdf-schema#label> "CRAIG RD N" .
+<https://w3id.org/rtskg/new_york_city/instance/road_24112> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.019318 40.693186, -74.019406 40.693183, -74.019497 40.693165, -74.019583 40.693131, -74.019658 40.693083, -74.019717 40.693024, -74.019756 40.69296, -74.019776 40.692894, -74.02017 40.691929, -74.020593 40.691515)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_24112> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_24112> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_24112> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_105> .

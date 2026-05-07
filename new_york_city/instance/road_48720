@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_48720> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_48720> <http://www.w3.org/2000/01/rdf-schema#label> "HAMPTON GRN" .
+<https://w3id.org/rtskg/new_york_city/instance/road_48720> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.19658 40.553387, -74.196423 40.553649, -74.195574 40.554163)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_48720> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_grn> .
 <https://w3id.org/rtskg/new_york_city/instance/road_48720> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_48720> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_5> .

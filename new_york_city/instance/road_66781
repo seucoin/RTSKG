@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_66781> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66781> <http://www.w3.org/2000/01/rdf-schema#label> "RFK BRIDGE BRONX ENTRANCE RAMP" .
+<https://w3id.org/rtskg/new_york_city/instance/road_66781> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.919164 40.804445, -73.917641 40.803743), (-73.917641 40.803743, -73.917464 40.803648, -73.9173 40.803541, -73.917151 40.803423, -73.917017 40.803294))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66781> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66781> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_168> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66781> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_327> .

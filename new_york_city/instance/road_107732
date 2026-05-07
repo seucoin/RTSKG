@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_107732> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107732> <http://www.w3.org/2000/01/rdf-schema#label> "GLEN ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_107732> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.17948 40.611983, -74.179503 40.611524, -74.179562 40.611068, -74.179658 40.610615), (-74.179658 40.610615, -74.179784 40.610182, -74.179944 40.609755, -74.180137 40.609337))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107732> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107732> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107732> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_23> .

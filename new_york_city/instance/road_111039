@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_111039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111039> <http://www.w3.org/2000/01/rdf-schema#label> "ARTHUR KILL CORRECTIONAL FAC DY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_111039> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.231093 40.552376, -74.231094 40.552385, -74.231095 40.552393, -74.231098 40.552402, -74.231102 40.55241, -74.231106 40.552418, -74.231112 40.552425, -74.231118 40.552432, -74.231126 40.552439, -74.231134 40.552445), (-74.231134 40.552445, -74.231318 40.552562))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111039> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111039> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_111039> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_44> .

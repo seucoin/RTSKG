@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_94986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94986> <http://www.w3.org/2000/01/rdf-schema#label> "MARSHALL DR S" .
+<https://w3id.org/rtskg/new_york_city/instance/road_94986> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.028799 40.606498, -74.028695 40.606422, -74.028583 40.606354, -74.028463 40.606293, -74.028336 40.606242, -74.028204 40.606198), (-74.028204 40.606198, -74.028073 40.606166, -74.027939 40.606142, -74.027803 40.606126, -74.027665 40.60612, -74.027527 40.606123, -74.02739 40.606134, -74.027255 40.606155))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94986> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94986> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94986> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_14> .

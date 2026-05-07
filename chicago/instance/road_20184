@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_20184> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_20184> <http://www.w3.org/2000/01/rdf-schema#label> "LATROBE" .
+<https://w3id.org/rtskg/chicago/instance/road_20184> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.757017 41.904048, -87.757023 41.904313, -87.757025 41.9045, -87.757027 41.904611, -87.75703 41.904787, -87.757033 41.904954)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_20184> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_20184> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_3> .
 <https://w3id.org/rtskg/chicago/instance/road_20184> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_25> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_99480> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99480> <http://www.w3.org/2000/01/rdf-schema#label> "JACKSON HOUSES PEDESTRIAN PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_99480> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.918259 40.82259, -73.918166 40.822688, -73.918082 40.822791, -73.918008 40.822898), (-73.918008 40.822898, -73.917945 40.823009, -73.917891 40.823123, -73.917849 40.823239))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99480> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99480> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99480> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_159> .

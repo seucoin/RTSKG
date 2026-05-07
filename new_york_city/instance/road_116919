@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_116919> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116919> <http://www.w3.org/2000/01/rdf-schema#label> "BROWVALE LN" .
+<https://w3id.org/rtskg/new_york_city/instance/road_116919> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.731552 40.766084, -73.731572 40.766081, -73.731592 40.766079, -73.731613 40.766079, -73.731634 40.76608), (-73.731634 40.76608, -73.731654 40.766082, -73.731674 40.766086, -73.731693 40.766091, -73.731712 40.766098))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116919> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ln> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116919> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116919> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_64> .

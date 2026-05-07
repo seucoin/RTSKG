@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_40971> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40971> <http://www.w3.org/2000/01/rdf-schema#label> "CEDAR TER" .
+<https://w3id.org/rtskg/new_york_city/instance/road_40971> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.089329 40.612776, -74.089484 40.6126, -74.08963 40.61242, -74.089765 40.612234, -74.089762 40.61219, -74.089751 40.612146, -74.089734 40.612103)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40971> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ter> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40971> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_40971> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_115> .

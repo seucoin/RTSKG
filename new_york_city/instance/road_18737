@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_18737> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_18737> <http://www.w3.org/2000/01/rdf-schema#label> "JFK ACCESS RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_18737> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.785332 40.651839, -73.785274 40.651847, -73.785236 40.651849, -73.785195 40.651849, -73.785175 40.651847, -73.785151 40.651842, -73.785127 40.651835, -73.78511 40.651828, -73.785076 40.651811, -73.785054 40.651795, -73.785034 40.651774, -73.784982 40.651709)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_18737> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_18737> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_18737> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_132> .

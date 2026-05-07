@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_51691> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_51691> <http://www.w3.org/2000/01/rdf-schema#label> "SURF AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_51691> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.990718 40.573718, -73.990865 40.573678, -73.99095 40.573655, -73.991745 40.573438)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_51691> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_51691> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_51691> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_55> .

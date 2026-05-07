@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_87041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87041> <http://www.w3.org/2000/01/rdf-schema#label> "ELEANOR ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_87041> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.127116 40.579187, -74.127385 40.579041, -74.127667 40.578909, -74.127961 40.578793, -74.128265 40.578693, -74.128576 40.578609, -74.129234 40.578396, -74.129363 40.578372, -74.129488 40.578337, -74.129608 40.578293, -74.12972 40.578239, -74.131243 40.577747)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87041> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87041> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87041> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_118> .

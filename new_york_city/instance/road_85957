@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_85957> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85957> <http://www.w3.org/2000/01/rdf-schema#label> "COLLEGE AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_85957> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.914853 40.830269, -73.914188 40.831406, -73.914143 40.831483, -73.914045 40.831651, -73.913997 40.831733, -73.913682 40.832272)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85957> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85957> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_85957> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_69> .

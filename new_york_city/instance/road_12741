@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_12741> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12741> <http://www.w3.org/2000/01/rdf-schema#label> "SEAGIRT BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_12741> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.747104 40.595459, -73.747372 40.595372, -73.747647 40.595296, -73.747927 40.595234, -73.748211 40.595184, -73.749977 40.595051, -73.751246 40.595038)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12741> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12741> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12741> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_86> .

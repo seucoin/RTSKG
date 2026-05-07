@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_108758> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108758> <http://www.w3.org/2000/01/rdf-schema#label> "MELVILLE RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_108758> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.101159 40.643966, -74.101134 40.64386, -74.100676 40.643748, -74.100547 40.643673, -74.100507 40.643523, -74.100544 40.643411, -74.100619 40.643324, -74.100738 40.643206)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108758> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108758> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108758> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_206> .

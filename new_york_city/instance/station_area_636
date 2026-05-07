@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/station_area_636> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/station_area> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_636> <http://www.w3.org/2000/01/rdf-schema#label> "Prince's Bay_5" .
+<https://w3id.org/rtskg/new_york_city/instance/station_area_636> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POLYGON ((-74.197427 40.526778, -74.195998 40.525145, -74.196654 40.524627, -74.197924 40.522546, -74.198706 40.522056, -74.20372 40.523162, -74.203912 40.523841, -74.205263 40.525586, -74.202022 40.528377, -74.200256 40.528485, -74.199276 40.528197, -74.198142 40.526905, -74.197427 40.526778))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_636> <https://w3id.org/rtskg/ontology/dataproperty/walking_time_minutes> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_636> <https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station> <https://w3id.org/rtskg/new_york_city/instance/station_319> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_636> <https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block> <https://w3id.org/rtskg/new_york_city/instance/block_1467> .

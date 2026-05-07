@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_54252> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54252> <http://www.w3.org/2000/01/rdf-schema#label> "UNIVERSITY AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_54252> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.922312 40.84521, -73.922202 40.845398, -73.922072 40.845579, -73.921924 40.845752, -73.921758 40.845917, -73.921576 40.84607, -73.92138 40.846211)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54252> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54252> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54252> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_235> .

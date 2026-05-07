@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_950> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_950> <http://www.w3.org/2000/01/rdf-schema#label> "HUDSON ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_950> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.00583 40.736542, -74.005791 40.736604, -74.005748 40.736664, -74.005701 40.736723), (-74.005701 40.736723, -74.005649 40.736779, -74.005594 40.736834, -74.005535 40.736886))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_950> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_950> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_950> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_249> .

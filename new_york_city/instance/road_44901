@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_44901> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_44901> <http://www.w3.org/2000/01/rdf-schema#label> "DRUMGOOLE RD W" .
+<https://w3id.org/rtskg/new_york_city/instance/road_44901> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.169747 40.563461, -74.169922 40.563276, -74.170291 40.562977, -74.170521 40.562794, -74.170781 40.562575, -74.170849 40.562517, -74.170974 40.562407, -74.171155 40.562246, -74.171399 40.562026, -74.171788 40.561648, -74.17192 40.56156, -74.171921 40.56156)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_44901> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_44901> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_44901> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_99> .

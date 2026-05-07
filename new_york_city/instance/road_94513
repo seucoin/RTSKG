@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_94513> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94513> <http://www.w3.org/2000/01/rdf-schema#label> "ZACHARY CT" .
+<https://w3id.org/rtskg/new_york_city/instance/road_94513> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.131563 40.62559, -74.131454 40.625569, -74.131343 40.625555, -74.131231 40.625548), (-74.131231 40.625548, -74.131118 40.625547, -74.131006 40.625553, -74.130895 40.625565))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94513> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ct> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94513> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94513> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_251> .

@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_93249> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93249> <http://www.w3.org/2000/01/rdf-schema#label> "GRAND CENTRAL PARKWAY ET 24 EB" .
+<https://w3id.org/rtskg/new_york_city/instance/road_93249> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.727015 40.751225, -73.726621 40.751447, -73.726143 40.751765, -73.725802 40.751973, -73.725477 40.752129, -73.724982 40.752354, -73.724282 40.752653)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93249> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93249> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_101> .

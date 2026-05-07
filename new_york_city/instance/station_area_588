@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/station_area_588> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/station_area> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_588> <http://www.w3.org/2000/01/rdf-schema#label> "Nereid Av_5" .
+<https://w3id.org/rtskg/new_york_city/instance/station_area_588> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POLYGON ((-73.857367 40.895961, -73.858651 40.898564, -73.858598 40.900131, -73.856054 40.901394, -73.850897 40.900033, -73.849993 40.899685, -73.849605 40.898471, -73.852573 40.895969, -73.856558 40.894875, -73.857367 40.895961))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_588> <https://w3id.org/rtskg/ontology/dataproperty/walking_time_minutes> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_588> <https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station> <https://w3id.org/rtskg/new_york_city/instance/station_295> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_588> <https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block> <https://w3id.org/rtskg/new_york_city/instance/block_37683> .

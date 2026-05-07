@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_99755> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99755> <http://www.w3.org/2000/01/rdf-schema#label> "LANGSTON AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_99755> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.715264 40.75312, -73.715072 40.753157, -73.714882 40.753199, -73.714693 40.753245), (-73.714693 40.753245, -73.714506 40.753295, -73.714321 40.75335, -73.714139 40.753408))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99755> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99755> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_99755> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_101> .

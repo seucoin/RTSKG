@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_63653> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_63653> <http://www.w3.org/2000/01/rdf-schema#label> "WOLFES POND PARK PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_63653> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.1891 40.518336, -74.189118 40.518252, -74.189184 40.51807, -74.18921 40.517965, -74.189221 40.517849, -74.18922 40.517746, -74.189189 40.517533, -74.189187 40.517456)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_63653> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_63653> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_63653> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_84> .

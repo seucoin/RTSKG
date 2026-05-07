@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_51780> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_51780> <http://www.w3.org/2000/01/rdf-schema#label> "STRAWBERRY LN" .
+<https://w3id.org/rtskg/new_york_city/instance/road_51780> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.158012 40.529492, -74.158962 40.528961, -74.159008 40.528898, -74.159036 40.528826, -74.159043 40.528752, -74.159028 40.52868, -74.158772 40.52827)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_51780> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ln> .
 <https://w3id.org/rtskg/new_york_city/instance/road_51780> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_51780> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_109> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_131123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_131123> <http://www.w3.org/2000/01/rdf-schema#label> "W 151 STREET PEDESTRIAN OVPS" .
+<https://w3id.org/rtskg/new_york_city/instance/road_131123> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.951173 40.831165, -73.9512 40.831132, -73.951222 40.831098, -73.951239 40.831063), (-73.951239 40.831063, -73.951251 40.831026, -73.951259 40.830988, -73.951261 40.83095), (-73.951261 40.83095, -73.951275 40.830912, -73.951292 40.830782))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_131123> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_131123> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_116> .
 <https://w3id.org/rtskg/new_york_city/instance/road_131123> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_33> .

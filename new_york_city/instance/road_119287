@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_119287> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119287> <http://www.w3.org/2000/01/rdf-schema#label> "MARCY AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_119287> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.956552 40.710517, -73.956554 40.710499, -73.956554 40.710482, -73.956552 40.710464, -73.956549 40.710447), (-73.956549 40.710447, -73.956544 40.71043, -73.956537 40.710413, -73.956528 40.710397, -73.956518 40.710381))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119287> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119287> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119287> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_256> .

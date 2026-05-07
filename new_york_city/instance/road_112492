@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_112492> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112492> <http://www.w3.org/2000/01/rdf-schema#label> "N MEADOW PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_112492> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.957672 40.79012, -73.957791 40.790191, -73.957916 40.790257, -73.958046 40.790316), (-73.958046 40.790316, -73.958181 40.790369, -73.95832 40.790415, -73.958463 40.790455))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112492> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112492> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112492> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_43> .

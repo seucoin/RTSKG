@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_80131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_80131> <http://www.w3.org/2000/01/rdf-schema#label> "BRIGHTON 8 ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_80131> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.960745 40.579889, -73.960637 40.57965, -73.960548 40.579406, -73.960478 40.579159), (-73.960478 40.579159, -73.960427 40.578909, -73.960395 40.578658, -73.960382 40.578405), (-73.960382 40.578405, -73.960781 40.578324))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_80131> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_80131> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_80131> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_29> .

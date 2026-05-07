@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_17273> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_17273> <http://www.w3.org/2000/01/rdf-schema#label> "KIMBALL" .
+<https://w3id.org/rtskg/chicago/instance/road_17273> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.713056 41.95842, -87.713058 41.958481, -87.713062 41.958592, -87.713064 41.958696, -87.713068 41.958811, -87.71307 41.958871, -87.713075 41.959021, -87.713085 41.959315)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_17273> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_17273> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_3> .
 <https://w3id.org/rtskg/chicago/instance/road_17273> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_16> .

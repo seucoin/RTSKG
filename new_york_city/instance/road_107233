@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_107233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107233> <http://www.w3.org/2000/01/rdf-schema#label> "HILL ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_107233> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.078258 40.621989, -74.079458 40.621615, -74.079806 40.621504, -74.079954 40.621456, -74.080371 40.621323, -74.080567 40.62126, -74.080845 40.621171, -74.081025 40.621114, -74.081893 40.620836)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107233> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107233> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107233> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_221> .

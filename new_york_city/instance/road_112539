@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_112539> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112539> <http://www.w3.org/2000/01/rdf-schema#label> "BUTTERFLY GARDEN PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_112539> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.879417 40.849164, -73.8794 40.84917, -73.879384 40.849175, -73.879366 40.849179, -73.879349 40.849181), (-73.879349 40.849181, -73.879331 40.849183, -73.879313 40.849184, -73.879295 40.849183, -73.879277 40.849182))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112539> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112539> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112539> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_31> .

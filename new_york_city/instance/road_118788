@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_118788> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118788> <http://www.w3.org/2000/01/rdf-schema#label> "BAYONNE BRG" .
+<https://w3id.org/rtskg/new_york_city/instance/road_118788> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.143551 40.638546, -74.143606 40.638411, -74.143707 40.63816, -74.144376 40.636509, -74.144649 40.635834)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118788> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_brg> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118788> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118788> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_187> .

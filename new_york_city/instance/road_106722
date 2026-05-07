@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_106722> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106722> <http://www.w3.org/2000/01/rdf-schema#label> "127 AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_106722> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.773979 40.678485, -73.773946 40.678461, -73.773917 40.678436, -73.773891 40.678408, -73.773869 40.678379), (-73.773869 40.678379, -73.77385 40.678348, -73.773836 40.678316, -73.773825 40.678283, -73.773819 40.67825))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106722> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106722> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_106722> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_218> .

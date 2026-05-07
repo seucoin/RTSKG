@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_119501> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119501> <http://www.w3.org/2000/01/rdf-schema#label> "COLLEGE OF STATEN ISLAND DVWY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_119501> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.1512 40.605485, -74.151228 40.605477, -74.151256 40.605467, -74.151284 40.605456), (-74.151284 40.605456, -74.15131 40.605443, -74.151335 40.60543, -74.151359 40.605415))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119501> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119501> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119501> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_23> .

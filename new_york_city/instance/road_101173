@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_101173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101173> <http://www.w3.org/2000/01/rdf-schema#label> "SPRING CREEK GREENWAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_101173> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.872686 40.648414, -73.872602 40.648524, -73.872509 40.648631, -73.87241 40.648733), (-73.87241 40.648733, -73.872303 40.648831, -73.87219 40.648925, -73.87207 40.649014))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101173> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101173> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_76> .

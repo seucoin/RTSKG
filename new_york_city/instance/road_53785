@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_53785> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53785> <http://www.w3.org/2000/01/rdf-schema#label> "TATRO ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_53785> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.130942 40.560551, -74.130326 40.560143, -74.130218 40.559906, -74.130129 40.559664, -74.13006 40.559418, -74.130011 40.559169, -74.129983 40.558919)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53785> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53785> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53785> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_176> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_116139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116139> <http://www.w3.org/2000/01/rdf-schema#label> "OUTLOOK WAY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_116139> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.024012 40.687254, -74.024151 40.687292, -74.024285 40.68734, -74.024413 40.687396, -74.024535 40.68746, -74.024649 40.687531, -74.024754 40.68761)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116139> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_way> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116139> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116139> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_105> .

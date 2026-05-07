@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_53133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53133> <http://www.w3.org/2000/01/rdf-schema#label> "DARCEY AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_53133> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.148481 40.608144, -74.148513 40.60809, -74.148563 40.60804, -74.148629 40.608, -74.148707 40.607974, -74.148788 40.607963, -74.148865 40.607967, -74.149528 40.608074)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53133> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53133> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_53133> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_23> .

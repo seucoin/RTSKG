@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_82276> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_82276> <http://www.w3.org/2000/01/rdf-schema#label> "BELT PKWY EB EN PENNSYLVANIA AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_82276> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.875672 40.64312, -73.875656 40.643337, -73.875663 40.643532, -73.875642 40.643715, -73.8756 40.643883, -73.875547 40.644014, -73.875523 40.644119, -73.875481 40.64427)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_82276> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_82276> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_76> .

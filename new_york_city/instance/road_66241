@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_66241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66241> <http://www.w3.org/2000/01/rdf-schema#label> "STERLING PL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_66241> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.928099 40.67133, -73.92672 40.671254, -73.926603 40.671247, -73.926455 40.671239, -73.926357 40.671234, -73.92624 40.671227, -73.926125 40.671221, -73.925973 40.671213, -73.925876 40.671207, -73.92533 40.671177)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66241> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66241> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66241> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_61> .

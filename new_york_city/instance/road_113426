@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_113426> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113426> <http://www.w3.org/2000/01/rdf-schema#label> "E GUN HILL RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_113426> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.83011 40.861306, -73.829545 40.860298), (-73.829545 40.860298, -73.82953 40.860247, -73.829522 40.860196, -73.82952 40.860144, -73.829525 40.860092), (-73.829525 40.860092, -73.829537 40.860041, -73.829555 40.859991, -73.82958 40.859943, -73.829611 40.859897))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113426> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113426> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_113426> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_3> .

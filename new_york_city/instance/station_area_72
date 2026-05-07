@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/station_area_72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/station_area> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_72> <http://www.w3.org/2000/01/rdf-schema#label> "183 St_5" .
+<https://w3id.org/rtskg/new_york_city/instance/station_area_72> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POLYGON ((-73.907299 40.856404, -73.908012 40.858203, -73.907768 40.859605, -73.904433 40.861317, -73.902078 40.861642, -73.901935 40.861591, -73.900684 40.860019, -73.900101 40.859054, -73.899652 40.857396, -73.899725 40.857282, -73.903971 40.854963, -73.907299 40.856404))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_72> <https://w3id.org/rtskg/ontology/dataproperty/walking_time_minutes> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_72> <https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station> <https://w3id.org/rtskg/new_york_city/instance/station_36> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_72> <https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block> <https://w3id.org/rtskg/new_york_city/instance/block_23391> .

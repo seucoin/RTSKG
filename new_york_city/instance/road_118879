@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_118879> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118879> <http://www.w3.org/2000/01/rdf-schema#label> "CHISHOLM PARK PENN RING DR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_118879> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.875405 40.642406, -73.875511 40.642369, -73.875613 40.642328, -73.875712 40.642282), (-73.875712 40.642282, -73.875808 40.642232, -73.875901 40.642179, -73.875989 40.642122))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118879> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118879> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118879> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_76> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_127843> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127843> <http://www.w3.org/2000/01/rdf-schema#label> "DR M L KING JR EXPY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_127843> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.154394 40.610464, -74.154419 40.61037, -74.154559 40.609845), (-74.154559 40.609845, -74.154576 40.60981, -74.154595 40.609777, -74.154616 40.609744), (-74.154616 40.609744, -74.15464 40.609713, -74.154665 40.609682, -74.154693 40.609652))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127843> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_expy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127843> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_127843> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_23> .

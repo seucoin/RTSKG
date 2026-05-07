@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_119137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119137> <http://www.w3.org/2000/01/rdf-schema#label> "CO-OP CITY BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_119137> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.823445 40.880017, -73.823581 40.88001, -73.823715 40.879995, -73.823847 40.879971), (-73.823847 40.879971, -73.823976 40.879939, -73.824101 40.879899, -73.824221 40.879851), (-73.824221 40.879851, -73.824818 40.879656, -73.825463 40.879434))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119137> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119137> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_119137> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_51> .

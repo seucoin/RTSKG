@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_40669> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_40669> <http://www.w3.org/2000/01/rdf-schema#label> "BELDEN" .
+<https://w3id.org/rtskg/chicago/instance/road_40669> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.751173 41.922355, -87.751306 41.922347, -87.751789 41.92234, -87.751839 41.922339, -87.751954 41.922337, -87.752404 41.922331)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_40669> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_40669> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_3> .
 <https://w3id.org/rtskg/chicago/instance/road_40669> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_19> .

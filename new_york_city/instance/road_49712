@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_49712> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_49712> <http://www.w3.org/2000/01/rdf-schema#label> "CASTLE HILL AVENUE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_49712> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.848046 40.819095, -73.848119 40.819411, -73.848138 40.81949, -73.848187 40.819702, -73.848216 40.819826, -73.84827 40.820061, -73.848293 40.82016, -73.848308 40.820223, -73.848312 40.820242, -73.848333 40.82033, -73.848342 40.820371)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_49712> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_49712> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_49712> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_213> .

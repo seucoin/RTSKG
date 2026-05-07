@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_120396> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120396> <http://www.w3.org/2000/01/rdf-schema#label> "NORTH BRIDGE ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_120396> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.234913 40.526292, -74.23495 40.525822, -74.237272 40.525578, -74.237666 40.525517, -74.238064 40.525468, -74.238464 40.525431, -74.238865 40.525407, -74.239267 40.525395)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120396> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120396> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_120396> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_44> .

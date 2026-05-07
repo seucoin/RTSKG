@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_115644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115644> <http://www.w3.org/2000/01/rdf-schema#label> "MARION AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_115644> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.892853 40.86184, -73.892346 40.862703, -73.892296 40.862788, -73.892234 40.862893)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115644> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115644> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_115644> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_18> .

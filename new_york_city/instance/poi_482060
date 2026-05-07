@@ -1,7 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/poi_482060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/poi> .
 <https://w3id.org/rtskg/new_york_city/instance/poi_482060> <http://www.w3.org/2000/01/rdf-schema#label> "Public School 376" .
-<https://w3id.org/rtskg/new_york_city/instance/poi_482060> <https://w3id.org/rtskg/ontology/dataproperty/latitude> "40.6980638"^^<http://www.w3.org/2001/XMLSchema#double> .
-<https://w3id.org/rtskg/new_york_city/instance/poi_482060> <https://w3id.org/rtskg/ontology/dataproperty/longitude> "-73.9202222"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://w3id.org/rtskg/new_york_city/instance/poi_482060> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POINT(-73.920222 40.698064)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/poi_482060> <https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category> <https://w3id.org/rtskg/new_york_city/instance/poi_category_culture_and_education> .
 <https://w3id.org/rtskg/new_york_city/instance/poi_482060> <https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_block> <https://w3id.org/rtskg/new_york_city/instance/block_13080> .
 <https://w3id.org/rtskg/new_york_city/instance/poi_482060> <https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_349> .

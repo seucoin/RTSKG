@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_91361> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91361> <http://www.w3.org/2000/01/rdf-schema#label> "16 AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_91361> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.780734 40.783827, -73.779603 40.784817, -73.77954 40.784872, -73.779289 40.785092), (-73.779289 40.785092, -73.7792 40.785164, -73.779106 40.785232, -73.779006 40.785295), (-73.779006 40.785295, -73.778901 40.785353, -73.778791 40.785406, -73.778678 40.785454))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91361> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91361> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_91361> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_15> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_31539> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_31539> <http://www.w3.org/2000/01/rdf-schema#label> "BOOTH ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_31539> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.871379 40.731392, -73.871219 40.731455, -73.871048 40.731504, -73.87087 40.731537, -73.870689 40.731554, -73.870508 40.731555, -73.869833 40.731318, -73.869367 40.731155)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_31539> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_31539> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_31539> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_196> .

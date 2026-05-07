@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_36833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36833> <http://www.w3.org/2000/01/rdf-schema#label> "METCALF AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_36833> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.870503 40.820373, -73.870567 40.820657, -73.870586 40.820741, -73.870605 40.820822, -73.870623 40.820901, -73.870637 40.820965, -73.870659 40.821058, -73.870674 40.821126, -73.870693 40.821212, -73.870707 40.821272, -73.870726 40.821352, -73.870742 40.821427)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36833> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36833> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_36833> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_213> .

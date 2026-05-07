@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/station_area_492> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/station_area> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_492> <http://www.w3.org/2000/01/rdf-schema#label> "Huguenot_5" .
+<https://w3id.org/rtskg/new_york_city/instance/station_area_492> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POLYGON ((-74.194569 40.530537, -74.19624 40.532844, -74.196425 40.533158, -74.194348 40.536008, -74.193659 40.535874, -74.18987 40.535007, -74.189062 40.534053, -74.18848 40.533345, -74.189025 40.531208, -74.190291 40.529878, -74.192236 40.529863, -74.194569 40.530537))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_492> <https://w3id.org/rtskg/ontology/dataproperty/walking_time_minutes> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_492> <https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station> <https://w3id.org/rtskg/new_york_city/instance/station_247> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_492> <https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block> <https://w3id.org/rtskg/new_york_city/instance/block_1407> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_87412> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87412> <http://www.w3.org/2000/01/rdf-schema#label> "BRONX RVR PKWY NB EN BRONX BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_87412> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.862634 40.893254, -73.862691 40.89333, -73.862732 40.893416, -73.862754 40.89351, -73.862753 40.893606, -73.862731 40.8937, -73.862687 40.893789, -73.862626 40.893868, -73.862551 40.893935)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87412> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87412> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_240> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87412> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_91> .

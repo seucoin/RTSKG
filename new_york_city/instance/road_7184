@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_7184> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_7184> <http://www.w3.org/2000/01/rdf-schema#label> "N CONDUIT AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_7184> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.840469 40.668727, -73.840423 40.668601, -73.840351 40.668481, -73.840254 40.668372, -73.840137 40.668276, -73.839986 40.668171, -73.839779 40.668073, -73.839442 40.667942)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_7184> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_7184> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_7184> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_124> .

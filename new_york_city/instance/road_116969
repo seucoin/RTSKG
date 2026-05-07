@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_116969> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116969> <http://www.w3.org/2000/01/rdf-schema#label> "MATTHEWSON RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_116969> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.920535 40.853825, -73.920615 40.853831, -73.920676 40.853819, -73.920726 40.853801, -73.920751 40.853777, -73.920769 40.853743, -73.920772 40.853701, -73.920759 40.853672, -73.920757 40.85367)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116969> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116969> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116969> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_235> .

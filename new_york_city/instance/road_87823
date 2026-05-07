@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_87823> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87823> <http://www.w3.org/2000/01/rdf-schema#label> "PITNEY AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_87823> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.221699 40.5305, -74.221848 40.530508, -74.221996 40.53052, -74.222143 40.530537), (-74.222143 40.530537, -74.222289 40.53056, -74.222434 40.530587, -74.222577 40.530618))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87823> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87823> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_87823> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_44> .

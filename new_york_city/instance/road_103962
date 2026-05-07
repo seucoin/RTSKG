@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_103962> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103962> <http://www.w3.org/2000/01/rdf-schema#label> "CAMPUS RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_103962> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.956367 40.631194, -73.956305 40.631231, -73.956241 40.631265, -73.956175 40.631296), (-73.956175 40.631296, -73.956106 40.631324, -73.956034 40.631349, -73.955962 40.631371), (-73.955962 40.631371, -73.955471 40.631431))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103962> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103962> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_103962> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_89> .

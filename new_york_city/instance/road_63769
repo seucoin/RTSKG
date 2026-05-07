@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_63769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_63769> <http://www.w3.org/2000/01/rdf-schema#label> "SEAVIEW AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_63769> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.88888 40.634425, -73.888479 40.634685, -73.888436 40.634713, -73.888186 40.634875, -73.888137 40.634907)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_63769> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_63769> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_63769> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_39> .

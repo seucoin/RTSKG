@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_68187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68187> <http://www.w3.org/2000/01/rdf-schema#label> "CREST RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_68187> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.755662 40.5928, -73.755766 40.593089, -73.755766 40.593089, -73.755851 40.593383, -73.755916 40.59368, -73.75596 40.59398, -73.755984 40.594282, -73.755987 40.594583, -73.755971 40.594882, -73.756006 40.595119)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68187> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68187> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_68187> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_86> .

@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_33694> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_33694> <http://www.w3.org/2000/01/rdf-schema#label> "HOYNE" .
+<https://w3id.org/rtskg/chicago/instance/road_33694> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.67615 41.772046, -87.67615 41.771941, -87.676143 41.771593, -87.67614 41.771472, -87.676135 41.77125, -87.67613 41.771138)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_33694> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
 <https://w3id.org/rtskg/chicago/instance/road_33694> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_4> .
 <https://w3id.org/rtskg/chicago/instance/road_33694> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_67> .

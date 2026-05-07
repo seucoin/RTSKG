@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_89972> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89972> <http://www.w3.org/2000/01/rdf-schema#label> "RED CROSS PL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_89972> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.989807 40.699531, -73.989078 40.6995, -73.989002 40.699485, -73.988931 40.699456, -73.98887 40.699413, -73.988827 40.699361, -73.988803 40.699305)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89972> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89972> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_89972> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_65> .

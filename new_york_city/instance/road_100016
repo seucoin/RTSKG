@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_100016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100016> <http://www.w3.org/2000/01/rdf-schema#label> "GRAND CENTRAL PY EB EN 34 AV" .
+<https://w3id.org/rtskg/new_york_city/instance/road_100016> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.854222 40.756676, -73.853732 40.756057, -73.853419 40.755527, -73.853239 40.755104, -73.853009 40.754563)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100016> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100016> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_173> .
 <https://w3id.org/rtskg/new_york_city/instance/road_100016> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_57> .

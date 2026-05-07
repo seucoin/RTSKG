@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_93700> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93700> <http://www.w3.org/2000/01/rdf-schema#label> "STUYVESANT OVAL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_93700> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.978475 40.731582, -73.978393 40.731522, -73.978305 40.731467, -73.978212 40.731418, -73.978114 40.731375), (-73.978114 40.731375, -73.978011 40.731338, -73.977905 40.731307, -73.977796 40.731283, -73.977685 40.731266))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93700> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_oval> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93700> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_93700> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_224> .

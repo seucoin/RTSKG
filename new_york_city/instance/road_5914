@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_5914> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_5914> <http://www.w3.org/2000/01/rdf-schema#label> "HENLEY RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_5914> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.780325 40.718191, -73.780009 40.718222, -73.779688 40.718234, -73.779366 40.718228, -73.779045 40.718204, -73.778727 40.718161, -73.778416 40.7181, -73.778114 40.718023)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_5914> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_5914> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_5914> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_131> .

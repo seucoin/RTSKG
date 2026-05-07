@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_108395> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108395> <http://www.w3.org/2000/01/rdf-schema#label> "PEDESTRIAN UPAS" .
+<https://w3id.org/rtskg/new_york_city/instance/road_108395> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.723677 40.729081, -73.723629 40.729072, -73.723587 40.729067)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108395> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_upas> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108395> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108395> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_19> .

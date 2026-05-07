@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_20071> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_20071> <http://www.w3.org/2000/01/rdf-schema#label> "LOOMIS" .
+<https://w3id.org/rtskg/chicago/instance/road_20071> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.658849 41.760436, -87.658849 41.760358, -87.658841 41.760146, -87.658837 41.759979, -87.658835 41.759921, -87.65883 41.759708, -87.658825 41.759524)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_20071> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_blvd> .
 <https://w3id.org/rtskg/chicago/instance/road_20071> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_4> .
 <https://w3id.org/rtskg/chicago/instance/road_20071> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_67> .

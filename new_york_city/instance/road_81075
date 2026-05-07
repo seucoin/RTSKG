@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_81075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_81075> <http://www.w3.org/2000/01/rdf-schema#label> "ISELIN AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_81075> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.905179 40.898044, -73.905072 40.898408, -73.905053 40.898482, -73.905051 40.898562, -73.905069 40.898642, -73.905107 40.898719, -73.905147 40.898768)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_81075> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_81075> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_81075> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_200> .

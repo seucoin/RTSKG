@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_30412> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_30412> <http://www.w3.org/2000/01/rdf-schema#label> "CALAMUS AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_30412> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.895103 40.735029, -73.894925 40.735016, -73.89475 40.734991, -73.89475 40.734991, -73.894749 40.734991, -73.894577 40.734955, -73.894577 40.734955, -73.894577 40.734955, -73.894409 40.734908, -73.894248 40.73485)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_30412> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_30412> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_30412> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_83> .

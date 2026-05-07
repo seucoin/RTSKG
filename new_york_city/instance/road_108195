@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_108195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108195> <http://www.w3.org/2000/01/rdf-schema#label> "STONE MILL RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_108195> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.877123 40.858976, -73.877215 40.858961, -73.877308 40.858953, -73.877402 40.858951), (-73.877402 40.858951, -73.877496 40.858956, -73.877588 40.858968, -73.877679 40.858986))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108195> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108195> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108195> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_31> .

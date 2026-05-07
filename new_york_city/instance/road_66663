@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_66663> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66663> <http://www.w3.org/2000/01/rdf-schema#label> "CROSS BAY BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_66663> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.83001 40.634691, -73.829826 40.634339, -73.82961 40.633865, -73.829502 40.633609, -73.829359 40.633242, -73.829077 40.632372, -73.828843 40.63154, -73.828749 40.631216, -73.825878 40.621173, -73.825473 40.620024)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66663> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66663> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66663> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_2> .

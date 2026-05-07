@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_27668> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_27668> <http://www.w3.org/2000/01/rdf-schema#label> "PITKIN AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_27668> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.856872 40.676463, -73.855924 40.676174, -73.855479 40.676017, -73.855023 40.675876, -73.85456 40.67575, -73.85409 40.67564, -73.853615 40.675547, -73.853215 40.675453)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_27668> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_27668> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_27668> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_180> .

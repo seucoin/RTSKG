@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_101570> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101570> <http://www.w3.org/2000/01/rdf-schema#label> "HUGH L CAREY TUNNEL EN" .
+<https://w3id.org/rtskg/new_york_city/instance/road_101570> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.015623 40.707218, -74.015556 40.707217, -74.015489 40.707214, -74.015422 40.707207), (-74.015422 40.707207, -74.015356 40.707197, -74.01529 40.707185, -74.015226 40.70717))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101570> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_en> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101570> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_101570> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_261> .

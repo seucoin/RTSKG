@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_83748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83748> <http://www.w3.org/2000/01/rdf-schema#label> "ARDSLEY RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_83748> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.751244 40.773533, -73.751353 40.773396, -73.751443 40.77325, -73.751512 40.773096, -73.751557 40.772939, -73.75158 40.77278)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83748> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83748> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_83748> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_64> .

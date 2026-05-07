@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_61479> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61479> <http://www.w3.org/2000/01/rdf-schema#label> "JACKSON ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_61479> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.940232 40.7171, -73.939504 40.717327, -73.939402 40.717358, -73.938807 40.717544, -73.938717 40.717572, -73.938463 40.717651)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61479> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61479> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_61479> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_80> .

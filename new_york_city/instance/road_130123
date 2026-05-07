@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_130123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130123> <http://www.w3.org/2000/01/rdf-schema#label> "BATTERY PARK UNDERPASS" .
+<https://w3id.org/rtskg/new_york_city/instance/road_130123> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.016236 40.706439, -74.016296 40.706089, -74.016432 40.705771, -74.016445 40.70574, -74.016467 40.705688)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130123> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130123> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_13> .
 <https://w3id.org/rtskg/new_york_city/instance/road_130123> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_309> .

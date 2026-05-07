@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_4745> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_4745> <http://www.w3.org/2000/01/rdf-schema#label> "KISSENA BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_4745> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.814659 40.735344, -73.814679 40.734916, -73.814688 40.734708, -73.814695 40.734557)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_4745> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_4745> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_4745> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_121> .

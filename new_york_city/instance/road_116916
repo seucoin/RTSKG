@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_116916> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116916> <http://www.w3.org/2000/01/rdf-schema#label> "STADIUM PL S" .
+<https://w3id.org/rtskg/new_york_city/instance/road_116916> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.849593 40.752917, -73.849671 40.753149), (-73.849671 40.753149, -73.849665 40.753205, -73.849653 40.75326, -73.849634 40.753314), (-73.849634 40.753314, -73.849609 40.753366, -73.849579 40.753417, -73.849542 40.753466))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116916> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116916> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_116916> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_93> .

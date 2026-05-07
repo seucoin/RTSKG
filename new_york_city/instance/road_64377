@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_64377> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64377> <http://www.w3.org/2000/01/rdf-schema#label> "E LAKE DR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_64377> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.96392 40.660142, -73.963754 40.660203, -73.963593 40.66027, -73.963436 40.660344), (-73.963436 40.660344, -73.963289 40.660402, -73.963135 40.660451, -73.962977 40.660489, -73.962814 40.660518))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64377> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_dr> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64377> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_64377> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_188> .

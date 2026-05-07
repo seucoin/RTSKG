@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_72830> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_72830> <http://www.w3.org/2000/01/rdf-schema#label> "HARING ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_72830> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.86747 40.726337, -73.867045 40.726182, -73.865292 40.725543)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_72830> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_72830> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_72830> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_196> .

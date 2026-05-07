@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_118779> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118779> <http://www.w3.org/2000/01/rdf-schema#label> "CHISHOLM PRK PENN BIKE CONNECTOR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_118779> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.874273 40.645622, -73.874306 40.645534, -73.87433 40.645445, -73.874345 40.645355), (-73.874345 40.645355, -73.874352 40.645264, -73.87435 40.645173, -73.874339 40.645083))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118779> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_118779> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_76> .

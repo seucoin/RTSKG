@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_121667> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121667> <http://www.w3.org/2000/01/rdf-schema#label> "ST MARYS ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_121667> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.909766 40.808612, -73.909658 40.808589, -73.908838 40.808417)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121667> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121667> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121667> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_168> .

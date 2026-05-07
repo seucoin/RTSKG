@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_54224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54224> <http://www.w3.org/2000/01/rdf-schema#label> "ST ANNS AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_54224> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.91659 40.808142, -73.916507 40.808276, -73.916402 40.808446, -73.916185 40.808798)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54224> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54224> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54224> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_168> .

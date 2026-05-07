@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_121253> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121253> <http://www.w3.org/2000/01/rdf-schema#label> "EMMONS AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_121253> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.927122 40.584888, -73.927074 40.584872, -73.927024 40.584859, -73.926973 40.584849), (-73.926973 40.584849, -73.926921 40.584842, -73.926869 40.584837, -73.926816 40.584836))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121253> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121253> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_121253> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_154> .

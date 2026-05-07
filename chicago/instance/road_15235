@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/chicago/instance/road_15235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/chicago/instance/road_15235> <http://www.w3.org/2000/01/rdf-schema#label> "WALNUT" .
+<https://w3id.org/rtskg/chicago/instance/road_15235> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.713579 41.88547, -87.713692 41.885472, -87.714007 41.885476, -87.714645 41.885486, -87.714823 41.885495, -87.715378 41.885524, -87.715449 41.885528, -87.715565 41.885533, -87.716036 41.885559)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/chicago/instance/road_15235> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_st> .
 <https://w3id.org/rtskg/chicago/instance/road_15235> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_6> .
 <https://w3id.org/rtskg/chicago/instance/road_15235> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_27> .

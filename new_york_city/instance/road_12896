@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_12896> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12896> <http://www.w3.org/2000/01/rdf-schema#label> "ARVERNE BLVD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_12896> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.784292 40.592454, -73.78458 40.592424, -73.784869 40.592406, -73.785158 40.5924), (-73.785158 40.5924, -73.785448 40.592405, -73.785737 40.592423, -73.786025 40.592452))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12896> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_blvd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12896> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_12896> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_117> .

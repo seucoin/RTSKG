@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_54425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54425> <http://www.w3.org/2000/01/rdf-schema#label> "INDEPENDENCE AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_54425> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.911839 40.896179, -73.911803 40.896347, -73.911805 40.896485, -73.91179 40.896624, -73.911758 40.896762, -73.911709 40.896898, -73.911643 40.897028, -73.911562 40.897152, -73.911425 40.89761)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54425> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54425> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_54425> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_200> .

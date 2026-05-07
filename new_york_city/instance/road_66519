@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_66519> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66519> <http://www.w3.org/2000/01/rdf-schema#label> "COOLIDGE AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_66519> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.818004 40.715017, -73.817695 40.714976, -73.817383 40.714949, -73.81707 40.714935, -73.816756 40.714935, -73.816443 40.714948)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66519> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66519> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_66519> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_28> .

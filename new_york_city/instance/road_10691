@@ -1,4 +1,5 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_10691> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_10691> <http://www.w3.org/2000/01/rdf-schema#label> "CONNECTOR ROAD TO ASTORIA BL N" .
+<https://w3id.org/rtskg/new_york_city/instance/road_10691> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.890116 40.765552, -73.890066 40.765566, -73.890017 40.765582, -73.88997 40.765601, -73.889926 40.765623), (-73.889926 40.765623, -73.889607 40.765857))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_10691> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_10691> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_129> .

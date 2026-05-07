@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_7739> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_7739> <http://www.w3.org/2000/01/rdf-schema#label> "INGRAM ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_7739> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.843948 40.713004, -73.843496 40.712844, -73.84349 40.712842, -73.843385 40.712805, -73.843229 40.712745, -73.84283 40.712591, -73.842439 40.712427, -73.842286 40.712363, -73.842186 40.712318, -73.842136 40.712296, -73.841751 40.712122)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_7739> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
 <https://w3id.org/rtskg/new_york_city/instance/road_7739> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_7739> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_95> .

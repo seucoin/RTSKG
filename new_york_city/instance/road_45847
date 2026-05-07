@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_45847> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45847> <http://www.w3.org/2000/01/rdf-schema#label> "CROES AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_45847> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.868445 40.820041, -73.868462 40.820114, -73.868477 40.820185, -73.868491 40.820248, -73.868504 40.820306, -73.868519 40.82037, -73.868535 40.820444, -73.868551 40.820517, -73.868577 40.820633)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45847> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45847> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_45847> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_213> .

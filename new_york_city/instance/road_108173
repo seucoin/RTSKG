@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_108173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108173> <http://www.w3.org/2000/01/rdf-schema#label> "SHERIDAN BOULEVARD SB ET" .
+<https://w3id.org/rtskg/new_york_city/instance/road_108173> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.886014 40.828247, -73.885798 40.829332, -73.885681 40.829916, -73.885638 40.830047, -73.885473 40.830632)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108173> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_et> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108173> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_108173> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_60> .

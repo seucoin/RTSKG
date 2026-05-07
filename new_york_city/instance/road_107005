@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_107005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107005> <http://www.w3.org/2000/01/rdf-schema#label> "INTERVALE AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_107005> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.892865 40.831774, -73.892839 40.831801, -73.892811 40.831826, -73.892779 40.831848, -73.892745 40.831868, -73.892709 40.831886), (-73.892709 40.831886, -73.89267 40.831901, -73.89263 40.831913, -73.892589 40.831922, -73.892546 40.831929, -73.892503 40.831932))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107005> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107005> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_107005> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_60> .

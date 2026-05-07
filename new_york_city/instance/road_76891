@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_76891> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_76891> <http://www.w3.org/2000/01/rdf-schema#label> "BRONX PARK E" .
+<https://w3id.org/rtskg/new_york_city/instance/road_76891> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.86847 40.851979, -73.868533 40.852047, -73.868588 40.852119, -73.868635 40.852193), (-73.868635 40.852193, -73.868673 40.852271, -73.868703 40.852351, -73.868724 40.852432))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_76891> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_park> .
 <https://w3id.org/rtskg/new_york_city/instance/road_76891> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
 <https://w3id.org/rtskg/new_york_city/instance/road_76891> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_185> .

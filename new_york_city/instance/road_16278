@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_16278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_16278> <http://www.w3.org/2000/01/rdf-schema#label> "BIRMINGTON PKWY" .
+<https://w3id.org/rtskg/new_york_city/instance/road_16278> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.758261 40.75758, -73.758313 40.75759, -73.758366 40.757614, -73.75841 40.75765, -73.758438 40.757697, -73.758445 40.757746, -73.758433 40.757791, -73.758408 40.757828, -73.757765 40.758309, -73.756257 40.758439)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_16278> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pkwy> .
 <https://w3id.org/rtskg/new_york_city/instance/road_16278> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_4> .
 <https://w3id.org/rtskg/new_york_city/instance/road_16278> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_175> .

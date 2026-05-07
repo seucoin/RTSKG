@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_31910> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_31910> <http://www.w3.org/2000/01/rdf-schema#label> "CLOVE RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_31910> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.106091 40.618992, -74.105986 40.618937, -74.105885 40.618877, -74.105788 40.618814), (-74.105788 40.618814, -74.105696 40.618746, -74.105609 40.618675, -74.105527 40.618601))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_31910> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_31910> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_31910> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_245> .

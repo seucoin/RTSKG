@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/station_area_334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/station_area> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_334> <http://www.w3.org/2000/01/rdf-schema#label> "Burke Av_5" .
+<https://w3id.org/rtskg/new_york_city/instance/station_area_334> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "POLYGON ((-73.868289 40.867909, -73.869358 40.86863, -73.87052 40.869672, -73.871509 40.871693, -73.870691 40.873235, -73.868144 40.875374, -73.867177 40.875355, -73.865856 40.875041, -73.863325 40.872876, -73.862392 40.871357, -73.864357 40.868767, -73.865815 40.867864, -73.868289 40.867909))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_334> <https://w3id.org/rtskg/ontology/dataproperty/walking_time_minutes> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_334> <https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station> <https://w3id.org/rtskg/new_york_city/instance/station_168> .
 <https://w3id.org/rtskg/new_york_city/instance/station_area_334> <https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block> <https://w3id.org/rtskg/new_york_city/instance/block_23268> .

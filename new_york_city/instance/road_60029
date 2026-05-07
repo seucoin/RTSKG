@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_60029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_60029> <http://www.w3.org/2000/01/rdf-schema#label> "GRAHAM AVE" .
+<https://w3id.org/rtskg/new_york_city/instance/road_60029> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.947475 40.722736, -73.947538 40.722874, -73.947581 40.723018, -73.947603 40.723164, -73.947604 40.723312, -73.947583 40.723457)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_60029> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_ave> .
 <https://w3id.org/rtskg/new_york_city/instance/road_60029> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
 <https://w3id.org/rtskg/new_york_city/instance/road_60029> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_112> .

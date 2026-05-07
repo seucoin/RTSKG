@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_112450> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112450> <http://www.w3.org/2000/01/rdf-schema#label> "CENTRAL PARK POOL PATH" .
+<https://w3id.org/rtskg/new_york_city/instance/road_112450> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-73.959615 40.794716, -73.959619 40.794741, -73.959625 40.794765, -73.959633 40.794789), (-73.959633 40.794789, -73.959643 40.794813, -73.959656 40.794836, -73.959671 40.794858))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112450> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_path> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112450> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_112450> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_43> .

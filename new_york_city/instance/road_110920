@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_110920> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110920> <http://www.w3.org/2000/01/rdf-schema#label> "SHARROTTS RD" .
+<https://w3id.org/rtskg/new_york_city/instance/road_110920> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.232749 40.537615, -74.233379 40.537716, -74.233691 40.537766, -74.234494 40.53791)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110920> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_rd> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110920> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_110920> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_44> .

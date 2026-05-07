@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_94675> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94675> <http://www.w3.org/2000/01/rdf-schema#label> "USS IOWA CIR" .
+<https://w3id.org/rtskg/new_york_city/instance/road_94675> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-74.059221 40.596653, -74.058792 40.597022, -74.05876 40.597098, -74.058747 40.597179, -74.058753 40.59726, -74.058779 40.597337, -74.059049 40.597547)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94675> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_cir> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94675> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_5> .
 <https://w3id.org/rtskg/new_york_city/instance/road_94675> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_6> .

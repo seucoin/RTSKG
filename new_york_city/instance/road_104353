@@ -1,5 +1,6 @@
 <https://w3id.org/rtskg/new_york_city/instance/road_104353> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104353> <http://www.w3.org/2000/01/rdf-schema#label> "PETER MINUIT PL" .
+<https://w3id.org/rtskg/new_york_city/instance/road_104353> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "MULTILINESTRING ((-74.01432 40.701237, -74.01429 40.701235, -74.01426 40.701235, -74.01423 40.701237), (-74.01423 40.701237, -74.014201 40.701241, -74.014172 40.701248, -74.014144 40.701256))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104353> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_pl> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104353> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_1> .
 <https://w3id.org/rtskg/new_york_city/instance/road_104353> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_12> .
