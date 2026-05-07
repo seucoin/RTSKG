@@ -2,8 +2,6 @@
 
 ![RTSKG](./docs/rtskg.png)
 
-RTSKG is a rail transit station knowledge graph dataset designed to model spatial and semantic interactions among urban entities related to rail transit stations. It currently contains sub-KGs for New York City and Chicago, together with the RTSKG ontology and RDF dump files.
-
 ## Project Structure
 
 - Ontology: [ontology.owl](./ontology/ontology.owl)
@@ -27,8 +25,6 @@ The persistent namespace of RTSKG is maintained via w3id:
 - New York City instance: <https://w3id.org/rtskg/new_york_city/instance/>
 - Chicago instance: <https://w3id.org/rtskg/chicago/instance/>
 
-
-## License
 
 ## License
 
