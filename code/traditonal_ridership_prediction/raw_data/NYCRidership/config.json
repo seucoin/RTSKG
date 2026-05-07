@@ -1,0 +1,44 @@
+{
+  "geo": {
+    "including_types": [
+      "Point"
+    ],
+    "Point": {}
+  },
+  "rel": {
+    "including_types": [
+      "geo"
+    ],
+    "geo": {
+      "cost": "num"
+    }
+  },
+  "dyna": {
+    "including_types": [
+      "state"
+    ],
+    "state": {
+      "entity_id": "geo_id",
+      "traffic_speed": "num"
+    }
+  },
+  "info": {
+    "data_col": [
+      "rides"
+    ],
+    "weight_col": "cost",
+    "data_files": [
+      "NYCRidership_2023"
+    ],
+    "geo_file": "NYCRidership",
+    "rel_file": "NYCRidership",
+    "output_dim": 1,
+    "input_window": 12,
+    "output_window": 12,
+    "time_intervals": 86400,
+    "init_weight_inf_or_zero": "inf",
+    "set_weight_link_or_dist": "dist",
+    "calculate_weight_adj": true,
+    "weight_adj_epsilon": 0.1
+  }
+}
