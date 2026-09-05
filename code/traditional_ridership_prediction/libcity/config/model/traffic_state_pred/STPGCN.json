@@ -1,0 +1,17 @@
+{
+  "max_epoch": 30,
+  "learner": "adam",
+  "learning_rate": 0.008,
+
+  "use_early_stop": false,
+  "patience": 15,
+
+  "lr_decay": true,
+  "lr_scheduler": "steplr",
+  "lr_decay_ratio": 0.745,
+  "step_size": 15,
+
+  "C": 64,
+  "L": 3,
+  "d": 8
+}

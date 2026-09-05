@@ -1,0 +1,24 @@
+{
+  "nb_block": 2,
+  "K": 3,
+  "nb_chev_filter": 32,
+  "nb_time_filter": 32,
+
+  "scaler": "standard",
+  "load_external": false,
+  "normal_external": false,
+  "ext_scaler": "none",
+  "add_time_in_day": false,
+  "add_day_in_week": false,
+
+  "max_epoch": 75,
+  "learner": "adam",
+  "learning_rate": 0.001,
+  "lr_decay": false,
+  "lr_scheduler": "steplr",
+  "lr_decay_ratio": 0.8,
+  "step_size": 10,
+  "clip_grad_norm": false,
+  "use_early_stop": true,
+  "patience": 15
+}

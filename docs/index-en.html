@@ -1,0 +1,1215 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" href="resources/primer.css" media="screen"/>
+<link rel="stylesheet" href="resources/rec.css" media="screen"/>
+<link rel="stylesheet" href="resources/extra.css" media="screen"/>
+<link rel="stylesheet" href="resources/owl.css" media="screen"/>
+<link rel="stylesheet" href="resources/dark.css" media="(prefers-color-scheme: dark)"/>
+<link rel="stylesheet" href="resources/light.css" media="(prefers-color-scheme: light)"/>
+<link rel="stylesheet" href="resources/slider.css" media="screen"/>
+<meta name="color-scheme" content="dark light">
+<script type="module" src="resources/dark-mode-toggle.mjs"></script><div class="darkmode">
+	<dark-mode-toggle class="slider"></dark-mode-toggle>
+</div>
+ <title>RTSKG Ontology</title>
+
+
+<!-- SCHEMA.ORG METADATA -->
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"TechArticle","url":"https://w3id.org/rtskg/ontology#","image":"http://vowl.visualdataweb.org/webvowl/#iri=https://w3id.org/rtskg/ontology#","name":"RTSKG Ontology", "headline":"Document describing the ontology https://w3id.org/rtskg/ontology#", "dateReleased":"2025-11", "dateModified":"2026-06", "version":"1.1", "license":"https://creativecommons.org/licenses/by-sa/4.0/", "author":[{"@type":"Person","name":"Shutong Zhu"},{"@type":"Person","name":"Tianxing Wu"},{"@type":"Person","name":"Runfeng Liu"},{"@type":"Person","name":"Yuang Gu"},{"@type":"Person","name":"Xuan He"},{"@type":"Person","name":"Yuan Zhu"}]}</script>
+
+<script src="resources/jquery.js"></script> 
+<script src="resources/marked.min.js"></script> 
+    <script> 
+function loadHash() {
+  jQuery(".markdown").each(function(el){jQuery(this).after(marked.parse(jQuery(this).text())).remove()});
+	var hash = location.hash;
+	if($(hash).offset()!=null){
+	  $('html, body').animate({scrollTop: $(hash).offset().top}, 0);
+}
+	loadTOC();
+}
+function loadTOC(){
+	//process toc dynamically
+	  var t='<h2>Table of contents</h2><ul>';i = 1;j=0;
+	  jQuery(".list").each(function(){
+		if(jQuery(this).is('h2')){
+			if(j>0){
+				t+='</ul>';
+				j=0;
+			}
+			t+= '<li>'+i+'. <a href=#'+ jQuery(this).attr('id')+'>'+ jQuery(this).ignore("span").text()+'</a></li>';
+			i++;
+		}
+		if(jQuery(this).is('h3')){
+			if(j==0){
+				t+='<ul>';
+			}
+			j++;
+			t+= '<li>'+(i-1)+'.'+j+'. '+'<a href=#'+ jQuery(this).attr('id')+'>'+ jQuery(this).ignore("span").text()+'</a></li>';
+		}
+	  });
+	  t+='</ul>';
+	  $("#toc").html(t); 
+}
+$(function(){
+    loadHash();
+}); $.fn.ignore = function(sel){
+        return this.clone().find(sel||">*").remove().end();
+ }; 
+   </script> 
+  </head> 
+
+<body>
+<div class="container">
+<div class="head">
+<div style="float:right">language <a href="index-en.html"><b>en</b></a> </div>
+<h1>RTSKG Ontology</h1>
+<h2>Release: 2025-11</h2>
+
+
+<dl>
+<dt>Modified on: 2026-06</dt>
+<dt>This version:</dt>
+<dd><a href="https://w3id.org/rtskg/ontology/1.1">https://w3id.org/rtskg/ontology/1.1</a></dd>
+<dt>Latest version:</dt>
+<dd><a href="https://w3id.org/rtskg/ontology">https://w3id.org/rtskg/ontology</a></dd>
+<dt>Revision:</dt>
+<dd>1.1</dd>
+<dt>Authors:</dt>
+<dd>Shutong Zhu, Southeast University</dd><dd>Tianxing Wu, Southeast University</dd><dd>Runfeng Liu, Southeast University</dd><dd>Yuang Gu, Southeast University</dd><dd>Xuan He, Southeast University</dd><dd>Yuan Zhu, Southeast University</dd>
+
+<dt>Publisher:</dt>
+<dd>Southeast University, Southeast University</dd>
+<dt>Source:</dt>
+<dd><a href="https://github.com/seucoin/RTSKG">https://github.com/seucoin/RTSKG</a></dd>
+
+<dt>See also:</dt>
+<dd><a href="https://seucoin.github.io/RTSKG/">https://seucoin.github.io/RTSKG/</a></dd>
+
+<dt>Download serialization:</dt><dd><span><a href="ontology.jsonld" target="_blank"><img src="https://img.shields.io/badge/Format-JSON_LD-blue.svg" alt="JSON-LD" /></a> </span><span><a href="ontology.owl" target="_blank"><img src="https://img.shields.io/badge/Format-RDF/XML-blue.svg" alt="RDF/XML" /></a> </span><span><a href="ontology.nt" target="_blank"><img src="https://img.shields.io/badge/Format-N_Triples-blue.svg" alt="N-Triples" /></a> </span><span><a href="ontology.ttl" target="_blank"><img src="https://img.shields.io/badge/Format-TTL-blue.svg" alt="TTL" /></a> </span></dd><dt>License:</dt><dd><a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank"><img src="https://img.shields.io/badge/License-CC%20BY_SA%204.0-blue.svg" alt="https://creativecommons.org/licenses/by-sa/4.0/" /></a>
+</dd><!-- <dt>Evaluation:</dt><dd><a href="OOPSevaluation/oopsEval.html#" target="_blank"><img src="https://img.shields.io/badge/Evaluate_with-OOPS! (OntOlogy Pitfall Scanner!)-blue.svg" alt="Evaluate with OOPS!" /></a></dd> --><dt>Cite as:</dt>
+<dd>Shutong Zhu, Tianxing Wu, Runfeng Liu, Yuang Gu, Xuan He, Yuan Zhu. RTSKG Ontology. Revision: 1.1. Retrieved from: https://w3id.org/rtskg/ontology/1.1</dd>
+</dl>
+
+<a href="provenance/provenance-en.html" target="_blank">Provenance of this page</a><hr/>
+</div>
+<div class="status">
+<div>
+<span>published</span>
+</div>
+</div><div id="toc"></div>  
+
+<!--OVERVIEW SECTION-->
+    <div id="overview"><h2 id="overv" class="list">RTSKG Ontology: Overview <span class="backlink"> back to <a href="#toc">ToC</a></span></h2>
+<span class="markdown">
+This ontology has the following classes and properties.</span>
+<h4>Classes</h4>
+<ul xmlns:widoco="https://w3id.org/widoco/vocab#"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    class="hlist">
+   <li>
+      <a href="#https://w3id.org/rtskg/ontology/class/block" title="https://w3id.org/rtskg/ontology/class/block">Block</a>
+   </li>
+   <li>
+      <a href="#https://w3id.org/rtskg/ontology/class/borough" title="https://w3id.org/rtskg/ontology/class/borough">Borough</a>
+   </li>
+   <li>
+      <a href="#https://w3id.org/rtskg/ontology/class/functional_area"
+         title="https://w3id.org/rtskg/ontology/class/functional_area">Functional Area</a>
+   </li>
+   <li>
+      <a href="#https://w3id.org/rtskg/ontology/class/line" title="https://w3id.org/rtskg/ontology/class/line">Line</a>
+   </li>
+   <li>
+      <a href="#https://w3id.org/rtskg/ontology/class/poi" title="https://w3id.org/rtskg/ontology/class/poi">POI</a>
+   </li>
+   <li>
+      <a href="#https://w3id.org/rtskg/ontology/class/poi_category"
+         title="https://w3id.org/rtskg/ontology/class/poi_category">POI Category</a>
+   </li>
+   <li>
+      <a href="#https://w3id.org/rtskg/ontology/class/road" title="https://w3id.org/rtskg/ontology/class/road">Road</a>
+   </li>
+   <li>
+      <a href="#https://w3id.org/rtskg/ontology/class/road_category"
+         title="https://w3id.org/rtskg/ontology/class/road_category">Road Category</a>
+   </li>
+   <li>
+      <a href="#https://w3id.org/rtskg/ontology/class/station" title="https://w3id.org/rtskg/ontology/class/station">Station</a>
+   </li>
+   <li>
+      <a href="#https://w3id.org/rtskg/ontology/class/station_area"
+         title="https://w3id.org/rtskg/ontology/class/station_area">Station Area</a>
+   </li>
+</ul><h4>Object Properties</h4><ul xmlns:widoco="https://w3id.org/widoco/vocab#"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    class="hlist">
+   <li>
+      <a href="#https://w3id.org/rtskg/ontology/objectproperty/block_intersects_station_area"
+         title="https://w3id.org/rtskg/ontology/objectproperty/block_intersects_station_area">block_intersects_station_area</a>
+   </li>
+   <li>
+      <a href="#https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_borough"
+         title="https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_borough">block_locates_at_borough</a>
+   </li>
+   <li>
+      <a href="#https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_functional_area"
+         title="https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_functional_area">block_locates_at_functional_area</a>
+   </li>
+   <li>
+      <a href="#https://w3id.org/rtskg/ontology/objectproperty/borough_is_adjacent_to_borough"
+         title="https://w3id.org/rtskg/ontology/objectproperty/borough_is_adjacent_to_borough">borough_is_adjacent_to_borough</a>
+   </li>
+   <li>
+      <a href="#https://w3id.org/rtskg/ontology/objectproperty/functional_area_is_adjacent_to_functional_area"
+         title="https://w3id.org/rtskg/ontology/objectproperty/functional_area_is_adjacent_to_functional_area">functional_area_is_adjacent_to_functional_area</a>
+   </li>
+   <li>
+      <a href="#https://w3id.org/rtskg/ontology/objectproperty/functional_area_locates_at_borough"
+         title="https://w3id.org/rtskg/ontology/objectproperty/functional_area_locates_at_borough">functional_area_locates_at_borough</a>
+   </li>
+   <li>
+      <a href="#https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category"
+         title="https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category">poi_has_poi_category</a>
+   </li>
+   <li>
+      <a href="#https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_block"
+         title="https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_block">poi_locates_at_block</a>
+   </li>
+   <li>
+      <a href="#https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_station_area"
+         title="https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_station_area">poi_locates_at_station_area</a>
+   </li>
+   <li>
+      <a href="#https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category"
+         title="https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category">road_has_road_category</a>
+   </li>
+   <li>
+      <a href="#https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough"
+         title="https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough">road_intersects_borough</a>
+   </li>
+   <li>
+      <a href="#https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area"
+         title="https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area">road_intersects_functional_area</a>
+   </li>
+   <li>
+      <a href="#https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area"
+         title="https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area">road_intersects_station_area</a>
+   </li>
+   <li>
+      <a href="#https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station"
+         title="https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station">station_area_belongs_to_station</a>
+   </li>
+   <li>
+      <a href="#https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block"
+         title="https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block">station_area_intersects_block</a>
+   </li>
+   <li>
+      <a href="#https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_station_area"
+         title="https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_station_area">station_area_intersects_station_area</a>
+   </li>
+   <li>
+      <a href="#https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_borough"
+         title="https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_borough">station_area_locates_at_borough</a>
+   </li>
+   <li>
+      <a href="#https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_functional_area"
+         title="https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_functional_area">station_area_locates_at_functional_area</a>
+   </li>
+   <li>
+      <a href="#https://w3id.org/rtskg/ontology/objectproperty/station_belongs_to_line"
+         title="https://w3id.org/rtskg/ontology/objectproperty/station_belongs_to_line">station_belongs_to_line</a>
+   </li>
+</ul><h4>Data Properties</h4><ul xmlns:widoco="https://w3id.org/widoco/vocab#"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    class="hlist">
+   <li>
+      <a href="#https://w3id.org/rtskg/ontology/dataproperty/geometry"
+         title="https://w3id.org/rtskg/ontology/dataproperty/geometry">geometry</a>
+   </li>
+   <li>
+      <a href="#https://w3id.org/rtskg/ontology/dataproperty/walking_time_minutes"
+         title="https://w3id.org/rtskg/ontology/dataproperty/walking_time_minutes">walking_time_minutes</a>
+   </li>
+</ul><h4>Annotation Properties</h4><ul xmlns:widoco="https://w3id.org/widoco/vocab#"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    class="hlist">
+   <li>
+      <a href="#http://www.w3.org/2004/02/skos/core#altLabel" title="http://www.w3.org/2004/02/skos/core#altLabel">
+         <span>alt Label</span>
+      </a>
+   </li>
+   <li>
+      <a href="#http://schema.org/codeRepository" title="http://schema.org/codeRepository">
+         <span>code Repository</span>
+      </a>
+   </li>
+   <li>
+      <a href="#http://purl.org/dc/terms/created" title="http://purl.org/dc/terms/created">
+         <span>created</span>
+      </a>
+   </li>
+   <li>
+      <a href="#http://purl.org/dc/terms/creator" title="http://purl.org/dc/terms/creator">
+         <span>creator</span>
+      </a>
+   </li>
+   <li>
+      <a href="#http://purl.org/dc/terms/description" title="http://purl.org/dc/terms/description">
+         <span>description</span>
+      </a>
+   </li>
+   <li>
+      <a href="#http://purl.org/dc/terms/license" title="http://purl.org/dc/terms/license">
+         <span>license</span>
+      </a>
+   </li>
+   <li>
+      <a href="#http://purl.org/dc/terms/modified" title="http://purl.org/dc/terms/modified">
+         <span>modified</span>
+      </a>
+   </li>
+   <li>
+      <a href="#http://purl.org/vocab/vann/preferredNamespacePrefix"
+         title="http://purl.org/vocab/vann/preferredNamespacePrefix">
+         <span>preferred Namespace Prefix</span>
+      </a>
+   </li>
+   <li>
+      <a href="#http://purl.org/vocab/vann/preferredNamespaceUri" title="http://purl.org/vocab/vann/preferredNamespaceUri">
+         <span>preferred Namespace Uri</span>
+      </a>
+   </li>
+   <li>
+      <a href="#http://purl.org/dc/terms/publisher" title="http://purl.org/dc/terms/publisher">
+         <span>publisher</span>
+      </a>
+   </li>
+   <li>
+      <a href="#http://purl.org/dc/terms/rights" title="http://purl.org/dc/terms/rights">
+         <span>rights</span>
+      </a>
+   </li>
+   <li>
+      <a href="#http://purl.org/ontology/bibo/status" title="http://purl.org/ontology/bibo/status">
+         <span>status</span>
+      </a>
+   </li>
+   <li>
+      <a href="#http://purl.org/dc/terms/title" title="http://purl.org/dc/terms/title">
+         <span>title</span>
+      </a>
+   </li>
+</ul>
+</div>
+   
+
+<!--DESCRIPTION SECTION-->
+    <div id="description"><h2 id="desc" class="list">RTSKG Ontology: Description <span class="backlink"> back to <a href="#toc">ToC</a></span></h2>
+
+<span class="markdown">The RTSKG ontology is the unified schema of the Rail Transit Station Knowledge Graph (RTSKG), a dataset that explicitly models the spatial and semantic interactions among different kinds of urban entities. It defines ten classes and nineteen relations.</span></div>
+   
+
+<!--CROSSREF SECTION-->
+   <div id="crossref"><h2 id="crossreference" class="list">Cross-reference for RTSKG Ontology classes, object properties and data properties <span class="backlink"> back to <a href="#toc">ToC</a></span></h2>
+This section provides details for each class and property defined by RTSKG Ontology.
+<div xmlns:widoco="https://w3id.org/widoco/vocab#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="classes">
+ <h3 id="classes-headline" class="list">Classes</h3>
+ <ul class="hlist">
+  <li><a href="#https://w3id.org/rtskg/ontology/class/block" title="https://w3id.org/rtskg/ontology/class/block">Block</a></li>
+  <li><a href="#https://w3id.org/rtskg/ontology/class/borough" title="https://w3id.org/rtskg/ontology/class/borough">Borough</a></li>
+  <li><a href="#https://w3id.org/rtskg/ontology/class/functional_area" title="https://w3id.org/rtskg/ontology/class/functional_area">Functional Area</a></li>
+  <li><a href="#https://w3id.org/rtskg/ontology/class/line" title="https://w3id.org/rtskg/ontology/class/line">Line</a></li>
+  <li><a href="#https://w3id.org/rtskg/ontology/class/poi" title="https://w3id.org/rtskg/ontology/class/poi">POI</a></li>
+  <li><a href="#https://w3id.org/rtskg/ontology/class/poi_category" title="https://w3id.org/rtskg/ontology/class/poi_category">POI Category</a></li>
+  <li><a href="#https://w3id.org/rtskg/ontology/class/road" title="https://w3id.org/rtskg/ontology/class/road">Road</a></li>
+  <li><a href="#https://w3id.org/rtskg/ontology/class/road_category" title="https://w3id.org/rtskg/ontology/class/road_category">Road Category</a></li>
+  <li><a href="#https://w3id.org/rtskg/ontology/class/station" title="https://w3id.org/rtskg/ontology/class/station">Station</a></li>
+  <li><a href="#https://w3id.org/rtskg/ontology/class/station_area" title="https://w3id.org/rtskg/ontology/class/station_area">Station Area</a></li>
+ </ul>
+ <div class="entity" id="https://w3id.org/rtskg/ontology/class/block">
+  <h3>Block<sup class="type-c" title="class">c</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a> </span></h3>
+  <p><strong>IRI:</strong> https://w3id.org/rtskg/ontology/class/block</p>
+  <div class="comment">
+   <span class="markdown">The urban block, which is a fine-grained spatial unit that constitutes the fundamental element of the physical structure of urban areas.</span>
+  </div>
+  <dl class="description">
+   <dt>
+    has super-classes
+   </dt>
+   <dd>
+    <a href="http://www.opengis.net/ont/geosparql#Feature" target="_blank" title="http://www.opengis.net/ont/geosparql#Feature">Feature</a> <sup class="type-c" title="class">c</sup>
+   </dd>
+   <dt>
+    is in domain of
+   </dt>
+   <dd>
+    <a href="#https://w3id.org/rtskg/ontology/objectproperty/block_intersects_station_area" title="https://w3id.org/rtskg/ontology/objectproperty/block_intersects_station_area">block_intersects_station_area</a> <sup class="type-op" title="object property">op</sup>, <a href="#https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_borough" title="https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_borough">block_locates_at_borough</a> <sup class="type-op" title="object property">op</sup>, <a href="#https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_functional_area" title="https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_functional_area">block_locates_at_functional_area</a> <sup class="type-op" title="object property">op</sup>
+   </dd>
+   <dt>
+    is in range of
+   </dt>
+   <dd>
+    <a href="#https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_block" title="https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_block">poi_locates_at_block</a> <sup class="type-op" title="object property">op</sup>, <a href="#https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block" title="https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block">station_area_intersects_block</a> <sup class="type-op" title="object property">op</sup>
+   </dd>
+  </dl>
+ </div>
+ <div class="entity" id="https://w3id.org/rtskg/ontology/class/borough">
+  <h3>Borough<sup class="type-c" title="class">c</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a> </span></h3>
+  <p><strong>IRI:</strong> https://w3id.org/rtskg/ontology/class/borough</p>
+  <div class="comment">
+   <span class="markdown">An administrative borough describing high-level administrative boundaries of a city.</span>
+  </div>
+  <dl class="description">
+   <dt>
+    has super-classes
+   </dt>
+   <dd>
+    <a href="http://www.opengis.net/ont/geosparql#Feature" target="_blank" title="http://www.opengis.net/ont/geosparql#Feature">Feature</a> <sup class="type-c" title="class">c</sup>
+   </dd>
+   <dt>
+    is in domain of
+   </dt>
+   <dd>
+    <a href="#https://w3id.org/rtskg/ontology/objectproperty/borough_is_adjacent_to_borough" title="https://w3id.org/rtskg/ontology/objectproperty/borough_is_adjacent_to_borough">borough_is_adjacent_to_borough</a> <sup class="type-op" title="object property">op</sup>
+   </dd>
+   <dt>
+    is in range of
+   </dt>
+   <dd>
+    <a href="#https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_borough" title="https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_borough">block_locates_at_borough</a> <sup class="type-op" title="object property">op</sup>, <a href="#https://w3id.org/rtskg/ontology/objectproperty/borough_is_adjacent_to_borough" title="https://w3id.org/rtskg/ontology/objectproperty/borough_is_adjacent_to_borough">borough_is_adjacent_to_borough</a> <sup class="type-op" title="object property">op</sup>, <a href="#https://w3id.org/rtskg/ontology/objectproperty/functional_area_locates_at_borough" title="https://w3id.org/rtskg/ontology/objectproperty/functional_area_locates_at_borough">functional_area_locates_at_borough</a> <sup class="type-op" title="object property">op</sup>, <a href="#https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough" title="https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough">road_intersects_borough</a> <sup class="type-op" title="object property">op</sup>, <a href="#https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_borough" title="https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_borough">station_area_locates_at_borough</a> <sup class="type-op" title="object property">op</sup>
+   </dd>
+  </dl>
+ </div>
+ <div class="entity" id="https://w3id.org/rtskg/ontology/class/functional_area">
+  <h3>Functional Area<sup class="type-c" title="class">c</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a> </span></h3>
+  <p><strong>IRI:</strong> https://w3id.org/rtskg/ontology/class/functional_area</p>
+  <div class="comment">
+   <span class="markdown">A functional area representing the subdivision of a city according to its function (e.g., residential areas).</span>
+  </div>
+  <dl class="description">
+   <dt>
+    has super-classes
+   </dt>
+   <dd>
+    <a href="http://www.opengis.net/ont/geosparql#Feature" target="_blank" title="http://www.opengis.net/ont/geosparql#Feature">Feature</a> <sup class="type-c" title="class">c</sup>
+   </dd>
+   <dt>
+    is in domain of
+   </dt>
+   <dd>
+    <a href="#https://w3id.org/rtskg/ontology/objectproperty/functional_area_is_adjacent_to_functional_area" title="https://w3id.org/rtskg/ontology/objectproperty/functional_area_is_adjacent_to_functional_area">functional_area_is_adjacent_to_functional_area</a> <sup class="type-op" title="object property">op</sup>, <a href="#https://w3id.org/rtskg/ontology/objectproperty/functional_area_locates_at_borough" title="https://w3id.org/rtskg/ontology/objectproperty/functional_area_locates_at_borough">functional_area_locates_at_borough</a> <sup class="type-op" title="object property">op</sup>
+   </dd>
+   <dt>
+    is in range of
+   </dt>
+   <dd>
+    <a href="#https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_functional_area" title="https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_functional_area">block_locates_at_functional_area</a> <sup class="type-op" title="object property">op</sup>, <a href="#https://w3id.org/rtskg/ontology/objectproperty/functional_area_is_adjacent_to_functional_area" title="https://w3id.org/rtskg/ontology/objectproperty/functional_area_is_adjacent_to_functional_area">functional_area_is_adjacent_to_functional_area</a> <sup class="type-op" title="object property">op</sup>, <a href="#https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area" title="https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area">road_intersects_functional_area</a> <sup class="type-op" title="object property">op</sup>, <a href="#https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_functional_area" title="https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_functional_area">station_area_locates_at_functional_area</a> <sup class="type-op" title="object property">op</sup>
+   </dd>
+  </dl>
+ </div>
+ <div class="entity" id="https://w3id.org/rtskg/ontology/class/line">
+  <h3>Line<sup class="type-c" title="class">c</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a> </span></h3>
+  <p><strong>IRI:</strong> https://w3id.org/rtskg/ontology/class/line</p>
+  <div class="comment">
+   <span class="markdown">The rail transit line, which is a sequence of connected stations.</span>
+  </div>
+  <dl class="description">
+   <dt>
+    is in range of
+   </dt>
+   <dd>
+    <a href="#https://w3id.org/rtskg/ontology/objectproperty/station_belongs_to_line" title="https://w3id.org/rtskg/ontology/objectproperty/station_belongs_to_line">station_belongs_to_line</a> <sup class="type-op" title="object property">op</sup>
+   </dd>
+  </dl>
+ </div>
+ <div class="entity" id="https://w3id.org/rtskg/ontology/class/poi">
+  <h3>POI<sup class="type-c" title="class">c</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a> </span></h3>
+  <p><strong>IRI:</strong> https://w3id.org/rtskg/ontology/class/poi</p>
+  <div class="comment">
+   <span class="markdown">A point of interest (POI), which represents the basic functional units in a city.</span>
+  </div>
+  <dl class="description">
+   <dt>
+    has super-classes
+   </dt>
+   <dd>
+    <a href="http://www.opengis.net/ont/geosparql#Feature" target="_blank" title="http://www.opengis.net/ont/geosparql#Feature">Feature</a> <sup class="type-c" title="class">c</sup>
+   </dd>
+   <dt>
+    is in domain of
+   </dt>
+   <dd>
+    <a href="#https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category" title="https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category">poi_has_poi_category</a> <sup class="type-op" title="object property">op</sup>, <a href="#https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_block" title="https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_block">poi_locates_at_block</a> <sup class="type-op" title="object property">op</sup>, <a href="#https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_station_area" title="https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_station_area">poi_locates_at_station_area</a> <sup class="type-op" title="object property">op</sup>
+   </dd>
+  </dl>
+ </div>
+ <div class="entity" id="https://w3id.org/rtskg/ontology/class/poi_category">
+  <h3>POI Category<sup class="type-c" title="class">c</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a> </span></h3>
+  <p><strong>IRI:</strong> https://w3id.org/rtskg/ontology/class/poi_category</p>
+  <div class="comment">
+   <span class="markdown">The category of a POI, which characterizes the function of the POI.</span>
+  </div>
+  <dl class="description">
+   <dt>
+    has super-classes
+   </dt>
+   <dd>
+    <a href="http://www.w3.org/2004/02/skos/core#Concept" target="_blank" title="http://www.w3.org/2004/02/skos/core#Concept">Concept</a> <sup class="type-c" title="class">c</sup>
+   </dd>
+   <dt>
+    is in range of
+   </dt>
+   <dd>
+    <a href="#https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category" title="https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category">poi_has_poi_category</a> <sup class="type-op" title="object property">op</sup>
+   </dd>
+  </dl>
+ </div>
+ <div class="entity" id="https://w3id.org/rtskg/ontology/class/road">
+  <h3>Road<sup class="type-c" title="class">c</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a> </span></h3>
+  <p><strong>IRI:</strong> https://w3id.org/rtskg/ontology/class/road</p>
+  <div class="comment">
+   <span class="markdown">The road segment in a city.</span>
+  </div>
+  <dl class="description">
+   <dt>
+    has super-classes
+   </dt>
+   <dd>
+    <a href="http://www.opengis.net/ont/geosparql#Feature" target="_blank" title="http://www.opengis.net/ont/geosparql#Feature">Feature</a> <sup class="type-c" title="class">c</sup>
+   </dd>
+   <dt>
+    is in domain of
+   </dt>
+   <dd>
+    <a href="#https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category" title="https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category">road_has_road_category</a> <sup class="type-op" title="object property">op</sup>, <a href="#https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough" title="https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough">road_intersects_borough</a> <sup class="type-op" title="object property">op</sup>, <a href="#https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area" title="https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area">road_intersects_functional_area</a> <sup class="type-op" title="object property">op</sup>, <a href="#https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area" title="https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area">road_intersects_station_area</a> <sup class="type-op" title="object property">op</sup>
+   </dd>
+  </dl>
+ </div>
+ <div class="entity" id="https://w3id.org/rtskg/ontology/class/road_category">
+  <h3>Road Category<sup class="type-c" title="class">c</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a> </span></h3>
+  <p><strong>IRI:</strong> https://w3id.org/rtskg/ontology/class/road_category</p>
+  <div class="comment">
+   <span class="markdown">The category determined by the hierarchy or function of the road.</span>
+  </div>
+  <dl class="description">
+   <dt>
+    has super-classes
+   </dt>
+   <dd>
+    <a href="http://www.w3.org/2004/02/skos/core#Concept" target="_blank" title="http://www.w3.org/2004/02/skos/core#Concept">Concept</a> <sup class="type-c" title="class">c</sup>
+   </dd>
+   <dt>
+    is in range of
+   </dt>
+   <dd>
+    <a href="#https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category" title="https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category">road_has_road_category</a> <sup class="type-op" title="object property">op</sup>
+   </dd>
+  </dl>
+ </div>
+ <div class="entity" id="https://w3id.org/rtskg/ontology/class/station">
+  <h3>Station<sup class="type-c" title="class">c</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a> </span></h3>
+  <p><strong>IRI:</strong> https://w3id.org/rtskg/ontology/class/station</p>
+  <div class="comment">
+   <span class="markdown">The rail transit station, which serves as a transport hub for passengers to board or alight from the rail transit vehicles like subway train.</span>
+  </div>
+  <dl class="description">
+   <dt>
+    is in domain of
+   </dt>
+   <dd>
+    <a href="#https://w3id.org/rtskg/ontology/objectproperty/station_belongs_to_line" title="https://w3id.org/rtskg/ontology/objectproperty/station_belongs_to_line">station_belongs_to_line</a> <sup class="type-op" title="object property">op</sup>
+   </dd>
+   <dt>
+    is in range of
+   </dt>
+   <dd>
+    <a href="#https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station" title="https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station">station_area_belongs_to_station</a> <sup class="type-op" title="object property">op</sup>
+   </dd>
+  </dl>
+ </div>
+ <div class="entity" id="https://w3id.org/rtskg/ontology/class/station_area">
+  <h3>Station Area<sup class="type-c" title="class">c</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#classes">Class ToC</a> </span></h3>
+  <p><strong>IRI:</strong> https://w3id.org/rtskg/ontology/class/station_area</p>
+  <div class="comment">
+   <span class="markdown">The region accessible from a rail transit station within a specified walking time.</span>
+  </div>
+  <dl class="description">
+   <dt>
+    has super-classes
+   </dt>
+   <dd>
+    <a href="http://www.opengis.net/ont/geosparql#Feature" target="_blank" title="http://www.opengis.net/ont/geosparql#Feature">Feature</a> <sup class="type-c" title="class">c</sup>
+   </dd>
+   <dt>
+    is in domain of
+   </dt>
+   <dd>
+    <a href="#https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station" title="https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station">station_area_belongs_to_station</a> <sup class="type-op" title="object property">op</sup>, <a href="#https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block" title="https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block">station_area_intersects_block</a> <sup class="type-op" title="object property">op</sup>, <a href="#https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_station_area" title="https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_station_area">station_area_intersects_station_area</a> <sup class="type-op" title="object property">op</sup>, <a href="#https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_borough" title="https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_borough">station_area_locates_at_borough</a> <sup class="type-op" title="object property">op</sup>, <a href="#https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_functional_area" title="https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_functional_area">station_area_locates_at_functional_area</a> <sup class="type-op" title="object property">op</sup>, <a href="#https://w3id.org/rtskg/ontology/dataproperty/walking_time_minutes" title="https://w3id.org/rtskg/ontology/dataproperty/walking_time_minutes">walking_time_minutes</a> <sup class="type-dp" title="data property">dp</sup>
+   </dd>
+   <dt>
+    is in range of
+   </dt>
+   <dd>
+    <a href="#https://w3id.org/rtskg/ontology/objectproperty/block_intersects_station_area" title="https://w3id.org/rtskg/ontology/objectproperty/block_intersects_station_area">block_intersects_station_area</a> <sup class="type-op" title="object property">op</sup>, <a href="#https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_station_area" title="https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_station_area">poi_locates_at_station_area</a> <sup class="type-op" title="object property">op</sup>, <a href="#https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area" title="https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area">road_intersects_station_area</a> <sup class="type-op" title="object property">op</sup>, <a href="#https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_station_area" title="https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_station_area">station_area_intersects_station_area</a> <sup class="type-op" title="object property">op</sup>
+   </dd>
+  </dl>
+ </div>
+</div><div xmlns:widoco="https://w3id.org/widoco/vocab#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="objectproperties">
+ <h3 id="properties" class="list">Object Properties</h3>
+ <ul class="hlist">
+  <li><a href="#https://w3id.org/rtskg/ontology/objectproperty/block_intersects_station_area" title="https://w3id.org/rtskg/ontology/objectproperty/block_intersects_station_area">block_intersects_station_area</a></li>
+  <li><a href="#https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_borough" title="https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_borough">block_locates_at_borough</a></li>
+  <li><a href="#https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_functional_area" title="https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_functional_area">block_locates_at_functional_area</a></li>
+  <li><a href="#https://w3id.org/rtskg/ontology/objectproperty/borough_is_adjacent_to_borough" title="https://w3id.org/rtskg/ontology/objectproperty/borough_is_adjacent_to_borough">borough_is_adjacent_to_borough</a></li>
+  <li><a href="#https://w3id.org/rtskg/ontology/objectproperty/functional_area_is_adjacent_to_functional_area" title="https://w3id.org/rtskg/ontology/objectproperty/functional_area_is_adjacent_to_functional_area">functional_area_is_adjacent_to_functional_area</a></li>
+  <li><a href="#https://w3id.org/rtskg/ontology/objectproperty/functional_area_locates_at_borough" title="https://w3id.org/rtskg/ontology/objectproperty/functional_area_locates_at_borough">functional_area_locates_at_borough</a></li>
+  <li><a href="#https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category" title="https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category">poi_has_poi_category</a></li>
+  <li><a href="#https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_block" title="https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_block">poi_locates_at_block</a></li>
+  <li><a href="#https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_station_area" title="https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_station_area">poi_locates_at_station_area</a></li>
+  <li><a href="#https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category" title="https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category">road_has_road_category</a></li>
+  <li><a href="#https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough" title="https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough">road_intersects_borough</a></li>
+  <li><a href="#https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area" title="https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area">road_intersects_functional_area</a></li>
+  <li><a href="#https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area" title="https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area">road_intersects_station_area</a></li>
+  <li><a href="#https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station" title="https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station">station_area_belongs_to_station</a></li>
+  <li><a href="#https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block" title="https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block">station_area_intersects_block</a></li>
+  <li><a href="#https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_station_area" title="https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_station_area">station_area_intersects_station_area</a></li>
+  <li><a href="#https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_borough" title="https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_borough">station_area_locates_at_borough</a></li>
+  <li><a href="#https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_functional_area" title="https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_functional_area">station_area_locates_at_functional_area</a></li>
+  <li><a href="#https://w3id.org/rtskg/ontology/objectproperty/station_belongs_to_line" title="https://w3id.org/rtskg/ontology/objectproperty/station_belongs_to_line">station_belongs_to_line</a></li>
+ </ul>
+ <div class="entity" id="https://w3id.org/rtskg/ontology/objectproperty/block_intersects_station_area">
+  <h3>block_intersects_station_area<sup class="type-op" title="object property">op</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#objectproperties">Object Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> https://w3id.org/rtskg/ontology/objectproperty/block_intersects_station_area</p>
+  <div class="comment">
+   <span class="markdown">Models the intersection between a block and a station area.</span>
+  </div>
+  <div class="description">
+   <dl>
+    <dt>
+     has super-properties
+    </dt>
+    <dd>
+     <a href="http://www.opengis.net/ont/geosparql#sfIntersects" target="_blank" title="http://www.opengis.net/ont/geosparql#sfIntersects">sf Intersects</a> <sup class="type-op" title="object property">op</sup>
+    </dd>
+    <dt>
+     has domain
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/block" title="https://w3id.org/rtskg/ontology/class/block">Block</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+    <dt>
+     has range
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/station_area" title="https://w3id.org/rtskg/ontology/class/station_area">Station Area</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+   </dl>
+  </div>
+ </div>
+ <div class="entity" id="https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_borough">
+  <h3>block_locates_at_borough<sup class="type-op" title="object property">op</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#objectproperties">Object Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_borough</p>
+  <div class="comment">
+   <span class="markdown">Models the location relation between a block and a borough.</span>
+  </div>
+  <div class="description">
+   <dl>
+    <dt>
+     has domain
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/block" title="https://w3id.org/rtskg/ontology/class/block">Block</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+    <dt>
+     has range
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/borough" title="https://w3id.org/rtskg/ontology/class/borough">Borough</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+   </dl>
+  </div>
+ </div>
+ <div class="entity" id="https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_functional_area">
+  <h3>block_locates_at_functional_area<sup class="type-op" title="object property">op</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#objectproperties">Object Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_functional_area</p>
+  <div class="comment">
+   <span class="markdown">Models the location relation between a block and a functional area.</span>
+  </div>
+  <div class="description">
+   <dl>
+    <dt>
+     has domain
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/block" title="https://w3id.org/rtskg/ontology/class/block">Block</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+    <dt>
+     has range
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/functional_area" title="https://w3id.org/rtskg/ontology/class/functional_area">Functional Area</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+   </dl>
+  </div>
+ </div>
+ <div class="entity" id="https://w3id.org/rtskg/ontology/objectproperty/borough_is_adjacent_to_borough">
+  <h3>borough_is_adjacent_to_borough<sup class="type-op" title="object property">op</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#objectproperties">Object Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> https://w3id.org/rtskg/ontology/objectproperty/borough_is_adjacent_to_borough</p>
+  <div class="comment">
+   <span class="markdown">Models the adjacency between two boroughs.</span>
+  </div>
+  <div class="description">
+   <dl>
+    <dt>
+     has super-properties
+    </dt>
+    <dd>
+     <a href="http://www.opengis.net/ont/geosparql#sfTouches" target="_blank" title="http://www.opengis.net/ont/geosparql#sfTouches">sf Touches</a> <sup class="type-op" title="object property">op</sup>
+    </dd>
+    <dt>
+     has domain
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/borough" title="https://w3id.org/rtskg/ontology/class/borough">Borough</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+    <dt>
+     has range
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/borough" title="https://w3id.org/rtskg/ontology/class/borough">Borough</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+   </dl>
+  </div>
+ </div>
+ <div class="entity" id="https://w3id.org/rtskg/ontology/objectproperty/functional_area_is_adjacent_to_functional_area">
+  <h3>functional_area_is_adjacent_to_functional_area<sup class="type-op" title="object property">op</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#objectproperties">Object Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> https://w3id.org/rtskg/ontology/objectproperty/functional_area_is_adjacent_to_functional_area</p>
+  <div class="comment">
+   <span class="markdown">Models the adjacency between two functional areas.</span>
+  </div>
+  <div class="description">
+   <dl>
+    <dt>
+     has super-properties
+    </dt>
+    <dd>
+     <a href="http://www.opengis.net/ont/geosparql#sfTouches" target="_blank" title="http://www.opengis.net/ont/geosparql#sfTouches">sf Touches</a> <sup class="type-op" title="object property">op</sup>
+    </dd>
+    <dt>
+     has domain
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/functional_area" title="https://w3id.org/rtskg/ontology/class/functional_area">Functional Area</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+    <dt>
+     has range
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/functional_area" title="https://w3id.org/rtskg/ontology/class/functional_area">Functional Area</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+   </dl>
+  </div>
+ </div>
+ <div class="entity" id="https://w3id.org/rtskg/ontology/objectproperty/functional_area_locates_at_borough">
+  <h3>functional_area_locates_at_borough<sup class="type-op" title="object property">op</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#objectproperties">Object Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> https://w3id.org/rtskg/ontology/objectproperty/functional_area_locates_at_borough</p>
+  <div class="comment">
+   <span class="markdown">Models the location relation between a functional area and a borough.</span>
+  </div>
+  <div class="description">
+   <dl>
+    <dt>
+     has domain
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/functional_area" title="https://w3id.org/rtskg/ontology/class/functional_area">Functional Area</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+    <dt>
+     has range
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/borough" title="https://w3id.org/rtskg/ontology/class/borough">Borough</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+   </dl>
+  </div>
+ </div>
+ <div class="entity" id="https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category">
+  <h3>poi_has_poi_category<sup class="type-op" title="object property">op</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#objectproperties">Object Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category</p>
+  <div class="comment">
+   <span class="markdown">Models the non-geographic relation in which a POI has a POI category.</span>
+  </div>
+  <div class="description">
+   <dl>
+    <dt>
+     has domain
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/poi" title="https://w3id.org/rtskg/ontology/class/poi">POI</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+    <dt>
+     has range
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/poi_category" title="https://w3id.org/rtskg/ontology/class/poi_category">POI Category</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+   </dl>
+  </div>
+ </div>
+ <div class="entity" id="https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_block">
+  <h3>poi_locates_at_block<sup class="type-op" title="object property">op</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#objectproperties">Object Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_block</p>
+  <div class="comment">
+   <span class="markdown">Models the location relation between a POI and a block.</span>
+  </div>
+  <div class="description">
+   <dl>
+    <dt>
+     has domain
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/poi" title="https://w3id.org/rtskg/ontology/class/poi">POI</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+    <dt>
+     has range
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/block" title="https://w3id.org/rtskg/ontology/class/block">Block</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+   </dl>
+  </div>
+ </div>
+ <div class="entity" id="https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_station_area">
+  <h3>poi_locates_at_station_area<sup class="type-op" title="object property">op</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#objectproperties">Object Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_station_area</p>
+  <div class="comment">
+   <span class="markdown">Models the location relation between a POI and a station area.</span>
+  </div>
+  <div class="description">
+   <dl>
+    <dt>
+     has domain
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/poi" title="https://w3id.org/rtskg/ontology/class/poi">POI</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+    <dt>
+     has range
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/station_area" title="https://w3id.org/rtskg/ontology/class/station_area">Station Area</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+   </dl>
+  </div>
+ </div>
+ <div class="entity" id="https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category">
+  <h3>road_has_road_category<sup class="type-op" title="object property">op</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#objectproperties">Object Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category</p>
+  <div class="comment">
+   <span class="markdown">Models the non-geographic relation in which a road has a road category.</span>
+  </div>
+  <div class="description">
+   <dl>
+    <dt>
+     has domain
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/road" title="https://w3id.org/rtskg/ontology/class/road">Road</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+    <dt>
+     has range
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/road_category" title="https://w3id.org/rtskg/ontology/class/road_category">Road Category</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+   </dl>
+  </div>
+ </div>
+ <div class="entity" id="https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough">
+  <h3>road_intersects_borough<sup class="type-op" title="object property">op</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#objectproperties">Object Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough</p>
+  <div class="comment">
+   <span class="markdown">Models the intersection between a road and a borough.</span>
+  </div>
+  <div class="description">
+   <dl>
+    <dt>
+     has super-properties
+    </dt>
+    <dd>
+     <a href="http://www.opengis.net/ont/geosparql#sfIntersects" target="_blank" title="http://www.opengis.net/ont/geosparql#sfIntersects">sf Intersects</a> <sup class="type-op" title="object property">op</sup>
+    </dd>
+    <dt>
+     has domain
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/road" title="https://w3id.org/rtskg/ontology/class/road">Road</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+    <dt>
+     has range
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/borough" title="https://w3id.org/rtskg/ontology/class/borough">Borough</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+   </dl>
+  </div>
+ </div>
+ <div class="entity" id="https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area">
+  <h3>road_intersects_functional_area<sup class="type-op" title="object property">op</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#objectproperties">Object Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area</p>
+  <div class="comment">
+   <span class="markdown">Models the intersection between a road and a functional area.</span>
+  </div>
+  <div class="description">
+   <dl>
+    <dt>
+     has super-properties
+    </dt>
+    <dd>
+     <a href="http://www.opengis.net/ont/geosparql#sfIntersects" target="_blank" title="http://www.opengis.net/ont/geosparql#sfIntersects">sf Intersects</a> <sup class="type-op" title="object property">op</sup>
+    </dd>
+    <dt>
+     has domain
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/road" title="https://w3id.org/rtskg/ontology/class/road">Road</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+    <dt>
+     has range
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/functional_area" title="https://w3id.org/rtskg/ontology/class/functional_area">Functional Area</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+   </dl>
+  </div>
+ </div>
+ <div class="entity" id="https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area">
+  <h3>road_intersects_station_area<sup class="type-op" title="object property">op</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#objectproperties">Object Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area</p>
+  <div class="comment">
+   <span class="markdown">Models the intersection between a road and a station area.</span>
+  </div>
+  <div class="description">
+   <dl>
+    <dt>
+     has super-properties
+    </dt>
+    <dd>
+     <a href="http://www.opengis.net/ont/geosparql#sfIntersects" target="_blank" title="http://www.opengis.net/ont/geosparql#sfIntersects">sf Intersects</a> <sup class="type-op" title="object property">op</sup>
+    </dd>
+    <dt>
+     has domain
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/road" title="https://w3id.org/rtskg/ontology/class/road">Road</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+    <dt>
+     has range
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/station_area" title="https://w3id.org/rtskg/ontology/class/station_area">Station Area</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+   </dl>
+  </div>
+ </div>
+ <div class="entity" id="https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station">
+  <h3>station_area_belongs_to_station<sup class="type-op" title="object property">op</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#objectproperties">Object Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station</p>
+  <div class="comment">
+   <span class="markdown">Models the non-geographic relation in which a station area belongs to a station.</span>
+  </div>
+  <div class="description">
+   <dl>
+    <dt>
+     has domain
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/station_area" title="https://w3id.org/rtskg/ontology/class/station_area">Station Area</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+    <dt>
+     has range
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/station" title="https://w3id.org/rtskg/ontology/class/station">Station</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+   </dl>
+  </div>
+ </div>
+ <div class="entity" id="https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block">
+  <h3>station_area_intersects_block<sup class="type-op" title="object property">op</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#objectproperties">Object Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block</p>
+  <div class="comment">
+   <span class="markdown">Models the intersection between a station area and a block.</span>
+  </div>
+  <div class="description">
+   <dl>
+    <dt>
+     has super-properties
+    </dt>
+    <dd>
+     <a href="http://www.opengis.net/ont/geosparql#sfIntersects" target="_blank" title="http://www.opengis.net/ont/geosparql#sfIntersects">sf Intersects</a> <sup class="type-op" title="object property">op</sup>
+    </dd>
+    <dt>
+     has domain
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/station_area" title="https://w3id.org/rtskg/ontology/class/station_area">Station Area</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+    <dt>
+     has range
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/block" title="https://w3id.org/rtskg/ontology/class/block">Block</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+   </dl>
+  </div>
+ </div>
+ <div class="entity" id="https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_station_area">
+  <h3>station_area_intersects_station_area<sup class="type-op" title="object property">op</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#objectproperties">Object Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_station_area</p>
+  <div class="comment">
+   <span class="markdown">Models the intersection between two station areas.</span>
+  </div>
+  <div class="description">
+   <dl>
+    <dt>
+     has super-properties
+    </dt>
+    <dd>
+     <a href="http://www.opengis.net/ont/geosparql#sfIntersects" target="_blank" title="http://www.opengis.net/ont/geosparql#sfIntersects">sf Intersects</a> <sup class="type-op" title="object property">op</sup>
+    </dd>
+    <dt>
+     has domain
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/station_area" title="https://w3id.org/rtskg/ontology/class/station_area">Station Area</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+    <dt>
+     has range
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/station_area" title="https://w3id.org/rtskg/ontology/class/station_area">Station Area</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+   </dl>
+  </div>
+ </div>
+ <div class="entity" id="https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_borough">
+  <h3>station_area_locates_at_borough<sup class="type-op" title="object property">op</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#objectproperties">Object Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_borough</p>
+  <div class="comment">
+   <span class="markdown">Models the location relation between a station area and a borough.</span>
+  </div>
+  <div class="description">
+   <dl>
+    <dt>
+     has domain
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/station_area" title="https://w3id.org/rtskg/ontology/class/station_area">Station Area</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+    <dt>
+     has range
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/borough" title="https://w3id.org/rtskg/ontology/class/borough">Borough</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+   </dl>
+  </div>
+ </div>
+ <div class="entity" id="https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_functional_area">
+  <h3>station_area_locates_at_functional_area<sup class="type-op" title="object property">op</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#objectproperties">Object Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_functional_area</p>
+  <div class="comment">
+   <span class="markdown">Models the location relation between a station area and a functional area.</span>
+  </div>
+  <div class="description">
+   <dl>
+    <dt>
+     has domain
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/station_area" title="https://w3id.org/rtskg/ontology/class/station_area">Station Area</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+    <dt>
+     has range
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/functional_area" title="https://w3id.org/rtskg/ontology/class/functional_area">Functional Area</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+   </dl>
+  </div>
+ </div>
+ <div class="entity" id="https://w3id.org/rtskg/ontology/objectproperty/station_belongs_to_line">
+  <h3>station_belongs_to_line<sup class="type-op" title="object property">op</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#objectproperties">Object Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> https://w3id.org/rtskg/ontology/objectproperty/station_belongs_to_line</p>
+  <div class="comment">
+   <span class="markdown">Models the non-geographic relation in which a station belongs to a rail transit line.</span>
+  </div>
+  <div class="description">
+   <dl>
+    <dt>
+     has domain
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/station" title="https://w3id.org/rtskg/ontology/class/station">Station</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+    <dt>
+     has range
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/line" title="https://w3id.org/rtskg/ontology/class/line">Line</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+   </dl>
+  </div>
+ </div>
+</div><div xmlns:widoco="https://w3id.org/widoco/vocab#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="dataproperties">
+ <h3 id="dataproperties-headline" class="list">Data Properties</h3>
+ <ul class="hlist">
+  <li><a href="#https://w3id.org/rtskg/ontology/dataproperty/geometry" title="https://w3id.org/rtskg/ontology/dataproperty/geometry">geometry</a></li>
+  <li><a href="#https://w3id.org/rtskg/ontology/dataproperty/walking_time_minutes" title="https://w3id.org/rtskg/ontology/dataproperty/walking_time_minutes">walking_time_minutes</a></li>
+ </ul>
+ <div class="entity" id="https://w3id.org/rtskg/ontology/dataproperty/geometry">
+  <h3>geometry<sup class="type-dp" title="data property">dp</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> https://w3id.org/rtskg/ontology/dataproperty/geometry</p>
+  <div class="comment">
+   <span class="markdown">The geometry of a feature, encoded as an OGC Well-Known Text (WKT) literal in the WGS84 coordinate reference system.</span>
+  </div>
+  <div class="description">
+   <dl>
+    <dt>
+     has domain
+    </dt>
+    <dd>
+     <a href="http://www.opengis.net/ont/geosparql#Feature" target="_blank" title="http://www.opengis.net/ont/geosparql#Feature">Feature</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+    <dt>
+     has range
+    </dt>
+    <dd>
+     <a href="http://www.opengis.net/ont/geosparql#wktLiteral" target="_blank" title="http://www.opengis.net/ont/geosparql#wktLiteral">wkt Literal</a> <sup class="type-ep" title="external property">ep</sup>
+    </dd>
+   </dl>
+  </div>
+ </div>
+ <div class="entity" id="https://w3id.org/rtskg/ontology/dataproperty/walking_time_minutes">
+  <h3>walking_time_minutes<sup class="type-dp" title="data property">dp</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#dataproperties">Data Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> https://w3id.org/rtskg/ontology/dataproperty/walking_time_minutes</p>
+  <div class="comment">
+   <span class="markdown">The walking time, in minutes, used to construct the station area as the region reachable from a station within this time (e.g., 5 or 10 minutes).</span>
+  </div>
+  <div class="description">
+   <dl>
+    <dt>
+     has domain
+    </dt>
+    <dd>
+     <a href="#https://w3id.org/rtskg/ontology/class/station_area" title="https://w3id.org/rtskg/ontology/class/station_area">Station Area</a> <sup class="type-c" title="class">c</sup>
+    </dd>
+    <dt>
+     has range
+    </dt>
+    <dd>
+     <a href="http://www.w3.org/2001/XMLSchema#integer" target="_blank" title="http://www.w3.org/2001/XMLSchema#integer">integer</a>
+    </dd>
+   </dl>
+  </div>
+ </div>
+</div><div xmlns:widoco="https://w3id.org/widoco/vocab#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="annotationproperties">
+ <h3 id="annotationproperties" class="list">Annotation Properties</h3>
+ <ul class="hlist">
+  <li><a href="#http://www.w3.org/2004/02/skos/core#altLabel" title="http://www.w3.org/2004/02/skos/core#altLabel"> <span>alt Label</span> </a></li>
+  <li><a href="#http://schema.org/codeRepository" title="http://schema.org/codeRepository"> <span>code Repository</span> </a></li>
+  <li><a href="#http://purl.org/dc/terms/created" title="http://purl.org/dc/terms/created"> <span>created</span> </a></li>
+  <li><a href="#http://purl.org/dc/terms/creator" title="http://purl.org/dc/terms/creator"> <span>creator</span> </a></li>
+  <li><a href="#http://purl.org/dc/terms/description" title="http://purl.org/dc/terms/description"> <span>description</span> </a></li>
+  <li><a href="#http://purl.org/dc/terms/license" title="http://purl.org/dc/terms/license"> <span>license</span> </a></li>
+  <li><a href="#http://purl.org/dc/terms/modified" title="http://purl.org/dc/terms/modified"> <span>modified</span> </a></li>
+  <li><a href="#http://purl.org/vocab/vann/preferredNamespacePrefix" title="http://purl.org/vocab/vann/preferredNamespacePrefix"> <span>preferred Namespace Prefix</span> </a></li>
+  <li><a href="#http://purl.org/vocab/vann/preferredNamespaceUri" title="http://purl.org/vocab/vann/preferredNamespaceUri"> <span>preferred Namespace Uri</span> </a></li>
+  <li><a href="#http://purl.org/dc/terms/publisher" title="http://purl.org/dc/terms/publisher"> <span>publisher</span> </a></li>
+  <li><a href="#http://purl.org/dc/terms/rights" title="http://purl.org/dc/terms/rights"> <span>rights</span> </a></li>
+  <li><a href="#http://purl.org/ontology/bibo/status" title="http://purl.org/ontology/bibo/status"> <span>status</span> </a></li>
+  <li><a href="#http://purl.org/dc/terms/title" title="http://purl.org/dc/terms/title"> <span>title</span> </a></li>
+ </ul>
+ <div class="entity" id="http://www.w3.org/2004/02/skos/core#altLabel">
+  <h3>alt Label<sup class="type-ap" title="annotation property">ap</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#annotationproperties">Annotation Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> http://www.w3.org/2004/02/skos/core#altLabel</p>
+ </div>
+ <div class="entity" id="http://schema.org/codeRepository">
+  <h3>code Repository<sup class="type-ap" title="annotation property">ap</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#annotationproperties">Annotation Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> http://schema.org/codeRepository</p>
+ </div>
+ <div class="entity" id="http://purl.org/dc/terms/created">
+  <h3>created<sup class="type-ap" title="annotation property">ap</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#annotationproperties">Annotation Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> http://purl.org/dc/terms/created</p>
+ </div>
+ <div class="entity" id="http://purl.org/dc/terms/creator">
+  <h3>creator<sup class="type-ap" title="annotation property">ap</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#annotationproperties">Annotation Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> http://purl.org/dc/terms/creator</p>
+ </div>
+ <div class="entity" id="http://purl.org/dc/terms/description">
+  <h3>description<sup class="type-ap" title="annotation property">ap</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#annotationproperties">Annotation Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> http://purl.org/dc/terms/description</p>
+ </div>
+ <div class="entity" id="http://purl.org/dc/terms/license">
+  <h3>license<sup class="type-ap" title="annotation property">ap</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#annotationproperties">Annotation Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> http://purl.org/dc/terms/license</p>
+ </div>
+ <div class="entity" id="http://purl.org/dc/terms/modified">
+  <h3>modified<sup class="type-ap" title="annotation property">ap</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#annotationproperties">Annotation Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> http://purl.org/dc/terms/modified</p>
+ </div>
+ <div class="entity" id="http://purl.org/vocab/vann/preferredNamespacePrefix">
+  <h3>preferred Namespace Prefix<sup class="type-ap" title="annotation property">ap</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#annotationproperties">Annotation Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> http://purl.org/vocab/vann/preferredNamespacePrefix</p>
+ </div>
+ <div class="entity" id="http://purl.org/vocab/vann/preferredNamespaceUri">
+  <h3>preferred Namespace Uri<sup class="type-ap" title="annotation property">ap</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#annotationproperties">Annotation Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> http://purl.org/vocab/vann/preferredNamespaceUri</p>
+ </div>
+ <div class="entity" id="http://purl.org/dc/terms/publisher">
+  <h3>publisher<sup class="type-ap" title="annotation property">ap</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#annotationproperties">Annotation Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> http://purl.org/dc/terms/publisher</p>
+ </div>
+ <div class="entity" id="http://purl.org/dc/terms/rights">
+  <h3>rights<sup class="type-ap" title="annotation property">ap</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#annotationproperties">Annotation Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> http://purl.org/dc/terms/rights</p>
+ </div>
+ <div class="entity" id="http://purl.org/ontology/bibo/status">
+  <h3>status<sup class="type-ap" title="annotation property">ap</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#annotationproperties">Annotation Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> http://purl.org/ontology/bibo/status</p>
+ </div>
+ <div class="entity" id="http://purl.org/dc/terms/title">
+  <h3>title<sup class="type-ap" title="annotation property">ap</sup> <span class="backlink"> back to <a href="#toc">ToC</a> or <a href="#annotationproperties">Annotation Property ToC</a> </span></h3>
+  <p><strong>IRI:</strong> http://purl.org/dc/terms/title</p>
+ </div>
+</div><div id="legend">
+<h2>Legend <span class="backlink"> back to <a href="#toc">ToC</a></span></h2>
+<div   class="entity">
+<sup class="type-c" title="Classes">c</sup>: Classes <br/>
+<sup class="type-op" title="Object Properties">op</sup>: Object Properties <br/>
+<sup class="type-dp" title="Data Properties">dp</sup>: Data Properties <br/>
+<sup class="type-ep" title="External Properties">ep</sup>: External Properties
+</div>
+</div>
+</div>
+    
+
+<!--REFERENCES SECTION-->
+  <div id="references"><ul>
+<li>Shutong Zhu, Tianxing Wu, Runfeng Liu, Yuang Gu, Xuan He, Yuan Zhu. RTSKG: Building a Rail Transit Station Knowledge Graph Dataset.</li>
+</ul>
+</div>
+<div id="acknowledgments">
+<h2 id="ack" class="list">Acknowledgments <span class="backlink"> back to <a href="#toc">ToC</a></span></h2>
+<p>
+The authors would like to thank <a href="http://www.essepuntato.it/">Silvio Peroni</a> for developing <a href="http://www.essepuntato.it/lode">LODE</a>, a Live OWL Documentation Environment, which is used for representing the Cross Referencing Section of this document and <a href="https://w3id.org/people/dgarijo">Daniel Garijo</a> for developing <a href="https://github.com/dgarijo/Widoco">Widoco</a>, the program used to create the template used in this documentation.</p>
+</div>
+
+
+</div>
+</body>
+</html>
