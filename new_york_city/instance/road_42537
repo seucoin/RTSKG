@@ -1,0 +1,9 @@
+<https://w3id.org/rtskg/new_york_city/instance/road_42537> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
+<https://w3id.org/rtskg/new_york_city/instance/road_42537> <http://www.w3.org/2000/01/rdf-schema#label> "AVE O" .
+<https://w3id.org/rtskg/new_york_city/instance/road_42537> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.968164 40.61196, -73.967889 40.611992)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<https://w3id.org/rtskg/new_york_city/instance/road_42537> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
+<https://w3id.org/rtskg/new_york_city/instance/road_42537> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_178> .
+<https://w3id.org/rtskg/new_york_city/instance/road_42537> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_255> .
+<https://w3id.org/rtskg/new_york_city/instance/road_42537> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_257> .
+<https://w3id.org/rtskg/new_york_city/instance/road_42537> <http://www.w3.org/ns/prov#generatedAtTime> "2025-11-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://w3id.org/rtskg/new_york_city/instance/road_42537> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://w3id.org/rtskg/source/new_york_city_road> .

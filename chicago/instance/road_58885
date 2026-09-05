@@ -1,0 +1,11 @@
+<https://w3id.org/rtskg/chicago/instance/road_58885> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
+<https://w3id.org/rtskg/chicago/instance/road_58885> <http://www.w3.org/2000/01/rdf-schema#label> "DAN RYAN" .
+<https://w3id.org/rtskg/chicago/instance/road_58885> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.626427 41.772695, -87.626353 41.772528, -87.62632 41.772403, -87.626275 41.772183, -87.62626 41.771956, -87.626242 41.771784, -87.626216 41.771335, -87.626185 41.771043, -87.626103 41.770923)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<https://w3id.org/rtskg/chicago/instance/road_58885> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_expy> .
+<https://w3id.org/rtskg/chicago/instance/road_58885> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_4> .
+<https://w3id.org/rtskg/chicago/instance/road_58885> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_5> .
+<https://w3id.org/rtskg/chicago/instance/road_58885> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_69> .
+<https://w3id.org/rtskg/chicago/instance/road_58885> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/chicago/instance/station_area_19> .
+<https://w3id.org/rtskg/chicago/instance/road_58885> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/chicago/instance/station_area_20> .
+<https://w3id.org/rtskg/chicago/instance/road_58885> <http://www.w3.org/ns/prov#generatedAtTime> "2025-11-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://w3id.org/rtskg/chicago/instance/road_58885> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://w3id.org/rtskg/source/chicago_road> .

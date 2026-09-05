@@ -1,0 +1,14 @@
+<https://w3id.org/rtskg/new_york_city/instance/road_32481> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
+<https://w3id.org/rtskg/new_york_city/instance/road_32481> <http://www.w3.org/2000/01/rdf-schema#label> "GRAND CONC" .
+<https://w3id.org/rtskg/new_york_city/instance/road_32481> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.886125 40.875517, -73.885974 40.875861, -73.885902 40.876026, -73.885861 40.876122, -73.885643 40.876621, -73.885555 40.876823)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<https://w3id.org/rtskg/new_york_city/instance/road_32481> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_conc> .
+<https://w3id.org/rtskg/new_york_city/instance/road_32481> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_2> .
+<https://w3id.org/rtskg/new_york_city/instance/road_32481> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_18> .
+<https://w3id.org/rtskg/new_york_city/instance/road_32481> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_293> .
+<https://w3id.org/rtskg/new_york_city/instance/road_32481> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_295> .
+<https://w3id.org/rtskg/new_york_city/instance/road_32481> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_296> .
+<https://w3id.org/rtskg/new_york_city/instance/road_32481> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_571> .
+<https://w3id.org/rtskg/new_york_city/instance/road_32481> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_572> .
+<https://w3id.org/rtskg/new_york_city/instance/road_32481> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_603> .
+<https://w3id.org/rtskg/new_york_city/instance/road_32481> <http://www.w3.org/ns/prov#generatedAtTime> "2025-11-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://w3id.org/rtskg/new_york_city/instance/road_32481> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://w3id.org/rtskg/source/new_york_city_road> .

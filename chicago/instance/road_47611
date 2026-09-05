@@ -1,0 +1,9 @@
+<https://w3id.org/rtskg/chicago/instance/road_47611> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
+<https://w3id.org/rtskg/chicago/instance/road_47611> <http://www.w3.org/2000/01/rdf-schema#label> "ST LAWRENCE" .
+<https://w3id.org/rtskg/chicago/instance/road_47611> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.611796 41.82031, -87.611785 41.819969, -87.611782 41.819872, -87.611781 41.819837, -87.611777 41.819674, -87.611776 41.819638, -87.61179 41.819414)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<https://w3id.org/rtskg/chicago/instance/road_47611> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
+<https://w3id.org/rtskg/chicago/instance/road_47611> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_5> .
+<https://w3id.org/rtskg/chicago/instance/road_47611> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_38> .
+<https://w3id.org/rtskg/chicago/instance/road_47611> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/chicago/instance/station_area_7> .
+<https://w3id.org/rtskg/chicago/instance/road_47611> <http://www.w3.org/ns/prov#generatedAtTime> "2025-11-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://w3id.org/rtskg/chicago/instance/road_47611> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://w3id.org/rtskg/source/chicago_road> .

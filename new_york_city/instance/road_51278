@@ -1,0 +1,12 @@
+<https://w3id.org/rtskg/new_york_city/instance/road_51278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
+<https://w3id.org/rtskg/new_york_city/instance/road_51278> <http://www.w3.org/2000/01/rdf-schema#label> "BOND ST" .
+<https://w3id.org/rtskg/new_york_city/instance/road_51278> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-73.987858 40.682503, -73.987891 40.682452, -73.987929 40.682394, -73.987973 40.682327, -73.988011 40.682269, -73.988055 40.682202, -73.988209 40.681968, -73.988275 40.681868)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<https://w3id.org/rtskg/new_york_city/instance/road_51278> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/new_york_city/instance/road_category_st> .
+<https://w3id.org/rtskg/new_york_city/instance/road_51278> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/new_york_city/instance/borough_3> .
+<https://w3id.org/rtskg/new_york_city/instance/road_51278> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/new_york_city/instance/functional_area_25> .
+<https://w3id.org/rtskg/new_york_city/instance/road_51278> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_299> .
+<https://w3id.org/rtskg/new_york_city/instance/road_51278> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_343> .
+<https://w3id.org/rtskg/new_york_city/instance/road_51278> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_489> .
+<https://w3id.org/rtskg/new_york_city/instance/road_51278> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/new_york_city/instance/station_area_701> .
+<https://w3id.org/rtskg/new_york_city/instance/road_51278> <http://www.w3.org/ns/prov#generatedAtTime> "2025-11-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://w3id.org/rtskg/new_york_city/instance/road_51278> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://w3id.org/rtskg/source/new_york_city_road> .
