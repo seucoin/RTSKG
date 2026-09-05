@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="https://w3id.org/rtskg/ontology#"
+     xml:base="https://w3id.org/rtskg/ontology"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:rtskg="https://w3id.org/rtskg/ontology#">
+    <owl:Ontology rdf:about="https://w3id.org/rtskg/ontology">
+        <owl:versionIRI rdf:resource="https://w3id.org/rtskg/ontology/1.1"/>
+    </owl:Ontology>
+
+    <!-- https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category">
+        <rdfs:domain rdf:resource="https://w3id.org/rtskg/ontology/class/poi"/>
+        <rdfs:range rdf:resource="https://w3id.org/rtskg/ontology/class/poi_category"/>
+        <rdfs:label>poi_has_poi_category</rdfs:label>
+        <rdfs:comment xml:lang="en">Models the non-geographic relation in which a POI has a POI category.</rdfs:comment>
+    </owl:ObjectProperty>
+</rdf:RDF>

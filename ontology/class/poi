@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="https://w3id.org/rtskg/ontology#"
+     xml:base="https://w3id.org/rtskg/ontology"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+     xmlns:rtskg="https://w3id.org/rtskg/ontology#">
+    <owl:Ontology rdf:about="https://w3id.org/rtskg/ontology">
+        <owl:versionIRI rdf:resource="https://w3id.org/rtskg/ontology/1.1"/>
+    </owl:Ontology>
+
+    <!-- https://w3id.org/rtskg/ontology/class/poi -->
+
+    <owl:Class rdf:about="https://w3id.org/rtskg/ontology/class/poi">
+        <rdfs:subClassOf rdf:resource="http://www.opengis.net/ont/geosparql#Feature"/>
+        <rdfs:label>POI</rdfs:label>
+        <rdfs:comment xml:lang="en">A point of interest (POI), which represents the basic functional units in a city.</rdfs:comment>
+        <skos:altLabel xml:lang="en">Point of Interest</skos:altLabel>
+    </owl:Class>
+</rdf:RDF>
