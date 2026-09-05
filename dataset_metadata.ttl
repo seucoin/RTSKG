@@ -1,0 +1,160 @@
+@prefix rtskg:   <https://w3id.org/rtskg/> .
+@prefix owl:     <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix dcat:    <http://www.w3.org/ns/dcat#> .
+@prefix void:    <http://rdfs.org/ns/void#> .
+@prefix prov:    <http://www.w3.org/ns/prov#> .
+@prefix foaf:    <http://xmlns.com/foaf/0.1/> .
+
+#################################################################
+#    RTSKG dataset (top level)
+#################################################################
+
+rtskg:dataset a void:Dataset , dcat:Dataset ;
+    dcterms:title "RTSKG: A Rail Transit Station Knowledge Graph Dataset"@en ;
+    dcterms:description """RTSKG is a rail transit station knowledge graph dataset that explicitly models the spatial and semantic interactions among different kinds of urban entities to support city-level rail transit station related tasks. It consists of two sub-KGs, one for New York City and one for Chicago. Both sub-KGs follow a single unified schema (the RTSKG ontology)."""@en ;
+    dcterms:creator "Shutong Zhu" , "Tianxing Wu" , "Runfeng Liu" , "Yuang Gu" , "Xuan He" , "Yuan Zhu" ;
+    dcterms:publisher "Southeast University" ;
+    dcterms:created "2025-11"^^xsd:gYearMonth ;
+    dcterms:modified "2026-06"^^xsd:gYearMonth ;
+    owl:versionInfo "1.1" ;
+    dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+    dcterms:rights "The data resources are released under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)."@en ;
+    dcat:landingPage <https://github.com/seucoin/RTSKG> ;
+    void:vocabulary <https://w3id.org/rtskg/ontology> ;
+    void:uriSpace "https://w3id.org/rtskg/" ;
+    void:classes 10 ;
+    void:subset rtskg:new_york_city , rtskg:chicago , rtskg:sources .
+
+#################################################################
+#    External interlinking note
+#    POI instances carry owl:sameAs links to LinkedGeoData (and,
+#    where available, Wikidata) and prov:wasDerivedFrom links to
+#    OpenStreetMap. LinkedGeoData is the canonical RDF representation
+#    of OpenStreetMap, and its identifiers are derived deterministically
+#    from OpenStreetMap element keys, so each owl:sameAs target denotes
+#    the same real-world feature as the linked POI. However, the
+#    planet-wide LinkedGeoData Linked Data interface is now only a legacy
+#    service, so identifiers of the form
+#    http://linkedgeodata.org/triplify/way<ID> are no longer directly
+#    dereferenceable, whereas the corresponding OpenStreetMap elements
+#    (of the form https://www.openstreetmap.org/way/<ID>) remain accessible.
+#################################################################
+
+#################################################################
+#    New York City sub-KG
+#################################################################
+
+rtskg:new_york_city a void:Dataset , dcat:Dataset ;
+    dcterms:title "RTSKG - New York City sub-knowledge-graph"@en ;
+    dcterms:description """The New York City sub-KG of RTSKG. It contains instances of rail transit stations and lines, station areas (constructed with 5-minute and 10-minute walking times), administrative boroughs, functional areas, blocks, roads and road categories, and points of interest and POI categories, together with their spatial relations. The rail transit stations and lines are derived from Open NY; the administrative boroughs, functional areas, and roads from NYC Open Data; and the points of interest from the UUKG dataset (derived from OpenStreetMap); while station areas and blocks are constructed by us."""@en ;
+    dcterms:isPartOf rtskg:dataset ;
+    dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+    void:uriSpace "https://w3id.org/rtskg/new_york_city/instance/" ;
+    void:vocabulary <https://w3id.org/rtskg/ontology> ;
+    void:entities 238839 ;
+    void:triples 2220806 ;
+    prov:wasDerivedFrom
+        <https://data.ny.gov/> ,
+        <https://opendata.cityofnewyork.us/> ,
+        <https://www.openstreetmap.org/> ;
+    dcterms:source
+        <https://data.ny.gov/> ,
+        <https://opendata.cityofnewyork.us/> ,
+        <https://www.openstreetmap.org/> .
+
+#################################################################
+#    Chicago sub-KG
+#################################################################
+
+rtskg:chicago a void:Dataset , dcat:Dataset ;
+    dcterms:title "RTSKG - Chicago sub-knowledge-graph"@en ;
+    dcterms:description """The Chicago sub-KG of RTSKG. It contains instances of rail transit stations and lines, station areas (constructed with 5-minute and 10-minute walking times), administrative boroughs, functional areas, blocks, roads and road categories, and points of interest and POI categories, together with their spatial relations. The rail transit stations and lines, administrative boroughs, functional areas, and roads are derived from the Chicago Data Portal; and the points of interest from the UUKG dataset (derived from OpenStreetMap); while station areas and blocks are constructed by us."""@en ;
+    dcterms:isPartOf rtskg:dataset ;
+    dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+    void:uriSpace "https://w3id.org/rtskg/chicago/instance/" ;
+    void:vocabulary <https://w3id.org/rtskg/ontology> ;
+    void:entities 151845 ;
+    void:triples 1179594 ;
+    prov:wasDerivedFrom
+        <https://data.cityofchicago.org/> ,
+        <https://www.openstreetmap.org/> ;
+    dcterms:source
+        <https://data.cityofchicago.org/> ,
+        <https://www.openstreetmap.org/> .
+
+#################################################################
+#    Source datasets
+#    Provenance targets referenced by prov:wasDerivedFrom on
+#    rail transit station, rail transit line, borough,
+#    functional area and road instances. dcterms:issued records
+#    the vintage of each upstream source dataset. Block and
+#    station area instances are self-generated; POI instances are
+#    derived from OpenStreetMap, linked directly via
+#    prov:wasDerivedFrom.
+#
+#    Timestamp policy: dcterms:issued gives the publication / vintage
+#    of the upstream source dataset where this can be traced to the
+#    source; where a source publication date cannot be determined, it
+#    defaults to our retrieval (download) time. prov:generatedAtTime
+#    on each instance records when the RTSKG instances were built.
+#################################################################
+
+rtskg:sources a void:Dataset ;
+    dcterms:title "RTSKG upstream source datasets"@en ;
+    dcterms:description "Descriptions of the upstream open-data source datasets that RTSKG instances are derived from, referenced via prov:wasDerivedFrom. Each source records its landing page (dcat:landingPage) and the vintage of the source data (dcterms:issued)."@en ;
+    dcterms:isPartOf rtskg:dataset ;
+    void:uriSpace "https://w3id.org/rtskg/source/" ;
+    void:entities 10 .
+
+<https://w3id.org/rtskg/source/new_york_city_rail_transit_station> a prov:Entity , dcat:Dataset ;
+    dcterms:title "Source dataset for New York City rail transit stations"@en ;
+    dcat:landingPage <https://data.ny.gov/> ;
+    dcterms:issued "2024-09"^^xsd:gYearMonth .
+
+<https://w3id.org/rtskg/source/new_york_city_rail_transit_line> a prov:Entity , dcat:Dataset ;
+    dcterms:title "Source dataset for New York City rail transit lines"@en ;
+    dcat:landingPage <https://data.ny.gov/> ;
+    dcterms:issued "2024-09"^^xsd:gYearMonth .
+
+<https://w3id.org/rtskg/source/new_york_city_borough> a prov:Entity , dcat:Dataset ;
+    dcterms:title "Source dataset for New York City boroughs"@en ;
+    dcat:landingPage <https://opendata.cityofnewyork.us/> ;
+    dcterms:issued "2023-04"^^xsd:gYearMonth .
+
+<https://w3id.org/rtskg/source/new_york_city_functional_area> a prov:Entity , dcat:Dataset ;
+    dcterms:title "Source dataset for New York City functional areas"@en ;
+    dcat:landingPage <https://opendata.cityofnewyork.us/> ;
+    dcterms:issued "2015-04"^^xsd:gYearMonth .
+
+<https://w3id.org/rtskg/source/new_york_city_road> a prov:Entity , dcat:Dataset ;
+    dcterms:title "Source dataset for New York City roads"@en ;
+    dcat:landingPage <https://opendata.cityofnewyork.us/> ;
+    dcterms:issued "2025-07"^^xsd:gYearMonth .
+
+<https://w3id.org/rtskg/source/chicago_rail_transit_station> a prov:Entity , dcat:Dataset ;
+    dcterms:title "Source dataset for Chicago rail transit stations"@en ;
+    dcat:landingPage <https://data.cityofchicago.org/> ;
+    dcterms:issued "2023-09"^^xsd:gYearMonth .
+
+<https://w3id.org/rtskg/source/chicago_rail_transit_line> a prov:Entity , dcat:Dataset ;
+    dcterms:title "Source dataset for Chicago rail transit lines"@en ;
+    dcat:landingPage <https://data.cityofchicago.org/> ;
+    dcterms:issued "2023-09"^^xsd:gYearMonth .
+
+<https://w3id.org/rtskg/source/chicago_borough> a prov:Entity , dcat:Dataset ;
+    dcterms:title "Source dataset for Chicago boroughs"@en ;
+    dcat:landingPage <https://data.cityofchicago.org/> ;
+    dcterms:issued "2023-05"^^xsd:gYearMonth .
+
+<https://w3id.org/rtskg/source/chicago_functional_area> a prov:Entity , dcat:Dataset ;
+    dcterms:title "Source dataset for Chicago functional areas"@en ;
+    dcat:landingPage <https://data.cityofchicago.org/> ;
+    dcterms:issued "2023-05"^^xsd:gYearMonth .
+
+<https://w3id.org/rtskg/source/chicago_road> a prov:Entity , dcat:Dataset ;
+    dcterms:title "Source dataset for Chicago roads"@en ;
+    dcat:landingPage <https://data.cityofchicago.org/> ;
+    dcterms:issued "2024-04"^^xsd:gYearMonth .
