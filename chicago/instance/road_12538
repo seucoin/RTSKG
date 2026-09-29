@@ -1,0 +1,12 @@
+<https://w3id.org/rtskg/chicago/instance/road_12538> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
+<https://w3id.org/rtskg/chicago/instance/road_12538> <http://www.w3.org/2000/01/rdf-schema#label> "BROADWAY" .
+<https://w3id.org/rtskg/chicago/instance/road_12538> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.658448 41.966926, -87.658515 41.967029, -87.658522 41.967039, -87.658633 41.967212)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<https://w3id.org/rtskg/chicago/instance/road_12538> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_2> .
+<https://w3id.org/rtskg/chicago/instance/road_12538> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_3> .
+<https://w3id.org/rtskg/chicago/instance/road_12538> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/chicago/instance/station_area_187> .
+<https://w3id.org/rtskg/chicago/instance/road_12538> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/chicago/instance/station_area_188> .
+<https://w3id.org/rtskg/chicago/instance/road_12538> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/chicago/instance/station_area_287> .
+<https://w3id.org/rtskg/chicago/instance/road_12538> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/chicago/instance/station_area_288> .
+<https://w3id.org/rtskg/chicago/instance/road_12538> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/chicago/instance/station_area_35> .
+<https://w3id.org/rtskg/chicago/instance/road_12538> <http://www.w3.org/ns/prov#generatedAtTime> "2025-11-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://w3id.org/rtskg/chicago/instance/road_12538> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://w3id.org/rtskg/source/chicago_road> .

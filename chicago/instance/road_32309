@@ -1,0 +1,12 @@
+<https://w3id.org/rtskg/chicago/instance/road_32309> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/rtskg/ontology/class/road> .
+<https://w3id.org/rtskg/chicago/instance/road_32309> <http://www.w3.org/2000/01/rdf-schema#label> "BERENICE" .
+<https://w3id.org/rtskg/chicago/instance/road_32309> <https://w3id.org/rtskg/ontology/dataproperty/geometry> "LINESTRING (-87.676872 41.951448, -87.677039 41.951448, -87.677507 41.951439, -87.677736 41.951436, -87.678004 41.951432, -87.678051 41.951431, -87.678072 41.95143, -87.678678 41.951424)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<https://w3id.org/rtskg/chicago/instance/road_32309> <https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <https://w3id.org/rtskg/chicago/instance/road_category_ave> .
+<https://w3id.org/rtskg/chicago/instance/road_32309> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <https://w3id.org/rtskg/chicago/instance/borough_6> .
+<https://w3id.org/rtskg/chicago/instance/road_32309> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <https://w3id.org/rtskg/chicago/instance/functional_area_5> .
+<https://w3id.org/rtskg/chicago/instance/road_32309> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/chicago/instance/station_area_153> .
+<https://w3id.org/rtskg/chicago/instance/road_32309> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/chicago/instance/station_area_154> .
+<https://w3id.org/rtskg/chicago/instance/road_32309> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/chicago/instance/station_area_33> .
+<https://w3id.org/rtskg/chicago/instance/road_32309> <https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <https://w3id.org/rtskg/chicago/instance/station_area_34> .
+<https://w3id.org/rtskg/chicago/instance/road_32309> <http://www.w3.org/ns/prov#generatedAtTime> "2025-11-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://w3id.org/rtskg/chicago/instance/road_32309> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://w3id.org/rtskg/source/chicago_road> .
