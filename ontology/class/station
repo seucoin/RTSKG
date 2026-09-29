@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="https://w3id.org/rtskg/ontology#"
+     xml:base="https://w3id.org/rtskg/ontology"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+     xmlns:rtskg="https://w3id.org/rtskg/ontology#">
+    <owl:Ontology rdf:about="https://w3id.org/rtskg/ontology">
+        <owl:versionIRI rdf:resource="https://w3id.org/rtskg/ontology/1.1"/>
+    </owl:Ontology>
+
+    <!-- https://w3id.org/rtskg/ontology/class/station -->
+
+    <owl:Class rdf:about="https://w3id.org/rtskg/ontology/class/station">
+        <rdfs:seeAlso rdf:resource="http://vocab.gtfs.org/terms#Station"/>
+        <rdfs:seeAlso rdf:resource="http://linkedgeodata.org/ontology/RailwayStation"/>
+        <rdfs:label>Station</rdfs:label>
+        <rdfs:comment xml:lang="en">The rail transit station, which serves as a transport hub for passengers to board or alight from the rail transit vehicles like subway train.</rdfs:comment>
+        <skos:altLabel xml:lang="en">Rail Transit Station</skos:altLabel>
+    </owl:Class>
+</rdf:RDF>
