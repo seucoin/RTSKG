@@ -1,0 +1,348 @@
+<https://w3id.org/rtskg/ontology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
+<https://w3id.org/rtskg/ontology> <http://www.w3.org/2002/07/owl#versionIRI> <https://w3id.org/rtskg/ontology/1.1> .
+<https://w3id.org/rtskg/ontology> <http://purl.org/dc/terms/created> "2025-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://w3id.org/rtskg/ontology> <http://purl.org/dc/terms/creator> "Runfeng Liu" .
+<https://w3id.org/rtskg/ontology> <http://purl.org/dc/terms/creator> "Shutong Zhu" .
+<https://w3id.org/rtskg/ontology> <http://purl.org/dc/terms/creator> "Tianxing Wu" .
+<https://w3id.org/rtskg/ontology> <http://purl.org/dc/terms/creator> "Xuan He" .
+<https://w3id.org/rtskg/ontology> <http://purl.org/dc/terms/creator> "Yuan Zhu" .
+<https://w3id.org/rtskg/ontology> <http://purl.org/dc/terms/creator> "Yuang Gu" .
+<https://w3id.org/rtskg/ontology> <http://purl.org/dc/terms/description> "The RTSKG ontology is the unified schema of the Rail Transit Station Knowledge Graph (RTSKG), a dataset that explicitly models the spatial and semantic interactions among different kinds of urban entities. It defines ten classes and nineteen relations."@en .
+<https://w3id.org/rtskg/ontology> <http://purl.org/dc/terms/license> <https://creativecommons.org/licenses/by-sa/4.0/> .
+<https://w3id.org/rtskg/ontology> <http://purl.org/dc/terms/modified> "2026-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://w3id.org/rtskg/ontology> <http://purl.org/dc/terms/publisher> "Southeast University" .
+<https://w3id.org/rtskg/ontology> <http://purl.org/dc/terms/rights> "This ontology is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)."@en .
+<https://w3id.org/rtskg/ontology> <http://purl.org/dc/terms/title> "RTSKG Ontology"@en .
+<https://w3id.org/rtskg/ontology> <http://purl.org/ontology/bibo/status> <http://purl.org/ontology/bibo/status/published> .
+<https://w3id.org/rtskg/ontology> <http://purl.org/vocab/vann/preferredNamespacePrefix> "rtskg" .
+<https://w3id.org/rtskg/ontology> <http://purl.org/vocab/vann/preferredNamespaceUri> "https://w3id.org/rtskg/ontology/" .
+<https://w3id.org/rtskg/ontology> <http://schema.org/codeRepository> <https://github.com/seucoin/RTSKG> .
+<https://w3id.org/rtskg/ontology> <http://www.w3.org/2000/01/rdf-schema#label> "RTSKG Ontology"@en .
+<https://w3id.org/rtskg/ontology> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://seucoin.github.io/RTSKG/> .
+<https://w3id.org/rtskg/ontology> <http://www.w3.org/2002/07/owl#priorVersion> <https://w3id.org/rtskg/ontology/1.0> .
+<https://w3id.org/rtskg/ontology> <http://www.w3.org/2002/07/owl#versionInfo> "1.1" .
+# 
+# 
+# #################################################################
+# #
+# #    Annotation properties
+# #
+# #################################################################
+# 
+# 
+# http://purl.org/dc/terms/created
+<http://purl.org/dc/terms/created> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://purl.org/dc/terms/creator
+<http://purl.org/dc/terms/creator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://purl.org/dc/terms/description
+<http://purl.org/dc/terms/description> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://purl.org/dc/terms/license
+<http://purl.org/dc/terms/license> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://purl.org/dc/terms/modified
+<http://purl.org/dc/terms/modified> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://purl.org/dc/terms/publisher
+<http://purl.org/dc/terms/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://purl.org/dc/terms/rights
+<http://purl.org/dc/terms/rights> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://purl.org/dc/terms/title
+<http://purl.org/dc/terms/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://purl.org/ontology/bibo/status
+<http://purl.org/ontology/bibo/status> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://purl.org/vocab/vann/preferredNamespacePrefix
+<http://purl.org/vocab/vann/preferredNamespacePrefix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://purl.org/vocab/vann/preferredNamespaceUri
+<http://purl.org/vocab/vann/preferredNamespaceUri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://schema.org/codeRepository
+<http://schema.org/codeRepository> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://www.w3.org/2004/02/skos/core#altLabel
+<http://www.w3.org/2004/02/skos/core#altLabel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# 
+# 
+# #################################################################
+# #
+# #    Datatypes
+# #
+# #################################################################
+# 
+# 
+# http://www.opengis.net/ont/geosparql#wktLiteral
+<http://www.opengis.net/ont/geosparql#wktLiteral> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Datatype> .
+<http://www.opengis.net/ont/geosparql#wktLiteral> <http://www.w3.org/2002/07/owl#equivalentClass> <http://www.w3.org/2001/XMLSchema#string> .
+# 
+# http://www.w3.org/2001/XMLSchema#gYearMonth
+<http://www.w3.org/2001/XMLSchema#gYearMonth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Datatype> .
+# 
+# 
+# 
+# #################################################################
+# #
+# #    Object Properties
+# #
+# #################################################################
+# 
+# 
+# http://www.opengis.net/ont/geosparql#sfIntersects
+<http://www.opengis.net/ont/geosparql#sfIntersects> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+# 
+# http://www.opengis.net/ont/geosparql#sfTouches
+<http://www.opengis.net/ont/geosparql#sfTouches> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+# 
+# https://w3id.org/rtskg/ontology/objectproperty/block_intersects_station_area
+<https://w3id.org/rtskg/ontology/objectproperty/block_intersects_station_area> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/rtskg/ontology/objectproperty/block_intersects_station_area> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.opengis.net/ont/geosparql#sfIntersects> .
+<https://w3id.org/rtskg/ontology/objectproperty/block_intersects_station_area> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/rtskg/ontology/class/block> .
+<https://w3id.org/rtskg/ontology/objectproperty/block_intersects_station_area> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/rtskg/ontology/class/station_area> .
+<https://w3id.org/rtskg/ontology/objectproperty/block_intersects_station_area> <http://www.w3.org/2000/01/rdf-schema#comment> "Models the intersection between a block and a station area."@en .
+<https://w3id.org/rtskg/ontology/objectproperty/block_intersects_station_area> <http://www.w3.org/2000/01/rdf-schema#label> "block_intersects_station_area" .
+# 
+# https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_borough
+<https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_borough> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_borough> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/rtskg/ontology/class/block> .
+<https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_borough> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/rtskg/ontology/class/borough> .
+<https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_borough> <http://www.w3.org/2000/01/rdf-schema#comment> "Models the location relation between a block and a borough."@en .
+<https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_borough> <http://www.w3.org/2000/01/rdf-schema#label> "block_locates_at_borough" .
+# 
+# https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_functional_area
+<https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_functional_area> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_functional_area> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/rtskg/ontology/class/block> .
+<https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_functional_area> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/rtskg/ontology/class/functional_area> .
+<https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_functional_area> <http://www.w3.org/2000/01/rdf-schema#comment> "Models the location relation between a block and a functional area."@en .
+<https://w3id.org/rtskg/ontology/objectproperty/block_locates_at_functional_area> <http://www.w3.org/2000/01/rdf-schema#label> "block_locates_at_functional_area" .
+# 
+# https://w3id.org/rtskg/ontology/objectproperty/borough_is_adjacent_to_borough
+<https://w3id.org/rtskg/ontology/objectproperty/borough_is_adjacent_to_borough> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/rtskg/ontology/objectproperty/borough_is_adjacent_to_borough> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.opengis.net/ont/geosparql#sfTouches> .
+<https://w3id.org/rtskg/ontology/objectproperty/borough_is_adjacent_to_borough> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/rtskg/ontology/class/borough> .
+<https://w3id.org/rtskg/ontology/objectproperty/borough_is_adjacent_to_borough> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/rtskg/ontology/class/borough> .
+<https://w3id.org/rtskg/ontology/objectproperty/borough_is_adjacent_to_borough> <http://www.w3.org/2000/01/rdf-schema#comment> "Models the adjacency between two boroughs."@en .
+<https://w3id.org/rtskg/ontology/objectproperty/borough_is_adjacent_to_borough> <http://www.w3.org/2000/01/rdf-schema#label> "borough_is_adjacent_to_borough" .
+# 
+# https://w3id.org/rtskg/ontology/objectproperty/functional_area_is_adjacent_to_functional_area
+<https://w3id.org/rtskg/ontology/objectproperty/functional_area_is_adjacent_to_functional_area> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/rtskg/ontology/objectproperty/functional_area_is_adjacent_to_functional_area> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.opengis.net/ont/geosparql#sfTouches> .
+<https://w3id.org/rtskg/ontology/objectproperty/functional_area_is_adjacent_to_functional_area> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/rtskg/ontology/class/functional_area> .
+<https://w3id.org/rtskg/ontology/objectproperty/functional_area_is_adjacent_to_functional_area> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/rtskg/ontology/class/functional_area> .
+<https://w3id.org/rtskg/ontology/objectproperty/functional_area_is_adjacent_to_functional_area> <http://www.w3.org/2000/01/rdf-schema#comment> "Models the adjacency between two functional areas."@en .
+<https://w3id.org/rtskg/ontology/objectproperty/functional_area_is_adjacent_to_functional_area> <http://www.w3.org/2000/01/rdf-schema#label> "functional_area_is_adjacent_to_functional_area" .
+# 
+# https://w3id.org/rtskg/ontology/objectproperty/functional_area_locates_at_borough
+<https://w3id.org/rtskg/ontology/objectproperty/functional_area_locates_at_borough> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/rtskg/ontology/objectproperty/functional_area_locates_at_borough> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/rtskg/ontology/class/functional_area> .
+<https://w3id.org/rtskg/ontology/objectproperty/functional_area_locates_at_borough> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/rtskg/ontology/class/borough> .
+<https://w3id.org/rtskg/ontology/objectproperty/functional_area_locates_at_borough> <http://www.w3.org/2000/01/rdf-schema#comment> "Models the location relation between a functional area and a borough."@en .
+<https://w3id.org/rtskg/ontology/objectproperty/functional_area_locates_at_borough> <http://www.w3.org/2000/01/rdf-schema#label> "functional_area_locates_at_borough" .
+# 
+# https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category
+<https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/rtskg/ontology/class/poi> .
+<https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/rtskg/ontology/class/poi_category> .
+<https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category> <http://www.w3.org/2000/01/rdf-schema#comment> "Models the non-geographic relation in which a POI has a POI category."@en .
+<https://w3id.org/rtskg/ontology/objectproperty/poi_has_poi_category> <http://www.w3.org/2000/01/rdf-schema#label> "poi_has_poi_category" .
+# 
+# https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_block
+<https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_block> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_block> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/rtskg/ontology/class/poi> .
+<https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_block> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/rtskg/ontology/class/block> .
+<https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_block> <http://www.w3.org/2000/01/rdf-schema#comment> "Models the location relation between a POI and a block."@en .
+<https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_block> <http://www.w3.org/2000/01/rdf-schema#label> "poi_locates_at_block" .
+# 
+# https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_station_area
+<https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_station_area> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_station_area> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/rtskg/ontology/class/poi> .
+<https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_station_area> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/rtskg/ontology/class/station_area> .
+<https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_station_area> <http://www.w3.org/2000/01/rdf-schema#comment> "Models the location relation between a POI and a station area."@en .
+<https://w3id.org/rtskg/ontology/objectproperty/poi_locates_at_station_area> <http://www.w3.org/2000/01/rdf-schema#label> "poi_locates_at_station_area" .
+# 
+# https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category
+<https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/rtskg/ontology/class/road> .
+<https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/rtskg/ontology/class/road_category> .
+<https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <http://www.w3.org/2000/01/rdf-schema#comment> "Models the non-geographic relation in which a road has a road category."@en .
+<https://w3id.org/rtskg/ontology/objectproperty/road_has_road_category> <http://www.w3.org/2000/01/rdf-schema#label> "road_has_road_category" .
+# 
+# https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough
+<https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.opengis.net/ont/geosparql#sfIntersects> .
+<https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/rtskg/ontology/class/road> .
+<https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/rtskg/ontology/class/borough> .
+<https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <http://www.w3.org/2000/01/rdf-schema#comment> "Models the intersection between a road and a borough."@en .
+<https://w3id.org/rtskg/ontology/objectproperty/road_intersects_borough> <http://www.w3.org/2000/01/rdf-schema#label> "road_intersects_borough" .
+# 
+# https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area
+<https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.opengis.net/ont/geosparql#sfIntersects> .
+<https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/rtskg/ontology/class/road> .
+<https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/rtskg/ontology/class/functional_area> .
+<https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <http://www.w3.org/2000/01/rdf-schema#comment> "Models the intersection between a road and a functional area."@en .
+<https://w3id.org/rtskg/ontology/objectproperty/road_intersects_functional_area> <http://www.w3.org/2000/01/rdf-schema#label> "road_intersects_functional_area" .
+# 
+# https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area
+<https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.opengis.net/ont/geosparql#sfIntersects> .
+<https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/rtskg/ontology/class/road> .
+<https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/rtskg/ontology/class/station_area> .
+<https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <http://www.w3.org/2000/01/rdf-schema#comment> "Models the intersection between a road and a station area."@en .
+<https://w3id.org/rtskg/ontology/objectproperty/road_intersects_station_area> <http://www.w3.org/2000/01/rdf-schema#label> "road_intersects_station_area" .
+# 
+# https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station
+<https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/rtskg/ontology/class/station_area> .
+<https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/rtskg/ontology/class/station> .
+<https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station> <http://www.w3.org/2000/01/rdf-schema#comment> "Models the non-geographic relation in which a station area belongs to a station."@en .
+<https://w3id.org/rtskg/ontology/objectproperty/station_area_belongs_to_station> <http://www.w3.org/2000/01/rdf-schema#label> "station_area_belongs_to_station" .
+# 
+# https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block
+<https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.opengis.net/ont/geosparql#sfIntersects> .
+<https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/rtskg/ontology/class/station_area> .
+<https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/rtskg/ontology/class/block> .
+<https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block> <http://www.w3.org/2000/01/rdf-schema#comment> "Models the intersection between a station area and a block."@en .
+<https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_block> <http://www.w3.org/2000/01/rdf-schema#label> "station_area_intersects_block" .
+# 
+# https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_station_area
+<https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_station_area> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_station_area> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.opengis.net/ont/geosparql#sfIntersects> .
+<https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_station_area> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/rtskg/ontology/class/station_area> .
+<https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_station_area> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/rtskg/ontology/class/station_area> .
+<https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_station_area> <http://www.w3.org/2000/01/rdf-schema#comment> "Models the intersection between two station areas."@en .
+<https://w3id.org/rtskg/ontology/objectproperty/station_area_intersects_station_area> <http://www.w3.org/2000/01/rdf-schema#label> "station_area_intersects_station_area" .
+# 
+# https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_borough
+<https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_borough> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_borough> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/rtskg/ontology/class/station_area> .
+<https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_borough> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/rtskg/ontology/class/borough> .
+<https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_borough> <http://www.w3.org/2000/01/rdf-schema#comment> "Models the location relation between a station area and a borough."@en .
+<https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_borough> <http://www.w3.org/2000/01/rdf-schema#label> "station_area_locates_at_borough" .
+# 
+# https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_functional_area
+<https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_functional_area> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_functional_area> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/rtskg/ontology/class/station_area> .
+<https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_functional_area> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/rtskg/ontology/class/functional_area> .
+<https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_functional_area> <http://www.w3.org/2000/01/rdf-schema#comment> "Models the location relation between a station area and a functional area."@en .
+<https://w3id.org/rtskg/ontology/objectproperty/station_area_locates_at_functional_area> <http://www.w3.org/2000/01/rdf-schema#label> "station_area_locates_at_functional_area" .
+# 
+# https://w3id.org/rtskg/ontology/objectproperty/station_belongs_to_line
+<https://w3id.org/rtskg/ontology/objectproperty/station_belongs_to_line> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/rtskg/ontology/objectproperty/station_belongs_to_line> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/rtskg/ontology/class/station> .
+<https://w3id.org/rtskg/ontology/objectproperty/station_belongs_to_line> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/rtskg/ontology/class/line> .
+<https://w3id.org/rtskg/ontology/objectproperty/station_belongs_to_line> <http://www.w3.org/2000/01/rdf-schema#comment> "Models the non-geographic relation in which a station belongs to a rail transit line."@en .
+<https://w3id.org/rtskg/ontology/objectproperty/station_belongs_to_line> <http://www.w3.org/2000/01/rdf-schema#label> "station_belongs_to_line" .
+# 
+# 
+# 
+# #################################################################
+# #
+# #    Data properties
+# #
+# #################################################################
+# 
+# 
+# https://w3id.org/rtskg/ontology/dataproperty/geometry
+<https://w3id.org/rtskg/ontology/dataproperty/geometry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/rtskg/ontology/dataproperty/geometry> <http://www.w3.org/2000/01/rdf-schema#domain> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://www.opengis.net/ont/geosparql#Feature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/rtskg/ontology/dataproperty/geometry> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.opengis.net/ont/geosparql#wktLiteral> .
+<https://w3id.org/rtskg/ontology/dataproperty/geometry> <http://www.w3.org/2000/01/rdf-schema#comment> "The geometry of a feature, encoded as an OGC Well-Known Text (WKT) literal in the WGS84 coordinate reference system."@en .
+<https://w3id.org/rtskg/ontology/dataproperty/geometry> <http://www.w3.org/2000/01/rdf-schema#label> "geometry" .
+# 
+# https://w3id.org/rtskg/ontology/dataproperty/walking_time_minutes
+<https://w3id.org/rtskg/ontology/dataproperty/walking_time_minutes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/rtskg/ontology/dataproperty/walking_time_minutes> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/rtskg/ontology/class/station_area> .
+<https://w3id.org/rtskg/ontology/dataproperty/walking_time_minutes> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/rtskg/ontology/dataproperty/walking_time_minutes> <http://www.w3.org/2000/01/rdf-schema#comment> "The walking time, in minutes, used to construct the station area as the region reachable from a station within this time (e.g., 5 or 10 minutes)."@en .
+<https://w3id.org/rtskg/ontology/dataproperty/walking_time_minutes> <http://www.w3.org/2000/01/rdf-schema#label> "walking_time_minutes" .
+# 
+# 
+# 
+# #################################################################
+# #
+# #    Classes
+# #
+# #################################################################
+# 
+# 
+# http://www.opengis.net/ont/geosparql#Feature
+# 
+# http://www.w3.org/2004/02/skos/core#Concept
+<http://www.w3.org/2004/02/skos/core#Concept> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+# 
+# https://w3id.org/rtskg/ontology/class/block
+<https://w3id.org/rtskg/ontology/class/block> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/rtskg/ontology/class/block> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.opengis.net/ont/geosparql#Feature> .
+<https://w3id.org/rtskg/ontology/class/block> <http://www.w3.org/2000/01/rdf-schema#comment> "The urban block, which is a fine-grained spatial unit that constitutes the fundamental element of the physical structure of urban areas."@en .
+<https://w3id.org/rtskg/ontology/class/block> <http://www.w3.org/2000/01/rdf-schema#label> "Block" .
+# 
+# https://w3id.org/rtskg/ontology/class/borough
+<https://w3id.org/rtskg/ontology/class/borough> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/rtskg/ontology/class/borough> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.opengis.net/ont/geosparql#Feature> .
+<https://w3id.org/rtskg/ontology/class/borough> <http://www.w3.org/2000/01/rdf-schema#comment> "An administrative borough describing high-level administrative boundaries of a city."@en .
+<https://w3id.org/rtskg/ontology/class/borough> <http://www.w3.org/2000/01/rdf-schema#label> "Borough" .
+# 
+# https://w3id.org/rtskg/ontology/class/functional_area
+<https://w3id.org/rtskg/ontology/class/functional_area> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/rtskg/ontology/class/functional_area> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.opengis.net/ont/geosparql#Feature> .
+<https://w3id.org/rtskg/ontology/class/functional_area> <http://www.w3.org/2000/01/rdf-schema#comment> "A functional area representing the subdivision of a city according to its function (e.g., residential areas)."@en .
+<https://w3id.org/rtskg/ontology/class/functional_area> <http://www.w3.org/2000/01/rdf-schema#label> "Functional Area" .
+# 
+# https://w3id.org/rtskg/ontology/class/line
+<https://w3id.org/rtskg/ontology/class/line> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/rtskg/ontology/class/line> <http://www.w3.org/2000/01/rdf-schema#comment> "The rail transit line, which is a sequence of connected stations."@en .
+<https://w3id.org/rtskg/ontology/class/line> <http://www.w3.org/2000/01/rdf-schema#label> "Line" .
+<https://w3id.org/rtskg/ontology/class/line> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://vocab.gtfs.org/terms#Route> .
+<https://w3id.org/rtskg/ontology/class/line> <http://www.w3.org/2004/02/skos/core#altLabel> "Rail Transit Line"@en .
+# 
+# https://w3id.org/rtskg/ontology/class/poi
+<https://w3id.org/rtskg/ontology/class/poi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/rtskg/ontology/class/poi> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.opengis.net/ont/geosparql#Feature> .
+<https://w3id.org/rtskg/ontology/class/poi> <http://www.w3.org/2000/01/rdf-schema#comment> "A point of interest (POI), which represents the basic functional units in a city."@en .
+<https://w3id.org/rtskg/ontology/class/poi> <http://www.w3.org/2000/01/rdf-schema#label> "POI" .
+<https://w3id.org/rtskg/ontology/class/poi> <http://www.w3.org/2004/02/skos/core#altLabel> "Point of Interest"@en .
+# 
+# https://w3id.org/rtskg/ontology/class/poi_category
+<https://w3id.org/rtskg/ontology/class/poi_category> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/rtskg/ontology/class/poi_category> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/rtskg/ontology/class/poi_category> <http://www.w3.org/2000/01/rdf-schema#comment> "The category of a POI, which characterizes the function of the POI."@en .
+<https://w3id.org/rtskg/ontology/class/poi_category> <http://www.w3.org/2000/01/rdf-schema#label> "POI Category" .
+<https://w3id.org/rtskg/ontology/class/poi_category> <http://www.w3.org/2004/02/skos/core#altLabel> "Point of Interest Category"@en .
+# 
+# https://w3id.org/rtskg/ontology/class/road
+<https://w3id.org/rtskg/ontology/class/road> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/rtskg/ontology/class/road> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.opengis.net/ont/geosparql#Feature> .
+<https://w3id.org/rtskg/ontology/class/road> <http://www.w3.org/2000/01/rdf-schema#comment> "The road segment in a city."@en .
+<https://w3id.org/rtskg/ontology/class/road> <http://www.w3.org/2000/01/rdf-schema#label> "Road" .
+<https://w3id.org/rtskg/ontology/class/road> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://linkedgeodata.org/ontology/HighwayThing> .
+# 
+# https://w3id.org/rtskg/ontology/class/road_category
+<https://w3id.org/rtskg/ontology/class/road_category> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/rtskg/ontology/class/road_category> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/rtskg/ontology/class/road_category> <http://www.w3.org/2000/01/rdf-schema#comment> "The category determined by the hierarchy or function of the road."@en .
+<https://w3id.org/rtskg/ontology/class/road_category> <http://www.w3.org/2000/01/rdf-schema#label> "Road Category" .
+# 
+# https://w3id.org/rtskg/ontology/class/station
+<https://w3id.org/rtskg/ontology/class/station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/rtskg/ontology/class/station> <http://www.w3.org/2000/01/rdf-schema#comment> "The rail transit station, which serves as a transport hub for passengers to board or alight from the rail transit vehicles like subway train."@en .
+<https://w3id.org/rtskg/ontology/class/station> <http://www.w3.org/2000/01/rdf-schema#label> "Station" .
+<https://w3id.org/rtskg/ontology/class/station> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://linkedgeodata.org/ontology/RailwayStation> .
+<https://w3id.org/rtskg/ontology/class/station> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://vocab.gtfs.org/terms#Station> .
+<https://w3id.org/rtskg/ontology/class/station> <http://www.w3.org/2004/02/skos/core#altLabel> "Rail Transit Station"@en .
+# 
+# https://w3id.org/rtskg/ontology/class/station_area
+<https://w3id.org/rtskg/ontology/class/station_area> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/rtskg/ontology/class/station_area> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.opengis.net/ont/geosparql#Feature> .
+<https://w3id.org/rtskg/ontology/class/station_area> <http://www.w3.org/2000/01/rdf-schema#comment> "The region accessible from a rail transit station within a specified walking time."@en .
+<https://w3id.org/rtskg/ontology/class/station_area> <http://www.w3.org/2000/01/rdf-schema#label> "Station Area" .
+# 
+# Generated by the OWL API (version 5.1.18) https://github.com/owlcs/owlapi/
